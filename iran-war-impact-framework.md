@@ -1,6 +1,6 @@
 # Iran War Economic Impact Framework
 *Framework version: 1.0 — Created 2026-03-26*
-*Last updated by daily agent: 2026-03-26*
+*Last updated by daily agent: 2026-03-28*
 
 > **How to use this document:** Load this file into a Claude conversation and ask any question — by sector, geography, scenario, or indicator. Example prompts at the bottom. The Daily Briefing at the top is refreshed each morning by a scheduled agent.
 
@@ -8,58 +8,53 @@
 
 ## Daily Briefing — 2026-03-28
 
-**Overall situation:** War in its 29th day. Iran formally rejected the US 15-point peace proposal and issued its own 5-point counter-offer (war reparations + Hormuz sovereignty + Lebanon inclusion). Trump extended his energy infrastructure strike pause to April 6. Critically: Iran struck Qatar (a key US partner and host of Al-Udeid Air Base); Qatar shot down two Iranian Su-24 bombers — a major escalation beyond the Iran-US-Israel triangle. Israel killed the IRGC Navy chief and struck Iran's submarine design facility. The Pentagon is reportedly weighing up to 10,000 additional ground troops and a possible Kharg Island operation. The Strait remains effectively closed under Iran's "Tehran Toll Booth" selective transit regime (<10/day vs. 120 pre-war).
+**Overall situation:** War enters its second month (day 28) with two critical escalations confirmed today: the Houthis fired a ballistic missile at Israel — their first attack since the war began, formally activating the Bab al-Mandab as a potential second shipping chokepoint — and Iran wounded 10 US troops at Prince Sultan Air Base in Saudi Arabia, expanding direct combat to a fourth sovereign state. Brent crude closed at $112.57/bbl (+56% since war start) with WTI briefly touching $100 intraday. VIX spiked to 31+ as equities fell for their sixth consecutive week. Diplomatic channels remain open but strained; Trump's April 6 energy-strike deadline is now the most consequential date on the calendar.
 
 **Scenario probability update (vs. yesterday):**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 25% | ↓ from 30% (Iran rejected US plan; Qatar attack; ground operation being weighed) |
-| S2: Partial Hormuz disruption | 42% | ↓ slightly (conflict widening beyond Hormuz management; April 6 deadline the key hinge) |
-| S3: Regional war / full proxy activation | 25% | ↑ from 20% (Iran struck Qatar; 10,000-troop deployment considered; Kharg Island ground op possible; Houthis signaling re-entry) |
-| S4: Nuclear dimension | 5% | → |
-| S5: Great power entanglement | 10% | → from 10% (Russia intelligence-sharing confirmed; China vessel struck; Qatar attack raises risk of US partner escalation dynamics) |
+| S1: Limited/air campaign baseline | 20% | ↓ from 25% (Houthis confirmed in war; Saudi/Kuwait/Oman attacks widen front; entering 2nd month hardens positions on both sides) |
+| S2: Partial Hormuz disruption | 40% | ↓ from 42% (Hormuz still restricted; Houthi entry adds Bab al-Mandab threat; COSCO ships turned back despite Iran assurances — Toll Booth credibility collapsing) |
+| S3: Regional war / full proxy activation | 30% | ↑ from 25% (Houthis confirmed entry; Iran striking Saudi Arabia, Kuwait, Oman; US troops wounded on Saudi soil; Israel struck heavy water reactor) |
+| S4: Nuclear dimension | 6% | ↑ from 5% (Israel confirmed strike on heavy water reactor in Isfahan — nuclear infrastructure targeting now undeniable) |
+| S5: Great power entanglement | 10% | → (Putin congratulated Iran's new Supreme Leader Mojtaba; Russia reaffirmed bilateral relationship; China COSCO ships turned back despite "safe passage" — Beijing's credibility with Tehran under strain) |
 
 **Key indicator readings today:**
 | Indicator | Value | vs. 30 days ago | Alert? |
 |-----------|-------|-----------------|--------|
-| Brent crude | ~$107–113/bbl | +$35–41 (+49–57%) | 🔴 HIGH |
-| US gas price (avg) | $3.98–$4.10/gal | +$1.00+ (+33–35%) | 🔴 HIGH |
-| Hormuz transits/day | <10 (vs. 110 pre-war) | −91% | 🔴 HIGH |
-| War-risk insurance | 0.2–0.4% + $2M toll (toll-booth users) | +60–220%+ | 🔴 HIGH |
-| Urea (fertilizer) | ~$680/mt | +$220 (+48%) | 🔴 HIGH |
-| S&P 500 | ~6,370–6,450 | −7% since war start (5th straight weekly loss) | 🟡 ELEVATED |
-| VIX | 29.35 | +96% vs. pre-war ~15 | 🟡 ELEVATED |
-| USD DXY | ~100 | −4% vs. pre-war ~104 ⚠️ WEAKENED, not strengthened | 🟡 NOTE: Safe-haven USD thesis not materializing |
+| Brent crude | $112.57/bbl (+4.22% today; WTI briefly $100) | +$40.57 (+56%) | 🔴 HIGH |
+| US gas price (avg) | ~$4.00–4.10/gal | +$1.00+ (+33%) | 🔴 HIGH |
+| Hormuz transits/day | <10 (COSCO ships turned back despite "allowed" status) | −91% | 🔴 HIGH |
+| War-risk insurance | 3.5–10% of vessel value (per McGill & Partners) | +2,700–7,900% vs. pre-war fraction of a % | 🔴 EXTREME |
+| Urea (fertilizer) | ~$700/mt | +$240 (+52%) | 🔴 HIGH |
+| S&P 500 | ~6,369 (−1.67% today; Nasdaq −2.15%) | −7.5% since war start (6th consecutive weekly loss) | 🟡 ELEVATED |
+| VIX | 31.05 (+13.2% today) | +107% vs. pre-war ~15 | 🔴 HIGH (approaching key 35 threshold) |
+| USD DXY | ~100 (+0.27%) | −4% vs. pre-war ~104 ⚠️ WEAKENED, not strengthened | 🟡 NOTE: Safe-haven USD thesis still not materializing |
 
 **Key developments today:**
-- ⚠️ **ESCALATION: Iran struck Qatar** — Iran attempted to hit Doha's airport; Qatar shot down two Iranian Su-24 bombers. Qatar hosts Al-Udeid Air Base (largest US military base in Middle East). Conflict has now spread beyond Iran-US-Israel triangle to a third sovereign state.
-- Iran formally rejected US 15-point ceasefire proposal; FM Araghchi: "We have not engaged in talks to end the war and we do not plan on any negotiations." Iran calls Trump "deceitful"; issued own 5-point counter-plan (reparations + Hormuz sovereignty + Lebanon in any deal)
-- Trump extended pause on Iranian energy site strikes to April 6 via Truth Social post; hours later said "I don't care" about reaching a deal — diplomacy window extremely strained
-- **Israel killed IRGC Navy chief Alireza Tangsiri** in an overnight strike; also struck Iran's submarine design facility in Isfahan (described as Iran's "only facility for submarine design")
-- Israel "speeding up targeting in Iran over next 48 hours" — focusing on arms factories before any potential ceasefire
-- **Pentagon weighing up to 10,000 additional ground troops** to Middle East (WSJ); Trump considering large-scale ground operation with **Kharg Island** named as potential objective — this would be a major escalation beyond air campaign
-- Iran's "Tehran Toll Booth" formalized: IRGC restricting Hormuz passage to China, Russia, India, Iraq, Pakistan, Malaysia, Thailand; UN reports 20,000 seafarers stranded; only ~24 ships used toll route (at ~$2M/transit); one China-owned vessel struck by shrapnel despite "allowed" status
-- Two Houthi leaders told AP they are "considering" resuming Red Sea shipping attacks — May 2025 Trump ceasefire deal now under review; Houthis now manufacture significant drones/missiles domestically, less Iran-dependent
-- US strike on Habbaniya military base killed 7 Iraqi Armed Forces soldiers; Iraqi PM al-Sudani summoned US chargé d'affaires — risk of Iraqi government break with US
-- Lebanon government banned Hezbollah military activities; Abu Ali al-Askari (Kataib Hezbollah commander) killed March 14; 60+ PMF fighters killed; proxy network degraded but still active
-- Russia: confirmed providing satellite imagery/intelligence on US naval positions to Iran; Trump separately lifted some sanctions on Russian oil/gas following Putin call — Russia as strategic beneficiary deepening
-- G-7 foreign ministers met France March 26; Rubio coordinating Iran + Ukraine response
-- Goldman Sachs: US recession probability 30%; EY-Parthenon: 40%; PNC: >50% if oil hits $150; OECD: global inflation rising to 4%
-- University of Michigan consumer sentiment: 53.3 (lowest since December, −6% MoM); markets pricing ~50% chance of Fed rate HIKE by December
-- QatarEnergy halted downstream urea production; Fitch raised 2026 ammonia/urea price expectations ~25%; fertilizer plants in India, Bangladesh, Pakistan halting production due to gas input costs; WFP warns 45 million additional people face acute food insecurity
-- ECB postponed planned rate cuts; warned Germany/Italy face technical recession by end-2026
+- 🚨 **ESCALATION: Houthis confirm first ballistic missile attack on Israel** — Yemen fired a ballistic missile toward Israeli territory (intercepted near Beersheba); Houthis said they will continue attacking until US-Israeli strikes on Iran and Hezbollah stop. This is a reversal of their earlier stance and activates the Bab al-Mandab/Red Sea as a potential second global shipping chokepoint alongside Hormuz
+- 🚨 **10 US service members wounded at Prince Sultan Air Base (Saudi Arabia)** — Iranian attack injured 10 troops (at least 2 with shrapnel wounds) and damaged a refueler tanker aircraft. Iran has now directly struck US forces inside Saudi Arabia — the fourth sovereign state in the conflict (after Israel, Qatar, Saudi) and home to major US air assets
+- Iran struck Kuwait International Airport (drone damaged radar system; Kuwait National Guard downed 6 drones) and an Oman port (two UAVs); Bahrain civil defense extinguished facility fire — Iran now striking across the entire Gulf rim
+- **Chinese COSCO container ships turned back** at Hormuz despite Iran's formal "safe passage" assurances for Chinese vessels — the Tehran Toll Booth regime's reliability is collapsing in real-time; China faces credibility problem with its own shipping industry
+- **Israel struck a heavy water reactor in Iran** (Isfahan) — confirmed nuclear infrastructure targeting; Israel says it is part of Iran's nuclear enrichment program; S4 risk can no longer be dismissed
+- Trump extended energy site strike pause to April 6; says talks going "very well" but Iran rejected US plan and called Trump "deceitful" — Iran's 5-point counter-proposal (reparations + Hormuz sovereignty + Lebanon) viewed as non-starter in Washington; Pakistan relaying messages, Turkey/Egypt mediating
+- **War enters its second month** with hardline succession locked in: Putin congratulated Iran's new Supreme Leader Mojtaba (IRGC-era; appointed post-Khamenei assassination); Russia reaffirmed bilateral relationship — hardline leadership + Russian backing reduces probability of rapid ceasefire
+- Brent crude closed at $112.57/bbl (+4.22%); WTI briefly above $100 intraday (first since 2023); Goldman Sachs estimates $14–18/bbl geopolitical risk premium still embedded in prices
+- S&P 500 fell 1.67%; Dow −1.73%; Nasdaq −2.15%; 6th consecutive weekly loss; VIX spiked to 31.05 (up from 29.35) — approaching the 35 threshold historically associated with financial system stress
+- Markets pricing ~50% chance Fed HIKES by December; OECD revised: US inflation 4.2%, EU 2.6–4.4%, UK to breach 5% — OECD attributes 1.2pp of global inflation directly to this war
+- Spring planting season now at acute risk: WFP warns 45 million additional people face acute food insecurity; Indian, Bangladeshi, Pakistani fertilizer plants halting production; urea up 77% since mid-December 2025
 
-**Upgraded risks:** S3 (Regional war) upgraded to 25% from 20%: Iran-Qatar attack is a qualitative escalation — conflict now involves a third sovereign state and threatens US base infrastructure. T2-01 (Global Recession) upgraded 40%→45%: GS/EY-Parthenon/OECD all revised upward; Fed hike risk re-priced; 5th consecutive weekly equity loss. T2-02 (Fertilizer/Food) upgraded 70%→78%: QatarEnergy halt + Fitch 25% price revision + South Asian plant shutdowns + 45M WFP food insecurity estimate.
+**Upgraded risks:** T1-06 (Proxy Escalation) upgraded 68%→75%: Houthis confirmed entry reverses "degraded proxy" narrative — full proxy network (Hezbollah, Iraqi PMF, Houthis) now operationally active simultaneously; Bab al-Mandab activated as second chokepoint threat. S3 (Regional war) further upgraded to 30% from 25%: Houthi confirmation + US Saudi casualties + Kuwait/Oman attacks + heavy water reactor strike represent qualitative widening of conflict scope.
 
-**Downgraded risks:** T1-04 (USD Safe-Haven Strengthening) downgraded 85%→60%: DXY at ~100, BELOW pre-war baseline of ~104 — safe-haven thesis not materializing; fiscal/inflation concerns dominate. T1-06 (Hezbollah/Proxy Escalation) downgraded 75%→68%: Lebanon ban on Hezbollah; Iraqi militia degraded; proxy network more fragmented than anticipated (though note: direct Iran state action on Qatar partially compensates for proxy degradation).
+**Downgraded risks:** None materially downgraded today. All vectors worsening as war enters second month with hardened positions on both sides and diplomatic credibility under stress.
 
 **New precursor events to watch:**
-- **April 6 deadline**: Trump's stated date to resume energy infrastructure strikes — go/no-go for S2→S3 escalation; most critical date on calendar
-- **Qatar fallout**: Will Qatar formally request US Article 5-equivalent protection? Will other Gulf states (Saudi, UAE) treat the Qatar attack as a red line? Response could rapidly draw in additional state actors
-- **Kharg Island decision**: If US proceeds with ground operation on Kharg (Iran's primary oil export terminal), S2→S3 transition is near-certain; oil price would spike to $150+
-- **Houthi decision point**: Re-entry into Red Sea attacks would spike war-risk insurance; watch for first confirmed post-ceasefire attack
-- **China vessel incident escalation**: One China-owned ship struck by shrapnel in "allowed" transit — diplomatic incident could shift China from economic to active role (S5 trigger)
-- **Fed March/April FOMC language**: If hike cycle pricing firms up, recession risk becomes self-fulfilling through credit tightening
+- **Bab al-Mandab activation**: Houthi entry means Red Sea shipping attacks could resume — watch for first confirmed post-ceasefire Houthi strike on commercial vessels (would activate second global chokepoint simultaneously with Hormuz; shipping costs and VIX would spike hard)
+- **Saudi escalation decision**: Iran directly wounded US troops on Saudi soil — will Saudi Arabia formally enter the conflict or escalate at UN/Arab League level? Saudi response could rapidly draw additional state actors in
+- **Kuwait/Oman UN Article 51 claims**: Two neutral Gulf states attacked — broader diplomatic coalition against Iran possible; or alternatively, could accelerate neutralist pressure for ceasefire
+- **April 6 deadline**: Trump's date to resume energy infrastructure strikes — still the single most important calendar event; last clear pivot point before S2→S3 transition
+- **COSCO incident escalation**: China's "safe passage" ships turned back — Beijing may need to make a public statement or private demand to Tehran; watch for China shifting from bystander to active pressure actor
+- **VIX > 35 threshold**: VIX at 31 and rising — another escalation event (e.g., confirmed Houthi Red Sea strike, Saudi formal entry, Kharg Island operation) could push through 35, historically a circuit-breaker level with financial contagion risk
 
 ---
 
@@ -245,10 +240,10 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T1-06: Hezbollah / Proxy Escalation (Active Threat)
-**Likelihood:** 68% (sustained engagement) | **Trend:** ↓ (Lebanon government banned Hezbollah military activities; Abu Ali al-Askari killed; Iraqi militia degraded — proxy network more fragmented than anticipated) | **Horizon:** Linked to conflict duration
+**Likelihood:** 75% (full proxy network activated) | **Trend:** ↑ (Houthis confirmed entry March 28 — fired ballistic missile at Israel, reversing earlier stance; Bab al-Mandab now threatened as second chokepoint; proxy network broader than anticipated) | **Horizon:** Linked to conflict duration
 **Sectors:** Defense, Energy, Tourism, EM stability | **Geographies:** Lebanon, Israel, Iraq, Yemen, Syria
 
-**Current state:** Hezbollah escalated March 2 with coordinated rocket/drone barrage — now treated as active party. Iraqi militias attacking US bases (March 11+). Proxy network degrading but still operationally active.
+**Current state:** Hezbollah escalated March 2 with coordinated rocket/drone barrage. Iraqi militias conducting 16+ operations/day against US forces. **Houthis confirmed entry March 28** — fired ballistic missile toward Israel, threatening Bab al-Mandab as second global shipping chokepoint. Full proxy network (Hezbollah, Iraqi PMF, Houthis) now operationally active simultaneously.
 
 **Key Indicators:**
 1. IDF daily incident report (northern border vs. Lebanon)
@@ -762,7 +757,8 @@ Load this document into Claude and ask:
 | Date | Updated by | Key changes |
 |------|------------|-------------|
 | 2026-03-26 | Initial creation | Full framework built from web research; scenario probabilities set to reflect Hormuz disruption as active scenario (S2 = 45%) |
-| 2026-03-28 | Daily agent | Iran attacked Qatar (2 Iranian bombers shot down); IRGC Navy chief Tangsiri killed; Pentagon weighs 10,000 troops + Kharg Island ground op; Iran rejected US 15-point plan; Tehran Toll Booth formalized; April 6 energy-strike deadline; S3 ↑25%; T1-04 ↓60%; T1-06 ↓68%; T2-01 ↑45%; T2-02 ↑78% |
+| 2026-03-28 | Daily agent (run 1) | Iran attacked Qatar (2 Iranian bombers shot down); IRGC Navy chief Tangsiri killed; Pentagon weighs 10,000 troops + Kharg Island ground op; Iran rejected US 15-point plan; Tehran Toll Booth formalized; April 6 energy-strike deadline; S3 ↑25%; T1-04 ↓60%; T1-06 ↓68%; T2-01 ↑45%; T2-02 ↑78% |
+| 2026-03-28 | Daily agent (run 2) | Houthis confirmed ballistic missile attack on Israel (entered war); 10 US troops wounded at Saudi Prince Sultan Air Base; Iran struck Kuwait airport + Oman; COSCO ships turned back at Hormuz; Israel struck heavy water reactor; Brent $112.57 (+4.2%); WTI briefly $100; VIX 31.05 (🔴); S3 ↑30%; S4 ↑6%; T1-06 ↑75% |
 
 ---
 
