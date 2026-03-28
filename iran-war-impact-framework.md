@@ -6,51 +6,57 @@
 
 ---
 
-## Daily Briefing — 2026-03-26
+## Daily Briefing — 2026-03-28
 
-**Overall situation:** War entered its 27th day. US military campaign to reopen the Strait of Hormuz is ongoing (launched March 19). Iran has signaled willingness to allow *some* limited passage but rejected the US formal proposal. Peace negotiations proceeding through intermediaries — outcome highly uncertain.
+**Overall situation:** War in its 29th day. Iran formally rejected the US 15-point peace proposal and issued a 5-point counter-offer including demands for war reparations and Iranian sovereignty over Hormuz. Trump extended his pause on Iranian energy infrastructure strikes by 10 days to April 6. The Strait remains effectively closed under Iran's selective "Tehran Toll Booth" regime — fewer than 10 transits/day vs. 110 pre-war — with passage now explicitly restricted to vessels from China, Russia, India, Iraq, Pakistan, Malaysia, and Thailand.
 
 **Scenario probability update (vs. yesterday):**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 30% | ↓ from 55% (Hormuz partially closed, conflict broader than originally anticipated) |
-| S2: Partial Hormuz disruption (current) | 45% | ↑ — this is effectively the active scenario |
-| S3: Regional war / full proxy activation | 20% | → |
-| S4: Nuclear dimension | 5% | ↓ (Khamenei dead, nuclear program leadership disrupted) |
-| S5: Great power entanglement | 10% | → (Russia intelligence-sharing with Iran; China staying non-military) |
+| S1: Limited/air campaign baseline | 27% | ↓ from 30% (Iran flat rejection of US 15-point plan; no ceasefire track viable near-term) |
+| S2: Partial Hormuz disruption | 45% | → (toll booth = textbook S2; April 6 deadline preserves this window) |
+| S3: Regional war / full proxy activation | 22% | ↑ from 20% (Houthis signaling re-entry; Israel accelerating targeting; 82nd Airborne deployment) |
+| S4: Nuclear dimension | 5% | → |
+| S5: Great power entanglement | 8% | ↓ from 10% (Russia/China no material military support confirmed; both structurally constrained) |
 
 **Key indicator readings today:**
 | Indicator | Value | vs. 30 days ago | Alert? |
 |-----------|-------|-----------------|--------|
-| Brent crude | ~$110/bbl | +$38 (+53%) | 🔴 HIGH |
-| US gas price (avg) | $3.98/gal | +$0.99 (+33%) | 🔴 HIGH |
-| Strait of Hormuz tanker transits/day | ~3 (vs. 100+ pre-war) | −97% | 🔴 HIGH |
-| War-risk insurance premium | 0.2–0.4% per transit | +60–220% | 🔴 HIGH |
-| Urea (fertilizer) price | ~$700/mt | +$250 (+54%) | 🔴 HIGH |
-| S&P 500 | ↓ ~5–8% since war start | | 🟡 ELEVATED |
-| VIX | Elevated | Heightened | 🟡 ELEVATED |
-| USD DXY | Strengthening | Safe-haven flows | 🟡 ELEVATED |
+| Brent crude | ~$107–113/bbl | +$35–41 (+49–57%) | 🔴 HIGH |
+| US gas price (avg) | $3.98–$4.10/gal | +$1.00+ (+33–35%) | 🔴 HIGH |
+| Hormuz transits/day | <10 (vs. 110 pre-war) | −91% | 🔴 HIGH |
+| War-risk insurance | 0.2–0.4% + $2M toll (toll-booth users) | +60–220%+ | 🔴 HIGH |
+| Urea (fertilizer) | ~$680/mt | +$220 (+48%) | 🔴 HIGH |
+| S&P 500 | ~6,370–6,450 | −7% since war start (5th straight weekly loss) | 🟡 ELEVATED |
+| VIX | 29.35 | +96% vs. pre-war ~15 | 🟡 ELEVATED |
+| USD DXY | ~100 | −4% vs. pre-war ~104 ⚠️ WEAKENED, not strengthened | 🟡 NOTE: Safe-haven USD thesis not materializing |
 
 **Key developments today:**
-- Trump confirmed negotiations ongoing through intermediaries; Iran rejected formal US proposal
-- Iran says it will allow "some limited" Hormuz passage — ambiguous, markets seesawing
-- Russia confirmed providing satellite imagery of US naval positions to Iran
-- China restricted urea exports to protect domestic agriculture amid global price surge
-- Iraqi militia (Saraya Awliya al-Dam) claimed 4 operations against US bases in past 24h
-- Hezbollah active — treating it as active party to conflict per US/Israeli officials
+- Iran formally rejected US 15-point ceasefire proposal; FM Araghchi: "We have not engaged in talks to end the war and we do not plan on any negotiations." Iran calls Trump "deceitful" and issued own 5-point counter-plan (reparations + Hormuz sovereignty + Lebanon in any deal)
+- Trump extended pause on Iranian energy site strikes to April 6 via Truth Social post; diplomacy window technically open but extremely strained
+- Iran's "Tehran Toll Booth" formalized: IRGC now explicitly restricting Hormuz passage to China, Russia, India, Iraq, Pakistan, Malaysia, Thailand; ~2,000 vessels stranded in adjacent waters; only ~24 ships have used the toll route (at ~$2M/transit); one China-owned vessel struck by shrapnel despite "allowed" status
+- Israel "speeding up targeting in Iran over next 48 hours" (source briefed on operations) — focusing on arms factories before any potential ceasefire
+- ~1,000 troops from 82nd Airborne Division deploying to Middle East
+- Two Houthi leaders told AP they are "considering" resuming Red Sea shipping attacks — May 2025 Trump ceasefire deal now under review
+- Senior Kataib Hezbollah commander Abu Ali al-Askari killed in Baghdad strike (March 14); 60+ PMF fighters killed since Feb 28; Iraqi militia operational capacity degraded
+- Lebanon government banned Hezbollah military activities, ordered security forces to prevent attacks from Lebanese soil — Hezbollah significantly more constrained than at conflict start
+- Russia/China: rhetorical solidarity only; Putin publicly silent; China providing limited spare parts only; both protecting economic interests (Ukraine overstretch for Russia; Gulf state relationships for China)
+- G-7 foreign ministers met France March 26; Rubio coordinating Iran + Ukraine response
+- Goldman Sachs: US recession probability 30%; EY-Parthenon: 40%; PNC: >50% if oil hits $150; OECD: global inflation rising to 4%
+- University of Michigan consumer sentiment: 53.3 (lowest since December, −6% MoM); markets now pricing ~50% chance of Fed rate HIKE by December — sharp reversal from prior cut expectations
+- QatarEnergy halted downstream urea production, deepening global fertilizer supply shock
+- ECB postponed planned rate cuts; warned Germany/Italy face technical recession by end-2026
 
-**Upgraded risks since yesterday:**
-- Recession probability: elevated as oil-driven inflation complicates Fed rate path
-- Fertilizer/food inflation: accelerating faster than anticipated
-- Russian war budget stabilized by oil windfall — Ukraine war prolongation risk now higher
+**Upgraded risks:** T2-01 (Global Recession) upgraded 40%→45%: GS, EY-Parthenon, OECD all revised upward; Fed hike risk re-priced; 5th consecutive weekly equity loss. T2-02 (Fertilizer/Food) upgraded 70%→78%: QatarEnergy urea halt + China export restrictions compounding supply shock into planting season.
 
-**Downgraded risks:**
-- S4 (nuclear dimension): Khamenei death disrupts Iranian nuclear command authority — lowers immediate risk
+**Downgraded risks:** T1-04 (USD Safe-Haven Strengthening) downgraded 85%→60%: DXY at ~100, BELOW pre-war baseline of ~104; fiscal expansion/inflation concerns dominating over safe-haven flows — the core thesis has not materialized. T1-06 (Hezbollah/Proxy Escalation) downgraded 75%→68%: Lebanon government ban on Hezbollah military operations; Abu Ali al-Askari killed; proxy network more fragmented than anticipated.
 
 **New precursor events to watch:**
-- Iran's precise definition of "limited" Hormuz passage — if vessels rejected, S2→S3 escalation
-- Congressional vote on emergency DoD supplemental
-- China's position on UNSC ceasefire resolution (blocking vote would signal deeper alignment with Russia)
+- **April 6 deadline**: Trump's stated date to resume energy infrastructure strikes — go/no-go for S2→S3 escalation; most critical date on the calendar
+- **Houthi decision point**: Re-entry into Red Sea attacks would spike war-risk insurance and shipping disruption further; watch for first confirmed attack
+- **China vessel incident escalation**: One China-owned ship already struck by shrapnel in "allowed" transit — diplomatic incident could pull China closer to active role (S5 trigger)
+- **Iran's urea/fertilizer shock timing**: Hormuz closure extending into April–May planting season locks in harvest-cycle food security damage
+- **Fed March/April FOMC language**: If hike cycle pricing firms up, recession risk becomes self-fulfilling through credit tightening
 
 ---
 
@@ -189,7 +195,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T1-04: USD Safe-Haven Strengthening
-**Likelihood:** 85% | **Trend:** → (already occurred, stabilizing) | **Horizon:** Persists through elevated uncertainty
+**Likelihood:** 60% | **Trend:** ↓ (DXY at ~100, BELOW pre-war baseline of ~104 — safe-haven thesis not materializing; US fiscal expansion and inflation concerns dominating) | **Horizon:** Uncertain; watch Fed rate path
 **Sectors:** Financials, Export-oriented industries | **Geographies:** EM currencies hardest hit
 
 **Key Indicators:**
@@ -235,7 +241,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T1-06: Hezbollah / Proxy Escalation (Active Threat)
-**Likelihood:** 75% (sustained engagement) | **Trend:** ↑ | **Horizon:** Linked to conflict duration
+**Likelihood:** 68% (sustained engagement) | **Trend:** ↓ (Lebanon government banned Hezbollah military activities; Abu Ali al-Askari killed; Iraqi militia degraded — proxy network more fragmented than anticipated) | **Horizon:** Linked to conflict duration
 **Sectors:** Defense, Energy, Tourism, EM stability | **Geographies:** Lebanon, Israel, Iraq, Yemen, Syria
 
 **Current state:** Hezbollah escalated March 2 with coordinated rocket/drone barrage — now treated as active party. Iraqi militias attacking US bases (March 11+). Proxy network degrading but still operationally active.
@@ -284,7 +290,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T2-01: Global Recession Risk
-**Likelihood:** 40% | **Trend:** ↑ | **Horizon:** 6–12 months if oil stays elevated
+**Likelihood:** 45% | **Trend:** ↑↑ | **Horizon:** 6–12 months if oil stays elevated (GS: 30%; EY-Parthenon: 40%; PNC: >50% at $150 oil; OECD: global inflation rising to 4%; Fed now pricing possible rate hike — 5th consecutive weekly equity loss)
 **Sectors:** All | **Geographies:** Global, worst in EU, South/Southeast Asia, Africa
 
 **Mechanism:** Oil-driven stagflation → central bank paralysis (can't cut without worsening inflation) → demand destruction → recession. Historically, every major oil shock since 1973 has been followed by recession.
@@ -314,7 +320,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T2-02: Fertilizer/Food Price Surge → Food Security Crisis
-**Likelihood:** 70% | **Trend:** ↑↑ | **Horizon:** 3–9 months (harvest cycle dependency)
+**Likelihood:** 78% | **Trend:** ↑↑ | **Horizon:** 3–9 months (harvest cycle dependency; QatarEnergy halted downstream urea production Mar 28; Hormuz closure now extending into critical Apr–May planting window)
 **Sectors:** Agriculture, Food Processing, EM Governments | **Geographies:** South Asia, Sub-Saharan Africa, MENA, Latin America
 
 **Current state:** ~27% of global oil, 20% LNG, 20–30% fertilizer (urea, ammonia, phosphate, sulfur) transit Hormuz. Urea prices: $400–490/mt → $700/mt (+54%). China restricted urea exports. Every 5% reduction in agricultural yield → food inflation.
@@ -752,6 +758,7 @@ Load this document into Claude and ask:
 | Date | Updated by | Key changes |
 |------|------------|-------------|
 | 2026-03-26 | Initial creation | Full framework built from web research; scenario probabilities set to reflect Hormuz disruption as active scenario (S2 = 45%) |
+| 2026-03-28 | Daily agent | Iran formally rejected US 15-point plan; Tehran Toll Booth formalized (selective passage by country); April 6 new energy-strike deadline; T1-04 downgraded 85→60% (DXY below pre-war); T1-06 downgraded 75→68% (Hezbollah/proxy degradation); T2-01 upgraded 40→45% (recession consensus rising); T2-02 upgraded 70→78% (QatarEnergy urea halt + planting season timing) |
 
 ---
 
