@@ -6,53 +6,54 @@
 
 ---
 
-## Daily Briefing — 2026-03-29
+## Daily Briefing — 2026-03-30
 
-**Overall situation:** Day 29: The U.S. struck the Habbaniya Iraqi Armed Forces base in Anbar Governorate, killing 7 Iraqi military personnel — the first confirmed US killing of Iraqi *government* soldiers (not just Iran-backed PMF), triggering a formal diplomatic protest from Baghdad and raising the risk of Iraqi state-level entry or forced US base expulsion. Diplomatically, ceasefire prospects receded further: Iran's FM formally called the US 15-point plan "extremely maximalist and unreasonable," Iran added a new condition requiring a Lebanon/Hezbollah ceasefire as part of any deal, and Israel confirmed it needs "several more weeks" to achieve its objectives. Brent crude Sunday futures pulled back to ~$105–106/bbl from Friday's $112.57 close; gold hit a record $4,524/oz (+2.62%) as the primary safe-haven of this conflict.
+**Overall situation:** Day 30: Brent crude gapped back above $113 on Monday open (now ~$114–115/bbl, +2.07% intraday), confirming market re-pricing of escalation rather than de-escalation after Sunday's brief pullback — precisely the signal yesterday's briefing flagged as an S3 confirmation. QatarEnergy declared **force majeure on all exports**, the most significant single energy supply event since the war began, pushing EU TTF gas to nearly €60/MWh (nearly doubled since the war started). Iran's new national security chief is IRGC hardliner Mohammad Bagher Zolghadr (appointed after Larijani was killed), signaling leadership consolidation around a continue-the-fight posture. The April 6 energy-strike deadline remains the single most consequential near-term calendar event.
 
 **Scenario probability update (vs. yesterday):**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 18% | ↓ from 20% (Iran added Lebanon ceasefire as new deal condition; Israel says several more weeks needed; ceasefire path substantially harder) |
-| S2: Partial Hormuz disruption | 40% | → (Hormuz status unchanged; Iran allowed limited humanitarian/fertilizer transits per March 27 UN agreement — minor positive but structurally unchanged) |
-| S3: Regional war / full proxy activation | 32% | ↑ from 30% (US killed 7 Iraqi Armed Forces at Habbaniya — first state-level confrontation with Iraq; Baghdad formally protested; Iraqi parliamentary pressure to revoke US base access now critical) |
+| S1: Limited/air campaign baseline | 17% | ↓ from 18% (Brent gap above $113 confirms escalation pricing; IRGC loyalist Zolghadr as new national security chief signals hardliner consolidation; QatarEnergy force majeure forecloses near-term energy normalization) |
+| S2: Partial Hormuz disruption | 42% | ↑ from 40% (QatarEnergy force majeure on ALL exports is a structural escalation; 95% Hormuz traffic collapse now confirmed by S&P Global data — 142 transits Mar 1–25 vs. 2,652 same period 2025; IRGC tollbooth for only 7 flag states) |
+| S3: Regional war / full proxy activation | 32% | → (Monday oil gap confirms S3 pricing; Iraqi parliament not yet voted on base expulsion; proxy network active but no new tactical escalation today) |
 | S4: Nuclear dimension | 6% | → (no new nuclear signals today) |
-| S5: Great power entanglement | 11% | ↑ from 10% (US-Iraq state confrontation creates new escalation vector; Iraqi base expulsion would destabilize entire CENTCOM posture in the Gulf) |
+| S5: Great power entanglement | 11% | → (Russia satellite imagery to Iran already priced; no new great-power escalation) |
 
 **Key indicator readings today:**
 | Indicator | Value | vs. 30 days ago | Alert? |
 |-----------|-------|-----------------|--------|
-| Brent crude | ~$105–106/bbl (Sunday futures; down from Friday close of $112.57) | +$33–40 (+46–56%) | 🔴 HIGH |
-| US gas price (avg) | ~$3.98–4.00/gal | +$1.00 (+33%) | 🔴 HIGH |
-| Hormuz transits/day | <10 (single digits; limited humanitarian exception per March 27 UN deal) | −91% | 🔴 HIGH |
+| Brent crude | ~$114–115/bbl (+2.07% intraday Monday) | +$42–43 (+58%) | 🔴 HIGH; on track for record monthly surge |
+| WTI crude | ~$101/bbl | +$33 (+48%) | 🔴 HIGH (crossed $100 again) |
+| US gas price (avg) | ~$3.98/gal; diesel $5.37/gal | +$0.97/gal gas (+32%); diesel up from $3.75 (+43%) | 🔴 HIGH |
+| Hormuz transits/day | <5 (142 total transits Mar 1–25, 95% collapse; 1 container, 0 tankers on Mar 25) | −95% | 🔴 EXTREME |
 | War-risk insurance | 3.5–10% of vessel value per transit | +2,700–7,900% vs. pre-war | 🔴 EXTREME |
+| EU TTF natural gas | ~€60/MWh (nearly doubled since war) | +~100% | 🔴 EXTREME — QatarEnergy force majeure |
 | Urea (fertilizer) | ~$700/mt | +$240 (+52%) | 🔴 HIGH |
-| S&P 500 | 6,368.85 (Friday close, −1.67%) | −7.5% since war start (6 consecutive weekly losses) | 🟡 ELEVATED |
-| VIX | 31.05 (Friday close) | +107% vs. pre-war ~15 | 🔴 HIGH |
-| USD DXY | ~100.19 (Friday close) | −4% vs. pre-war ~104 ⚠️ WEAKENED | 🟡 NOTE: Safe-haven USD thesis not materializing |
-| Gold | $4,524.30 (Friday close, +2.62%) | Record high; outperforming USD as safe haven | 🔴 EXTREME safe-haven demand |
+| S&P 500 | ~6,369 (last close Friday) | −7.5% since war start | 🟡 ELEVATED |
+| VIX | ~31.07 (early Monday) | +107% vs. pre-war ~15 | 🔴 HIGH (below 35 threshold) |
+| USD DXY | ~100.32 (+0.16% today) | −3.5% year-over-year; +1.97% past month | 🟡 NOTE: Slight safe-haven recovery but still below pre-war ~104 |
 
 **Key developments today:**
-- 🚨 **US strikes Habbaniya Iraqi Armed Forces base (Anbar Governorate)** — CENTCOM killed 7 Iraqi Armed Forces members and injured 13 in strikes targeting the base. This is the first confirmed US killing of Iraqi *government* military personnel (not just Iran-backed PMF). Iraqi PM Mohammed Shia' al-Sudani immediately summoned the US Embassy chargé d'affaires in formal protest — a qualitative escalation creating direct US-Iraq state-level confrontation; watch for Iraqi parliament emergency session on US base access
-- **Iran formally rejects US 15-point peace plan** — FM Abbas Araghchi: "extremely maximalist and unreasonable — not beautiful, even on paper." Iran has stated it has "no plans for direct negotiations." Iran now signals preference for VP JD Vance over envoys Witkoff/Kushner as a potential interlocutor
-- **Iran adds Lebanon/Hezbollah ceasefire as deal condition** — Iran formally requires any ceasefire to include a halt to hostilities on the Lebanon front, effectively giving Hezbollah veto power over any Iran deal; this substantially complicates April 6 deadline resolution
-- **Israel says "several more weeks" needed** to achieve war objectives; Israeli military confirmed completing "a wave of extensive strikes in Isfahan targeting infrastructure." No imminent end to Israeli strikes
-- **CENTCOM confirms 11,000+ targets struck in Iran** since Feb 28; 13 US service members killed total since war began; ~1,000 soldiers from the 82nd Airborne Division additionally deployed to the region
-- **Brent crude Sunday futures ~$105–106/bbl** — pullback from Friday's $112.57 close; cautious de-escalation signal possibly reflecting weekend positioning or marginal diplomatic progress; Goldman Sachs still warns Brent could exceed 2008 all-time high ($147/bbl) if conflict persists
-- **Gold at record $4,524.30/oz** (+2.62% Friday) — extreme safe-haven demand; gold overtaking USD as the primary crisis hedge, consistent with USD DXY holding at ~100 rather than strengthening
-- Iran agreed March 27 to allow **UN humanitarian and fertilizer shipments** through Hormuz — minor positive for food security; however, WFP still warns 45 million at acute food insecurity risk as Northern Hemisphere planting season begins
+- 🚨 **QatarEnergy declares force majeure on ALL exports** — The world's largest LNG exporter has halted all exports, citing inability to guarantee vessel safe passage through Hormuz. This is the single largest additional supply shock since the war began: Qatar supplies ~20% of global LNG, and this directly threatens EU winter gas storage replenishment. EU TTF gas has nearly doubled to ~€60/MWh. European energy crisis (T2-03) is no longer a tail risk — it is materializing.
+- 🚨 **Brent gaps back above $113 on Monday open** (~$114–115/bbl, +2.07%) — directly confirming yesterday's "S3 escalation pricing" signal. March 2026 is now tracking to be the **steepest monthly oil price surge in recorded history** (+55% month-to-date), surpassing September 1990's Gulf War record of +46%. EIA forecasts Brent stays above $95/bbl for at least two months.
+- **IRGC loyalist Mohammad Bagher Zolghadr appointed Iran's new National Security Council chief** — following Ali Larijani's death in an Israeli strike. Zolghadr is an IRGC hardliner with no diplomatic history; this appointment signals regime consolidation around a war-continuation posture and further narrows the ceasefire pathway.
+- **Iranian domestic protests continue calling for regime overthrow** — civilian anti-regime protests active since late 2025 escalating internally; notably, Iraqi PMF fighters have reportedly been deployed inside Iran to help suppress protests — a significant militarization of regime stability operations that deepens Iraqi militia entanglement.
+- **Baghdad refuses to arrest or condemn PMF factions** attacking US forces — Iraqi PM al-Sudani facing competing pressures: formal protest of US Habbaniya strike vs. inability/unwillingness to disavow Iran-aligned PMF. Iraqi parliamentary vote on US base access remains the critical watch item.
+- **US casualty count rising** — ~290 service members injured in combat (up from ~200 the prior week); 13 killed. 82nd Airborne deployment (~1,000 additional troops) proceeding as planned.
+- **Washington Post fertilizer crisis story (March 30)** — feature-length investigation confirming 30% of global fertilizer exports blocked; Ethiopia gets 90%+ of nitrogen fertilizer from Gulf via Djibouti; Somalia food prices already +20%; WFP warns 45 million more at acute food insecurity risk.
+- **Markets repricing Fed trajectory** — VIX holding ~31 (did not spike above 35 on Monday open); DXY inching up (+0.16%); Fed rate cut expectations fully reversed with markets now pricing ~50% chance of a rate hike by December 2026.
 
-**Upgraded risks:** S3 (Regional war) upgraded 30%→32%: US killing Iraqi government military personnel is a qualitative escalation distinct from killing PMF militia — PM al-Sudani faces domestic political pressure to revoke US basing rights, which would destabilize the entire CENTCOM Gulf posture. S5 (Great power entanglement) upgraded 10%→11%: Iraq state-level confrontation creates a new vector — an Iraqi parliament vote to expel US forces would force a US operational retreat not easily reversed.
+**Upgraded risks:** S2 (Partial Hormuz disruption) upgraded 40%→42%: QatarEnergy force majeure is a structural escalation — not a marginal tightening but the complete halt of the world's largest LNG exporter. T2-03 (European Energy Crisis) upgraded 45%→55%: EU TTF gas nearly doubled, QatarEnergy force majeure makes EU winter gas storage replenishment extremely difficult without dramatic rerouting or alternative supply; Germany/Italy recession probability increases materially.
 
-**Downgraded risks:** S1 (Limited air campaign) downgraded 20%→18%: Iran's new Lebanon ceasefire condition + Israel's "several more weeks" confirmation = near-term ceasefire path substantially narrower. Brent Sunday futures pullback to ~$105 is the sole modest positive signal but insufficient to change S2 or T1-01 materially.
+**Downgraded risks:** S1 (Limited air campaign) downgraded 18%→17%: Brent's Monday re-escalation + IRGC hardliner leadership appointment + QatarEnergy force majeure collectively close off the "rapid de-escalation" pathway further.
 
 **New precursor events to watch:**
-- **Iraqi parliamentary session on US base expulsion**: With 7 Iraqi Armed Forces killed, Iraqi parliament pressure to revoke US military basing rights reaches a new threshold — an expulsion vote would force CENTCOM to relocate critical assets, severely degrading US strike capability
-- **Iran-Vance back-channel**: Iran's stated preference for VP Vance as interlocutor; watch for White House signals empowering this channel as an alternative to the rejected Witkoff/Kushner track
-- **Lebanon ceasefire linkage**: Iran tied its own ceasefire to a Lebanon/Hezbollah halt — watch for Israeli responses to any Lebanese ceasefire proposal; Israel's likely rejection locks in continued multi-front war
-- **April 6 energy-strike deadline**: Still the single most important calendar event; with Iran having rejected the peace plan and added conditions, the probability of Trump proceeding with energy infrastructure strikes is now higher than yesterday
-- **Brent Monday open**: Sunday futures ~$105–106 — if Monday open holds below $110, it may signal markets pricing marginal diplomatic progress; if it gaps back above $113, it confirms S3 escalation pricing; Goldman warns $147 possible
-- **VIX > 35 threshold**: VIX at 31 and rising — the Habbaniya strike + Iraq diplomatic rupture could push markets through 35 on Monday open; watch for Iraqi military retaliation or base access revocation as the trigger
+- **EU emergency energy council** — QatarEnergy force majeure will likely trigger emergency EU energy consultations; watch for emergency storage release authorization, US LNG export ramp-up announcements, or Norwegian/Algerian gas supply increase pledges
+- **Iraqi parliamentary vote on US base access** — still the highest-consequence near-term geopolitical event; Baghdad's refusal to condemn PMF while formally protesting the Habbaniya strike puts al-Sudani in an increasingly untenable position; watch for emergency parliamentary session this week
+- **April 6 energy-strike deadline** — now 7 days away; IRGC loyalist Zolghadr appointment + QatarEnergy force majeure reduce probability of last-minute diplomatic breakthrough; watch for Trump/Vance back-channel signals
+- **VIX > 35 threshold** — VIX at 31; held below 35 on Monday open; QatarEnergy force majeure news is a candidate trigger; watch European market opens (oil-importing economies) for amplified volatility
+- **Brent > $120 threshold** — intramonth high already $119.50; a break and sustained hold above $120 would likely trigger IEA emergency stock release and G7 energy emergency consultations; Goldman warns $147 possible if conflict extends
+- **Iraq PMF inside Iran** — reports of Iraqi militia fighters deployed to suppress Iranian domestic protests, if confirmed at scale, would represent a new proxy entanglement and potential trigger for regime-change vs. regime-stabilization dynamic shift
 
 ---
 
@@ -346,7 +347,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T2-03: European Energy Crisis (LNG Rerouting)
-**Likelihood:** 45% | **Trend:** ↑ | **Horizon:** 3–6 months if Hormuz closure persists
+**Likelihood:** 55% | **Trend:** ↑↑ | **Horizon:** 3–6 months if Hormuz closure persists — QatarEnergy force majeure (Mar 30) accelerates timeline materially
 **Sectors:** Energy, Industrials, Chemicals, Consumer | **Geographies:** EU, especially Germany, Italy, Central/Eastern Europe
 
 **Mechanism:** Qatar LNG (largest global LNG exporter) transits Hormuz → EU; with strait closure or severe disruption, EU LNG supply tightens → gas prices spike → industry curtailment → Germany/Italy recession deepens.
@@ -758,6 +759,7 @@ Load this document into Claude and ask:
 | 2026-03-28 | Daily agent (run 1) | Iran attacked Qatar (2 Iranian bombers shot down); IRGC Navy chief Tangsiri killed; Pentagon weighs 10,000 troops + Kharg Island ground op; Iran rejected US 15-point plan; Tehran Toll Booth formalized; April 6 energy-strike deadline; S3 ↑25%; T1-04 ↓60%; T1-06 ↓68%; T2-01 ↑45%; T2-02 ↑78% |
 | 2026-03-28 | Daily agent (run 2) | Houthis confirmed ballistic missile attack on Israel (entered war); 10 US troops wounded at Saudi Prince Sultan Air Base; Iran struck Kuwait airport + Oman; COSCO ships turned back at Hormuz; Israel struck heavy water reactor; Brent $112.57 (+4.2%); WTI briefly $100; VIX 31.05 (🔴); S3 ↑30%; S4 ↑6%; T1-06 ↑75% |
 | 2026-03-29 | Daily agent | US struck Habbaniya Iraqi Armed Forces base killing 7 Iraqi military (first state-level US-Iraq confrontation); Iran rejected peace plan as "maximalist," added Lebanon ceasefire condition; Israel confirms several more weeks needed; Brent Sunday futures pull back to ~$105; gold record $4,524; S3 ↑32%; S1 ↓18%; S5 ↑11% |
+| 2026-03-30 | Daily agent | QatarEnergy declared force majeure on ALL exports (world's largest LNG exporter halted); Brent gapped back to ~$114–115 (+2.07%, record monthly surge tracking +55% MoM); EU TTF gas nearly doubled to ~€60/MWh; IRGC hardliner Zolghadr appointed Iran national security chief; S1 ↓17%; S2 ↑42%; T2-03 ↑55% |
 
 ---
 
