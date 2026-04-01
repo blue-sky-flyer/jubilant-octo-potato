@@ -6,58 +6,58 @@
 
 ---
 
-## Daily Briefing — 2026-03-31 (End of Day)
+## Daily Briefing — 2026-04-01
 
-**Overall situation:** Day 32. Brent crude's May contract expired at $118.35 (+5%), capping a record +60% monthly surge in March — the largest monthly oil price gain since 1988 and officially the worst monthly energy shock since the Arab oil embargo. Yet markets staged a surprise risk-on reprieve: the VIX fell 10% to 27.49 (from 31.05 yesterday) and S&P 500 futures recovered +1%, as Bloomberg reported unconfirmed signals that Trump may be willing to end US operations even without full Hormuz reopening, and that Iranian President Pezeshkian was privately open to ending the war. These signals are fragile: Iran fired a fourth ballistic missile into Turkish airspace (intercepted by NATO), a US journalist was kidnapped in Baghdad by Iran-backed militias, Israel's army chief vowed to "deepen the operation" in Lebanon, and the Brent market's severe backwardation ($118 May vs. $108 June) reflects acute near-term supply panic rather than confidence in imminent resolution.
+**Overall situation:** Day 33. China and Pakistan jointly presented the most concrete ceasefire proposal since the war began — calling for an immediate halt to hostilities and full reopening of the Strait of Hormuz — as Trump predicted the war would be "finished" in "2–3 weeks." Markets extended the prior session's risk-on rally: VIX fell to 24.27 (below the psychologically important 25 level for the first time since the war began), S&P 500 closed +1.46%, and Brent crude pulled back to ~$104–105 (June contract; partly May-to-June rollover, partly diplomatic relief). Iran continued military operations — firing three waves of missiles at Israel, striking a tanker off Qatar's coast, and hitting a religious center in Zanjan — underscoring the gap between active diplomacy and active war. Lebanon's government formally banned Hezbollah's military activities, a significant political rupture within the Axis of Resistance. Gold surged to a new record $4,772/oz (+2%), confirming markets are simultaneously pricing diplomatic optionality (VIX ↓) and unresolved uncertainty (gold ↑).
 
 **Scenario probability update (vs. yesterday):**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 16% | ↑ from 15% (Bloomberg: Trump may accept non-Hormuz-reopening exit; Pezeshkian privately open to ending war; Iranian ballistic missile arsenal degrading per ISW/CTP) |
-| S2: Partial Hormuz disruption | 41% | ↑ from 40% (if Trump accepts Hormuz toll-booth as the exit condition, S2 becomes the likely settlement zone; that scenario is now incrementally more plausible) |
-| S3: Regional war / full proxy activation | 33% | ↓ from 35% (VIX pulled back 10%; Iranian ballistic missile arsenal degrading; Trump exit-flexibility signals; partially offset by 4th Turkish-airspace missile, journalist kidnapping, deepening Lebanon ops) |
+| S1: Limited/air campaign baseline | 22% | ↑ from 16% (China-Pakistan joint ceasefire proposal gives Iran face-saving multilateral off-ramp; Trump's "2–3 weeks" is now a public commitment; Lebanon gov banning Hezbollah strips proxy cover from maximalist Iran position; VIX breaking below 25 confirms market pricing imminent de-escalation pathway) |
+| S2: Partial Hormuz disruption | 40% | ↓ from 41% (still most probable current state but S1 now a credible exit; China-Pakistan proposal explicitly includes Hormuz reopening as condition, tightening the gap between S1 and S2 settlement zones) |
+| S3: Regional war / full proxy activation | 28% | ↓ from 33% (Lebanon gov formally banning Hezbollah military ops is the most significant internal constraint on proxy escalation to date; China actively discouraging Iranian escalation; VIX at 24.27 confirms market de-risking; offset by Iran's 3-wave missile salvo on Israel and Gulf tanker strike) |
 | S4: Nuclear dimension | 6% | → |
-| S5: Great power entanglement | 9% | → |
+| S5: Great power entanglement | 9% | → (Russia intelligence support to Iran confirmed by UK/US officials; but China is playing diplomatic not military role — net effect neutral; no change) |
 
 **Key indicator readings today:**
 | Indicator | Value | vs. 30 days ago | Alert? |
 |-----------|-------|-----------------|--------|
-| Brent crude (May/Jun) | $118.35 May close; ~$108 Jun (severe backwardation); +60% March record | +$46/bbl (+63%) | 🔴 EXTREME |
-| WTI crude | $101.38 (−1.46%) | +$33 (+48%) | 🔴 HIGH |
-| US gas price (avg) | $4.00/gal national avg; LA: $5.99/gal | +$1.00 (+33%) | 🔴 HIGH |
-| US diesel (avg) | $5.37/gal | +$1.62 (+43%) | 🔴 HIGH |
-| Hormuz transits/day | ~3 (toll-booth; 21 total since war start; 4th unauthorized Greek tanker Pola transit confirmed) | −97% | 🔴 EXTREME |
+| Brent crude (Jun contract) | ~$104–105/bbl (↓ from $118.35 May close; partly May→Jun rollover) | +$32/bbl (+44%) | 🔴 HIGH |
+| WTI crude | ~$102.92 | +$35 (+52%) | 🔴 HIGH |
+| US gas price (avg) | ~$4.00/gal | +$1.00 (+33%) | 🔴 HIGH |
+| Hormuz transits/day | ~3 (3,208 vessels loitering around strait; 90%+ disrupted) | −97% | 🔴 EXTREME |
 | War-risk insurance | 5–10% hull value per transit | +3,900–7,900% vs. pre-war | 🔴 EXTREME |
-| EU TTF natural gas | ~€60/MWh (QatarEnergy force majeure in effect) | +~100% | 🔴 EXTREME |
-| Urea (fertilizer) | ~$700/mt | +$240 (+52%) | 🔴 HIGH |
-| S&P 500 | Futures +1% recovery; ~−8% since war start | | 🟡 ELEVATED |
-| VIX | 27.49 (↓10.19% from yesterday's 31.05) | +83% vs. pre-war ~15 | 🟡 ELEVATED |
-| USD DXY | ~100.13 (−0.37% today; +3% MTD near 10-month high) | +3% MTD; −4% YoY | 🟡 ELEVATED |
-| Gold | ~$4,524/oz (near record set March 29) | +~20% since war start | 🟡 ELEVATED |
+| EU TTF natural gas | ~€60/MWh (QatarEnergy force majeure ongoing) | +~100% | 🔴 EXTREME |
+| Urea (fertilizer) | ~$720/mt | +$260 (+56%) | 🔴 HIGH |
+| S&P 500 | 6,436 (+1.46% today; ~−3% since war start) | | 🟡 ELEVATED |
+| VIX | 24.27 (↓ −3.88% today; first close below 25 since war began) | +62% vs. pre-war ~15 | 🟡 ELEVATED |
+| USD DXY | ~99.82 (↓ −0.06%; below 100 again) | −4% vs. pre-war ~104 | 🟡 ELEVATED |
+| Gold | ~$4,772/oz (NEW RECORD; +2.00% today; +$248 from Mar 29 record) | +~32% since war start | 🔴 HIGH (safe-haven surge) |
 
 **Key developments today:**
-- 🛢️ **Brent May contract closes at $118.35 (+5%); record +60% March monthly surge** — biggest monthly oil gain since 1988; May contract in severe backwardation vs. June at ~$108, signaling acute near-term supply panic but market pricing some eventual easing; IMF formally warns today that the Iran war "will drive global inflation and slow economic growth"
-- 🟢 **Markets stage surprise risk-on reprieve** — VIX fell 10.19% to 27.49; S&P 500 futures +1%; Nasdaq futures +1%; Bloomberg (unconfirmed) reports Trump may be willing to end US operations even without full Hormuz reopening, and that Iran's President Pezeshkian was privately open to ending the war; this is tentative optionality, not a deal, and Iran's maximalist conditions remain formally on the table
-- ⚠️ **Iran fires 4th ballistic missile into Turkish airspace** (intercepted by NATO air defenses) — Turkey faces growing domestic and NATO pressure; four incidents now on record; if Iran deliberately targets Turkish territory, NATO Article 4 consultation becomes unavoidable; each incident marginally increases S5 risk
-- 🚨 **US journalist Shelly Kittleson (Al-Monitor) kidnapped in Baghdad** — Iran-backed militias had explicitly threatened US citizens; Iraqi security forces arrested one suspect; signals Iran's proxy network escalating asymmetric pressure on US civilians in Iraq as a pressure lever separate from military operations
-- 🛡️ **Iran's ballistic missile arsenal degrading** (ISW/CTP analysis) — US-Israeli strikes on launch infrastructure are succeeding; Iran is shifting from ballistic missiles to drones as proportionally; ballistic missile launches falling, drone attacks rising; reduces near-term nuclear-delivery risk profile but extends conflict duration as Iran adapts to asymmetric methods
-- 🇱🇧 **IDF to "deepen the operation" in Lebanon** (Army Chief Zamir) — 1,200+ killed in Lebanon in past month including 124 children and 3 UN peacekeepers; UN Security Council emergency session convened; Hezbollah is now using medium/long-range missiles (Khaibar-1, Fadi-6) reaching 135km into Israel, marking a capability escalation vs. the 2024 conflict
-- 🚢 **4th unauthorized Greek tanker (*Pola*) crosses Hormuz** — small but notable signal; some vessels are willing to run the blockade; Iran's toll-booth regime has gaps; DFC US-backed insurance program has not yet produced an escorted transit, with shippers saying "death fear" outweighs cost incentives
-- 🪖 **2,500 Marines from 31st MEU** also deployed in region alongside 82nd Airborne 3,500 troops — two distinct US force packages now staged; Pentagon "weeks of ground operations" posture confirmed; total US casualties: 13 killed, ~290 wounded
+- 🕊️ **China-Pakistan joint ceasefire proposal** — in a joint statement Beijing and Islamabad called for an "immediate ceasefire," peace talks "as soon as possible," a UN-backed settlement, secured shipping lanes, and an end to attacks on civilians. China (Iran's top trade partner and oil buyer, with ~$161B in annual bilateral trade) formally joining Pakistan (active US-Iran mediator) gives this initiative real leverage over Tehran that no prior proposal has had. Trump's planned China visit (postponed to May) provides a high-stakes diplomatic backdrop and incentive for progress. This is the single most important diplomatic development of the war to date.
+- 🇺🇸 **Trump: war will end in "2–3 weeks"** — President Trump publicly predicted the war would be "finished" within two to three weeks, extending his pause on striking Iranian energy infrastructure through April 6. Witkoff's 15-point peace proposal remains the US starting position. Iran's FM Araghchi publicly said he has "no faith in talks," called Trump "deceitful," and reiterated Iran's 5 maximalist conditions — but Iran's public posture and its back-channel behavior have diverged throughout the war.
+- 🛢️ **Brent crude pulls back to ~$104–105** — the sharp drop from yesterday's $118.35 May contract close is partly mechanical (May contract expired; June was already at ~$108 yesterday) and partly real (~$3–4 decline in the June contract on diplomatic relief). Oil is still +44% vs. 30 days ago; the pull-back reflects diplomacy optionality, not supply restoration. An energy analyst noted: "A ceasefire does not equal oil supply restoration — physical relief is weeks-to-months away even in the best case."
+- ⚔️ **Iran fires three waves of ballistic missiles at Israel** — IRGC launched three salvos within one hour; intercept rates remain high per ISW/CENTCOM (Iran's retaliatory capability continues to degrade); CENTCOM confirms Iran's retaliation has "not inflicted US casualties or caused meaningful damage to US military installations." Iran is adapting to drone-heavy operations as ballistic missile stocks deplete.
+- 🚢 **Iran missile strikes oil tanker off Qatar's coast** — one missile struck a tanker off Qatar; no injuries. This is the second Gulf-waters tanker attack in two consecutive days (following the *Al Salmi* at Dubai on March 31), signaling continued IRGC willingness to escalate commercial shipping attacks as a pressure lever even while diplomacy is notionally underway.
+- 🇱🇧 **Lebanon government formally bans Hezbollah military activities** — Lebanon's Council of Ministers voted to prohibit Hezbollah's military operations and called for the group to disarm. While enforcement capacity is limited, this is the most significant political rupture within the Axis of Resistance to date: even Lebanon's government is rejecting the maximalist "resistance" posture, creating domestic political pressure on Hezbollah that cannot be entirely ignored by its leadership.
+- 🥇 **Gold surges to new record ~$4,772/oz (+2%)** — up $248 from the prior record set March 29; gold is outperforming all traditional safe-haven assets and is rising even as the VIX declines — an unusual divergence that suggests markets are simultaneously pricing a ceasefire pathway (lower near-term volatility) and structural uncertainty (higher gold as long-term hedge against conflict, inflation, and dollar weakness).
+- 🇷🇺 **Russia's intelligence support to Iran officially confirmed** — UK intelligence officials and US officials stated that Russia is providing Iran with satellite imagery and location data on US warships and aircraft. Iran's FM Araghchi did not deny ongoing military cooperation with Russia and China. This is a material upgrade to the T3-02 (Russia as Strategic Winner) risk.
 
 **Upgraded risks:**
-- **T1-01 (Oil Price Elevation)**: trajectory toward $130 alert threshold now closer — Brent May closed $118.35; record monthly surge confirmed; Goldman Sachs warns $147 possible if conflict extends. Likelihood remains 95% but severity increasing.
-- **T3-02 (Russia as Strategic Winner)**: oil windfall deepening — at ~$118/bbl, KSE Institute estimates Russia earns ~$0.5B/day in additional export revenues; US attention fully diverted from Ukraine; no sign of Ukraine supplemental in Congress.
+- **T3-03 (China's Geopolitical Positioning)**: ↑ from 75% to 82% — China's active mediation via the China-Pakistan initiative is precisely the "neutral mediator" role this risk anticipated; now unambiguously materializing in real time.
+- **T3-02 (Russia as Strategic Winner)**: ↑ from 65% to 70% — Russia's intelligence support to Iran now confirmed by Western officials, deepening Russia's covert entanglement with Iran's war effort while collecting the ~$0.5B/day oil windfall.
+- **T1-06 (Hezbollah / Proxy Escalation)**: adjusted ↓ from 75% to 70% — Lebanon government ban on Hezbollah military activity is a meaningful political constraint; reduces probability of full proxy network escalation to peak S3 levels.
 
 **Downgraded risks:**
-- **S3 (Regional war / full proxy activation)**: ↓ to 33% — VIX retreat, Trump exit-flexibility signals, and Iranian ballistic missile degradation are modest de-escalation indicators; oil backwardation structure also implies market pricing eventual (not imminent) easing.
+- **S3 (Regional war / full proxy activation)**: ↓ to 28% — Lebanon government action, China's active diplomatic engagement, and VIX breaking below 25 all reduce the probability of full proxy activation relative to yesterday.
 
 **New precursor events to watch:**
-- **Trump "Hormuz flexibility" confirmation** — if Bloomberg's unconfirmed report is officially confirmed, it would be the single biggest US policy signal of the war; watch for Rubio/Witkoff public statements in the next 24–48 hours
-- **Pezeshkian back-channel** — Iran's president reportedly privately open to ending war; watch for any Iranian signals through Pakistan, Oman, or Swiss channel confirming this; a second Iranian confirmation would materially shift S1 upward
-- **April 6 energy-strike deadline** — now 6 days away; Trump frustration with allies + potential Hormuz flexibility could mean a deal attempt before that deadline, or Trump may use it to force terms; watch for any White House statement on Iranian power plant strikes
-- **Turkey/NATO escalation** — 4th Iranian ballistic missile in Turkish airspace; if Turkey demands formal NATO Article 4 consultations, it activates the S5 pathway and complicates the US bilateral approach
-- **VIX 25 level** — if risk-on continues and VIX falls below 25, markets are pricing imminent de-escalation; conversely, a return above 30 would reconfirm 🔴 HIGH territory and likely trigger IEA emergency release discussions
+- **Iran's response to China-Pakistan proposal** — the most critical near-term indicator; if Iran publicly acknowledges the initiative as a legitimate framework (even without accepting it), Beijing's leverage is working and S1 probability jumps sharply. Watch for Araghchi/Pezeshkian statements in the next 24–48 hours.
+- **Trump-China summit confirmation** — if the May Beijing visit dates are confirmed, it creates a powerful incentive for both sides to achieve a ceasefire framework before the summit. Watch for White House/State Dept announcements.
+- **Lebanon disarmament follow-through** — largely symbolic without enforcement, but any Hezbollah operational pause resulting from the political ban would be a significant S3 de-escalation signal; conversely, Hezbollah explicitly defying the ban escalates Lebanon's domestic crisis.
+- **April 6 energy-strike deadline** — 5 days away; Trump's "2–3 weeks" prediction implies he is not planning to strike Iranian energy plants April 6; confirm via Rubio/Witkoff statements; if the deadline passes without action, Iran may read it as weakness.
+- **VIX 20 level** — VIX broke below 25 today for the first time since the war; if it falls toward 20, markets are pricing ceasefire as near-certain; conversely, any return above 27 would signal diplomatic breakdown and re-escalation pricing.
 
 ---
 
@@ -77,6 +77,7 @@
 - Mar 27–28: Israel kills IRGC Navy chief Tangsiri + strikes submarine design facility in Isfahan; Iran attacks Qatar (two Iranian Su-24 bombers shot down); Pentagon weighs 10,000 troops + Kharg Island ground operation; Trump extends energy pause to April 6; Houthis enter war (ballistic missiles at Israel, intercepted)
 - Mar 29–30: QatarEnergy declares force majeure on ALL exports; Brent gaps to $114–115 (record monthly surge +55%); EU TTF gas nearly doubled to €60/MWh; IRGC hardliner Zolghadr appointed Iran national security chief; Iraqi PMF deployed inside Iran to suppress protests
 - Mar 31: Pakistan confirms indirect US-Iran talks in Islamabad; Iran's FM Araghchi states 5 maximalist ceasefire conditions incl. Hormuz sovereignty; Iran strikes Kuwaiti VLCC *Al Salmi* at Port of Dubai (fire, oil spill risk); 82nd Airborne ~3,500 troops + 2,500 Marines (31st MEU) forward-deployed; US gas crosses $4/gal; Brent May contract closes $118.35 (+5%; record +60% monthly March surge since 1988); VIX falls 10% to 27.49 on unconfirmed Bloomberg reports Trump may accept non-Hormuz exit + Pezeshkian privately open to ending war; Iran fires 4th ballistic missile into Turkish airspace (NATO intercept); US journalist Shelly Kittleson kidnapped in Baghdad by Iran-backed militia; ISW/CTP confirms Iranian ballistic missile arsenal degrading; IDF vows to deepen Lebanon operation; 3 UN peacekeepers killed in Lebanon; IMF formally warns Iran war will drive global inflation and slow growth
+- Apr 1 (Day 33): China and Pakistan jointly propose immediate ceasefire + Hormuz reopening (most significant diplomatic initiative of war); Trump publicly predicts war "finished" in 2–3 weeks; extends April 6 energy-strike pause; Iran fires 3 waves of ballistic missiles at Israel; Iran strikes tanker off Qatar's coast (second consecutive day of Gulf tanker attacks); Lebanon government formally bans Hezbollah military operations; Russia confirmed providing satellite intelligence to Iran (UK/US officials); Brent Jun contract ~$104–105 (partly May→Jun rollover + diplomacy relief); VIX 24.27 (first close below 25 since war began); Gold new record ~$4,772/oz; S&P 500 +1.46%
 
 **IEA characterization:** "Greatest global energy and food security challenge in history"
 
@@ -86,20 +87,20 @@
 
 Five escalation scenarios with current probability weightings and key trigger events.
 
-### S1 — Limited Air Campaign (16%)
+### S1 — Limited Air Campaign (22%)
 *US/Israeli strikes with Iranian retaliation, no major shipping disruption, proxies restrained*
 - **Triggers up:** Iran negotiated ceasefire, Hormuz fully reopened, proxy ceasefire
 - **Triggers down:** Any vessel attack, Hormuz mining, Hezbollah ground operation
 
-### S2 — Partial Hormuz Disruption — ACTIVE SCENARIO (41%)
+### S2 — Partial Hormuz Disruption — ACTIVE SCENARIO (40%)
 *Current state: traffic severely reduced, US campaign to reopen ongoing, war-risk premiums extreme*
 - **Triggers up:** Peace deal, full reopening, proxy disengagement
 - **Triggers down:** Mining of strait, attack on US naval vessel, full Hezbollah ground war in Israel
 
-### S3 — Regional War / Full Proxy Activation (33%)
+### S3 — Regional War / Full Proxy Activation (28%)
 *Hezbollah opens full northern front in Israel, Iraqi militia attacks escalate to strategic targets, Houthis resurge*
 - **Triggers up:** Israeli ground invasion of Lebanon, US base casualties exceed threshold, Hezbollah missile hits Israeli civilian infrastructure
-- **Triggers down:** Hezbollah ceasefire deal, Iran proxy command disrupted by strikes, Iraqi government crackdown on militia
+- **Triggers down:** Hezbollah ceasefire deal, Iran proxy command disrupted by strikes, Iraqi government crackdown on militia (Lebanon gov ban on Hezbollah is a new downward trigger — Apr 1)
 
 ### S4 — Nuclear Dimension (6%)
 *Israeli or US strikes on Iranian nuclear facilities, or Iranian nuclear coercion*
@@ -109,7 +110,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ### S5 — Great Power Entanglement (9%)
 *Russia or China provide material military support to Iran, creating direct US confrontation risk*
 - **Triggers up:** US strike on Iranian asset supported by Russian intelligence, China deploys naval assets near strait, UNSC deadlock leads to unilateral actions
-- **Triggers down:** Back-channel US-China agreement, Russia chooses economic over military alignment
+- **Triggers down:** Back-channel US-China agreement, Russia chooses economic over military alignment (China now taking diplomatic mediator role — Apr 1; Russia confirmed providing intelligence but not material military assets)
 
 ---
 
@@ -245,7 +246,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T1-06: Hezbollah / Proxy Escalation (Active Threat)
-**Likelihood:** 75% (full proxy network activated) | **Trend:** ↑ (Houthis confirmed entry March 28 — fired ballistic missile at Israel, reversing earlier stance; Bab al-Mandab now threatened as second chokepoint; proxy network broader than anticipated) | **Horizon:** Linked to conflict duration
+**Likelihood:** 70% (full proxy network activation risk) | **Trend:** ↓ (Lebanon government formally banned Hezbollah military activities Apr 1 — most significant political constraint on Hezbollah to date; Houthis active but capacity limited by prior degradation; Lebanese domestic pressure reduces peak escalation probability) | **Horizon:** Linked to conflict duration
 **Sectors:** Defense, Energy, Tourism, EM stability | **Geographies:** Lebanon, Israel, Iraq, Yemen, Syria
 
 **Current state:** Hezbollah escalated March 2 with coordinated rocket/drone barrage. Iraqi militias conducting 16+ operations/day against US forces. **Houthis confirmed entry March 28** — fired ballistic missile toward Israel, threatening Bab al-Mandab as second global shipping chokepoint. Full proxy network (Hezbollah, Iraqi PMF, Houthis) now operationally active simultaneously.
@@ -525,7 +526,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T3-02: Russia as Strategic Winner
-**Likelihood:** 65% | **Trend:** ↑ | **Horizon:** 1–2 years
+**Likelihood:** 70% | **Trend:** ↑ | **Horizon:** 1–2 years
 **Sectors:** Defense, Energy, Geopolitics | **Geographies:** Russia, Ukraine, Europe
 
 **Mechanism:** Russia benefits on three fronts: (1) oil price windfall rescues war budget; (2) US military/political attention diverted from Ukraine; (3) Russia-China-Iran axis consolidates, weakening Western cohesion. This is a major second-order effect of the Iran war.
@@ -550,7 +551,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T3-03: China's Geopolitical Positioning
-**Likelihood:** 75% | **Trend:** ↑ | **Horizon:** 1–5 years
+**Likelihood:** 82% | **Trend:** ↑↑ | **Horizon:** 1–5 years
 **Sectors:** Geopolitics, Tech, Trade | **Geographies:** Global
 
 **Mechanism:** China: (1) buys discounted Iranian oil via non-USD channels; (2) positions as "neutral mediator" for post-war settlement; (3) uses US Middle East distraction to advance Indo-Pacific interests; (4) strengthens RMB internationalization via yuan-denominated oil deals.
@@ -713,21 +714,21 @@ Five escalation scenarios with current probability weightings and key trigger ev
 
 | Sector | Key ETFs | 30d | 60d | 90d | vs. Last Briefing | Thesis |
 |--------|----------|-----|-----|-----|-------------------|--------|
-| **Energy (E&P / Integrated)** | XLE, XOP | ↑ | ↑ | ↑/→ | → | Brent at $118 May close; record monthly surge; Hormuz closure intact; 90d contingent on conflict duration |
-| **Oilfield Services** | OIH | ↑ | ↑ | ↑ | → | Reopening campaigns, infrastructure repair, and production ramp-up all drive services demand |
+| **Energy (E&P / Integrated)** | XLE, XOP | ↑/→ | ↑ | ↑/→ | ↓ (softened) | Brent pulled back to ~$104–105 (Jun contract) from $118 May peak on diplomacy signals + contract rollover; still +44% vs. 30 days ago; 30d trend softened slightly from ↑ to ↑/→ on China-Pakistan ceasefire optionality |
+| **Oilfield Services** | OIH | ↑ | ↑ | ↑ | → | Reopening campaigns, infrastructure repair, and production ramp-up all drive services demand regardless of ceasefire timing |
 | **Defense / Aerospace** | ITA, XAR | ↑ | ↑ | ↑ | → | 11,000+ targets struck; munitions replenishment is structural; emergency defense supplemental expected in Congress; NATO rearmament acceleration |
-| **Agriculture / Fertilizer** | MOO, SOIL | ↑ | ↑ | ↑/→ | → | Urea $700/mt; planting season crisis; 45M at acute food risk (WFP); 90d contingent on Hormuz reopening timing vs. harvest cycle |
+| **Agriculture / Fertilizer** | MOO, SOIL | ↑ | ↑ | ↑/→ | → | Urea $720/mt (+56%); QAFCO shut down (5.6Mt capacity); Australia running out by mid-April; planting season crisis deepening; 90d contingent on Hormuz reopening vs. harvest cycle |
 | **Grain Futures / Food** | WEAT, CORN | ↑ | ↑ | ↑/→ | → | Fertilizer shortage → yield risk → food price inflation; structural tailwind for grain ETFs |
-| **Gold / Precious Metals** | GLD, IAU, GDX | ↑ | ↑ | → | ↑ (upgraded) | Gold near record $4,524; confirmed as primary safe-haven over dollar; conflict premium structural; upgrade from last briefing |
+| **Gold / Precious Metals** | GLD, IAU, GDX | ↑↑ | ↑ | ↑ | ↑↑ (upgraded) | Gold hit new record $4,772 (+2% today; +32% since war start); rising EVEN AS VIX declines — classic dual pricing of ceasefire optionality + structural uncertainty; strongest conviction long in the framework |
 | **Clean Energy / Renewables** | ICLN, QCLN, TAN | →/↑ | ↑ | ↑ | → | Structural energy-transition pull-forward; near-term headwinds from US IRA policy uncertainty; EU urgency strongest driver |
 | **Nuclear Energy / Uranium** | NLR, URA | ↑ | ↑ | ↑ | → | Energy security urgency; Saudi/Turkey nuclear ambitions rising; nuclear new-build interest structural |
-| **Consumer Discretionary** | XLY, XRT | ↓ | ↓ | → | → | Gas at $4/gal national avg; consumer squeeze deepening; recession risk at 50%; 90d improves only on ceasefire |
-| **Airlines** | JETS | ↓ | ↓ | → | → | Jet fuel surge; Middle East routes suspended; demand destruction; 90d recovery only if oil normalizes |
-| **Shipping (Tankers/Rerouting)** | FRO, STNG | ↑/→ | ↑ | → | → | Cape of Good Hope rerouting driving tanker day rates; authorized Hormuz transits ($2M/crossing) a wildcard; dry bulk (BDRY) mixed |
-| **Emerging Markets** | EEM, VWO | ↓ | ↓ | ↓/→ | → | Most exposed to food/energy cost shock; EWI (India) highest single-country risk; EM sovereign spreads widening |
+| **Consumer Discretionary** | XLY, XRT | ↓ | ↓ | → | ↑ (slightly improved) | Gas still at $4/gal but oil pullback to $104 and ceasefire signals provide some relief; recession risk still 50%; 90d improves on ceasefire |
+| **Airlines** | JETS | ↓ | ↓/→ | → | ↑ (slightly improved) | Oil pullback from $118 to $104 and ceasefire optionality improve 60d outlook marginally; Middle East routes still suspended |
+| **Shipping (Tankers/Rerouting)** | FRO, STNG | ↑/→ | ↑ | → | → | Cape of Good Hope rerouting driving tanker day rates; authorized Hormuz transits ($2M/crossing) a wildcard; ceasefire = day-rate normalization risk at 90d |
+| **Emerging Markets** | EEM, VWO | ↓ | ↓ | ↓/→ | → | Most exposed to food/energy cost shock; EWI (India) highest single-country risk; urea now $720/mt; EM sovereign spreads widening |
 | **Financials** | XLF, KBE | ↓ | ↓ | → | → | Recession risk at 50%; rate-path uncertainty (Fed may hike, not cut); elevated credit spreads |
-| **Volatility** | VIXY, VXX | → | ↓ | ↓ | ↓ (downgraded) | VIX fell 10% today to 27.49; Trump diplomacy signals and Iranian missile degradation reduce near-term volatility premium; near-term trend revised from ↑ to → |
-| **US Dollar (long)** | UUP | → | → | ↓ | → | DXY near 100; safe-haven demand vs. fiscal expansion concern; institutional forecasts: mid-90s DXY by Dec 2026 as conflict premium fades |
+| **Volatility** | VIXY, VXX | ↓ | ↓ | ↓ | ↓ (confirmed) | VIX broke below 25 today (24.27) for first time since war began; China-Pakistan initiative + Trump "2–3 weeks" = structural vol compression; near-term trend now clearly ↓ |
+| **US Dollar (long)** | UUP | → | ↓ | ↓ | ↓ (downgraded) | DXY fell below 100 again (99.82); safe-haven thesis not materializing; gold is winning the safe-haven trade; fiscal expansion + inflation concerns dominating; medium-term ↓ bias confirmed |
 | **Real Assets / REITs** | VNQ, IYR | ↓ | ↓ | → | → | Rates-on-hold-or-higher scenario hurts rate-sensitive sectors; no near-term relief catalyst |
 
 ---
@@ -793,6 +794,7 @@ Load this document into Claude and ask:
 | 2026-03-30 | Daily agent | QatarEnergy declared force majeure on ALL exports (world's largest LNG exporter halted); Brent gapped back to ~$114–115 (+2.07%, record monthly surge tracking +55% MoM); EU TTF gas nearly doubled to ~€60/MWh; IRGC hardliner Zolghadr appointed Iran national security chief; S1 ↓17%; S2 ↑42%; T2-03 ↑55% |
 | 2026-03-31 (AM) | Daily agent | Iran struck Kuwaiti VLCC *Al Salmi* at Port of Dubai (first tanker hit in Gulf port waters); Pakistan-mediated indirect US-Iran talks confirmed but Iran's 5 maximalist conditions (incl. Hormuz sovereignty) offer little hope; 3,500 82nd Airborne troops forward-deployed; US gas crossed $4/gal; Brent slight pullback to $107–113; S3 ↑35%; S1 ↓15%; S5 ↓9%; T2-01 ↑50% |
 | 2026-03-31 (EOD) | Daily agent | Brent May contract closed $118.35 (+5%; record +60% March monthly surge since 1988); VIX fell 10% to 27.49 (surprise risk-on reprieve); unconfirmed Bloomberg: Trump may accept non-Hormuz-reopening exit + Pezeshkian privately open to ending war; Iran 4th ballistic missile in Turkish airspace (NATO intercepted); US journalist Shelly Kittleson kidnapped in Baghdad; IDF deepening Lebanon ops (3 UN peacekeepers killed); IMF formally warns on inflation/growth; ISW/CTP: Iran ballistic missile arsenal degrading, shifting to drones; 2,500 Marines (31st MEU) also deployed; S3 ↓33%; S1 ↑16%; S2 ↑41%; Gold ↑ (near $4,524 record); first ETF Sector Positioning table added |
+| 2026-04-01 | Daily agent | China-Pakistan joint ceasefire proposal (most significant diplomatic development of war); Trump "2–3 weeks" to war end; Brent ~$104–105 (Jun contract; -$13 from May close partly rollover); VIX 24.27 (below 25 for first time since war began); Gold new record $4,772; Lebanon gov formally banned Hezbollah military ops; Iran 3-wave missile salvo on Israel + tanker struck off Qatar; Russia intelligence support to Iran confirmed by UK/US officials; S1 ↑22%; S3 ↓28%; T1-06 ↓70%; T3-02 ↑70%; T3-03 ↑82%; Gold ETF upgraded ↑↑; UUP ↓ downgraded; XLE softened 30d |
 
 ---
 
