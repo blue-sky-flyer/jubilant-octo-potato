@@ -17,7 +17,7 @@
 | S2: Partial Hormuz disruption | 42% | ↓ from 46% (Lebanon escalation threatens ceasefire collapse; Iran conditioning entire US-Iran ceasefire on a Lebanon halt Israel refuses; second-talks optimism partially offsets; Lebanon risk > diplomatic hope; net −4%) |
 | S3: Regional war / full proxy activation | 39% | ↑ from 34% (LARGEST DAILY MOVE: Israel strikes 100+ Lebanon targets in under 10 minutes, 182 killed, war's largest Lebanon assault and highest single-day death toll; Hezbollah actively resuming attacks; ceasefire now just 6 days to expiry vs. 9 previously tracked; Iran threatening direct retaliation if Lebanon not halted; Iraq militias returning to battlefield; S3 threshold events multiplying simultaneously) |
 | S4: Nuclear dimension | 9% | → from 9% (no new nuclear signals; nuclear sovereignty remains Iran's publicly stated red line from Islamabad collapse) |
-| S5: Great power entanglement | 18% | → from 18% (Lavrov-Wang Yi joint communique framed as "work together to de-escalate" — more diplomatic than feared; but Russian Ilyushin Il-76 aircraft confirmed delivering radar systems and electronics to Iran at "high tempo" — military hardware deliveries ongoing; net zero change) |
+| S5: Great power entanglement | 23% | ↑ from 18% (MAJOR REVISION: Financial Times confirmed April 15 that Iran used a Chinese-built spy satellite — Earth Eye, $36.6M paid in renminbi by IRGC — with ground stations operated by Beijing-based Emposat to target US military bases at Prince Sultan AB, Muwaffaq Salti AB, Fifth Fleet Bahrain, Erbil; this is Chinese commercial space infrastructure embedded in Iran's kill chain — not "intelligence sharing" but active lethal-support facilitation; Lavrov-Wang Yi de-escalation framing partially offsets; Russian Il-76 military deliveries ongoing; net +5%) |
 
 **Key indicator readings today:**
 | Indicator | Value | vs. 30 days ago | Alert? |
@@ -41,9 +41,14 @@
 - 🇷🇺🛩️ **Russian Ilyushin Il-76 aircraft delivering radar systems and electronics to Iran at "high tempo"** — Confirmed reports of Russian transport aircraft flying into Iran at high tempo, delivering radar systems, electronic equipment, and key military components. The Lavrov-Wang Yi joint communique framed coordination as "de-escalating tensions in the Middle East" — more diplomatic-facing than the material-escalation signals of April 14; however, Russian military hardware deliveries to Iran are ongoing and expanding. IMF projects MENA region growth at just 1.1% in 2026; Iran economy −6.1%. (Sources: StratNews Global, Caracal Reports, Al Jazeera, IMF)
 - 💵 **VIX 18.22 — worst vol mispricing since war began; April 21 binary in 6 days** — VIX dropped again to 18.22 from April 14's already-anomalous 19.15. Markets are simultaneously ignoring: (1) Israel's largest Lebanon strike of the war, 182 killed today; (2) ceasefire expiry in 6 not 9 days; (3) Iran threatening direct retaliation; (4) Russian military deliveries ongoing; (5) Iraqi militias returning to battlefield; (6) Bahrain intercepting 7 Iranian drones since April 8. Snap risk: any single failure event moves VIX from 18 to 28–38+ in a single session. DXY hit a 6-week low (~97.5–98.0), confirming structural USD bear case accelerating. VIXY/VXX: best asymmetric risk/reward position in the framework. (Sources: CBOE/Yahoo Finance, CNBC, TradingEconomics)
 - 🇮🇶🇱🇧 **Iraq militias return to battlefield; Hezbollah resuming attacks; ceasefire increasingly nominal** — Pro-Iran militias in Iraq are returning to active operations as their April 10 two-week ceasefire shows signs of fraying. Hezbollah has resumed attacks on Israeli forces in northern Israel and southern Lebanon after briefly halting post-April 8. Bahrain's Defense Ministry confirmed intercepting 7 Iranian drones since the April 8 ceasefire. The full proxy network — Hezbollah, Iraq's Islamic Resistance, Houthis — is showing simultaneous re-activation signals with the main ceasefire just 6 days from expiry. (Sources: YnetNews, ISW/CTP via Threads, Alma Research Center)
+- 🛰️🇨🇳 **Iran used Chinese spy satellite (Earth Eye) to target US military bases — kill chain confirmed** — The Financial Times reported April 15 that Iran's IRGC Aerospace Force paid ~$36.6M in renminbi to Chinese satellite company Earth Eye and used its commercial surveillance satellite — via Beijing-based Emposat ground stations — to actively monitor and target US military bases: Prince Sultan AB (Saudi Arabia, surveilled March 13–15), Muwaffaq Salti AB (Jordan), US Fifth Fleet HQ (Bahrain), Erbil Airport (Iraq). This goes beyond "intelligence support" — Chinese commercial space infrastructure was embedded in Iran's missile/drone targeting kill chain. US Space Command acknowledged it "must adjust to Iran's use of commercial satellite photos." S5 revised to 23%. (Sources: Financial Times, Times of Israel, Middle East Eye, Irish Times, multiple)
+- ⚓ **Mine warfare in Hormuz: structural barrier to reopening even after ceasefire** — The US has deployed mine-clearing destroyers USS Frank E. Peterson and USS Michael Murphy, plus undersea drones, to begin clearing Iranian mines from the Strait of Hormuz. CENTCOM confirmed the mission publicly on April 11–12. Critically: Iranian mines are a **physical barrier** that a diplomatic ceasefire cannot remove. Active mine clearing in a contested environment with Iranian Kilo-class submarines still operational takes 6–10 weeks minimum. This means even a successful April 21 ceasefire deal = Hormuz does not physically reopen before June–July at the earliest. Oil market disruption is structurally longer-duration than previously modeled. (Sources: The Hill, Fortune, CBS News, CENTCOM, Al Jazeera)
 
 **Upgraded risks:**
 - **T1-06 (Hezbollah / Proxy Escalation)**: ↑ from 80% to 85% — Israel strikes 100+ Lebanon targets in under 10 minutes on April 15, killing 182 (highest single-day Lebanon toll, largest assault since March 1); Hezbollah actively resuming attacks; Iraq militias returning; Iran threatening direct retaliation if Lebanon operations continue; ceasefire violations institutionalizing on all fronts; T1-06 full-activation now the base case for S3 at 39%
+- **S5 / T3-03 (Great Power Entanglement / China positioning)**: ↑ S5 from 18% to 23%; T3-03 maintained at 88% — Chinese spy satellite Earth Eye confirmed as active component of Iranian kill chain targeting US military bases; Chinese commercial ground stations (Emposat) facilitating Iranian targeting; this is the most concrete Chinese participation in kinetic operations against US forces since the war began
+- **T2-05 (Semiconductor/Tech supply chain)**: ↑ from 30% to 35% — Tomahawk magazine depth crisis (~2,080 expended, 18–24 month restocking gap); 3 CSG + SSGN Middle East commitment = measurable Indo-Pacific deterrence degradation during China's strategic opportunity window; Chinese satellite in Iranian kill chain = direct Chinese provocation of US forces
+- **T1-07 (US fiscal pressure)**: ↑ from 88% to 92% — Tomahawk crisis ($3.9B restocking), SSGN life-extension, mine-clearing operations, USS Bush third CSG deployment, 50,000+ troop sustainment; supplemental requirement materially larger than initially modeled
 
 **Downgraded risks:** None — no materially positive developments sufficient to warrant catalog downgrade; second-talks narrative is unscheduled and Lebanon escalation is a net negative for all risk likelihoods
 
@@ -53,6 +58,9 @@
 - **April 21 ceasefire expiry — 6 DAYS (corrected from 9)** — Framework's hardest binary event; Lebanon exclusion is the structural fault line; Iran-US second talks are the only viable de-escalation pathway before the clock runs out
 - **IDF Lebanon operation intensity** — Another 100-target strike would almost certainly trigger Iran's formal retaliation announcement; this is the most watched precursor over the next 48 hours
 - **Iraqi Islamic Resistance ceasefire status** — 2-week ceasefire (started April 10) expires April 24; watch for militia activity resumption as secondary escalation signal
+- **Iranian Kilo-class submarine activity** — Iran's Kilo-class diesel-electric submarines remain operational and capable of covert mine-laying and torpedo attacks; a Kilo torpedo attack on a US warship or mine-clearing vessel = immediate S3/escalation threshold event; unconfirmed but untracked tail risk
+- **US formal response to Chinese satellite kill chain** — FT (April 15) confirmed Iran used Chinese spy satellite (Earth Eye, $36.6M IRGC purchase via renminbi/Emposat ground stations) to target Prince Sultan AB, Muwaffaq Salti AB, Fifth Fleet Bahrain, Erbil airport; if US formally confronts China over this, S5 immediately escalates to 30%+
+- **USS George H.W. Bush arrival (~early May)** — Third carrier strike group arrival coincides with post-ceasefire-expiry period; 3 CSGs + SSGN Georgia = peak US strike capacity; this is the "Round 2" posture signal Iran must factor into any negotiating calculus
 ---
 
 ## Background: The 2026 Iran War
@@ -81,6 +89,78 @@
 
 ---
 
+## Full-Spectrum US Military Deployment
+
+*Added 2026-04-15 — previously missing from framework. These assets materially affect scenario probabilities, duration of impacts, and tail risks.*
+
+### Surface Naval (3 Carrier Strike Groups)
+| Asset | Status | Notes |
+|-------|--------|-------|
+| USS Gerald R. Ford (CVN-78) CSG | Active — Arabian Sea/Gulf | Blockade enforcement; escorted by 3 destroyers |
+| USS Abraham Lincoln (CVN-72) CSG | Active — Arabian Sea | Blockade enforcement; escorted by 3 destroyers |
+| USS George H.W. Bush (CVN-77) CSG | En route — off Namibia, rounding Cape of Good Hope | Avoiding Red Sea/Houthi threat; arrives ~early May; escorts: USS Donald Cook, Mason, Ross + USNS Arctic; 3rd CSG arrival = peak US strike capacity |
+| Mine-clearing destroyers | Active — USS Frank E. Peterson + USS Michael Murphy transiting Hormuz | Active mine-clearing with undersea drones; structural barrier to Hormuz reopening regardless of ceasefire |
+
+**Strategic implication:** Two CSGs enforce a blockade. Three CSGs + SSGN Tomahawk submarine = posture for a "Round 2" major strike package, not just coercive blockade maintenance. USS Bush's arrival ~early May coincides with post-ceasefire-expiry period — deliberate coercive signaling to Tehran.
+
+### Undersea (Submarines + Mine Warfare)
+| Asset | Status | Notes |
+|-------|--------|-------|
+| USS Georgia (SSGN-729) | Deployed — Persian Gulf | Ohio-class guided-missile sub; capacity: 154 Tomahawk cruise missiles; fired 30+ at Isfahan in earlier strikes; deliberately publicized by Navy as coercive signal; also carries 66 SOF operators |
+| USS Charlotte (SSN-773) | Active | Virginia-class attack sub; sank Iranian frigate IRIS Dena with 2 Mark 48 torpedoes (first US sub torpedo kill since WWII, March 5, 2026) |
+| Additional SSNs | Presumed deployed | Standard conflict posture includes multiple Virginia-class attack subs for ASW, ISR, and strike missions |
+| Iranian Kilo-class submarines | **⚠️ UNELIMINATED THREAT** | Iran's most dangerous remaining naval asset; capable of covert mine-laying and torpedo ambushes in Hormuz constrained waters; a Kilo torpedo attack on a US warship = immediate S3 escalation threshold event |
+
+**CRITICAL — Tomahawk Magazine Depth Crisis:**
+- ~400 Tomahawks expended in first 72 hours of Operation Epic Fury
+- ~600+ expended by mid-March; ~2,080 total expended by mid-April
+- **Restocking cost:** ~$3.9B at $1.87M/missile; Raytheon production lead time: 18–24 months
+- Pentagon is actively **rationing** remaining inventory; substituting cheaper JDAMs to preserve Tomahawk reserve for Indo-Pacific contingency
+- Ohio-class SSGNs being life-extended — Iran proved them "irreplaceable"; no near-term replacement in production
+- **Strategic implication:** US precision-strike reserve for a Taiwan scenario is materially degraded for the next 18–24 months — exactly the window China is observing
+
+**Mine Warfare — Structural Hormuz Constraint:**
+- Iran physically mined the Strait of Hormuz; mines are NOT removed by a ceasefire declaration
+- Active US mine-clearing operation underway with destroyers + undersea drones
+- Mine clearing in a potentially hostile environment with Iranian Kilo-class submarines still operational = **6–10 weeks minimum** even after a full ceasefire
+- **Framework implication:** Ceasefire ≠ Hormuz reopening; oil markets stay disrupted through June–July minimum even under optimistic diplomatic scenario
+
+### Space Domain
+| Capability | US Status | Iran/China Counter |
+|-----------|-----------|---------------------|
+| GPS guidance | 500+ military/intel satellites; full coverage | Iran spoofing attempts, limited effectiveness |
+| Missile launch detection | Real-time launch coordinates fed to intercept systems; Guardians detected Iranian launches within seconds | — |
+| SATCOM jamming | Blocking Iranian ground station uplinks; Combat Forces Command Mission Delta 3 | Iran uses commercial Chinese ground network (Emposat) to bypass US jamming |
+| ISR / surveillance | Full-theater persistent coverage | **China's Earth Eye satellite provided to Iran (see below)** |
+| Space superiority declaration | US declared "space superiority" over Iran early in conflict | China's commercial satellite infrastructure partially offsets |
+
+**⚠️ CRITICAL NEW DEVELOPMENT (April 15, Financial Times):** Iran used a Chinese-built spy satellite — **Earth Eye** — to target US military bases. Key facts:
+- IRGC Aerospace Force paid ~**$36.6M in renminbi** to Chinese company Earth Eye for satellite access
+- Ground station network operated by Beijing-based **Emposat** across Asia and Latin America
+- **Targets surveilled:** Prince Sultan Air Base (Saudi Arabia, March 13–15), Muwaffaq Salti Air Base (Jordan), US Fifth Fleet HQ (Bahrain), Erbil Airport (Iraq)
+- This is not "intelligence sharing" — this is Chinese commercial space infrastructure **embedded in Iran's missile/drone targeting kill chain**
+- US Space Command says it "must adjust to Iran's use of commercial satellite photos"
+- **Scenario implication:** If US formally confronts China over this, S5 (Great Power Entanglement) immediately escalates toward 30%+
+
+### Cyber Domain
+- US Cyber Command and Space Command were **"first movers"** in Operation Epic Fury — acting before first kinetic strike to sever Iranian C2 networks, SATCOM links, and sensor webs
+- US/IDF combined operation **disabled Iranian military telecom networks** in the war's opening hours
+- Hacked and defaced IRNA (state media) and Tasnim (IRGC propaganda outlet)
+- AI-enhanced targeting: real-time attribution of Iranian missile launches feeding counter-battery systems
+- Iran conducting ongoing cyber operations against US critical infrastructure (unquantified impact)
+
+### Air Power
+- **B-2 Spirit stealth bombers** — used in opening strikes; most penetrating platform in USAF; escorted by F-22s and F-35s
+- **B-52s** — presumed staged at Diego Garcia (theater reserve strike capacity for sustained campaign)
+- **A-10 Warthogs** — operating near Hormuz (one crashed April 4, Day 36)
+
+### Ground Forces (50,000+ total in theater)
+- 82nd Airborne: ~3,500 troops forward-deployed
+- 31st MEU: ~2,500 Marines forward-deployed
+- Additional Marines and paratroopers expected with USS Bush CSG arrival
+
+---
+
 ## Scenario Ladder
 
 Five escalation scenarios with current probability weightings and key trigger events.
@@ -105,10 +185,10 @@ Five escalation scenarios with current probability weightings and key trigger ev
 - **Triggers up:** Evidence Iran attempting to weaponize fissile material, Israeli domestic political pressure for "final solution" to nuclear threat
 - **Triggers down:** Iranian nuclear leadership killed/disrupted (partially occurred), IAEA verification of program halt
 
-### S5 — Great Power Entanglement (12%)
+### S5 — Great Power Entanglement (23%)
 *Russia or China provide material military support to Iran, creating direct US confrontation risk*
-- **Triggers up:** US strike on Iranian asset supported by Russian intelligence, China deploys naval assets near strait, UNSC deadlock leads to unilateral actions
-- **Triggers down:** Back-channel US-China agreement, Russia chooses economic over military alignment (China now taking diplomatic mediator role — Apr 1; Russia confirmed providing intelligence but not material military assets)
+- **Triggers up:** US strike on Iranian asset supported by Russian intelligence, China deploys naval assets near strait, UNSC deadlock leads to unilateral actions; **NEW Apr 15: Iran confirmed using Chinese spy satellite (Earth Eye) as active targeting system against US military bases — Chinese commercial space infrastructure embedded in Iranian kill chain; Russian Ilyushin Il-76 aircraft delivering radar/electronics to Iran at high tempo**
+- **Triggers down:** Back-channel US-China agreement, Russia chooses economic over military alignment; US formally accepts Chinese "mediator" framing without confronting satellite kill-chain evidence
 
 ---
 
@@ -269,7 +349,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T1-07: US Fiscal Pressure / DoD Emergency Spending
-**Likelihood:** 88% | **Trend:** ↑↑ | **Horizon:** 60–90 days for supplemental authorization
+**Likelihood:** 92% | **Trend:** ↑↑↑ | **Horizon:** 60–90 days for supplemental authorization — Tomahawk magazine depth crisis confirmed: ~2,080 Tomahawks expended total (~$3.9B at $1.87M each), 18–24 month Raytheon production lead time to restock; Ohio-class SSGN life-extension program being rushed; USS Bush third CSG deployment; 50,000+ troops in theater; mine-clearing operations; Pentagon already rationing Tomahawks and substituting JDAMs — supplemental requirement now materially larger than initially modeled
 **Sectors:** Financials, Defense, Domestic spending | **Geographies:** US
 
 **Key Indicators:**
@@ -405,7 +485,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T2-05: Semiconductor / Tech Supply Chain Risk
-**Likelihood:** 30% | **Trend:** ↑ | **Horizon:** 6–12 months — China military weapons aid to Iran reported April 14 (material support, not just intelligence); Lavrov-Beijing coordination deepening China-Iran-Russia alignment; two US carrier groups in Middle East enforcement reduce Indo-Pacific deterrence capacity; China-Russia axis consolidation raises Taiwan opportunism risk window
+**Likelihood:** 35% | **Trend:** ↑↑ | **Horizon:** 6–12 months — China spy satellite (Earth Eye) confirmed used in Iranian kill chain targeting US military bases (FT, April 15) — Chinese commercial space infrastructure now directly facilitating attacks on US forces; US has expended ~2,000 Tomahawk cruise missiles (400+ in first 72hrs, 600+ by mid-March, ~2,080 total) creating 18–24 month restocking gap = measurable Indo-Pacific deterrence degradation during exactly the window China is watching; three US carrier strike groups in Middle East = peak CENTCOM commitment, lowest Indo-Pacific capacity; Lavrov-Wang Yi agreed to "de-escalate" but Russian military hardware deliveries ongoing; China-Iran-Russia axis consolidating
 **Sectors:** Technology, Semiconductors, Consumer Electronics | **Geographies:** Taiwan, South Korea, Japan, US
 
 **Mechanism:** Gulf states (Saudi Arabia, UAE) are major energy sources for Asian semiconductor fabs; prolonged energy disruption raises fab operating costs. Rare earth routes through Middle East also affected. More critically, US military focus on Middle East reduces deterrence capacity in Indo-Pacific — raising Taiwan risk.
@@ -708,7 +788,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 
 ## Key ETF Sector Positioning
 
-*Based on active scenario weighting (S1: 9%, S2: 42%, S3: 39%, S4: 9%, S5: 18%) and current indicator readings. 30d = next 30 days, 60d = next 60 days, 90d = next 90 days. ↑ = expected to outperform / appreciate, ↓ = expected to underperform / depreciate, → = neutral / range-bound. "vs. Last Briefing" reflects change in trend direction since Apr 14 briefing. "vs. Last Briefing" ↑/↓ = improved/worsened trend vs. Apr 14.*
+*Based on active scenario weighting (S1: 9%, S2: 42%, S3: 39%, S4: 9%, S5: 23%) and current indicator readings. 30d = next 30 days, 60d = next 60 days, 90d = next 90 days. ↑ = expected to outperform / appreciate, ↓ = expected to underperform / depreciate, → = neutral / range-bound. "vs. Last Briefing" reflects change in trend direction since Apr 14 briefing. "vs. Last Briefing" ↑/↓ = improved/worsened trend vs. Apr 14.*
 
 | Sector | Key ETFs | 30d | 60d | 90d | vs. Last Briefing | Thesis |
 |--------|----------|-----|-----|-----|-------------------|--------|
@@ -807,7 +887,7 @@ Load this document into Claude and ask:
 | 2026-04-12 | Daily agent | Islamabad talks COLLAPSED (21hrs, no deal — Vance flew home empty-handed; Iran refused nuclear weapons commitment; nuclear sovereignty now Iran's publicly stated red line; Ghalibaf blamed US "excessive demands"); S1 ↓17%; S2 ↑48%; S3 ↑29%; S4 ↑9%; S5 ↑13%; T1-06 ↑75%; T2-01 ↑58%; T2-03 ↑63%; T2-04 ↑60%; T3-05 ↑52%; China material support to Iran's missile program confirmed (ISW/CTP); Lebanon operations escalating overnight; April 24 ceasefire expiry now hard binary with no framework; Monday market repricing risk (Brent toward $100–103, VIX toward 24–27, S&P selloff); ETF: XLE/XOP ↑↑ (upgrade — oil rebound), GLD ↑↑ (upgrade — geopolitical premium returning), VIXY ↑↑ (major upgrade — VIX spike), JETS ↓↓ (downgrade), XLY ↓/60d↓ (deepening downgrade), EEM ↓ (downgrade), FRO/STNG 60d ↑↑ (upgrade — extended disruption), UUP →/↑ (modest upgrade — safe-haven bid), Consumer Discretionary 60d/90d downgraded |
 | 2026-04-13 | Daily agent | US naval blockade of all Iranian ports (10am ET); Brent +7–8% to $101–103 (broke $100 threshold); three tankers testing Hormuz non-Iran carve-out (live confrontation risk); IRGC "piracy" condemnation; Houthis fired Iranian-supplied drones/missiles at Israel (intercepted); markets "less reactive" — VIX ~21–23 (contained), equities modest decline, gold −0.7% (EM CBs liquidating); DXY +0.5% to 99.19; ~20,000 Indian crew stranded in Hormuz; S1 ↓12%; S2 ↑50%; S3 ↑31%; S5 ↑14%; T1-06 ↑80%; T2-01 ↑63%; ETF: XLE/XOP 30d ↑↑↑ (upgrade — $100 broken, blockade), GLD 30d ↓ to ↑ (EM CB selling headwind), VIXY 30d moderated ↑↑→↑ (risk priced in), UUP confirmed ↑ (DXY +0.5% realized); IMF WEO releases tomorrow |
 | 2026-04-14 | Daily agent | Lavrov in Beijing for Wang Yi talks (highest-level Russia-China coordination since war began); China military weapons aid to Iran reported (escalation from intelligence to material support); VIX anomalously low at 19.15 ("game of chicken" mispricing — snap risk to 28–35+); DXY reversed to 98.39 (safe-haven bid fleeting; UK NATO-divergence); Brent modest pullback to ~$98–99 on second-meeting reports; IMF WEO released (global growth downgraded; World Bank +300bp inflation even ceasefire scenario); sanctioned tankers Rich Starry + Elpis testing blockade; ceasefire expires April 24 (10 days); S1 ↓10%; S2 ↓46%; S3 ↑34%; S5 ↑18%; T1-04 ↓40%; T2-05 ↑30%; T3-03 ↑88%; ETF upgrades: MOO ↑↑↑, WEAT ↑↑, GLD ↑↑, FRO ↑↑↑, VIXY ↑↑; ETF changes: UUP ↓↓ (reversed ↑); XLE 60d ↑↑; EEM 30d ↓↓ |
-| 2026-04-15 | Daily agent | MAJOR ESCALATION: Israel strikes 100+ Lebanon targets in under 10 min, 182 killed (war's highest single-day Lebanon death toll, largest assault since March 1); Trump signals second talks "over next two days"; FRAMEWORK CORRECTION — ceasefire expires April 21 (6 days, not April 24 as previously tracked); Russian Il-76 aircraft delivering radar/electronics to Iran at "high tempo"; VIX further drops to 18.22 (most extreme mispricing since war began); DXY hits 6-week low; Brent ~$95–97; WTI below $92; Iraq militias returning to battlefield; Hezbollah resuming attacks; S1 ↓9%; S2 ↓42%; S3 ↑39%; S4/S5 unchanged; T1-06 ↑85% (from 80%); ETF: ITA/XAR ↑ (Lebanon escalation strengthens defense); VIXY ↑ (VIX 18.22 = extreme mispricing + 6-day binary); energy/gold/shipping/EM maintained; UUP confirmed ↓↓ at 6-week low |
+| 2026-04-15 | Daily agent | MAJOR ESCALATION: Israel strikes 100+ Lebanon targets in under 10 min, 182 killed (war's highest single-day Lebanon death toll, largest assault since March 1); Trump signals second talks "over next two days"; FRAMEWORK CORRECTION — ceasefire expires April 21 (6 days, not April 24 as previously tracked); Russian Il-76 aircraft delivering radar/electronics to Iran at "high tempo"; VIX 18.22 (most extreme mispricing since war began); DXY 6-week low; Brent ~$95–97; WTI below $92; Iraq militias returning; Hezbollah resuming attacks; S1 ↓9%; S2 ↓42%; S3 ↑39%; S5 ↑23% (Chinese Earth Eye satellite in Iranian kill chain targeting US bases — FT confirmed); T1-06 ↑85%; T2-05 ↑35%; T1-07 ↑92%; ETF: ITA/XAR ↑ (defense); VIXY ↑ (VIX 18.22); UUP ↓↓; ADDED: Full-Spectrum Military Deployment section (3 CSGs, submarines, Tomahawk crisis, mine warfare, Space/Cyber domains, Chinese satellite kill chain) |
 
 ---
 
