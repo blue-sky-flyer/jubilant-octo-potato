@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-04-18*
+*Last updated: 2026-04-19*
 
 ---
 
@@ -14,8 +14,10 @@ Key structural facts that persist:
 - Mojtaba Khamenei confirmed as new Supreme Leader (Apr 3) — hardliner, less incentive to deal
 - Iran formalizing $2M Hormuz toll in yuan/crypto (Apr 11) — monetizing the blockade
 - US naval blockade of Iranian ports imposed Apr 13
-- Lebanon ceasefire (10 days, effective Apr 17) — reduces S3 pressure temporarily
-- April 21 is the next critical trigger: US-Iran ceasefire expiry + Monday market open
+- Lebanon ceasefire (10 days, effective Apr 17) — Day 3 holding; all three proxy fronts quiet
+- US-Iran ceasefire extension "agreed in principle" (Apr 19) — formal announcement pending before April 21; Iran demanding Lebanon be included in any deal
+- Iran clearing missile base debris during ceasefire — using diplomatic pause to restore offensive capability
+- April 21 remains key date: formal extension announcement expected before Monday market open
 
 ---
 
@@ -29,7 +31,7 @@ Apr 5: No update (agent stall). Apr 6: 45-day ceasefire proposal active; F-15E c
 
 ---
 
-## Daily Log (Apr 12 – Apr 17)
+## Daily Log (Apr 12 – Apr 18)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
@@ -39,37 +41,50 @@ Apr 5: No update (agent stall). Apr 6: 45-day ceasefire proposal active; F-15E c
 | Apr 15 | Israel strikes 100+ Lebanon targets (182 killed); ceasefire expires Apr 21 (not Apr 8 as thought); VIX extreme mispricing | S3 ↑39% | ~$100 | 18.22 (mispriced) |
 | Apr 16 | Chinese satellite kill chain analysis (S5 ↑23%); Pakistan Army Chief Munir to Tehran; White House "feels good"; second-round talks signaled | S5 ↑23% | ~$100 | — |
 | Apr 17 | Lebanon-Israel 10-day ceasefire effective 5pm | S3 ↓37%→33% | ~$99 | — |
+| Apr 18 | HORMUZ WHIPSAW: Iran declared Strait "completely open" (Brent −9% to $90.38; S&P/Nasdaq ATH), then re-closed within 24 hrs; IRGC gunboats fired on tankers; Iran rejected Trump nuclear suspension claim; Lebanon ceasefire Day 2 holding | S1 ↑13%, S2 ↑41%, S3 ↓30%, S4 ↓8%, S5 ↓19% | ~$90.38→$97 bounce | ~15–17 (extreme misprice) |
 
 ---
 
-## Yesterday — Full Detail (Apr 18, Day 50)
+## Yesterday — Full Detail (Apr 19, Day 51)
 
-**Overall situation:** Iran's "Hormuz whipsaw" — declared Strait "completely open" triggering Brent's largest single-day crash (-9% to $90.38 and S&P record), then re-closed within 24 hours after US refused to lift naval blockade. IRGC gunboats fired on tankers. Iran rejected Trump's claim of nuclear suspension agreement. Lebanon ceasefire holds Day 2. April 21 is the dual trigger: US-Iran ceasefire expiry + Monday market open.
+**Overall situation:** Regional officials report the US and Iran have "agreed in principle" to a two-week ceasefire extension beyond the April 21 expiry, with Iran's parliamentary speaker citing "progress" — but no formal announcement has been made, Hormuz remains operationally closed, and Iran is simultaneously demanding Lebanon be included in any final deal. All three proxy fronts (Lebanon, Iraq, Houthis) are quiet for a third consecutive day. Iran was observed clearing missile base debris during the ceasefire — a preparation signal.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 13% | ↑ |
-| S2: Partial Hormuz disruption (ACTIVE) | 41% | ↑ |
-| S3: Regional war / full proxy activation | 30% | ↓ |
-| S4: Nuclear dimension | 8% | ↓ |
-| S5: Great power entanglement | 19% | ↓ |
+| S1: Limited/air campaign baseline | 15% | ↑ from 13% |
+| S2: Partial Hormuz disruption (ACTIVE) | 43% | ↑ from 41% |
+| S3: Regional war / full proxy activation | 27% | ↓ from 30% |
+| S4: Nuclear dimension | 8% | → unchanged |
+| S5: Great power entanglement | 19% | → unchanged |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | ~$90.38/bbl | 🟡 ELEVATED (post-whipsaw crash) |
-| Hormuz transits/day | blocked (re-closed Apr 18) | 🔴 HIGH |
-| VIX | ~15–17 | 🔴 HIGH (extreme mispricing — hasn't priced Apr 21 risk) |
-| S&P 500 | record high intraday | 🟡 ELEVATED (false signal) |
+| Brent crude | ~$97.68/bbl (−0.42%; range $96.25–$99.39) | 🟡 ELEVATED |
+| WTI crude | ~$92–$94/bbl | 🟡 ELEVATED |
+| US gas price | ~$4.00–$4.05/gal | 🔴 HIGH |
+| Hormuz transits/day | ~0–2 (still closed) | 🔴 EXTREME |
+| War-risk insurance | ~0.65–0.80% hull/transit | 🔴 EXTREME |
+| EU TTF gas | ~€48–52/MWh | 🔴 HIGH |
+| Urea (fertilizer) | ~$695–715/mt | 🔴 EXTREME |
+| VIX | 17.48 (↓ −2.56%; still mispriced) | 🔴 MISPRICE |
+| USD DXY | ~98.19 (flat) | 🟡 ELEVATED |
+| Gold | ~$4,650–$4,750/oz | 🟡 ELEVATED |
 
 **Key developments:**
-- Iran opened Hormuz, Brent crashed 9%, S&P hit record — then Iran re-closed within hours
-- IRGC gunboats fired on tankers after re-closure
-- Iran publicly rejected Trump's claim that Iran agreed to nuclear suspension
-- Lebanon-Israel ceasefire holds Day 2 (expires Apr 21)
-- Critical mispricing: VIX at 15–17 has not priced Saturday's re-close, gunboat attacks, or Apr 21 expiry risk
+- Ceasefire extension "agreed in principle" per regional officials; Iran parliament speaker cites "progress"; new talks expected in Islamabad imminently; no formal announcement yet
+- Iran demands Lebanon be included in any ceasefire deal — complicating factor; could block extension
+- Hormuz remains closed; Iran "no date set for US talks"; tankers still turning back
+- Iran clearing missile base debris during ceasefire — using pause to restore offensive capability
+- IMF: global growth 3.1% (from 3.3%); inflation 4.4%; worst case 2% = recession threshold
+- Lebanon ceasefire Day 3 holding; Iraq militia ceasefire in effect; Houthis subdued — all proxy fronts quiet
 
-**Upgraded risks:** Snap VIX move to 25–35+ on Monday open; 35–45+ if ceasefire collapses + proxy re-activation
-**Downgraded risks:** S3 proxy escalation (Lebanon ceasefire holding)
-**Watch:** April 21 — ceasefire expiry date and Monday market open coincide
+**Upgraded risks:** Extension scenario (S1/S2 hybrid) — most credible de-escalation signal since Apr 8; but Lebanon linkage + missile clearing + no formal announcement are counterweights
+**Downgraded risks:** T1-06 Hezbollah/Proxy Escalation (73%→68%); April 21 VIX snap event (extension "in principle" reduces but does not eliminate risk)
+**Watch:** 
+- Formal extension announcement before Sunday night Asia open (most important near-term event)
+- Lebanon inclusion demand resolution (structural complication that could block extension)
+- Iran missile base debris clearing pace (signals Iran's post-ceasefire intentions)
+- Iraqi Islamic Resistance ceasefire expiry (April 24)
+- USS George H.W. Bush CSG arrival (~early May)
