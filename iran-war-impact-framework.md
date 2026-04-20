@@ -321,7 +321,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T1-06: Hezbollah / Proxy Escalation (Active Threat)
-**Likelihood:** 68% (Lebanon ceasefire Day 3 holding — no confirmed Hezbollah activity; Iraq's Islamic Resistance ceasefire still in effect through April 24; Houthis subdued; all three proxy fronts simultaneously de-escalated for third consecutive day; ceasefire extension "agreed in principle" reduces April 21 collapse risk; Iran's Lebanon inclusion demand is key residual re-activation risk; net −5%) | **Trend:** ↓↓ (three-front proxy pause now in its third day — longest quiet streak since Feb 28 war start; extension signals reduce near-term collapse risk; Lebanon inclusion demand is the key complication) | **Horizon:** Lebanon ceasefire 10-day window (through ~April 27); US-Iran ceasefire extension pending formal announcement
+**Likelihood:** 75% (US Navy seized Iranian cargo ship *TOUSKA* April 20 — Iran vowed "swift retaliation"; ceasefire at brink (expires April 22) with no extension mechanism; Iraq militia ceasefire expires April 24 with no extension path; Lebanon ceasefire Day 4 still holds but Iran retaliation could cascade all three fronts simultaneously; +7% from 68%) | **Trend:** ↑ (reversed from ↓↓ — ship seizure + ceasefire collapse + Iran retaliation vow = proxy reactivation risk sharply higher than April 19 assessment; Lebanon ceasefire is the sole remaining brake) | **Horizon:** Iran retaliation window 24–72 hours; Iraq militia ceasefire expiry April 24; Lebanon ceasefire through ~April 27
 **Sectors:** Defense, Energy, Tourism, EM stability | **Geographies:** Lebanon, Israel, Iraq, Yemen, Syria
 
 **Current state:** Hezbollah escalated March 2 with coordinated rocket/drone barrage. Iraqi militias conducting 16+ operations/day against US forces. **Houthis confirmed entry March 28** — fired ballistic missile toward Israel, threatening Bab al-Mandab as second global shipping chokepoint. Full proxy network (Hezbollah, Iraqi PMF, Houthis) now operationally active simultaneously.
@@ -370,7 +370,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T2-01: Global Recession Risk
-**Likelihood:** 63% | **Trend:** ↑↑ | **Horizon:** 6–12 months — US naval blockade of Iranian ports April 13; Brent confirmed at $101–103 (+7–8%), breaking $100 threshold; stagflation pipeline locked in indefinitely with no relief timeline; IMF WEO releases TOMORROW April 14 (Oxford Economics prolonged-war scenario: 7.7% global inflation + outright GDP contraction); OECD US 2026 inflation at 4.2%; Germany/Italy projected technical recession; CPI 3.3% with no relief path; UN WFP: 363M people at food insecurity risk if oil stays above $100
+**Likelihood:** 68% | **Trend:** ↑↑↑ | **Horizon:** 6–12 months — Ceasefire collapse (April 22 expiry, no extension) + *TOUSKA* seizure + Iran retaliation vow = prolonged disruption now base case; Brent retargeting $100+ at Monday open; IMF worst-case 2% growth scenario (recession threshold) now the modal outcome if ceasefire collapses and Hormuz stays closed through June; OECD US 2026 inflation 4.2%; Germany/Italy technical recession forecasts confirmed; UN WFP: 363M food insecurity risk; +5% from 63%
 **Sectors:** All | **Geographies:** Global, worst in EU, South/Southeast Asia, Africa
 
 **Mechanism:** Oil-driven stagflation → central bank paralysis (can't cut without worsening inflation) → demand destruction → recession. Historically, every major oil shock since 1973 has been followed by recession.
