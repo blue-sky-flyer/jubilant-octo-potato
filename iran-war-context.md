@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-04-21*
+*Last updated: 2026-04-22*
 
 ---
 
@@ -15,12 +15,14 @@ Key structural facts that persist:
 - Iran formalizing $2M Hormuz toll in yuan/crypto (Apr 11) — monetizing the blockade
 - US naval blockade of Iranian ports imposed Apr 13
 - Lebanon ceasefire (10 days, effective Apr 17) — Day 5 holding; threatened by Iran's retaliation vow for *TOUSKA* seizure
-- **US Navy seized Iranian cargo ship *TOUSKA* (Apr 20)** — first US-Iran naval seizure of conflict; Iran vows "swift retaliation"; escalation threshold crossed
-- **Iran pulled out of Islamabad talks Round 2 (Apr 20)** — calls US demands "childish"; ceasefire expires April 22 with no extension mechanism
-- **April 21 US market open (Easter Monday)**: VIX partial correction to 18.98 (+8.58%); Brent flat ~$95.22; Easter Monday thin European liquidity cushioned the snap vs. projected VIX 22–30 / Brent $100+
-- **Ceasefire expires April 22 (tomorrow)** — Vance departed for Islamabad; Iran NOT sending delegation; Trump: extension "highly unlikely"; Iran judiciary confirms *TOUSKA* retaliation "coming" but not yet executed (24+ hrs into 24–72 hr window)
+- **US Navy seized Iranian cargo ship *TOUSKA* (Apr 20)** — first US-Iran naval seizure of conflict; Iran vowed "swift retaliation"
+- **Iran pulled out of Islamabad talks Round 2 (Apr 20)** — calls US demands "childish"
+- **Trump extends ceasefire (Apr 22)** — major reversal; waiting for Iran's "fractured" government to "unify around a proposal"; blockade remains in force; Iran NOT sending delegation; insists no talks under blockade
+- **Iran executes *TOUSKA* retaliation (Apr 22)** — drone strike on US ships; no damage; proportional restraint chosen over kinetic escalation
+- **Iranian gunboat fires on container ship near Hormuz (Apr 22)** — post-extension announcement; extension does not cover Hormuz enforcement
+- **Hezbollah violates Lebanon ceasefire Day 5 (Apr 22)** — rockets fired at IDF; IDF struck launchers; Lebanon ceasefire (expires Apr 27) under active stress
 - Iran parliament advancing law to institutionalize Hormuz blockade for "hostile" countries
-- Iran clearing missile base debris during ceasefire — using pause to restore offensive capability
+- Iran cleared missile base debris during ceasefire — used pause to restore offensive capability
 
 ---
 
@@ -34,10 +36,11 @@ Apr 5: No update (agent stall). Apr 6: 45-day ceasefire proposal active; F-15E c
 
 ---
 
-## Daily Log (Apr 12 – Apr 20)
+## Daily Log (Apr 12 – Apr 21)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| Apr 21 | Easter Monday; Vance departs Islamabad; Iran sends NO delegation; VIX partial correction +8.58% to 18.98 (vs. 22–30 projected — Easter Monday thin liquidity); Brent flat ~$95.22; Hormuz ~7 ships; Iran judiciary confirms *TOUSKA* retaliation "coming" (24+ hrs in); both sides accuse each other of breaches; IMF/Oxford recession risk confirmed | S1 ↓8%, S3 ↑34% | $95.22 (flat) | 18.98 (+8.58%) |
 | Apr 20 | US Navy seized *TOUSKA* (Gulf of Oman; USS Spruance; Marines took custody); Iran vows "swift retaliation"; Iran pulled out of Islamabad talks Round 2 ("childish demands"); ceasefire expires April 22 with no extension mechanism; Hormuz zero transits; Iran parliament advancing Hormuz blockade law; Lebanon ceasefire Day 4 holding | S1 ↓9%, S2 ↑44%, S3 ↑33% | $95.42 (+5.58%) | 17.48 (extreme misprice) |
 | Apr 12 | Islamabad talks COLLAPSED — Vance flew home empty-handed; Iran refused nuclear commitment | S3 ↑29%, S4 ↑9% | ~$100 | elevated |
 | Apr 13 | US imposes naval blockade of Iranian ports | S2 active, S3 rising | breaks $100 | — |
@@ -50,48 +53,48 @@ Apr 5: No update (agent stall). Apr 6: 45-day ceasefire proposal active; F-15E c
 
 ---
 
-## Yesterday — Full Detail (Apr 21, Day 53)
+## Yesterday — Full Detail (Apr 22, Day 54)
 
-**Overall situation:** Easter Monday. Ceasefire expires tomorrow (April 22) with no Iranian delegation dispatched to Islamabad — VP Vance departed for Pakistan with a senior US team but Iran's side remained absent; Trump called extension "highly unlikely" without a deal before Wednesday. Iran's head of judiciary confirmed retaliation for *TOUSKA* is "coming" but has not yet been executed (24+ hours into projected 24–72 hr window). Markets delivered a more muted correction than projected: VIX +8.58% to 18.98 (vs. 22–30 target); Brent flat ~$95.22 (vs. $100+ projected); Easter Monday thin European liquidity dampened the snap-back.
+**Overall situation:** Trump unexpectedly reversed course and extended the ceasefire "until negotiations conclude," citing Tehran's "seriously fractured" government — a major diplomatic surprise after his April 21 "highly unlikely" stance. The extension did not end hostilities: Iran executed its *TOUSKA* retaliation via attack drones on US ships (no damage); an Iranian gunboat fired on a container ship near Hormuz hours after the announcement; Hezbollah violated the Lebanon-Israel ceasefire with rocket fire on Day 5 (IDF struck Hezbollah launchers in response). US naval blockade remains fully in force. Hormuz effectively closed. Markets counterintuitively: VIX fell to ~16 on extension relief; Brent rose to ~$98–99/bbl as the blockade-and-closed-strait base case hardened.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 8% | ↓ from 9% |
-| S2: Partial Hormuz disruption (ACTIVE) | 44% | → unchanged |
-| S3: Regional war / full proxy activation | 34% | ↑ from 33% |
-| S4: Nuclear dimension | 8% | → unchanged |
+| S1: Limited/air campaign baseline | 11% | ↑ from 8% |
+| S2: Partial Hormuz disruption (ACTIVE) | 46% | ↑ from 44% |
+| S3: Regional war / full proxy activation | 29% | ↓ from 34% |
+| S4: Nuclear dimension | 7% | ↓ from 8% |
 | S5: Great power entanglement | 19% | → unchanged |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | ~$95.22/bbl (flat on day) | 🔴 HIGH |
-| WTI crude | ~$90–$91/bbl | 🔴 HIGH |
-| US gas price | ~$4.00–$4.05/gal | 🔴 HIGH |
-| Hormuz transits/day | ~7 Monday (near standstill; brief Saturday uptick to 20 reversed by Sunday vessel attacks) | 🔴 EXTREME |
-| War-risk insurance | ~0.75–0.90% hull/transit; freight rates +50–200% across segments | 🔴 EXTREME |
+| Brent crude | ~$98–99/bbl (+3–4%) | 🔴 HIGH |
+| WTI crude | ~$89.49/bbl | 🔴 HIGH |
+| US gas price | ~$3.98/gal (diesel $5.37/gal) | 🔴 HIGH |
+| Hormuz transits/day | Near standstill; Iranian gunboat fired on container ship post-extension | 🔴 EXTREME |
+| War-risk insurance | ~0.75–0.90% hull/transit; freight rates +50–200% | 🔴 EXTREME |
 | EU TTF gas | ~€48–52/MWh | 🔴 HIGH |
-| Urea (fertilizer) | ~$695–715/mt | 🔴 EXTREME |
-| VIX | 18.98 (+8.58% on day; partial correction; projected 22–30 not reached — Easter Monday thin liquidity) | 🟡 ELEVATED |
-| USD DXY | ~98.24 (+0.14%; modest safe-haven bid) | 🟡 ELEVATED |
-| Gold | Modestly higher (safe-haven partial bid on retaliation risk) | 🟡 ELEVATED |
+| Urea (fertilizer) | ~$700/mt | 🔴 EXTREME |
+| S&P 500 | Modest positive (extension relief) | 🟢 NORMAL |
+| VIX | ~16 (↓ from 18.98; counterintuitive — extension dominated despite retaliation execution; still structurally underpriced) | 🟡 ELEVATED |
+| USD DXY | ~98.35 (flat) | 🟡 ELEVATED |
+| Gold | Modestly higher (retaliation + gunboat attack offset by extension relief) | 🟡 ELEVATED |
 
 **Key developments:**
-- No Iranian delegation sent to Islamabad; Vance departed for Pakistan with US team; Iran state TV confirmed absence — "deal or no deal" signal pending
-- Iran judiciary head confirms *TOUSKA* retaliation "coming" — 24+ hrs into projected 24–72 hr window without execution; may signal last-ditch diplomatic calculation or force repositioning
-- VIX partial correction to 18.98 (+8.58%); Brent flat ~$95.22; Easter Monday thin European liquidity + residual deal hope (~40–50% implied) suppressed full snap
-- Hormuz ~7 ships Monday (minimal; brief Saturday uptick of 20 ships reversed by Sunday vessel attacks)
-- Both sides accuse each other of ceasefire breaches: Iran cites *TOUSKA*; Washington cites Hormuz closure and vessel attacks
-- IMF/Oxford confirmed recession risk: worst-case global growth ~2% (recession threshold); inflation 4.4%; 45M additional acute hunger
+- Trump extends ceasefire (major reversal from April 21 "highly unlikely") — waiting for Iran to "unify around a proposal"; Iran has NOT sent delegation to Islamabad; insists it won't negotiate under blockade
+- TOUSKA retaliation executed as drone strike (no damage to US ships) — mild; Iran chose proportional restraint vs. feared kinetic escalation
+- Iranian gunboat fired on container ship near Hormuz post-extension — extension does not cover Hormuz enforcement
+- Hezbollah violated Lebanon ceasefire Day 5 with rockets; IDF struck Hezbollah launchers — Lebanon ceasefire (expires April 27) under active stress
+- VIX fell to ~16 (counterintuitive); Brent rose to $98–99 approaching $100 threshold
+- Russia/China in strategic attrition: China buying 1.5M bpd Iranian crude; Russia accruing ~$161B windfall; both providing satellite intelligence to Iran
 
-**Upgraded risks:** S3 (+1% to 34%) — ceasefire one day from expiry; retaliation pending; Iraq militia ceasefire April 24 approaching; thin diplomatic margin
-**Downgraded risks:** VIX extreme misprice thesis — partial realization only (18.98 vs. 22–30 projected); Easter Monday thin liquidity was dampening factor; full correction deferred to April 22 or Iran retaliation. Brent $100 retest — did not materialize; $95 floor held.
+**Upgraded risks:** S2 (+2% to 46%) — blockade confirmed maintained; Hormuz closed post-extension; Lebanon ceasefire stability endangered (Day 5 violation)
+**Downgraded risks:** S3 (−5% to 29%) — TOUSKA retaliation was mild; ceasefire extended; net de-escalation vs. feared kinetic scenario. T1-06 (75%→70%); T2-01 (68%→63%)
 **Watch:**
-- Iranian delegation arrival or non-arrival in Islamabad — definitive "deal or no deal" signal; if absent by Tuesday EOD, ceasefire collapse near-certain
-- Iran retaliation for *TOUSKA* — 24+ hrs in without execution; if no strike by Tuesday, may signal diplomatic track chosen; if executed, immediate S3
-- April 22 ceasefire expiry (tomorrow) — hard deadline; renewed hostilities = Brent $100+, VIX 25+, S&P selloff
-- VIX correction completion — partial correction likely completes Wednesday on ceasefire expiry news; VIXY thesis intact
-- Iraq Islamic Resistance ceasefire expiry (April 24) — 3 days; lapse likely given talks dead and *TOUSKA* seizure
-- Iran parliament Hormuz blockade law vote — if passed, institutionalizes blockade permanently
-- USS George H.W. Bush CSG arrival (~early May) — third CSG as coercive signal
+- Iran delegation to Islamabad — absence this week = extension expires without progress; renewed hostilities
+- Lebanon ceasefire expiry (April 27) — 5 days; Day 5 already violated; collapse = S3 re-activation via Hezbollah-Israel full resumption
+- Iraq Islamic Resistance ceasefire (April 24) — 2 days; expected to lapse
+- Next IRGC Hormuz action — extension appears not to cover maritime enforcement; further attacks test US ROE
+- Brent $100 threshold — at $98–99; breach = renewed inflation/recession risk-off
+- USS George H.W. Bush CSG arrival (~early May) — third CSG confirms US has not stood down
