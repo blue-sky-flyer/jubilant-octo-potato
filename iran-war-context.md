@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-04-25*
+*Last updated: 2026-04-26*
 
 ---
 
@@ -23,7 +23,7 @@ Key structural facts that persist:
 - **Iraq Islamic Resistance ceasefire EXPIRED April 24** — full proxy escalation pathway restored; Iran gave field commanders more autonomy
 - **Trump issues "shoot and kill" order for IRGC mine-laying boats (Apr 23/24)** — most aggressive US ROE since war began; mine-clearing tripled
 - **China-Russia-Iran joint IAEA meeting April 24** — highest-level nuclear coordination among three powers since war began
-- **3rd round US-Iran nuclear talks scheduled April 26, Muscat** — Iran FM Araghchi traveling to Islamabad as precursor; nuclear sovereignty Iran's hard red line
+- **Islamabad talks COLLAPSED April 26** — Trump canceled Witkoff/Kushner delegation trip citing Iranian "infighting and confusion"; Araghchi already in Pakistan; Trump claims Iran submitted "much better offer" ~10 mins after cancellation (content undisclosed); CTP-ISW confirms IRGC Vahidi hardliner has upper hand over pragmatist Ghalibaf — structural block on Iranian unified proposal; no resolution framework now exists
 - Iran parliament advancing law to institutionalize Hormuz blockade for "hostile" countries
 - **Three US aircraft carriers (USS Lincoln, Ford, Bush) now simultaneously in Middle East (Apr 24–25)** — first time since 2003 Iraq invasion; 200+ aircraft, 15,000+ sailors/Marines; three-CSG posture = "Round 2" strike readiness (Operation Epic Fury); blockade has redirected 34 ships
 - **Iraq militia drones struck Kuwaiti border posts (Apr 25)** — first confirmed proxy attack since Iraq Islamic Resistance 2-week ceasefire expired April 24; proxy re-activation confirmed; no US casualties yet but escalation to US base strikes imminent
@@ -44,10 +44,11 @@ The week of maximum geopolitical shock and market misprice. Islamabad talks coll
 
 ---
 
-## Daily Log (Apr 19 – Apr 24)
+## Daily Log (Apr 19 – Apr 25)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| Apr 25 | Three US carriers (USS Lincoln, Ford, Bush) confirmed simultaneously in Middle East — first since 2003; Iraq militia drones hit Kuwaiti border posts (first post-ceasefire proxy attack); US sanctions Hengli Petrochemical (Dalian, ~400k bpd) + ~40 shippers for Iranian oil — direct US-China confrontation; Witkoff/Kushner fly to Islamabad (indirect talks only); IEA: LNG tight through 2026–2027; Treasury: no waivers for Russian or Iranian oil; Brent $105.33 (−0.6% on talks optimism); VIX 18.63 (still misprice) | S1 ↓9%, S2 ↓41%, S3 ↑38%, S4 →10%, S5 ↑23% | $105.33 (−0.6%) | 18.63 (misprice) |
 | Apr 24 | Iraq Islamic Resistance ceasefire EXPIRED — full proxy escalation pathway restored; Trump issues "shoot and kill" order for IRGC mine-laying boats (most aggressive US ROE since war began); China-Russia-Iran joint IAEA meeting in Vienna (highest-level nuclear coordination since war began); Lebanon-Israel ceasefire extended 3 weeks by Trump (Apr 23); Iran FM Araghchi traveling to Islamabad; 3rd nuclear round scheduled Apr 26 Muscat; Brent ~$106 (+$3); VIX 18.92 (unchanged, deeply mispriced) | S1 ↑10%, S2 ↓42%, S3 ↑36%, S4 ↑10%, S5 ↑21% | ~$106 (+$3) | 18.92 (still misprice) |
 | Apr 23 | IRGC seizes 2 commercial ships in Hormuz (MSC Francesca + Epaminondas) + fires on third; US counter-seizes Iranian oil tanker in Indian Ocean; Brent crosses $100 ($103.38, +1.44%); urea $800-900/mt (crosses alert threshold); peace talks in limbo; Iraq militia ceasefire expires TOMORROW; Lebanon ceasefire Day 6 under stress; Trump announces Lebanon-Israel 3-week extension (late in day, missed in briefing); Trump "shoot and kill" order for IRGC mine-laying boats issued (captured in Apr 24 briefing) | S1 ↓9%, S2 →44%, S3 ↑33%, S4 →7%, S5 →19% | $103.38 (+1.44%) | 18.92 (↑ from ~16) |
 | Apr 22 | Trump extends ceasefire open-ended (major reversal); TOUSKA retaliation executed as mild drone strike (no damage); Iranian gunboat fires on container ship; Hezbollah violates Lebanon ceasefire Day 5 (rockets + IDF response); VIX falls counterintuitively to ~16; blockade confirmed maintained; China buying 1.5M bpd Iranian crude; Russia ~$161B windfall | S1 ↑11%, S2 ↑46%, S3 ↓29%, S4 ↓7%, S5 →19% | $98–99 (+3–4%) | ~16 (↓; misprice) |
@@ -57,52 +58,51 @@ The week of maximum geopolitical shock and market misprice. Islamabad talks coll
 
 ---
 
-## Yesterday — Full Detail (Apr 25, Day 57)
+## Yesterday — Full Detail (Apr 26, Day 58)
 
-**Overall situation:** Three of yesterday's watch items materialized in sequence: (1) USS George H.W. Bush CSG confirmed in theater — three US carriers now in the Middle East for the first time since 2003, peak Operation Epic Fury strike capacity; (2) Iraqi militia drones struck northern Kuwaiti border posts — first confirmed proxy attack since the Iraq ceasefire expired April 24, S3 pathway activated; (3) US sanctioned a major Chinese oil refinery and ~40 shipping firms/tankers for Iranian oil — most direct US-China economic confrontation since the Earth Eye satellite revelation. Diplomatically, Witkoff and Kushner flew to Islamabad; Araghchi present; but Iran confirmed indirect talks only through Pakistan mediation (no direct talks). No "shoot and kill" execution vs. IRGC mine-layers (24+ hrs without = marginal relief). Brent settled $105.33 (−0.6% on talks optimism); VIX 18.63 (down from 18.92 — still deeply mispriced).
+**Overall situation:** The Islamabad peace process collapsed — Trump canceled the Witkoff/Kushner delegation trip citing Iranian "infighting and confusion," even as FM Araghchi had already arrived in Pakistan. A critical countervailing signal: Trump then claimed Iran submitted a "much better" offer ~10 minutes after the cancellation, contents undisclosed. CTP-ISW confirms IRGC hardliner Vahidi retains dominance over pragmatist Ghalibaf — the structural cause of Iran's inability to produce a unified negotiating position and the core reason for the breakdown. Hormuz transits deteriorated to ~5/day (from ~8 Friday). Markets closed before the talks collapse news broke; Monday open is the first test — VIX snap from 18.6 toward 22–28 is the base case, Brent expected to probe $108–110 on recovery of Friday's −0.6% pullback.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 9% | ↓ from 10% |
-| S2: Partial Hormuz disruption (ACTIVE) | 41% | ↓ from 42% |
-| S3: Regional war / full proxy activation | 38% | ↑ from 36% |
+| S1: Limited/air campaign baseline | 7% | ↓ from 9% |
+| S2: Partial Hormuz disruption (ACTIVE) | 38% | ↓ from 41% |
+| S3: Regional war / full proxy activation | 42% | ↑ from 38% |
 | S4: Nuclear dimension | 10% | → |
-| S5: Great power entanglement | 23% | ↑ from 21% |
+| S5: Great power entanglement | 23% | → |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | $105.33/bbl settled (−0.6% Friday; Iraq attack offsets talks optimism) | 🔴 HIGH |
-| WTI crude | ~$100–101/bbl (above $100 third consecutive session) | 🔴 HIGH |
-| US gas price | ~$4.35–4.45/gal (unchanged; approaching $4.50 extreme threshold) | 🔴 EXTREME |
-| Hormuz transits/day | ~8/day (slight improvement; still 92%+ below pre-war; Iraq attack adds Gulf chilling) | 🔴 EXTREME |
-| War-risk insurance | ~0.90–1.10%+ hull/transit (rising — China sanctions on 40 firms + Iraq attack) | 🔴 EXTREME |
-| EU TTF gas | ~€52–58/MWh (stable; IEA confirms LNG tight through 2026–2027) | 🔴 HIGH |
-| Urea (fertilizer) | $800–900/mt (unchanged; structural; IEA LNG tightness confirms extended pressure) | 🔴 EXTREME |
-| S&P 500 | 7,165.08 (+0.80% Friday — risk-on on Islamabad talks; weekend gap risk) | 🟡 ELEVATED |
-| VIX | 18.63 (↓ from 18.92; still deeply mispriced — Iraq attack confirmed; China sanctions) | 🟡 ELEVATED (⚠️ MISPRICE) |
-| USD DXY | 98.53 (↓ from 98.70; slight risk-on; structural bearish intact) | 🟡 ELEVATED |
-| Gold | $4,710.58 (↓ from ~$4,850 estimate — risk-on pullback on talks; floor intact) | 🟡 ELEVATED |
+| Brent crude | $105.33/bbl (Apr 25 settled; expected higher Monday on talks collapse) | 🔴 HIGH |
+| WTI crude | ~$100–101/bbl (consecutive sessions above $100; Monday expected higher) | 🔴 HIGH |
+| US gas price | ~$4.35–4.45/gal (approaching $4.50 extreme threshold; no near-term relief) | 🔴 EXTREME |
+| Hormuz transits/day | ~5/day (DETERIORATING from ~8 Friday; dual blockade intact) | 🔴 EXTREME |
+| War-risk insurance | ~0.90–1.10%+ hull/transit (rising; Hengli sanctions = fewer compliant vessels) | 🔴 EXTREME |
+| EU TTF gas | ~€52–58/MWh (structural; IEA tight through 2026–2027; talks collapse extends) | 🔴 HIGH |
+| Urea (fertilizer) | $700–900/mt (structural supply destruction; spring planting window closing) | 🔴 EXTREME |
+| S&P 500 | 7,165.08 (Apr 25 close; Monday open expected −1 to −2% on talks collapse) | 🟡 ELEVATED |
+| VIX | 18.63 (Apr 25 close — EXTREME MISPRICE; talks collapse post-close; Monday snap 22–28) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE — IMMINENT) |
+| USD DXY | ~98.51 (safe-haven dollar bid expected Monday as talks collapse absorbed) | 🟡 ELEVATED |
+| Gold | ~$4,710 (Apr 25 pullback on reversed talks optimism; targeting $4,800–$4,850+ Monday) | 🟡 ELEVATED |
 
 **Key developments:**
-- Three US carriers (USS Lincoln, Ford, Bush) confirmed in Middle East simultaneously — first since 2003; 200+ aircraft; 15,000+ sailors; blockade redirected 34 ships; three-CSG posture = "Round 2" strike readiness
-- Iraq militia drones hit Kuwaiti border posts (damage, no casualties) — first confirmed proxy attack since ceasefire expired April 24; proxy re-activation now real, not theoretical; US base attacks in Iraq/Erbil next
-- US sanctions major Chinese refinery + ~40 shipping firms/tankers for Iranian oil — direct US-China economic confrontation; S5 to 23%; Beijing retaliation expected 24–48 hrs
-- Witkoff + Kushner fly to Islamabad; Araghchi present — Iran confirms indirect talks only through Pakistan; April 26 Muscat round shifted to Islamabad; CTP-ISW: IRGC hardliner Vahidi still dominant
-- Treasury Bessent: no waivers for Russian or Iranian oil — maximum sanctions pressure confirmed
-- IEA: LNG market "tight" through 2026–2027 — structural tightness confirmed beyond potential conflict resolution; EU energy stress is structural
+- Islamabad talks COLLAPSED — Trump canceled Witkoff/Kushner trip; Araghchi already in Pakistan; "much better offer" claim by Trump post-cancellation (content undisclosed); CTP-ISW: IRGC Vahidi hardliner dominance = structural block on unified Iranian proposal
+- Hormuz transits deteriorate to ~5/day (from ~8 Friday); dual blockade fully intact; mine-clearing ongoing (6–10 weeks minimum after any ceasefire)
+- FOMC April 28–29 in 48 hours — 94% probability of hold; key: Fed language on war-driven inflation vs. growth slowdown; EUR/USD/DXY ±1–2% on statement
+- Hengli Petrochemical sanctions (April 24) — China verbal protest only; major institutions expected to comply with US sanctions; no escalatory action confirmed
+- Monday market open = first price discovery post-talks collapse: VIX snap 22–28 base case; Brent $108–110; S&P −1 to −2%; Gold $4,800+; weekend gap risk highest since April 22–23 vessel seizures
 
 **Upgraded risks:**
-- T1-06 (82%→87%): Iraq drones hit Kuwait = first post-ceasefire proxy attack; proxy re-activation confirmed; three carriers = peak escalation pressure; no US casualties yet = partial constraint; net +5%
-- T2-05 (35%→40%): US sanctions Chinese refinery + 40 shipping firms = most direct US-China confrontation; S5 ↑23%; bilateral economic confrontation = clearest semiconductor supply chain precursor; net +5%
+- T1-06 (87%→92%): Talks collapse removes diplomatic constraint; IRGC Vahidi hardliner confirmed; Iran historically escalates proxies after diplomatic setback; Kuwait attack April 25 confirmed; all three axes primed; Lebanon strained; net +5%
+- T2-01 (68%→73%): Talks collapse extends oil shock duration; no resolution framework; FOMC hold = central bank paralysis; IMF 2.5% growth at $100+ oil; Oxford "tip into recession"; net +5%
 
-**Downgraded risks:** None.
+**Downgraded risks:** None — Trump's "better offer" claim unverified and content-free; insufficient for downgrade given IRGC Vahidi structural dominance confirmed by CTP-ISW.
 
 **Watch:**
-- **Islamabad talks outcome (24–48 hrs)** — Witkoff/Kushner + Araghchi in Pakistan; indirect only; can Iran deliver unified proposal despite IRGC hardliner dominance? Yes = most important diplomatic signal of week; No = S3 further upgrade
-- **Iraq militia attacks on US bases (immediate)** — Kuwait strike was first; watch for drone/rocket attacks on US bases in Iraq/Erbil; US casualties = S3 threshold
-- **"Shoot and kill" execution (24–72 hrs)** — Still pending since April 24 order; any execution = most significant kinetic event since USS Charlotte (March 5)
-- **China response to refinery sanctions** — Beijing MOFCOM/MFA response expected 24–48 hrs; accelerated oil purchases or military aid = S5 immediate upgrade trigger
-- **Three-carrier coercive effect** — Does peak US strike posture accelerate Iranian proposal or trigger defensive escalation?
-- **Lebanon ceasefire durability (May 14 expiry)** — Still holding; three weeks remain
+- **Monday market open (immediate)** — First post-talks-collapse price discovery; VIX snap 18.6 → 22–28; Brent $108–110; S&P −1 to −2%; Gold $4,800+
+- **FOMC April 28–29** — Rate hold 94% priced; statement language on war-inflation vs. growth = 1–2% DXY/EUR move; stagflation acknowledgment = negative for equities
+- **Iran "better offer" content (24–72 hrs)** — Most critical unknown: nuclear flexibility? Blockade pre-condition dropped? Genuine or face-saving gesture?
+- **Iraq militia attacks on US bases (24–48 hrs)** — Kuwait border posts April 25 was first; US base strikes in Iraq/Erbil next; US casualties = S3 threshold
+- **"Shoot and kill" execution (72+ hrs pending)** — Still unexecuted since April 24 ROE; any US Navy firing on IRGC mine-laying boats = most significant kinetic event since USS Charlotte (March 5)
+- **Lebanon ceasefire durability (May 14 expiry)** — Strained (Israeli strike killed 3 in south Lebanon); ~18 days remain; talks collapse raises Hezbollah reactivation risk
