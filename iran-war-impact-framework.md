@@ -160,27 +160,27 @@
 
 Five escalation scenarios with current probability weightings and key trigger events.
 
-### S1 — Limited Air Campaign (30%)
+### S1 — Limited Air Campaign (8%)
 *US/Israeli strikes with Iranian retaliation, no major shipping disruption, proxies restrained*
 - **Triggers up:** Iran negotiated ceasefire, Hormuz fully reopened, proxy ceasefire
 - **Triggers down:** Any vessel attack, Hormuz mining, Hezbollah ground operation
 
-### S2 — Partial Hormuz Disruption — ACTIVE SCENARIO (33%)
+### S2 — Partial Hormuz Disruption — ACTIVE SCENARIO (37%)
 *Current state: traffic severely reduced, US campaign to reopen ongoing, war-risk premiums extreme*
 - **Triggers up:** Peace deal, full reopening, proxy disengagement
 - **Triggers down:** Mining of strait, attack on US naval vessel, full Hezbollah ground war in Israel
 
-### S3 — Regional War / Full Proxy Activation (20%)
+### S3 — Regional War / Full Proxy Activation (44%)
 *Hezbollah opens full northern front in Israel, Iraqi militia attacks escalate to strategic targets, Houthis resurge*
 - **Triggers up:** Israeli ground invasion of Lebanon, US base casualties exceed threshold, Hezbollah missile hits Israeli civilian infrastructure
 - **Triggers down:** Hezbollah ceasefire deal, Iran proxy command disrupted by strikes, Iraqi government crackdown on militia (Lebanon gov ban on Hezbollah is a new downward trigger — Apr 1)
 
-### S4 — Nuclear Dimension (6%)
+### S4 — Nuclear Dimension (10%)
 *Israeli or US strikes on Iranian nuclear facilities, or Iranian nuclear coercion*
 - **Triggers up:** Evidence Iran attempting to weaponize fissile material, Israeli domestic political pressure for "final solution" to nuclear threat
 - **Triggers down:** Iranian nuclear leadership killed/disrupted (partially occurred), IAEA verification of program halt
 
-### S5 — Great Power Entanglement (23%)
+### S5 — Great Power Entanglement (25%)
 *Russia or China provide material military support to Iran, creating direct US confrontation risk*
 - **Triggers up:** US strike on Iranian asset supported by Russian intelligence, China deploys naval assets near strait, UNSC deadlock leads to unilateral actions; **NEW Apr 15: Iran confirmed using Chinese spy satellite (Earth Eye) as active targeting system against US military bases — Chinese commercial space infrastructure embedded in Iranian kill chain; Russian Ilyushin Il-76 aircraft delivering radar/electronics to Iran at high tempo**
 - **Triggers down:** Back-channel US-China agreement, Russia chooses economic over military alignment; US formally accepts Chinese "mediator" framing without confronting satellite kill-chain evidence
@@ -319,7 +319,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T1-06: Hezbollah / Proxy Escalation (Active Threat)
-**Likelihood:** 92% (Islamabad talks COLLAPSED April 26 — no diplomatic framework now exists; CTP-ISW confirms IRGC Vahidi hardliner dominance blocks unified proposal; Iran historically escalates proxy pressure as leverage after diplomatic setback; Kuwait militia attack April 25 confirmed (first post-ceasefire); all three axes — Iraq militia, Houthis, Hezbollah — simultaneously primed; Lebanon strained (Israeli strike killed 3); "shoot and kill" still unexecuted = partial constraint; net +5% from 87%) | **Trend:** ↑↑↑ (talks collapse removes last diplomatic constraint on proxy escalation; Iraq militia already active; Hezbollah reactivation risk rising; three-carrier posture at maximum; FOMC April 28–29 adds uncertainty = Iran proxy escalation window) | **Horizon:** Iraq/Erbil US base strikes likely next 24–48 hrs; "shoot and kill" execution pending; Lebanon ceasefire May 14 expiry = 18 days
+**Likelihood:** 97% (Erbil drone attack on US military bases CONFIRMED April 28 — first direct US base attack Day 4 post-ceasefire-expiry; Rubio formally rejected Iran Hormuz offer = removes remaining diplomatic constraint on proxy escalation; "shoot and kill" ROE unexecuted Day 5 = kinetic pressure maximizing; all three proxy axes simultaneously primed; US casualties = imminent next escalation threshold; net +5% from 92%) | **Trend:** ↑↑↑ (Rubio rejection closes diplomatic window; Erbil confirmed = Iraq escalation pathway active; IDF 20+ Lebanon strikes April 27 (14 killed, 37 wounded); Hezbollah reactivation risk near peak) | **Horizon:** US combat casualties from proxy forces now imminent risk; "shoot and kill" execution under maximum pressure (Day 5+); Lebanon ceasefire May 14 expiry = 16 days
 **Sectors:** Defense, Energy, Tourism, EM stability | **Geographies:** Lebanon, Israel, Iraq, Yemen, Syria
 
 **Current state:** Hezbollah escalated March 2 with coordinated rocket/drone barrage. Iraqi militias conducting 16+ operations/day against US forces. **Houthis confirmed entry March 28** — fired ballistic missile toward Israel, threatening Bab al-Mandab as second global shipping chokepoint. Full proxy network (Hezbollah, Iraqi PMF, Houthis) now operationally active simultaneously.
@@ -368,7 +368,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T2-01: Global Recession Risk
-**Likelihood:** 73% | **Trend:** ↑↑↑ | **Horizon:** 6–12 months — Islamabad talks COLLAPSED April 26 with no resolution framework; oil shock duration now expected materially longer; FOMC April 28–29 hold (94% priced) = central bank paralysis reinforced = stagflation deepens; IMF already in "severe disruption" band ($100+ oil = 2.5% global growth, near technical recession territory); ECB warned Germany and Italy into technical recession by end-2026; Oxford Economics: "prolonged war could tip global economy into recession"; urea $700–900/mt structural; +5% from 68%
+**Likelihood:** 78% | **Trend:** ↑↑↑ | **Horizon:** 6–12 months — Rubio formally rejected Iran's Hormuz offer April 28 = stalemate extends weeks/months not days; Brent $111.16 (+2.71%) above $110 for first time since early April; eurozone private sector back in contraction (April PMI, weakest since Nov 2024); FOMC hold confirmed (zero 2026 cuts per Goldman); IMF: global growth falls to 2.5% at $100+ oil (near technical global recession); ECB warned Germany/Italy into technical recession by end-2026; urea $700–900/mt structural; +5% from 73%
 **Sectors:** All | **Geographies:** Global, worst in EU, South/Southeast Asia, Africa
 
 **Mechanism:** Oil-driven stagflation → central bank paralysis (can't cut without worsening inflation) → demand destruction → recession. Historically, every major oil shock since 1973 has been followed by recession.
