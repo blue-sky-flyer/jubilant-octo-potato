@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-04-27*
+*Last updated: 2026-04-28*
 
 ---
 
@@ -30,7 +30,10 @@ Key structural facts that persist:
 - **Three US aircraft carriers (USS Lincoln, Ford, Bush) now simultaneously in Middle East (Apr 24–25)** — first time since 2003 Iraq invasion; 200+ aircraft, 15,000+ sailors/Marines; three-CSG posture = "Round 2" strike readiness (Operation Epic Fury)
 - **Iraq militia drones struck Kuwaiti border posts (Apr 25)** — first confirmed proxy attack since Iraq Islamic Resistance 2-week ceasefire expired April 24; proxy re-activation confirmed; no US base strikes yet (Day 3 post-expiry)
 - **US sanctions major Chinese oil refinery + ~40 shipping firms/tankers for Iranian oil (Apr 25)** — most direct US-China economic confrontation since Earth Eye satellite revelation; Beijing verbal protest only (no escalatory action)
-- **"Shoot and kill" ROE (Apr 24) still unexecuted — Day 4** — most significant pending kinetic event; IRGC mining continues
+- **"Shoot and kill" ROE (Apr 24) still unexecuted — Day 5** — most significant pending kinetic event; IRGC mining continues; Erbil attack increases execution pressure
+- **Iraqi militia drones struck US military bases in Erbil (Apr 28)** — first direct US base attack since Iraq Islamic Resistance ceasefire expired April 24; US casualties = S3 formal threshold
+- **Rubio formally rejected Iran's Hormuz decoupling offer (Apr 28)** — "Those are international waterways. They cannot normalize, nor can we tolerate them." CNN: Trump "unlikely to accept." Diplomatic window April 27 now closed.
+- **Brent $111.16 (+2.71%) — above $110 for first time since early April (Apr 28)** — markets repricing extended stalemate; IMF: global growth 2.5% at $100+ oil
 
 ---
 
@@ -47,10 +50,11 @@ The week of maximum geopolitical shock and market misprice. Islamabad talks coll
 
 ---
 
-## Daily Log (Apr 19 – Apr 26)
+## Daily Log (Apr 19 – Apr 27)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| Apr 27 | Iran "better offer" REVEALED — Hormuz reopening + war end without nuclear concessions (first Hormuz-nuclear decoupling); Araghchi flies to St. Petersburg, meets Putin (Russia deepens broker role before US re-engagement); Brent peaked $108.11 then settled ~$106–107; VIX snap did NOT materialize (18.71 flat vs. 22–28 forecast); markets pricing partial resolution; FOMC April 28–29 now primary catalyst; no US base strikes in Iraq (Day 3); "shoot and kill" Day 4 unexecuted | S1 ↑9%, S2 ↑40%, S3 ↓39%, S4 →10%, S5 ↑24% | ~$106–107 (peaked $108.11) | 18.71 (flat; extreme misprice) |
 | Apr 26 | Islamabad talks COLLAPSED — Trump canceled Witkoff/Kushner trip citing Iranian "infighting"; Araghchi already in Pakistan; Iran submitted "much better offer" post-cancellation (content undisclosed at close); CTP-ISW confirms IRGC Vahidi hardliner dominance = structural block on unified proposal; Hormuz transits deteriorate to ~5/day; markets closed before news broke; VIX snap 22–28 expected Monday; Brent expected $108–110 Monday; FOMC April 28–29 in 48 hrs; T1-06 ↑92%; T2-01 ↑73% | S1 ↓7%, S2 ↓38%, S3 ↑42%, S4 →10%, S5 →23% | $105.33 (settled; expected ↑ Monday) | 18.63 (extreme misprice post-close) |
 | Apr 25 | Three US carriers (USS Lincoln, Ford, Bush) confirmed simultaneously in Middle East — first since 2003; Iraq militia drones hit Kuwaiti border posts (first post-ceasefire proxy attack); US sanctions Hengli Petrochemical (Dalian, ~400k bpd) + ~40 shippers for Iranian oil — direct US-China confrontation; Witkoff/Kushner fly to Islamabad (indirect talks only); IEA: LNG tight through 2026–2027; Treasury: no waivers for Russian or Iranian oil; Brent $105.33 (−0.6% on talks optimism); VIX 18.63 (still misprice) | S1 ↓9%, S2 ↓41%, S3 ↑38%, S4 →10%, S5 ↑23% | $105.33 (−0.6%) | 18.63 (misprice) |
 | Apr 24 | Iraq Islamic Resistance ceasefire EXPIRED — full proxy escalation pathway restored; Trump issues "shoot and kill" order for IRGC mine-laying boats (most aggressive US ROE since war began); China-Russia-Iran joint IAEA meeting in Vienna (highest-level nuclear coordination since war began); Lebanon-Israel ceasefire extended 3 weeks by Trump (Apr 23); Iran FM Araghchi traveling to Islamabad; 3rd nuclear round scheduled Apr 26 Muscat; Brent ~$106 (+$3); VIX 18.92 (unchanged, deeply mispriced) | S1 ↑10%, S2 ↓42%, S3 ↑36%, S4 ↑10%, S5 ↑21% | ~$106 (+$3) | 18.92 (still misprice) |
@@ -62,49 +66,54 @@ The week of maximum geopolitical shock and market misprice. Islamabad talks coll
 
 ---
 
-## Yesterday — Full Detail (Apr 27, Day 59)
+## Yesterday — Full Detail (Apr 28, Day 60)
 
-**Overall situation:** Iran's "better offer" has been revealed and is structurally significant: Tehran proposed reopening the Strait of Hormuz and ending hostilities in exchange for the US lifting its naval blockade — explicitly deferring nuclear talks to a later stage. This is the first time Iran has decoupled Hormuz from the nuclear program. FM Araghchi flew to St. Petersburg to meet Putin before any re-engagement with Washington, seeking Russian diplomatic backing. Markets absorbed the post-talks-collapse Monday opening more calmly than projected — VIX remained at 18.71 (vs. 22–28 forecast), Brent peaked $108.11 before settling ~$106–107. The US has not formally responded to the offer; the core objection is that accepting removes all leverage on Iran's enriched uranium stockpile and enrichment program. FOMC decision April 28–29 is the next major catalyst.
+**Overall situation:** Secretary of State Rubio formally rejected Iran's Hormuz decoupling offer, calling it "unacceptable," and CNN confirmed Trump is "unlikely to accept" the proposal. The diplomatic window that opened April 27 has formally closed. Simultaneously, Iranian-backed Iraqi militia conducted drone attacks on US military bases in Erbil — the first direct attack on US forces since the Iraq Islamic Resistance ceasefire expired April 24 — pushing S3 to 44% (plurality). Brent surged to $111.16/bbl (+2.71%), above $110 for the first time since early April. FOMC meeting opened (decision April 29); no US casualties confirmed in Erbil; "shoot and kill" ROE Day 5 still unexecuted. Germany publicly said US is being "humiliated" by Iran; UN called for Hormuz reopening.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 9% | ↑ from 7% |
-| S2: Partial Hormuz disruption (ACTIVE) | 40% | ↑ from 38% |
-| S3: Regional war / full proxy activation | 39% | ↓ from 42% |
+| S1: Limited/air campaign baseline | 8% | ↓ from 9% |
+| S2: Partial Hormuz disruption (ACTIVE) | 37% | ↓ from 40% |
+| S3: Regional war / full proxy activation | 44% | ↑ from 39% |
 | S4: Nuclear dimension | 10% | → |
-| S5: Great power entanglement | 24% | ↑ from 23% |
+| S5: Great power entanglement | 25% | ↑ from 24% |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | ~$106–107/bbl (peaked $108.11 Monday, settled back on Hormuz offer diplomacy) | 🔴 HIGH |
-| WTI crude | ~$101–102/bbl (above $100 multiple consecutive sessions) | 🔴 HIGH |
-| US gas price | ~$4.35–4.45/gal (no change; approaching $4.50 extreme threshold) | 🔴 EXTREME |
-| Hormuz transits/day | ~7/day (slight improvement from ~5 Friday; dual blockade intact) | 🔴 EXTREME |
-| War-risk insurance | ~0.90–1.10%+ hull/transit (rising; vessel seizures ongoing; Hengli reducing compliant pool) | 🔴 EXTREME |
-| EU TTF gas | ~€52–58/MWh (structural; IEA tight through 2026–2027) | 🔴 HIGH |
-| Urea (fertilizer) | $700–900/mt (structural; WFP: 45M additional acute hunger if $100+ oil past June) | 🔴 EXTREME |
-| S&P 500 | ~7,100–7,150 est. (Monday; modest decline; VIX flat = less shock than predicted) | 🟡 ELEVATED |
-| VIX | 18.71 (essentially flat — predicted snap to 22–28 did NOT materialize; FOMC now primary catalyst) | 🟡 ELEVATED (⚠️ STILL MISPRICED) |
-| USD DXY | ~98.34 (slight ↓; safe-haven bid absent; Hormuz offer = mild risk-on offset) | 🟡 ELEVATED |
-| Gold | ~$4,720–4,750 est. (partial safe-haven bid; $4,800 target deferred by Hormuz offer) | 🟡 ELEVATED |
+| Brent crude | $111.16/bbl (+2.71%; above $110 first time since early April) | 🔴 HIGH |
+| WTI crude | ~$106–107/bbl (above $100 multiple consecutive sessions) | 🔴 HIGH |
+| US gas price | ~$4.45–4.55/gal (approaching $4.50 extreme threshold) | 🔴 EXTREME |
+| Hormuz transits/day | ~8/day (marginal improvement from ~5 Friday; dual blockade intact; Rubio rejection = no near-term resolution) | 🔴 EXTREME |
+| War-risk insurance | ~1.10–1.25%+ hull/transit (rising; Rubio rejection + Erbil attack = extended disruption) | 🔴 EXTREME |
+| EU TTF gas | ~€55–60/MWh (structural; IEA tight through 2027) | 🔴 HIGH |
+| Urea (fertilizer) | $700–900/mt (structural; 45M hunger risk by June) | 🔴 EXTREME |
+| S&P 500 | ~7,050–7,100 est. (modest decline; FOMC-suppressed volatility) | 🟡 ELEVATED |
+| VIX | ~18.71–20 est. (FOMC-suppressed; expected to reprice post-decision; still mispriced) | 🟡 ELEVATED (⚠️ STILL MISPRICED) |
+| USD DXY | 98.69 (slight ↑; mild safe-haven bid materializing on Rubio rejection) | 🟡 ELEVATED |
+| Gold | ~$4,750–4,800 est. (safe-haven bid resuming; $4,800 target back in play) | 🟡 ELEVATED |
 
 **Key developments:**
-- Iran "better offer" REVEALED: Hormuz reopening + war end without nuclear concessions; nuclear talks deferred to later stage; first time Iran decoupled Hormuz from nuclear program; Araghchi via Axios/Bloomberg/AP; US has not formally responded; US objection = removes leverage on enriched uranium program
-- Araghchi flies to St. Petersburg, meets Putin — seeking Russian diplomatic backing before re-engaging US; sequencing (Russia first) is deliberate; deepens trilateral Russia-China-Iran coordination axis
-- Markets absorbed talks-collapse calmly — VIX snap did NOT materialize (18.71 flat); Brent peaked $108.11 before settling ~$106–107; DXY flat/slightly ↓; interpretation: markets pricing partial-resolution probability from Hormuz offer
-- FOMC April 28–29 — 100% hold priced; Goldman: zero cuts in 2026; OECD: US inflation 4.2% in 2026; FOMC statement language (structural stagflation vs. transitory) = 1–2% DXY/EUR move
-- "Shoot and kill" Day 4 — still unexecuted since April 24 ROE; no US base strikes in Iraq (Day 3 post-ceasefire-expiry)
+- Rubio formally rejects Iran Hormuz offer on Fox News: "Those are international waterways. They cannot normalize, nor can we tolerate them trying to normalize, a system in which the Iranians decide who gets to use an international waterway." CNN: Trump "unlikely to accept" Iran's proposal. US insists nuclear + missile + proxy issues addressed together, not deferred.
+- Iraqi militia drones strike US military bases in Erbil — first confirmed direct US base attack since Iraq Islamic Resistance ceasefire expired April 24; previously only Kuwaiti border posts (Apr 25). US casualties = S3 formal threshold.
+- Brent $111.16/bbl (+2.71%) — above $110 for first time since early April; markets repricing extended stalemate.
+- FOMC meeting Day 1 — decision April 29; Powell statement language on war-stagflation is the critical catalyst.
+- Araghchi completed St. Petersburg Putin meeting; Russia deepening role as Iran's diplomatic broker; no public readout on Russian advice to Tehran.
+- IDF struck 20+ Lebanon targets April 27 (14 killed, 37 wounded); Lebanon ceasefire under increasing strain.
+- UN calls for Hormuz reopening; German Chancellor publicly says US is "humiliated" by Iran.
+- "Shoot and kill" ROE Day 5 — still unexecuted; Erbil attack increases execution pressure.
 
-**Upgraded risks:** None — Iran offer not accepted; IRGC Vahidi still in control; no 5pp+ threshold crossed.
+**Upgraded risks:**
+- T1-06 Proxy Escalation: 92% → 97% (+5pp) — Erbil direct US base attack confirmed; Rubio rejection; Day 5 "shoot and kill" pressure maximizing
+- T2-01 Global Recession Risk: 73% → 78% (+5pp) — Rubio rejection extends stalemate; Brent $111 sustained; eurozone in contraction; FOMC paralysis confirmed
 
-**Downgraded risks:** None — premature to formally downgrade before US acceptance of Hormuz offer and confirmation of proxy restraint.
+**Downgraded risks:** None
 
 **Watch:**
-- **US response to Iran Hormuz offer (24–48 hrs)** — Binary fork: accept = Brent −$10–15, VIX relief, S2 pathway active; reject = S3 re-escalation, Brent $110+
-- **FOMC April 28–29 (today/tomorrow)** — 100% hold; statement on war-stagflation = 1–2% DXY/EUR move; "structural" language = equities + bonds sell simultaneously
-- **Araghchi-Putin meeting outcomes** — What does Russia advise Iran to offer or hold firm on?
-- **"Shoot and kill" execution (Day 4+)** — IRGC mining continues; execution = most significant kinetic event since USS Charlotte (March 5)
-- **Iraq militia US base strikes (48–72 hrs)** — Kuwait border post was first; bases in Iraq/Erbil next; US casualties = S3 threshold
-- **Lebanon ceasefire durability (May 14 expiry, ~17 days)** — Hormuz offer uncertainty increases Hezbollah reactivation risk if US rejects deal
+- **US military casualties in Iraq (24–48 hrs)** — Erbil confirmed; casualties = S3 formal crossing; retaliation = force multiplication
+- **FOMC statement language (April 29)** — "Structural" = equities/bonds sell simultaneously; DXY ±1–2%; 100% hold priced
+- **"Shoot and kill" execution (Day 5+)** — IRGC mining continues; highest execution pressure since order was issued
+- **Iran formal response to Rubio rejection (24–72 hrs)** — Does Tehran escalate, withdraw offer, or push Russia-backed track?
+- **Lebanon ceasefire durability (May 14, ~16 days)** — IDF 20+ strikes April 27; Hezbollah active; Rubio rejection = Hezbollah reactivation risk rising
+- **VIX repricing post-FOMC (April 29)** — Three simultaneous unpriced catalysts (Erbil + Rubio + FOMC); snap to 22–28 remains base case
