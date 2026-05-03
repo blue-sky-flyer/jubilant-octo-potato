@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-05-02*
+*Last updated: 2026-05-03*
 
 ---
 
@@ -46,6 +46,9 @@ Key structural facts that persist:
 - **Iran military publicly warns conflict "likely to restart" (May 2)** — IRGC-Vahidi military track openly contradicting Araghchi diplomatic channel; ISW-CTP/Washington Times confirmed Vahidi as Tehran's "current decision maker"; military-diplomatic split now public and structural
 - **US nuclear freeze demand inserted into peace amendments (May 2)** — US amended draft peace plan via Pakistan mediators requiring Iran not to move enriched uranium from bombed facilities or restart nuclear activity during talks; Trump "not satisfied" with Iran's response; US precondition = nuclear freeze now; Iran = nuclear sovereignty + deferred nuclear talks only; positions hardened further
 - **US withdraws 5,000 troops from Germany (May 2)** — Hegseth ordered 5,000-troop reduction over 6-12 months in retaliation for Chancellor Merz's "humiliating" comment; first punitive US troop reallocation against a NATO ally of the war; NATO cohesion fracturing under Iran war pressure
+- **Iran's 14-point proposal publicly disclosed (May 3)** — First time Iran's full negotiating floor is public: demands US troop withdrawal from region, reparations, sanctions relief, end to naval blockade, new Hormuz "control mechanism" (Iran retains oversight — NOT full reopening under international law), and explicitly defers all nuclear talks to a later stage; incompatible with every US core position; Al Jazeera: "impossible military attack or a bad deal"; eliminates all remaining diplomatic ambiguity about Iran's negotiating position
+- **Iran Armed Forces General Staff declares "imposition of costs" attrition strategy (May 3)** — Defa Press publicly frames war as having shifted from direct conflict to "imposition of costs" phase; "patience" named as "ultimate determinant of victory"; Senior Official Asadi (central command) confirms "renewed conflict between Iran and US is likely"; IRGC-Vahidi military track confirmed dominant over Araghchi diplomatic channel (CTP-ISW); Iran now publicly committed to long-game attrition over any near-term deal
+- **Trump: "not yet paid a big enough price" (May 3)** — Truth Social post; "can't imagine" Iran's 14-point plan is acceptable; strikes possible "if they misbehave"; White House weighing resumed-strike options; most explicit US kinetic re-escalation signal since Apr 30 CENTCOM briefing; qualitatively more escalatory than prior "not satisfied" framing — implies Iran must suffer more before any deal, not that the proposal needs refinement
 
 ---
 
@@ -69,6 +72,7 @@ The week of proxy re-activation, vessel hostage-taking, and the opening of US-Ch
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| May 2 | Iran submits updated proposal via Pakistan mediators; Trump "not satisfied," leadership "very disjointed"; Iran military (IRGC-Vahidi) warns conflict "likely to restart" (Al Jazeera); US withdraws 5,000 troops from Germany (punitive; first NATO reallocation of war); Israeli strikes kill 9 in south Lebanon (May 14 now 12 days away) | S3 ↑42% (+2pp), S2 ↓43% (−1pp), S4 ↑13% (+1pp), S5 ↑26% (+1pp) | $108–110 (pulled back ~3-4% from $114 on peace signal; Trump rejection limits sustained relief) | ~17–17.5 est. (extreme misprice) |
 | May 1 | Trump declares war "TERMINATED" (War Powers bypass); Senate war powers fails 50-47 (Collins + Paul first GOP defections); Khamenei declares permanent Hormuz + nuclear/missile retention; UAE OPEC exit live; fertilizer crisis escalating (Euronews); Iraq militias returning Day 7; oil ROSE on "war over" signal; VIX falls 17.60 (war's most extreme misprice) | S2 ↑44% (+5pp), S3 ↓40% (−4pp), S4 ↑12% (+1pp) | ~$114/bbl | 17.60 |
 | Apr 30 | CENTCOM Admiral Brad Cooper briefing Trump on new military options (Axios, two sources) — Brent spikes to $126.41 intraday (war's highest price, 4-year high); US gas highest since 2022; UAE OPEC exit effective May 1; FOMC held Apr 29 (non-event; Powell final meeting; Warsh succession confirmed); no confirmed US casualties from Erbil (Apr 28); T2-01 ↑88% (+5pp), T2-03 ↑73% (+5pp) | S1 ↓5%, S2 ↓39%, S3 ↑44%, S4 ↑11%, S5 →25% | $108–114 settled ($126.41 intraday) | 17.96 (+0.73% — barely moved despite $126 oil + CENTCOM briefing; extreme misprice) |
 | Apr 29 | Trump "No More Mr Nice Guy" AI gun post + canceled scheduled peace talks + directed aides to plan EXTENDED NAVAL BLOCKADE as strategic preference over kinetic escalation or deal without nuclear concessions; UAE announced OPEC/OPEC+ withdrawal effective May 1 (most significant Gulf realignment of war; UAE free to produce without quota); Brent $115.29 (+3.62%) highest since June 2022 (8th consecutive daily gain); FOMC held 3.50–3.75% (Powell's final meeting; Warsh succession May; non-event); no confirmed US casualties from Apr 28 Erbil attack; T2-01 ↑83% (+5pp), T2-03 ↑68% (+5pp), T3-04 ↑62% (+7pp) | S1 ↓6%, S2 ↑42%, S3 ↓41%, S4 →10%, S5 →25% | $115.29 (+3.62%) | ~19–22 est. (FOMC day; extended blockade + gun post = still mispriced) |
@@ -78,54 +82,53 @@ The week of proxy re-activation, vessel hostage-taking, and the opening of US-Ch
 
 ---
 
-## Yesterday — Full Detail (May 2, Day 64)
+## Yesterday — Full Detail (May 3, Day 65)
 
-**Overall situation:** Day 64 / Week 10. Today's defining development: Iran delivered an updated peace proposal response via Pakistani mediators, but Trump declared he was "not satisfied" with the offer — calling Iran's leadership "very disjointed" with factions unable to agree. Simultaneously, Iran's military issued a public warning that the conflict is "likely to restart," with the IRGC-Vahidi military track openly contradicting Araghchi's diplomatic channel. The US escalated NATO tensions by ordering withdrawal of 5,000 troops from Germany in retaliation for Chancellor Merz's criticism — the first punitive US troop reallocation against a NATO ally of the war. Brent pulled back ~3-4% to $108-110 on the initial peace signal, but the structural stalemate is unchanged: US insists on nuclear freeze as a negotiating precondition; Iran insists on nuclear sovereignty; Hormuz remains blocked; and the IRGC is publicly signaling preference for resuming hostilities.
+**Overall situation:** Day 65 / Week 10. Iran's 14-point peace proposal is now publicly disclosed, revealing a maximalist "winner's peace" framework: demands US troop withdrawal from Iran's periphery, reparations, sanctions relief, end to the naval blockade, and a new Hormuz "control mechanism" (Iran retains oversight — not full reopening under international law), with all nuclear talks explicitly deferred to a later stage. Trump responded on Truth Social that Iran "has not yet paid a big enough price," "can't imagine" the plan is acceptable, and warned strikes could resume "if they misbehave" — the most explicit US kinetic re-escalation signal since the April 30 CENTCOM briefing. Iran's Armed Forces General Staff simultaneously declared the war has entered an "imposition of costs" phase where "patience" determines victory, with Senior Official Asadi (central command) confirming "renewed conflict is likely." The ceasefire technically holds, but the 14-point disclosure eliminates all remaining diplomatic ambiguity: US and Iranian positions are structurally incompatible with no off-ramp visible.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
 | S1: Limited/air campaign baseline | 5% | → from 5% |
-| S2: Partial Hormuz disruption (ACTIVE) | 43% | ↓ from 44% |
-| S3: Regional war / full proxy activation | 42% | ↑ from 40% |
-| S4: Nuclear dimension | 13% | ↑ from 12% |
-| S5: Great power entanglement | 26% | ↑ from 25% |
+| S2: Partial Hormuz disruption (ACTIVE) | 41% | ↓ from 43% |
+| S3: Regional war / full proxy activation | 44% | ↑ from 42% |
+| S4: Nuclear dimension | 13% | → from 13% |
+| S5: Great power entanglement | 26% | → from 26% |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | ~$108-110/bbl (pulled back ~3-4% from $114 on Iran peace signal; prior close ~$114; trading range $108.60-$112.43; Trump rejection limits downside relief) | 🔴 EXTREME |
-| WTI crude | ~$102-105/bbl (11th consecutive session above $100) | 🔴 HIGH |
-| US gas price | ~$4.55-4.65/gal (unchanged; structural; highest since 2022) | 🔴 EXTREME |
-| Hormuz transits/day | ~5/day (dual blockade unchanged; nuclear freeze precondition adds new barrier) | 🔴 EXTREME |
-| War-risk insurance | ~1.25-1.50%+ hull/transit (Cape routing locked in; no structural change) | 🔴 EXTREME |
-| EU TTF gas | ~€57-65/MWh (unchanged; UAE OPEC exit live; structural disruption continues) | 🔴 HIGH |
-| Urea (fertilizer) | $700-900/mt (fertilizer crisis deepening; spring planting irreversibly closed) | 🔴 EXTREME |
-| S&P 500 | ~7,000-7,050 est. (mild + on oil pullback; Germany NATO fracture offsetting) | 🟡 ELEVATED |
-| VIX | ~17-17.5 est. (slight ↓ from 17.60 on oil pullback + peace signal; extreme misprice intact; Lebanon May 14 = snap trigger 12 days out) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
-| USD DXY | 98.22 (+0.07% — slight uptick; no structural safe-haven bid; bearish dominant) | 🟡 ELEVATED |
-| Gold | ~$4,850-4,900 est. (US nuclear freeze demand hardens positions; stagflation floor; $5,000 in view) | 🔴 HIGH |
+| Brent crude | $108.17/bbl (range $103.60–$108.65; flat to slightly ↓ from $108–110; ceasefire-holding signal priced in; oil LOWER than 30 days ago despite conflict deepening — extreme misprice) | 🔴 EXTREME |
+| WTI crude | ~$102–104/bbl (12th consecutive session above $100) | 🔴 HIGH |
+| US gas price | ~$4.55–4.65/gal (structural; unchanged; highest since 2022) | 🔴 EXTREME |
+| Hormuz transits/day | ~14 crossings Apr 30 (7 in/7 out) — slight uptick vs. ~5/day avg; still <15% pre-war; ~half loading at Iranian ports; US forced 48 Iranian ships to turn around over 20 days | 🔴 EXTREME |
+| War-risk insurance | ~1.25–1.50%+ hull/transit (Cape routing locked in; structural) | 🔴 EXTREME |
+| EU TTF gas | ~€57–65/MWh (structural; unchanged) | 🔴 HIGH |
+| Urea (fertilizer) | $700–900/mt (spring planting irreversibly closed; 2026 harvest damage cementing; 45M+ acute hunger) | 🔴 EXTREME |
+| S&P 500 | ~7,000–7,050 est. (flat; ceasefire-holding and Trump escalation language offsetting) | 🟡 ELEVATED |
+| VIX | 16.99 (↓ slightly from ~17–17.5 est.; LOWER than 30 days ago (Apr 3: 23.87) despite escalation deepening — war's most extreme misprice ever recorded; Lebanon 11-day trigger + Trump "not enough price" = imminent snap catalysts) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
+| USD DXY | 98.21 (essentially flat; no structural safe-haven bid; structural bearish dominant) | 🟡 ELEVATED |
+| Gold | ~$4,850–4,900 est. (Trump "not enough price" + Iran "restart" + nuclear deferral = stagflation/conflict premium floor; $5,000 target maintained) | 🔴 HIGH |
 
 **Key developments:**
-- Iran submits updated peace proposal, Trump "not satisfied" — Iran delivered response to US amendments (nuclear freeze precondition: no uranium movement, no restart at bombed sites during talks) via Pakistani mediators; Trump: "not satisfied with what they are offering"; Iranian leadership "very disjointed"; no deal pathway; Brent fell ~2-3% to $108-110 on news (Axios, CBS, Al Jazeera)
-- Iran military warns conflict "likely to restart" — Al Jazeera May 2 liveblog; IRGC-Vahidi military track publicly contradicting Araghchi diplomatic channel; ISW-CTP confirmed Vahidi as "current decision maker" (hardliner); military-diplomatic split within Tehran now public
-- US withdraws 5,000 troops from Germany — Hegseth orders 6-12 month drawdown; retaliation for Chancellor Merz "humiliating" comment; Germany "anticipated" withdrawal; first punitive NATO reallocation of war; NATO cohesion fracturing (CNN, WaPo, NPR, Euronews)
-- Lebanon: Israeli strikes kill 9 civilians in south Lebanon villages (2 children, 5 women) — Lebanon Health Ministry; May 14 expiry now 12 days away; violations accumulating; Hezbollah restraint increasingly conditional
-- Markets: Brent -3-4% to $108-110 on peace signal; DXY 98.22; VIX est. 17-17.5; structural misprice intact (Iran military "restart" warning + Lebanon 12-day trigger)
+- Iran's 14-point proposal PUBLICLY DISCLOSED — maximalist "winner's peace": demands US troop withdrawal from region's periphery, reparations, sanctions relief, end to blockade, Hormuz "control mechanism" (Iran retains oversight — NOT full reopening to international law), 30-day war-resolution framework, nuclear talks explicitly deferred; Iran's response to US 9-point plan (2-month ceasefire); incompatible with all US core positions; Al Jazeera: "impossible military attack or bad deal" (Sources: NPR, Al Jazeera, CBS, The National)
+- Trump: "Iran has not yet paid a big enough price" (Truth Social) + "can't imagine it's acceptable" + strikes possible "if they misbehave" — most escalatory US statement of the review phase; qualitatively more than "not satisfied" — implies Iran must suffer more, not that proposal needs adjustment; White House weighing resumed-strike options (Sources: CNN, Newsweek, Axios)
+- Iran Armed Forces General Staff (Defa Press): war shifted to "imposition of costs" phase; "patience" = "ultimate determinant of victory" — clearest public articulation of long-game attrition strategy; Senior Official Asadi (central command): "renewed conflict between Iran and US is likely"; CTP-ISW: IRGC-Vahidi military track dominant (Sources: CTP-ISW/ISW, Defa Press)
+- Lebanon: IDF struck ~70 military structures + ~50 Hezbollah infrastructure sites; 73 killed/163 injured since Apr 30 health update; May 14 ceasefire expiry 11 days away; Hezbollah restraint conditionally maintained but eroding (Sources: CNN, CBS May 3)
+- Markets: Brent $108.17 (flat; VIX 16.99 = extreme misprice deepens — lower than 30 days ago); DXY 98.21 (flat); Hormuz 14 crossings Apr 30 (slight uptick vs. 5/day avg, possibly transient given 14-point "control mechanism" demand)
 
 **Upgraded risks:**
-- S3 (Regional war): Iran military's "likely to restart" public warning; IRGC-diplomatic split; Iraq proxy Day 8+; Lebanon May 14 fraying
-- S5 (Great power entanglement): US-Germany NATO fracture concrete — 5,000-troop punitive withdrawal; Russia/China watching European defection
-- S4 (Nuclear dimension): US nuclear freeze precondition in draft amendments — directly pressing Iran's nuclear sovereignty redline at negotiating table
+- Resumed US strikes: Trump "not enough price" + "if they misbehave" + White House weighing options = most explicit kinetic signal since Apr 30; Iran's 14-point plan gives Trump political justification for escalation over any deal
+- S3 (Regional war): Both US and Iran publicly signaling escalation simultaneously (Trump + Asadi + Defa Press attrition declaration); Lebanon 11-day countdown; Iraq proxy Day 9+ post-expiry
 
 **Downgraded risks:**
-- Near-term Brent spike above $115: Iran peace proposal (thin/rejected) reduces immediate extreme upside; no imminent repeat of $126 intraday spike
+- Near-term diplomatic resolution: Iran 14-point plan's disclosure eliminates all ambiguity — reparations + US troop withdrawal + Hormuz "control mechanism" categorically incompatible with US positions; thin peace signal from Apr 27–May 2 confirmed as non-existent; no deal pathway visible
 
 **Watch:**
-- **Iranian military-diplomatic split (24-72 hrs)** — IRGC "conflict likely to restart" vs. Araghchi's channel; Vahidi unilateral escalatory action (vessel seizure, base strike, mine-laying) = immediate S3
-- **US formal response to Iran's updated proposal (24-48 hrs)** — Trump "not satisfied" but no formal rejection letter; Witkoff/Kushner next signal; counter-offer = S2 stabilization; rejection = S3 accelerant
-- **Germany NATO fallout (48-72 hrs)** — Which allies echo Merz? UK/France criticism = broader US-NATO fracture; European defense councils
-- **Lebanon ceasefire (May 14 expiry — 12 days)** — Israeli strikes continuing; Hezbollah restraint conditional; Trump "war over" may reduce 3rd extension willingness
-- **Iraq militia — US base strikes (Day 8+ post-expiry)** — Iran "restart" warning + militia re-activation; first US KIA/WIA = S3 formally crossed
+- **US formal response to 14-point plan (24-48 hrs)** — Witkoff/Kushner next signal; formal rejection = S3 accelerant; counter-offer (extremely unlikely given "not enough price") = surprise S2 stabilization
+- **"Not enough price" action interpretation (48-72 hrs)** — Trump's "not enough" framing has historically preceded action; new strikes? Expanded sanctions on Chinese buyers? Accelerated blockade enforcement?
+- **Lebanon ceasefire (May 14 = 11 days)** — IDF continuing heavy strikes (70+ military + 50+ Hezbollah sites); Hezbollah restraint increasingly conditional; Trump "war over" creates political resistance to 3rd extension
+- **Iraq proxy escalation (Day 9+ post-expiry)** — Iran military "restart" signal includes proxy axis; Erbil precedent established; first US KIA/WIA = S3 formally crossed
+- **Hormuz uptick sustainability** — 14 crossings Apr 30 vs. ~5/day avg; Iran's "control mechanism" demand signals managed access not international law; watch IRGC response to vessels attempting transit
 - **Saudi Arabia OPEC response** — UAE exit live; no Saudi follow yet; Saudi exit = full OPEC structural fracture
-- **"Shoot and kill" ROE (Day 9 unexecuted)** — Iran "restart" warning paradoxically increases execution pressure; watch first ROE execution
+- **"Shoot and kill" ROE (Day 10 unexecuted)** — IRGC mining continues; Iran "imposition of costs" declaration increases execution pressure paradoxically
