@@ -105,7 +105,7 @@
 | USS Georgia (SSGN-729) | Deployed — Persian Gulf | Ohio-class guided-missile sub; capacity: 154 Tomahawk cruise missiles; fired 30+ at Isfahan in earlier strikes; deliberately publicized by Navy as coercive signal; also carries 66 SOF operators |
 | USS Charlotte (SSN-773) | Active | Virginia-class attack sub; sank Iranian frigate IRIS Dena with 2 Mark 48 torpedoes (first US sub torpedo kill since WWII, March 5, 2026) |
 | Additional SSNs | Presumed deployed | Standard conflict posture includes multiple Virginia-class attack subs for ASW, ISR, and strike missions |
-| Iranian Kilo-class submarines | **⚠️ UNELIMINATED THREAT** | Iran's most dangerous remaining naval asset; capable of covert mine-laying and torpedo ambushes in Hormuz constrained waters; a Kilo torpedo attack on a US warship = immediate S3 escalation threshold event |
+| Iranian Kilo-class submarines | **✅ ELIMINATED** | All Kilo-class submarines confirmed destroyed. No longer an active threat. Previously assessed as S3 escalation threshold; threat eliminated. |
 
 **CRITICAL — Tomahawk Magazine Depth Crisis:**
 - ~400 Tomahawks expended in first 72 hours of Operation Epic Fury
@@ -118,7 +118,7 @@
 **Mine Warfare — Structural Hormuz Constraint:**
 - Iran physically mined the Strait of Hormuz; mines are NOT removed by a ceasefire declaration
 - Active US mine-clearing operation underway with destroyers + undersea drones
-- Mine clearing in a potentially hostile environment with Iranian Kilo-class submarines still operational = **6–10 weeks minimum** even after a full ceasefire
+- Mine clearing in a potentially hostile environment = **6–10 weeks minimum** even after a full ceasefire (Kilo-class submarines eliminated; subsurface threat reduced but mines remain)
 - **Framework implication:** Ceasefire ≠ Hormuz reopening; oil markets stay disrupted through June–July minimum even under optimistic diplomatic scenario
 
 ### Space Domain
