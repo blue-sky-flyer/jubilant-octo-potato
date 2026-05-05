@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-05-04*
+*Last updated: 2026-05-05*
 
 ---
 
@@ -54,6 +54,9 @@ Key structural facts that persist:
 - **IRGC claims two missiles struck US Navy frigate near Jask; CENTCOM denies (May 4)** — Iran's IRGC-affiliated Fars News reported two missiles hit a US frigate approaching Hormuz near Jask after it ignored warnings, forcing it to retreat; CENTCOM: "No U.S. Navy ships have been struck"; whether real missiles fired and missed or information warfare, IRGC publicly asserted firing on a US warship — most dangerous military claim of the conflict; "shoot and kill" ROE now under most acute execution pressure of the war; confirms IRGC Trilemma Path C is underway (face-saving symbolic response that tests ROE without triggering full escalation)
 - **Trump-Xi summit confirmed May 14-15 — same day as Lebanon ceasefire expiry (May 4)** — Trump-Xi meeting confirmed for May 14-15; CNN: "unfinished Iran war gives Xi the upper hand in Trump talks"; China "winning without fighting" (Xi calls for peace while US bears military/economic costs); Putin-Xi meeting expected week of May 18; the May 14 convergence (Lebanon expiry + Trump-Xi summit + live "shoot and kill" ROE) creates strongest structural incentive yet for Praying Mantis scenario: Trump needs pre-summit "win" to enter summit from strength
 - **Project Freedom first convoy (5 supertankers) transited Omani coastal route without incident (May 4)** — WTI dropped ~8% to ~$99 on Sunday announcement; Brent volatile $99-$112 intraday on Project Freedom optimism vs. IRGC missile claim reversal; UK/France/Japan signaling coalition participation; diplomatic back-channel simultaneously maintained (Iran confirmed receiving US response)
+- **"Shoot and kill" ROE EXECUTED — US helicopters sink 6 IRGC boats; Iran attacks UAE (May 5)** — US AH-64 Apache and MH-60 Seahawk helicopters destroyed 6 Iranian small boats attacking Project Freedom commercial vessels; 2 US-flagged merchant ships successfully transited Hormuz; Iran simultaneously struck UAE for first time since April ceasefire; JCS confirms Iran attacked US forces 10+ times since ceasefire but "below threshold" for restarting major combat; Defense Sec: "ceasefire is not over"; both sides in active kinetic contact while maintaining nominal ceasefire label
+- **China Ministry of Commerce formally orders defiance of US sanctions on Iranian oil (May 5)** — First formal invocation of China's anti-foreign sanctions law ever; MoC orders Chinese companies not to comply with US sanctions against designated Iranian oil buyers; structural escalation from verbal protest to institutional assertion; Bessent publicly urging China to "step up diplomacy" ahead of Trump-Xi summit = direct collision; T2-05 raised to 47%, T3-03 raised to 93%
+- **Talks deadlocked: US 2-month ceasefire proposal vs. Iran 30-day war termination demand (May 5)** — US proposes 2-month ceasefire while war-ending terms negotiated; Iran insists all issues resolved within 30 days and goal must be war termination, not extended ceasefire; Iran's 14-point maximalist demands remain incompatible with all US red lines; both sides conducting kinetic operations while maintaining nominal ceasefire label
 
 ---
 
@@ -73,10 +76,11 @@ The week of proxy re-activation, vessel hostage-taking, and the opening of US-Ch
 
 ---
 
-## Daily Log (Apr 26 – May 3)
+## Daily Log (Apr 26 – May 4)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| May 4 | Project Freedom operational — first convoy (5 supertankers) transited Hormuz via Omani coastal route without incident; WTI dropped ~8% to ~$99 on announcement; IRGC claims two missiles struck US Navy frigate near Jask — CENTCOM denied ("no US ships struck"); most dangerous military claim of conflict; Path C Trilemma confirmed; Trump-Xi summit confirmed May 14-15 = same day as Lebanon ceasefire expiry (triple convergence in 9 days); Iran confirmed receiving US response to 14-point plan; diplomatic back-channel open; Lebanon 4 killed in IDF strikes | S2 ↓40% (−1pp), S3 ↑46% (+2pp), S5 ↑27% (+1pp) | ~$108–112 volatile (session range $106.23–$112.45; Brent whipsawed on Project Freedom vs. IRGC missile claim) | ~18–20 est. (↑ from 16.99; extreme misprice vs. triple convergence in 10 days) |
 | May 3 | Iran 14-point proposal publicly disclosed (maximalist: reparations, US troop withdrawal, Hormuz "control mechanism," nuclear deferred); Trump "not yet paid big enough price" + strikes possible "if they misbehave"; Iran Armed Forces General Staff: war in "imposition of costs" phase, "patience" determines victory; Asadi (central command): "renewed conflict likely"; Lebanon 70+ military + 50+ Hezbollah sites struck; 73 killed since Apr 30; May 14 expiry 11 days | S2 ↓41% (−2pp), S3 ↑44% (+2pp) | $108.17 (flat; range $103.60–$108.65) | 16.99 (↓ slightly; extreme misprice deepens — lower than 30 days ago) |
 | May 2 | Iran submits updated proposal via Pakistan mediators; Trump "not satisfied," leadership "very disjointed"; Iran military (IRGC-Vahidi) warns conflict "likely to restart" (Al Jazeera); US withdraws 5,000 troops from Germany (punitive; first NATO reallocation of war); Israeli strikes kill 9 in south Lebanon (May 14 now 12 days away) | S3 ↑42% (+2pp), S2 ↓43% (−1pp), S4 ↑13% (+1pp), S5 ↑26% (+1pp) | $108–110 (pulled back ~3-4% from $114 on peace signal; Trump rejection limits sustained relief) | ~17–17.5 est. (extreme misprice) |
 | May 1 | Trump declares war "TERMINATED" (War Powers bypass); Senate war powers fails 50-47 (Collins + Paul first GOP defections); Khamenei declares permanent Hormuz + nuclear/missile retention; UAE OPEC exit live; fertilizer crisis escalating (Euronews); Iraq militias returning Day 7; oil ROSE on "war over" signal; VIX falls 17.60 (war's most extreme misprice) | S2 ↑44% (+5pp), S3 ↓40% (−4pp), S4 ↑12% (+1pp) | ~$114/bbl | 17.60 |
@@ -88,56 +92,57 @@ The week of proxy re-activation, vessel hostage-taking, and the opening of US-Ch
 
 ---
 
-## Yesterday — Full Detail (May 4, Day 66)
+## Yesterday — Full Detail (May 5, Day 67)
 
-**Overall situation:** Day 66 / Week 10. Project Freedom launched and immediately tested. The first US-escorted convoy (5 supertankers) transited Hormuz via Omani coastal waters without incident on May 4, driving WTI ~8% lower on resolution hopes. But within hours, Iran's IRGC-affiliated Fars News claimed two missiles struck a US Navy frigate near Jask — the most dangerous military claim of the conflict — with CENTCOM flatly denying any ship was hit. The IRGC Trilemma Path C is confirmed: Iran cannot silently accept US-escorted convoys, and has made a face-saving public assertion of firing on a US warship. Whether real missiles were fired and missed or this is information warfare, "shoot and kill" ROE is now under its most acute execution pressure. A major new structural factor also emerged: Trump-Xi summit is confirmed for May 14-15, coinciding precisely with Lebanon's ceasefire expiry — a 10-day window to simultaneous maximum-pressure events across military, diplomatic, and great-power dimensions. The Praying Mantis scenario (one decisive US naval action before the summit) has reached its highest probability of the conflict.
+**Overall situation:** Day 67 / Week 10. "Shoot and kill" ROE executed for the first time — US AH-64 Apache and MH-60 Seahawk helicopters sank 6 Iranian small boats attacking Project Freedom commercial vessels, while 2 US-flagged merchant ships successfully transited Hormuz. Iran simultaneously struck the UAE for the first time since the April ceasefire, widening its GCC coercive target set. The Defense Secretary insists "the ceasefire is not over" while the JCS Chairman confirms Iran has attacked US forces 10+ times since the ceasefire announcement — the nominal ceasefire label is increasingly divorced from operational reality. China's Ministry of Commerce issued a formal order requiring Chinese companies to defy US sanctions on Iranian oil (first formal invocation of the anti-foreign sanctions law) — a structural escalation from verbal protest to institutional defiance, directly colliding with Treasury Secretary Bessent's request that Beijing use its leverage on Iran ahead of the May 14-15 Trump-Xi summit. Talks remain deadlocked: US proposes 2-month ceasefire; Iran demands 30-day resolution of all issues. The 9-day countdown to Lebanon expiry/Trump-Xi summit convergence has begun.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
 | S1: Limited/air campaign baseline | 5% | → from 5% |
-| S2: Partial Hormuz disruption (ACTIVE) | 40% | ↓ from 41% |
-| S3: Regional war / full proxy activation | 46% | ↑ from 44% |
+| S2: Partial Hormuz disruption (ACTIVE) | 37% | ↓ from 40% |
+| S3: Regional war / full proxy activation | 49% | ↑ from 46% |
 | S4: Nuclear dimension | 13% | → from 13% |
-| S5: Great power entanglement | 27% | ↑ from 26% |
+| S5: Great power entanglement | 29% | ↑ from 27% |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | ~$108–112 (volatile intraday whipsaw; fell toward $103–107 on Project Freedom, spiked toward $112 on IRGC missile claim; prev. close $110.40; session range $106.23–$112.45) | 🔴 EXTREME |
-| WTI crude | ~$99–104 (dropped ~8% on Project Freedom Sunday; partial recovery on IRGC missile claim) | 🔴 HIGH |
-| US gas price | ~$4.55–4.65/gal (structural; unchanged; highest since 2022) | 🔴 EXTREME |
-| Hormuz transits/day | 1 escorted convoy (5 supertankers) via Project Freedom Omani route; IRGC claiming it fired on US warship = commercial transit remains hazardous; IRGC: "any US forces will be attacked" | 🔴 EXTREME |
-| War-risk insurance | ~1.25–1.50%+ hull/transit (IRGC missile claim adds premium; Cape routing structural) | 🔴 EXTREME |
+| Brent crude | $113.24/bbl (−1.2% from Monday's $114.44; Mon surged ~6% on Hormuz violence; range $112–115) | 🔴 HIGH |
+| WTI crude | ~$100–104 (partial recovery from Sunday's ~8% drop) | 🔴 HIGH |
+| US gas price | ~$4.46/gal (highest since 2022) | 🔴 EXTREME |
+| Hormuz transits/day | 2 US-flagged vessels transited (Project Freedom); 6 IRGC boats sunk by US helicopters; Iran attacks UAE; 36 total Hormuz incidents (30 attacks, 6 near-misses) since war start | 🔴 EXTREME |
+| War-risk insurance | ~1.25–1.50%+ hull/transit (active naval combat adds further premium) | 🔴 EXTREME |
 | EU TTF gas | ~€57–65/MWh (structural; unchanged) | 🔴 HIGH |
-| Urea (fertilizer) | $700–900/mt (spring planting irreversibly closed; 2026 harvest damage cementing; 45M+ acute hunger) | 🔴 EXTREME |
-| S&P 500 | ~6,950–7,050 est. (Project Freedom optimism reversed by IRGC missile claim; volatile session) | 🟡 ELEVATED |
-| VIX | ~18–20 est. (↑ from 16.99; IRGC missile claim + Lebanon 10-day + Trump-Xi May 14-15 beginning to reprice; still extreme misprice vs. actual risk) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
-| USD DXY | 98.43 (+0.28% — slight safe-haven bid on missile claim; structurally bearish) | 🟡 ELEVATED |
-| Gold | ~$4,900–4,950 est. (IRGC missile claim + Trump-Xi leverage dynamic; $5,000 target on any kinetic execution) | 🔴 HIGH |
+| Urea (fertilizer) | ~$700/mt (structural; spring planting irreversibly closed) | 🔴 EXTREME |
+| S&P 500 | ~7,200–7,230 (near ATH; extreme misprice vs. active naval combat) | 🟡 ELEVATED (⚠️ MISPRICE) |
+| VIX | ~17–19 est. (hasn't exceeded 20 since Apr 8; ROE execution hasn't forced reprice yet; extreme misprice deepening) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
+| USD DXY | ~98–99 (slight safe-haven bid; structurally bearish) | 🟡 ELEVATED |
+| Gold | ~$4,550 (−~2% Tue; pressured by stronger dollar; structural floor intact) | 🔴 HIGH |
 
 **Key developments:**
-- Project Freedom operational — first convoy (5 supertankers) transited via Omani coastal route without incident; WTI dropped ~8% to ~$99 on announcement; UK/France/Japan signaling coalition participation; Trump says "very positive discussions" with Iran simultaneously (dual coercion + off-ramp confirmed) (Sources: CENTCOM, Al Jazeera, Fox News, CNN)
-- IRGC claims two missiles struck US frigate near Jask — CENTCOM denied: "No US Navy ships have been struck"; Fars News (IRGC-affiliated) reported frigate forced to retreat; most dangerous military claim of conflict; Path C Trilemma confirmed (Sources: Al Jazeera liveblog, CENTCOM/Naval Today, Jerusalem Post, The Hill)
-- Trump-Xi summit confirmed May 14-15 — same day as Lebanon ceasefire expiry; CNN: "unfinished Iran war gives Xi upper hand"; China "winning without fighting" (bears no military/economic cost); Putin-Xi meeting expected week of May 18 (Sources: CNN, Brookings, ABC News)
-- Diplomatic back-channel confirmed open — Iran foreign ministry confirmed receiving US response to 14-point plan; Araghchi channel active despite IRGC missile claim (Sources: CNBC, Al Jazeera)
-- Lebanon: 4 killed in intense IDF strikes across south Lebanon, Nabatieh heavily struck; IDF reportedly intensifying breaches ahead of May 14 to build leverage on Hezbollah disarmament; Lebanese Army Chief meeting US generals in Beirut (marginally positive signal) (Sources: The National, France 24)
+- "Shoot and kill" ROE EXECUTED — US AH-64/MH-60 helicopters destroyed 6 Iranian small boats attacking commercial vessels under Project Freedom; 2 US-flagged ships successfully transited Hormuz; Iran's Tasnim counter-claimed US hit civilian cargo boats (not IRGC speedboats); 36 total Hormuz incidents since war start (Sources: TWZL, PBS, Breaking Defense, FDD)
+- Iran strikes UAE for first time since April ceasefire — Iran widening GCC coercive target set; UAE exited OPEC May 1 and is fully aligned with US-Israel camp; Defense Sec says "ceasefire is not over" / "expected churn"; JCS: Iran has attacked US forces 10+ times since ceasefire but "below threshold" for restarting major combat; Trump warns Iran "blown off Earth" if they target US ships (Sources: CNN Day 67 liveblog, NPR)
+- China MoC formally orders defiance of US sanctions on Iranian oil — first invocation of anti-foreign sanctions law ever; formal institutional assertion backing verbal prior protests; Bessent publicly urging China to "step up diplomacy on Iran" ahead of Trump-Xi May 14-15 = direct collision (Sources: Crypto Briefing, Reuters/Investing.com)
+- Talks deadlocked — US proposes 2-month ceasefire; Iran insists 30-day war termination; Iran's 14-point demands (reparations, US troop withdrawal, Hormuz "control mechanism," nuclear deferred) remain incompatible with US positions; both sides in kinetic contact while maintaining ceasefire label (Sources: NPR, JPost, CNBC)
+- Lebanon 9 days to May 14 expiry — IDF chief says "no ceasefire" in south Lebanon; Israel wants expanded Lebanon campaign blessing if no deal by May 14; same-day Trump-Xi summit (May 14-15) and Putin-Xi expected week of May 18 (Sources: ToI, Security Council Report)
 
 **Upgraded risks:**
-- "Shoot and kill" ROE execution: IRGC missile claim = most direct test of live ROE since order issued; US cannot indefinitely absorb public IRGC assertions of firing on US warships without response
-- Praying Mantis scenario: Trump needs pre-summit "win" before May 14-15 Trump-Xi summit; IRGC missile claim provides pretext; one-day decisive naval action = drops oil, humbles regime, gives Trump leverage at summit — highest probability of the war
-- May 14 triple convergence: Lebanon expiry + Trump-Xi summit + live ROE + Project Freedom convoy sequence = most compressed simultaneous maximum-pressure window of the conflict
+- US-Iran naval attrition cycle active: 6 boats sunk → IRGC must respond (Vahidi cannot absorb publicly) → each exchange under live ROE compounds escalation; JCS "below threshold" framing extends misprice window but attrition is confirmed operational
+- GCC stability: Iran attacking UAE signals widened coercive target set; GCC infrastructure strikes (oil, desalination, financial) risk returning
+- US-China institutional confrontation: China MoC order removes deniability; OFAC secondary sanctions on Chinese financial institutions (CIPS/Kunlun Bank) now probable; US-China confrontation structural
 
 **Downgraded risks:**
-- US silent acceptance of IRGC maritime regime: Project Freedom launch eliminates any US acknowledgment of IRGC Hormuz jurisdiction; Omani coastal routing legally and politically forecloses that concession
+- Immediate single-strike Praying Mantis: ROE execution via 6 small boats is calibrated and incremental; Trump appears to prefer sustained coercive pressure + dual-track diplomacy over single dramatic action before summit; still possible but not today's pattern
+- Ceasefire complete collapse: both sides maintain nominal label while conducting operations; mutual interest in not formally declaring war resumed gives the framework a zombie half-life
 
 **Watch:**
-- **Project Freedom convoy 2 and 3 (next 48–72 hrs)** — Does IRGC intercept or harass a second convoy? First convoy safe; second convoy is the critical test
-- **US response to IRGC missile claim (next 24 hrs)** — If US confirms missiles were fired (even if missed), ROE triggered; full silence = IRGC may escalate
-- **Trump statement on IRGC missile claim** — His tone is the primary 24-hr escalation indicator
-- **Trump-Xi pre-summit positioning (next 10 days)** — Watch for signs Trump is preparing a pre-summit "win" (Praying Mantis) vs. a diplomatic deal (Araghchi path)
-- **Lebanon May 14 expiry (10 days)** — IDF intensifying strikes; same-day Trump-Xi summit = explosive convergence; watch on 3rd extension
-- **Iran formal response to US counter-proposal** — Araghchi channel open; any Iranian withdrawal of reparations/troop withdrawal demands = S2 stabilization signal
+- **IRGC response to 6 boats sunk (next 24–48 hrs)** — Vahidi cannot absorb this loss; expect IRGC missile/drone salvo or larger vessel deployment; any escalation to frigate-class = Praying Mantis execution trigger
+- **UAE-Iran escalation dynamic** — UAE-US bilateral military coordination (Al Dhafra Air Base); potential for UAE to formally request additional force protection
+- **US response to China MoC order** — OFAC/Treasury: possible secondary sanctions against Chinese financial institutions; would be largest US-China financial confrontation of the war
+- **Trump tone on 6 boats sunk** — "We're winning" (coercive pressure maintained) vs. "they attacked us" (prepares public for expanded action)
+- **Project Freedom convoy 2 (next 24–48 hrs)** — Does IRGC attempt larger assets (frigates, missiles) after losing 6 small boats on Day 1?
+- **Lebanon May 14 / Trump-Xi summit (9 days)** — Watch Trump posture on Lebanon 3rd extension; any pre-summit "win" signal from either track
 
 ---
 
