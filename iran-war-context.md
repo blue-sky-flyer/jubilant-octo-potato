@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-05-05*
+*Last updated: 2026-05-06*
 
 ---
 
@@ -57,6 +57,8 @@ Key structural facts that persist:
 - **"Shoot and kill" ROE EXECUTED — US helicopters sink 6 IRGC boats; Iran attacks UAE (May 5)** — US AH-64 Apache and MH-60 Seahawk helicopters destroyed 6 Iranian small boats attacking Project Freedom commercial vessels; 2 US-flagged merchant ships successfully transited Hormuz; Iran simultaneously struck UAE for first time since April ceasefire; JCS confirms Iran attacked US forces 10+ times since ceasefire but "below threshold" for restarting major combat; Defense Sec: "ceasefire is not over"; both sides in active kinetic contact while maintaining nominal ceasefire label
 - **China Ministry of Commerce formally orders defiance of US sanctions on Iranian oil (May 5)** — First formal invocation of China's anti-foreign sanctions law ever; MoC orders Chinese companies not to comply with US sanctions against designated Iranian oil buyers; structural escalation from verbal protest to institutional assertion; Bessent publicly urging China to "step up diplomacy" ahead of Trump-Xi summit = direct collision; T2-05 raised to 47%, T3-03 raised to 93%
 - **Talks deadlocked: US 2-month ceasefire proposal vs. Iran 30-day war termination demand (May 5)** — US proposes 2-month ceasefire while war-ending terms negotiated; Iran insists all issues resolved within 30 days and goal must be war termination, not extended ceasefire; Iran's 14-point maximalist demands remain incompatible with all US red lines; both sides conducting kinetic operations while maintaining nominal ceasefire label
+- **Trump pauses "Project Freedom" (May 6)** — Hormuz escort operation halted after 48 hours at Pakistan's request; Trump cites "Great Progress toward Complete and Final Agreement"; naval blockade of Iranian ports maintained; reveals preference for deal-from-strength over Praying Mantis kinetics before Trump-Xi summit
+- **Iran three-phase nuclear proposal disclosed (May 6)** — ISW-CTP reveals Iran's counterproposal: Phase 1 (war end + no-future-strikes guarantee), Phase 2 (nuclear discussions including enrichment pause + HEU dilution/transfer option); first Iranian nuclear flexibility signal since war began; potentially bridges US precondition demand for nuclear freeze before war termination
 
 ---
 
@@ -76,10 +78,11 @@ The week of proxy re-activation, vessel hostage-taking, and the opening of US-Ch
 
 ---
 
-## Daily Log (Apr 26 – May 4)
+## Daily Log (Apr 26 – May 5)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| May 5 | "Shoot and kill" ROE EXECUTED — US Apache/Seahawk helicopters sink 6 IRGC boats attacking Project Freedom convoy; 2 US-flagged ships transit Hormuz; Iran strikes UAE for first time since April ceasefire; China MoC formally orders defiance of US sanctions on Iranian oil (anti-foreign sanctions law invoked first time ever); JCS confirms 10+ Iran attacks on US forces since ceasefire; talks deadlocked (US: 2-month ceasefire; Iran: 30-day war termination); Lebanon 9 days to May 14 expiry | S2 ↓37% (−3pp), S3 ↑49% (+3pp), S5 ↑29% (+2pp); T2-05 ↑47% (+7pp, China MoC order); T3-03 ↑93% (+5pp) | $113.24 (−1.2%; Mon surged ~6% on Hormuz violence) | ~17-19 est. (extreme misprice) |
 | May 4 | Project Freedom operational — first convoy (5 supertankers) transited Hormuz via Omani coastal route without incident; WTI dropped ~8% to ~$99 on announcement; IRGC claims two missiles struck US Navy frigate near Jask — CENTCOM denied ("no US ships struck"); most dangerous military claim of conflict; Path C Trilemma confirmed; Trump-Xi summit confirmed May 14-15 = same day as Lebanon ceasefire expiry (triple convergence in 9 days); Iran confirmed receiving US response to 14-point plan; diplomatic back-channel open; Lebanon 4 killed in IDF strikes | S2 ↓40% (−1pp), S3 ↑46% (+2pp), S5 ↑27% (+1pp) | ~$108–112 volatile (session range $106.23–$112.45; Brent whipsawed on Project Freedom vs. IRGC missile claim) | ~18–20 est. (↑ from 16.99; extreme misprice vs. triple convergence in 10 days) |
 | May 3 | Iran 14-point proposal publicly disclosed (maximalist: reparations, US troop withdrawal, Hormuz "control mechanism," nuclear deferred); Trump "not yet paid big enough price" + strikes possible "if they misbehave"; Iran Armed Forces General Staff: war in "imposition of costs" phase, "patience" determines victory; Asadi (central command): "renewed conflict likely"; Lebanon 70+ military + 50+ Hezbollah sites struck; 73 killed since Apr 30; May 14 expiry 11 days | S2 ↓41% (−2pp), S3 ↑44% (+2pp) | $108.17 (flat; range $103.60–$108.65) | 16.99 (↓ slightly; extreme misprice deepens — lower than 30 days ago) |
 | May 2 | Iran submits updated proposal via Pakistan mediators; Trump "not satisfied," leadership "very disjointed"; Iran military (IRGC-Vahidi) warns conflict "likely to restart" (Al Jazeera); US withdraws 5,000 troops from Germany (punitive; first NATO reallocation of war); Israeli strikes kill 9 in south Lebanon (May 14 now 12 days away) | S3 ↑42% (+2pp), S2 ↓43% (−1pp), S4 ↑13% (+1pp), S5 ↑26% (+1pp) | $108–110 (pulled back ~3-4% from $114 on peace signal; Trump rejection limits sustained relief) | ~17–17.5 est. (extreme misprice) |
@@ -92,57 +95,59 @@ The week of proxy re-activation, vessel hostage-taking, and the opening of US-Ch
 
 ---
 
-## Yesterday — Full Detail (May 5, Day 67)
+## Yesterday — Full Detail (May 6, Day 68)
 
-**Overall situation:** Day 67 / Week 10. "Shoot and kill" ROE executed for the first time — US AH-64 Apache and MH-60 Seahawk helicopters sank 6 Iranian small boats attacking Project Freedom commercial vessels, while 2 US-flagged merchant ships successfully transited Hormuz. Iran simultaneously struck the UAE for the first time since the April ceasefire, widening its GCC coercive target set. The Defense Secretary insists "the ceasefire is not over" while the JCS Chairman confirms Iran has attacked US forces 10+ times since the ceasefire announcement — the nominal ceasefire label is increasingly divorced from operational reality. China's Ministry of Commerce issued a formal order requiring Chinese companies to defy US sanctions on Iranian oil (first formal invocation of the anti-foreign sanctions law) — a structural escalation from verbal protest to institutional defiance, directly colliding with Treasury Secretary Bessent's request that Beijing use its leverage on Iran ahead of the May 14-15 Trump-Xi summit. Talks remain deadlocked: US proposes 2-month ceasefire; Iran demands 30-day resolution of all issues. The 9-day countdown to Lebanon expiry/Trump-Xi summit convergence has begun.
+**Overall situation:** Day 68 / Week 10. Trump paused "Project Freedom" — the Hormuz escort operation launched just 48 hours earlier — citing "Great Progress toward a Complete and Final Agreement" at Pakistan's request. Oil crashed 8-9% (Brent ~$101/bbl, WTI ~$92.8/bbl), the largest single-day decline since the April 8 ceasefire. The naval blockade of Iranian ports remains in place. ISW-CTP revealed Iran's counterproposal as a three-phase structure: Phase 1 (immediate war end, no future strikes), Phase 2 (nuclear discussions including enrichment pause + HEU dilution/transfer option) — the first Iranian nuclear flexibility signal of the war. Iran's Ambassador to Pakistan described talks as at a "critical, sensitive stage." Trump threatened "much higher level attacks" if no deal even while pausing. The 8-day countdown to Lebanon ceasefire expiry / Trump-Xi summit (May 14-15) remains the primary structural forcing mechanism.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 5% | → from 5% |
-| S2: Partial Hormuz disruption (ACTIVE) | 37% | ↓ from 40% |
-| S3: Regional war / full proxy activation | 49% | ↑ from 46% |
-| S4: Nuclear dimension | 13% | → from 13% |
-| S5: Great power entanglement | 29% | ↑ from 27% |
+| S1: Limited/air campaign baseline | 7% | ↑ from 5% |
+| S2: Partial Hormuz disruption (ACTIVE) | 42% | ↑ from 37% |
+| S3: Regional war / full proxy activation | 43% | ↓ from 49% |
+| S4: Nuclear dimension | 11% | ↓ from 13% |
+| S5: Great power entanglement | 29% | → from 29% |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | $113.24/bbl (−1.2% from Monday's $114.44; Mon surged ~6% on Hormuz violence; range $112–115) | 🔴 HIGH |
-| WTI crude | ~$100–104 (partial recovery from Sunday's ~8% drop) | 🔴 HIGH |
-| US gas price | ~$4.46/gal (highest since 2022) | 🔴 EXTREME |
-| Hormuz transits/day | 2 US-flagged vessels transited (Project Freedom); 6 IRGC boats sunk by US helicopters; Iran attacks UAE; 36 total Hormuz incidents (30 attacks, 6 near-misses) since war start | 🔴 EXTREME |
-| War-risk insurance | ~1.25–1.50%+ hull/transit (active naval combat adds further premium) | 🔴 EXTREME |
+| Brent crude | ~$101/bbl (−8% on Project Freedom pause + deal signals; largest single-day drop since Apr 8) | 🔴 HIGH |
+| WTI crude | ~$92.8/bbl (−9.2%; first sub-$93 since mid-April) | 🔴 HIGH |
+| US gas price | ~$4.46/gal (pump prices lag oil crash; no same-day response) | 🔴 EXTREME |
+| Hormuz transits/day | Project Freedom PAUSED; ~11 crossings May 4 pre-pause; 95% below pre-war; 600+ vessels stranded (325 tankers); blockade maintained | 🔴 EXTREME |
+| War-risk insurance | ~1.25–1.50%+ hull/transit (pause may ease slightly; no formal Hormuz reopening) | 🔴 EXTREME |
 | EU TTF gas | ~€57–65/MWh (structural; unchanged) | 🔴 HIGH |
 | Urea (fertilizer) | ~$700/mt (structural; spring planting irreversibly closed) | 🔴 EXTREME |
-| S&P 500 | ~7,200–7,230 (near ATH; extreme misprice vs. active naval combat) | 🟡 ELEVATED (⚠️ MISPRICE) |
-| VIX | ~17–19 est. (hasn't exceeded 20 since Apr 8; ROE execution hasn't forced reprice yet; extreme misprice deepening) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
-| USD DXY | ~98–99 (slight safe-haven bid; structurally bearish) | 🟡 ELEVATED |
-| Gold | ~$4,550 (−~2% Tue; pressured by stronger dollar; structural floor intact) | 🔴 HIGH |
+| S&P 500 | Near ATH + rally on deal signals + oil crash; Lebanon + China MoC unpriced | 🟡 ELEVATED (⚠️ MISPRICE) |
+| VIX | 17.47 (−4.5% on deal signals; 8-day May 14 Lebanon cluster still unpriced) | 🟡 ELEVATED (⚠️ MISPRICE) |
+| USD DXY | 98.39 (+0.01%; modest safe-haven; yuan-oil channel deepening) | 🟡 ELEVATED |
+| Gold | ~$4,450 est. (−~2% on deal signals; structural floor intact) | 🔴 HIGH |
 
 **Key developments:**
-- "Shoot and kill" ROE EXECUTED — US AH-64/MH-60 helicopters destroyed 6 Iranian small boats attacking commercial vessels under Project Freedom; 2 US-flagged ships successfully transited Hormuz; Iran's Tasnim counter-claimed US hit civilian cargo boats (not IRGC speedboats); 36 total Hormuz incidents since war start (Sources: TWZL, PBS, Breaking Defense, FDD)
-- Iran strikes UAE for first time since April ceasefire — Iran widening GCC coercive target set; UAE exited OPEC May 1 and is fully aligned with US-Israel camp; Defense Sec says "ceasefire is not over" / "expected churn"; JCS: Iran has attacked US forces 10+ times since ceasefire but "below threshold" for restarting major combat; Trump warns Iran "blown off Earth" if they target US ships (Sources: CNN Day 67 liveblog, NPR)
-- China MoC formally orders defiance of US sanctions on Iranian oil — first invocation of anti-foreign sanctions law ever; formal institutional assertion backing verbal prior protests; Bessent publicly urging China to "step up diplomacy on Iran" ahead of Trump-Xi May 14-15 = direct collision (Sources: Crypto Briefing, Reuters/Investing.com)
-- Talks deadlocked — US proposes 2-month ceasefire; Iran insists 30-day war termination; Iran's 14-point demands (reparations, US troop withdrawal, Hormuz "control mechanism," nuclear deferred) remain incompatible with US positions; both sides in kinetic contact while maintaining ceasefire label (Sources: NPR, JPost, CNBC)
-- Lebanon 9 days to May 14 expiry — IDF chief says "no ceasefire" in south Lebanon; Israel wants expanded Lebanon campaign blessing if no deal by May 14; same-day Trump-Xi summit (May 14-15) and Putin-Xi expected week of May 18 (Sources: ToI, Security Council Report)
+- Trump PAUSES Project Freedom "for a short period of time" at Pakistan's request — cites "Great Progress toward Complete and Final Agreement"; naval blockade of Iranian ports maintained; operation ran for just 48 hours (5-tanker Day 1 convoy, 2 US-flagged ships Day 2) before pause (Sources: Time, CBS News, CNN, Bloomberg, Al Jazeera)
+- Oil crashes 8-9% — Brent ~$101, WTI ~$92.8 — largest single-day oil drop since April 8 ceasefire announcement; equities rally sharply; markets repricing deal probability on 8-10 day horizon (Sources: CNBC, Fortune, Bloomberg)
+- Iran three-phase nuclear proposal disclosed — ISW-CTP reveals Phase 1 (war end + no-future-strikes), Phase 2 (nuclear discussions: enrichment pause + HEU dilution/transfer option); FIRST Iranian nuclear flexibility signal of the war; potentially bridges US precondition demand for nuclear freeze (Sources: Critical Threats/ISW-CTP, Al Jazeera)
+- Iran Ambassador to Pakistan: talks at "critical, sensitive stage" — Amiri-Moghaddam's most positive diplomatic language since April 8 ceasefire (Sources: NPR, CNN)
+- Trump: "much higher level attacks" if no deal — dual-track coercion maintained (pause + threat) even while announcing Project Freedom halt (Sources: Al Jazeera liveblog)
+- Lebanon: 8 days to May 14 expiry; IDF operations continuing; cumulative Lebanon casualties 2,659 killed, 8,183 injured since March 2 (Sources: ISW-CTP, Times of Israel)
 
 **Upgraded risks:**
-- US-Iran naval attrition cycle active: 6 boats sunk → IRGC must respond (Vahidi cannot absorb publicly) → each exchange under live ROE compounds escalation; JCS "below threshold" framing extends misprice window but attrition is confirmed operational
-- GCC stability: Iran attacking UAE signals widened coercive target set; GCC infrastructure strikes (oil, desalination, financial) risk returning
-- US-China institutional confrontation: China MoC order removes deniability; OFAC secondary sanctions on Chinese financial institutions (CIPS/Kunlun Bank) now probable; US-China confrontation structural
+- Deal probability materially upgraded: Project Freedom pause + Iran Phase 2 nuclear flexibility + "critical, sensitive stage" = first structured off-ramp including nuclear discussion; probability of framework agreement before Lebanon expiry (8 days) at highest level since April 8 ceasefire
+- Oil downside risk (deal scenario): If deal framework emerges before May 14, Brent could fall to $85-90; dominant near-term downside risk for energy longs
+- VIX misprice partially closing: VIX −4.5% directionally correct; residual misprice = Lebanon binary + China MoC arc unpriced
 
 **Downgraded risks:**
-- Immediate single-strike Praying Mantis: ROE execution via 6 small boats is calibrated and incremental; Trump appears to prefer sustained coercive pressure + dual-track diplomacy over single dramatic action before summit; still possible but not today's pattern
-- Ceasefire complete collapse: both sides maintain nominal label while conducting operations; mutual interest in not formally declaring war resumed gives the framework a zombie half-life
+- IRGC Trilemma Path C near-term: Project Freedom paused = no convoy to interdict; Vahidi's immediate kinetic trigger removed; resumption re-triggers
+- Nuclear escalation (S4): Iran Phase 2 nuclear flexibility signal reduces pure impasse narrative; S4 −2pp to 11%
+- Praying Mantis this week: Trump preference for deal-from-strength confirmed over decisive kinetic action before summit
 
 **Watch:**
-- **IRGC response to 6 boats sunk (next 24–48 hrs)** — Vahidi cannot absorb this loss; expect IRGC missile/drone salvo or larger vessel deployment; any escalation to frigate-class = Praying Mantis execution trigger
-- **UAE-Iran escalation dynamic** — UAE-US bilateral military coordination (Al Dhafra Air Base); potential for UAE to formally request additional force protection
-- **US response to China MoC order** — OFAC/Treasury: possible secondary sanctions against Chinese financial institutions; would be largest US-China financial confrontation of the war
-- **Trump tone on 6 boats sunk** — "We're winning" (coercive pressure maintained) vs. "they attacked us" (prepares public for expanded action)
-- **Project Freedom convoy 2 (next 24–48 hrs)** — Does IRGC attempt larger assets (frigates, missiles) after losing 6 small boats on Day 1?
-- **Lebanon May 14 / Trump-Xi summit (9 days)** — Watch Trump posture on Lebanon 3rd extension; any pre-summit "win" signal from either track
+- **US response to Iran's three-phase proposal (24–72 hrs)** — Does US accept Phase 1 war termination + Phase 2 nuclear framework? Pivotal deal-or-no-deal question
+- **Project Freedom resumption trigger** — "Short period of time" — resumption re-triggers IRGC kinetic response and IRGC Trilemma
+- **Lebanon May 14 / Trump-Xi summit (8 days)** — Hardest structural binary; Trump must decide on 3rd extension or Israeli expanded campaign
+- **Iran's IRGC response to diplomatic pause** — Does Vahidi accept window or continue provocations?
+- **US blockade conditional lifting** — Any deal framework likely requires Phase 1 conditional blockade easing; watch for first signal
+- **Trump-Xi summit content (May 14-15)** — What Iran concessions does Trump seek from Xi? What does China offer vs. MoC order confrontation?
 
 ---
 
