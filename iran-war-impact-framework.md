@@ -372,7 +372,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T2-01: Global Recession Risk
-**Likelihood:** 88% | **Trend:** ↑↑↑ | **Horizon:** 6–12 months — Brent hit $126.41 intraday (April 30, war's highest price, 4-year high); US gas at highest since 2022 (confirmed today); CENTCOM briefing on new military options = no near-term Hormuz resolution; FOMC confirmed zero 2026 cuts; oil above $100 for 9+ consecutive sessions = stagflation structural; IMF near-recession threshold already breached in baseline at $100+ oil; ECB: Germany/Italy technical recession confirmed; UAE OPEC exit effective May 1 = structural supply uncertainty; net +5% from 83%
+**Likelihood:** 83% | **Trend:** ↑↑ | **Horizon:** 6–12 months — Brent hit $126.41 intraday (April 30, war's highest price, 4-year high); US gas at highest since 2022; CENTCOM briefing on new military options = no near-term Hormuz resolution confirmed; FOMC zero 2026 cuts; oil above $100 structural; ECB: Germany/Italy technical recession confirmed; UAE OPEC exit live = structural supply uncertainty; net −5% from 88% on one-page memo deal framework (May 7): deal-case within 7-14 days = structural oil price resolution pathway; Brent $80-90 in deal scenario reduces sustained-$100+ recession engine; stagflation structural damage to 2026 harvest irreversible regardless of deal timing
 **Sectors:** All | **Geographies:** Global, worst in EU, South/Southeast Asia, Africa
 
 **Mechanism:** Oil-driven stagflation → central bank paralysis (can't cut without worsening inflation) → demand destruction → recession. Historically, every major oil shock since 1973 has been followed by recession.
@@ -669,7 +669,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T3-05: Nuclear Non-Proliferation Norm Erosion
-**Likelihood:** 52% | **Trend:** ↑↑ | **Horizon:** 2–5 years
+**Likelihood:** 44% | **Trend:** ↑ | **Horizon:** 2–5 years — net −8% from 52% on one-page memo deal framework (May 7): 12-15yr nuclear enrichment moratorium in deal terms = if Iran accepts, the regional lesson shifts from "nuclear weapons = survival" to "conventional military + Hormuz leverage + diplomatic pressure = negotiated settlement"; Saudi/regional proliferation incentive materially reduced under this framework; residual risk: moratorium ≠ dismantlement; Iran keeps enrichment infrastructure; "latent deterrence" lesson still present; trend ↑↑ → ↑ as deal framework emerges
 **Sectors:** Geopolitics, Defense | **Geographies:** Saudi Arabia, Turkey, Egypt, potentially others
 
 **Mechanism:** If Iran's conventional military is destroyed but nuclear program is seen as having been the deterrent that saved it (in some narrative), regional powers (especially Saudi Arabia) will draw the lesson that nuclear weapons = survival. This is one of the highest-consequence structural risks.
