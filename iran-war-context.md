@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-05-09*
+*Last updated: 2026-05-10*
 
 ---
 
@@ -64,6 +64,8 @@ Key structural facts that persist:
 - **Formal US-Iran talks scheduled May 14-15; China co-guarantor role (May 8)** — Pakistan-mediated talks explicitly scheduled for May 14-15 in Islamabad; triple convergence confirmed: talks + Lebanon ceasefire expiry + Trump-Xi summit all on May 14-15 — most consequential 48-hour window of conflict; Araghchi met Wang Yi in Beijing (China: "resumption of hostilities inadvisable"); China positioning as co-guarantor; Araghchi's sequencing: Russia → China → May 14-15 formal talks is deliberate diplomatic scaffolding
 - **One-page MOU clarified as 30-day framework (May 8)** — The Hill: MOU would declare war's end and launch 30-day negotiations on Hormuz/nuclear/sanctions; 12-15yr moratorium is endgame of process, not immediate commitment; Hormuz transits declining 44→36/week despite deal signals
 - **Kharg Island 45km² oil spill detected (satellite, May 6-8; reported May 9)** — Copernicus satellite detected massive oil slick west of Kharg Island; largest environmental incident of war; Iran denies; cause unknown; Kharg handles 90% of Iran's oil exports (primarily to China); Gulf desalination + fisheries at risk if ongoing; potential Iranian negotiating leverage if spill linked to US strikes on Bandar Abbas/Qeshm
+- **US State Dept sanctions 4 firms (3 Chinese) for satellite imagery enabling Iranian strikes on US forces (May 10)** — first direct US sanctions on Chinese entities for military-intelligence support activities; qualitative escalation from oil sanctions (Apr 25); T-4 to Trump-Xi summit; T2-05 raised to 52%
+- **Iran formally delivers MOU response to Pakistan; Qatar LNG tanker Al Kharaitiyat transits Hormuz (May 10)** — first Qatari LNG shipment through Hormuz since war; Iran-approved under Pakistan government deal (trust-building); MOU content undisclosed but delivery keeps deal alive T-4 to May 14-15 formal talks
 - **Trump expects Iran MOU response "tonight"; threatens "Project Freedom Plus" (May 9)** — "We may go back to Project Freedom if things don't happen, but it'd be Project Freedom plus, meaning Project Freedom plus other things"; T-5 to May 14 triple convergence (formal talks + Lebanon ceasefire expiry + Trump-Xi summit); Iran formal MOU response pending; IDF struck 85+ Hezbollah sites in 24 hrs
 
 ---
@@ -87,10 +89,11 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ---
 
-## Daily Log (May 3 – May 9)
+## Daily Log (May 3 – May 10)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| May 10 | Iran formally delivers MOU response to Pakistan (content undisclosed; delivery keeps deal alive T-4 to May 14-15); US State Dept sanctions 4 firms (3 Chinese) for satellite imagery enabling Iranian strikes on US forces — first military-intelligence sanctions vs. China (T2-05 ↑52%, S5 ↑26%); Qatar LNG tanker Al Kharaitiyat transits Hormuz (first Qatari LNG since war; Iran-approved under Pakistan deal); IRGC warns sanctioned countries "face problems" in Hormuz; Khamenei backs "death to America" chants; bulk carrier struck off Qatar; IDF kills 22 in Lebanon incl. 4 children (T-4 to May 14 triple convergence) | S1 →9%, S2 ↑45% (+1pp), S3 ↓38% (−1pp), S4 →8%, S5 ↑26% (+1pp) | ~$100.49 (flat, +0.4%) | ~17.19 (extreme misprice deepens T-4) |
 | May 9 | Trump expects Iran MOU response "tonight"; threatens "Project Freedom Plus" if talks fail; overnight Hormuz "sporadic clashes" (Fars News — Iran accuses US of ceasefire breach; CENTCOM silent); Kharg Island 45km² oil spill (satellite-detected May 6-8, Iran denies, cause unknown) = largest environmental incident of war; IDF strikes 85+ Hezbollah sites in 24 hrs (T-5 to May 14 triple convergence); April payrolls +115k vs. +62k; DXY at 10-week low (97.91) | S1 →9%, S2 ↑44% (+1pp), S3 ↓39% (−1pp), S4 →8%, S5 ↓25% (−1pp) | ~$101.29 (flat, +0.09%) | ~17.11 (extreme misprice deepens) |
 | May 8 | US destroyers (Truxtun/Rafael Peralta/Mason) attacked by IRGC in Hormuz; US struck Bandar Abbas/Qeshm (first US kinetic strikes on Iran since April ceasefire; Trump: "love tap"); Iran struck UAE (2nd time since ceasefire); Araghchi meets Wang Yi in Beijing (China: "resumption inadvisable"; co-guarantor); formal US-Iran talks scheduled May 14-15 (triple convergence with Lebanon expiry + Trump-Xi summit, 6 days); MOU clarified as 30-day framework, not immediate moratorium; Hormuz transits 36/week declining (vs. 44 prior week) | S1 ↓9% (−1pp), S2 →43%, S3 ↑40% (+3pp), S4 →8%, S5 ↓26% (−1pp) | ~$101.20 (+1.1%) | ~17.5 (extreme misprice) |
 | May 7 | Axios one-page memo (12-15yr nuclear moratorium + Hormuz reopening + sanctions relief) = biggest diplomatic breakthrough since Apr 8 ceasefire; IRGC first "safe passage" signal for Hormuz; Pakistan "hopeful deal can happen soon"; Iran formal response pending; Iranian media denied Axios report; Lebanon 7 days to May 14 | S1 ↑10% (+3pp), S2 ↑43% (+1pp), S3 ↓37% (−6pp), S4 ↓8% (−3pp), S5 ↓27% (−2pp) | ~$102/bbl (+0.68%) | 17.39 (extreme misprice) |
@@ -101,58 +104,57 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ---
 
-## Yesterday — Full Detail (May 9, Day 71)
+## Yesterday — Full Detail (May 10, Day 72)
 
-**Overall situation:** Day 71 / Week 11. The MOU diplomatic track reaches its moment of maximum tension: Trump is expecting Iran's formal response to the one-page war-end framework "tonight," while simultaneously threatening "Project Freedom Plus" (an escalated naval escort operation) if talks fail. Overnight "sporadic clashes" between Iranian and US naval forces in Hormuz (Fars News) led Iran's FM spokesman Baqaei to accuse the US of a "blatant violation of international law and breach of the ceasefire" — CENTCOM did not confirm; exchange appears episodic (IRGC Path C probe) rather than sustained. A 45km² oil slick detected by Copernicus satellite near Kharg Island (May 6-8) is the largest environmental incident of the war; cause unknown; Iran denies. IDF struck 85+ Hezbollah sites in 24 hours — most intense pre-expiry Lebanon campaign yet, with T-5 days to the May 14 triple convergence. Brent ~$101.29 (essentially flat); DXY at 10-week low (97.91) despite April payrolls beating expectations (+115k vs. +62k); VIX ~17.11 (extreme misprice deepens).
+**Overall situation:** Day 72 / Week 11. Iran formally delivered its MOU response to Pakistani mediators on May 10 — the diplomatic step Trump had demanded "tonight" on May 9. Content was not publicly disclosed as of end of day, but the delivery itself (rather than a rejection or walkaway) keeps the deal pathway alive T-4 days before the May 14-15 triple convergence (formal Islamabad talks + Trump-Xi summit + Lebanon ceasefire expiry). Simultaneously, IRGC hardliner signaling intensified: a senior Iranian military official warned that countries enforcing US sanctions will "face problems" transiting Hormuz; Mojtaba Khamenei backed "death to America" chants and held a second meeting with a senior military commander within days — classic dual-track behavior. The US escalated against China: State Dept sanctioned 4 firms (3 Chinese) for satellite imagery enabling Iranian strikes on US forces — first direct military-intelligence sanctions on Chinese entities, T-4 to Trump-Xi summit. Qatar LNG tanker Al Kharaitiyat transited Hormuz (first Qatari LNG since war; Iran-approved under Pakistan government deal — trust-building signal). Bulk carrier struck off Qatar. IDF killed 22 in Lebanon including 4 children. Brent ~$100.49 (flat); VIX ~17.19 (extreme misprice deepens T-4 to triple convergence); DXY 97.84 (slight further weakening).
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
 | S1: Limited/air campaign baseline | 9% | → from 9% |
-| S2: Partial Hormuz disruption (ACTIVE) | 44% | ↑ from 43% (+1pp — MOU response expected tonight; Iran not rejected; deal pathway cleaner) |
-| S3: Regional war / full proxy activation | 39% | ↓ from 40% (−1pp — Hormuz clashes "sporadic"/episodic; Iran not escalating further while MOU pending) |
+| S2: Partial Hormuz disruption (ACTIVE) | 45% | ↑ from 44% (+1pp — Iran MOU delivered to Pakistan; Qatar LNG transit = first Hormuz confidence signal since war; deal path alive T-4 to formal talks) |
+| S3: Regional war / full proxy activation | 38% | ↓ from 39% (−1pp — Iran responded vs. walked away; Qatar LNG = Iran using Hormuz diplomatically; offset by Khamenei "death to America" + bulk carrier attack) |
 | S4: Nuclear dimension | 8% | → from 8% |
-| S5: Great power entanglement | 25% | ↓ from 26% (−1pp — China confirmed co-guarantor; constructive posture deepens) |
+| S5: Great power entanglement | 26% | ↑ from 25% (+1pp — US sanctions 3 Chinese firms for satellite imagery enabling Iranian strikes on US forces; first direct military-intelligence sanctions against China; T-4 to Trump-Xi summit) |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | ~$101.29/bbl (+0.09% — essentially flat; Hormuz clashes + MOU deal optimism offset each other) | 🔴 HIGH |
-| WTI crude | ~$93–94/bbl est. (flat) | 🔴 HIGH |
-| US gas price | ~$4.46/gal (structural; pump relief path = positive Iran MOU response tonight) | 🔴 EXTREME |
-| Hormuz transits/day | ~5/day declining trend (overnight "sporadic" clashes; Project Freedom paused; IRGC Path C probe) | 🔴 EXTREME |
-| War-risk insurance | ~1.20–1.40%+ hull/transit (Kharg Island 45km² spill adds environmental premium) | 🔴 EXTREME |
-| EU TTF gas | ~€57–65/MWh (structural; unchanged) | 🔴 HIGH |
+| Brent crude | ~$100.49/bbl (+0.4%, essentially flat) | 🔴 HIGH |
+| WTI crude | ~$92–93/bbl est. (flat) | 🔴 HIGH |
+| US gas price | ~$4.46/gal (structural; unchanged) | 🔴 EXTREME |
+| Hormuz transits/day | ~5/day (Qatar LNG = single notable exception; broad closure structural; IRGC sanctions-enforcement warning active) | 🔴 EXTREME |
+| War-risk insurance | ~1.20–1.40%+ hull/transit (bulk carrier strike off Qatar adds new incident premium) | 🔴 EXTREME |
+| EU TTF gas | ~€57–65/MWh (Qatar LNG = first supply signal but not structural alone) | 🔴 HIGH |
 | Urea (fertilizer) | ~$700/mt (structural; 45M+ food insecure) | 🔴 EXTREME |
-| S&P 500 | Mixed; MOU binary tonight + Lebanon T-5 + Trump-Xi entirely unpriced | 🟡 ELEVATED (⚠️ MISPRICE) |
-| VIX | ~17.11 (extreme misprice deepens: T-5 to triple convergence + MOU tonight = dual unpriced binary; VIX ~17 vs. fair value 22-28+) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
-| USD DXY | ~97.91 (−0.16%; 10-week low; weakening despite strong payrolls +115k vs. +62k) | 🟡 ELEVATED |
-| Gold | ~$4,400–4,440 est. (flat; Kharg spill + Hormuz clashes provide escalation floor) | 🔴 HIGH |
+| S&P 500 | Mixed; MOU content unknown; triple convergence T-4 unpriced | 🟡 ELEVATED (⚠️ MISPRICE) |
+| VIX | ~17.19 (extreme misprice: T-4 to triple convergence + MOU content + satellite sanctions China response = four unpriced catalysts at 4-day proximity; VIX ~17 vs. fair value 22-28+) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
+| USD DXY | ~97.84 (−0.07%; further slight weakening) | 🟡 ELEVATED |
+| Gold | ~$4,430–4,460 est. (Hormuz warning + Khamenei chants provide escalation floor) | 🔴 HIGH |
 
 **Key developments:**
-- Trump expects Iran MOU response "tonight"; threatens "Project Freedom Plus" if talks fail ("Project Freedom plus other things" — more aggressive naval escort); MOU = war-end declaration + 30-day negotiations on Hormuz/nuclear moratorium (12-15yr as endgame)/sanctions; Times of Israel: "closing in on framework for permanent deal" (Sources: J-Post, Business Standard, ABC7, Axios)
-- Overnight Hormuz "sporadic clashes" (Fars News); Iran FM spokesman Baqaei: "blatant violation of international law and breach of the ceasefire"; CENTCOM did not confirm; exchange appears episodic — IRGC Path C behavior under live "shoot and kill" ROE (Sources: Al Jazeera liveblog May 9, Fars News)
-- Kharg Island 45km² oil spill (satellite-detected May 6-8 by Copernicus Sentinel-1/2/3); Iran denies; cause unknown; no active spill as of May 8 images; Kharg handles 90% of Iran's oil exports (to China); largest environmental incident of war (Sources: Voice of Emirates, Business Recorder, J-Post, Middle East Monitor)
-- IDF strikes 85+ Hezbollah sites in 24 hours in Lebanon (T-5 to May 14 expiry); three dead; most intense pre-expiry campaign yet; 3rd extension binary sharpening (Sources: Times of Israel liveblog May 9)
-- April US payrolls +115k vs. +62k expected (second consecutive beat; resilient labor market despite energy shock); DXY 97.91 (10-week low — Iran war energy drag overriding good US data) (Sources: BLS, market data)
-- Brent ~$101.29 (+0.09%, flat); VIX ~17.11; DXY 97.91 (10-week low)
+- Iran formally delivered MOU response to Pakistan; content undisclosed; delivery keeps deal alive T-4 to May 14-15 formal talks; China confirmed co-guarantor (Sources: Al Jazeera liveblog May 10, CNN live updates May 10)
+- US State Dept sanctioned 4 firms (3 Chinese) for satellite imagery enabling Iranian strikes on US forces — first direct military-intelligence sanctions against China (T2-05 ↑52%); T-4 to Trump-Xi summit (Source: CNN May 10)
+- Qatar LNG tanker Al Kharaitiyat transited Hormuz — first Qatari LNG shipment since war; Iran-approved under Pakistan government deal as trust-building gesture (Sources: Bloomberg, Boston Globe, CNBC May 10)
+- IRGC senior official warned countries enforcing US sanctions will "face problems" in Hormuz; Khamenei backed "death to America" chants; met senior military commander (2nd time in days) (Source: CNN May 10)
+- Bulk carrier struck by unknown projectile off Qatar; maritime violence continues (Source: CNN May 10)
+- IDF killed 22 in Lebanon incl. 4 children; T-4 to May 14 expiry; IDF pre-expiry campaign at peak (Sources: CNN/Lebanese health ministry May 10)
 
 **Upgraded risks:**
-- Kharg Island oil spill (45km² — new today): potential Iran negotiating leverage; if spill linked to US strikes on Bandar Abbas/Qeshm; Gulf ecosystem/desalination risk if worsening
-- Lebanon binary T-5 (May 14): IDF strikes 85+ sites in 24 hrs = most intense pre-expiry; 3rd extension requires US bandwidth Trump may redirect to Iran MOU tonight
-- "Project Freedom Plus" threat: more aggressive naval operation if Iran rejects MOU; IRGC Trilemma reactivates at higher intensity; Praying Mantis scenario ↑
+- T2-05 Semiconductor/Tech Supply Chain (↑5pp to 52%): US sanctions on 3 Chinese firms for satellite imagery = direct military-intelligence confrontation T-4 to Trump-Xi summit; China response dilemma will define summit dynamics; OFAC secondary sanctions likely next step
+- IRGC Hormuz sanctions-enforcement warning: could penalize Japan/South Korea/EU shipping from sanctioned-country ports; potential third-party escalation
+- Lebanon binary T-4 (May 14): IDF at peak pre-expiry pressure; 3rd extension requires US bandwidth split across MOU + Trump-Xi simultaneously
 
 **Downgraded risks:**
-- S3 regional war (↓1pp to 39%): Hormuz clashes "sporadic"/episodic (IRGC Path C); Iran not escalating further while MOU response pending; deal pathway closer
-- S5 great power entanglement (↓1pp to 25%): China formally confirmed as co-guarantor with verification role; constructive posture ahead of Trump-Xi summit
+- S3 regional war (↓1pp to 38%): Iran delivered MOU response vs. walking away; Qatar LNG = Iran using Hormuz as diplomatic tool; deal pathway measurably alive
 
 **Watch:**
-- **Iran formal MOU response (TONIGHT)** — acceptance = deal within 30 days, Brent −15-20%; rejection = "Project Freedom Plus" + S3 ↑↑↑ + Brent $115+
-- **"Project Freedom Plus" operational scope** — more aggressive than Project Freedom; coalition expansion; IRGC Trilemma at higher intensity if launched
-- **Lebanon May 14 expiry (T-5 days)** — IDF pre-expiry escalation at peak; extension requires US bandwidth split across MOU + Trump-Xi + Lebanon simultaneously
-- **Trump-Xi summit (May 14-15)** — Does Xi offer Hormuz verification/enforcement guarantee? Key bridge for US-Iran verification gap
-- **Kharg Island spill causation** — if linked to US strikes → Iran leverage + potential escalation; if ongoing → Gulf ecosystem + desalination plant risk
-- **US April CPI (mid-May)** — >3.5% = sharper Trump domestic political pressure to seal deal
+- **Iran MOU response content** (T-3 to formal talks — characterization imminent): acceptance/modification = Brent −15-20%; outright rejection = "Project Freedom Plus" + S3 ↑↑
+- **China's response to satellite imagery sanctions** (T-4 to Trump-Xi): retaliation = summit damaged + S5 ↑↑; constructive silence = precedent accepted + mediator role preserved
+- **Lebanon May 14 expiry (T-4)**: 3rd extension vs. IDF expanded campaign binary sharpened; Trump bandwidth crisis
+- **Trump-Xi summit (May 14-15)**: China co-guarantor role; satellite sanctions will shape summit dynamics
+- **Next round of talks (May 11, Oman expected)**: High-level framework preceding May 14-15 formal talks
+- **US April CPI (mid-May)**: >3.5% = sharper Trump domestic political pressure to seal deal
 
 ---
 
