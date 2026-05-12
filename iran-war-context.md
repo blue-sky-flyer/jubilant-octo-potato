@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-05-11*
+*Last updated: 2026-05-12*
 
 ---
 
@@ -92,10 +92,11 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ---
 
-## Daily Log (May 3 – May 10)
+## Daily Log (May 3 – May 12)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| May 12 | Trump escalates to "garbage"/"stupid" on Iran proposal; Trump aides: combat resumption "more seriously considered than in recent weeks" — most direct signal since Apr 30 CENTCOM briefing; Ghalibaf "prepared for every option" / "lesson-giving response to any aggression"; Iranian advisor warns Trump not to enter Beijing "triumphantly"; Lebanon worst fighting since ceasefire (Hezbollah 24 attacks/24hrs; UN "most intense since truce"; IDF evacuation warnings for 9 areas; 2,750+ Lebanon deaths since March 2); May 14-15 triple convergence now T-2 (Islamabad formal talks + Trump-Xi summit + Lebanon expiry); Trump-Xi summit confirmed Beijing; China positioned as "upper hand" co-guarantor; DXY 98.28 (+0.33% firming from 10-week low); Gold $4,745.60 (+0.31%, 5% from $5,000); S&P 500 7,412.84 (+0.19%, complacent misprice); VIX ~17.87 (+2.12% — slight repricing but extreme misprice persists T-2) | S1 →9%, S2 ↓43% (−1pp), S3 ↑40% (+1pp), S4 →8%, S5 →26% | $104.97 (+0.73%) | ~17.87 (+2.12%, T-2 misprice peak) |
 | May 11 | Trump: Iran MOU "totally unacceptable" / "playing games"; Iran counter-demand: Hormuz sovereignty + war damages compensation; 4th-round Oman framework talks "difficult but constructive" — agreed to continue May 14-15 Islamabad; Iran proposes joint nuclear enrichment with regional Arab states + US investment (Witkoff denied); Netanyahu: Iran war "not over," deal is "disaster"; IDF peak Lebanon pressure T-3 to May 14 expiry; Israel killed Hezbollah Radwan Force ops commander Ballout in Beirut May 6-7 (ceasefire breach); Brent +3.4% to ~$103.93; VIX ~17.5 (T-3 deepest proximity-adjusted misprice of war) | S1 →9%, S2 ↓44% (−1pp), S3 ↑39% (+1pp), S4 →8%, S5 →26% | ~$103.93 (+3.4%) | ~17.5 est. (T-3 deepest misprice) |
 | May 10 | Iran formally delivers MOU response to Pakistan (content undisclosed; delivery keeps deal alive T-4 to May 14-15); US State Dept sanctions 4 firms (3 Chinese) for satellite imagery enabling Iranian strikes on US forces — first military-intelligence sanctions vs. China (T2-05 ↑52%, S5 ↑26%); Qatar LNG tanker Al Kharaitiyat transits Hormuz (first Qatari LNG since war; Iran-approved under Pakistan deal); IRGC warns sanctioned countries "face problems" in Hormuz; Khamenei backs "death to America" chants; bulk carrier struck off Qatar; IDF kills 22 in Lebanon incl. 4 children (T-4 to May 14 triple convergence) | S1 →9%, S2 ↑45% (+1pp), S3 ↓38% (−1pp), S4 →8%, S5 ↑26% (+1pp) | ~$100.49 (flat, +0.4%) | ~17.19 (extreme misprice deepens T-4) |
 | May 9 | Trump expects Iran MOU response "tonight"; threatens "Project Freedom Plus" if talks fail; overnight Hormuz "sporadic clashes" (Fars News — Iran accuses US of ceasefire breach; CENTCOM silent); Kharg Island 45km² oil spill (satellite-detected May 6-8, Iran denies, cause unknown) = largest environmental incident of war; IDF strikes 85+ Hezbollah sites in 24 hrs (T-5 to May 14 triple convergence); April payrolls +115k vs. +62k; DXY at 10-week low (97.91) | S1 →9%, S2 ↑44% (+1pp), S3 ↓39% (−1pp), S4 →8%, S5 ↓25% (−1pp) | ~$101.29 (flat, +0.09%) | ~17.11 (extreme misprice deepens) |
@@ -108,55 +109,55 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ---
 
-## Yesterday — Full Detail (May 11, Day 73)
+## Yesterday — Full Detail (May 12, Day 74)
 
-**Overall situation:** Day 73 / Week 11. Iran's MOU counter-proposal — delivered May 10 — was immediately rejected by Trump as "totally unacceptable"; Trump accused Tehran of "playing games." Iran's counter-proposal explicitly demands US recognition of Iranian sovereignty over the Strait of Hormuz and war damages compensation. In parallel, the scheduled 4th-round framework session in Oman (flagged as T-3 watch) was held; talks lasted 3+ hours and both sides called them "difficult but constructive," agreeing to continue to the May 14-15 formal Islamabad session. Iran introduced a new diplomatic proposal: a joint nuclear-enrichment project with regional Arab states + US investment as an alternative to full dismantlement — the first multilateral enrichment framing of the war. US envoy Witkoff denied this was being discussed. Lebanon is T-3 to May 14 ceasefire expiry; Netanyahu publicly warned the Iran conflict is "not over" and that any Iran deal would be a "disaster" for Israel — signaling potential Israeli unilateral action or demand for major concessions as condition of deal approval. Israel previously struck Beirut suburbs May 6-7 (killing Hezbollah Radwan Force ops commander Malek Ballout) — an existing ceasefire breach. Brent crude rose +3.4% to ~$103.93, fully reversing May 6-10 deal-optimism discount. VIX ~17.5 — the deepest proximity-adjusted misprice of the conflict — with the triple convergence 3 days away.
+**Overall situation:** Day 74 / Week 11. T-2 to the most consequential 48-hour window of the conflict. Trump dramatically escalated his rhetoric: the MOU counter-proposal went from "totally unacceptable" (Sunday) to "garbage," "stupid," and "a piece of garbage done by people who have no clue as to the danger they're in" — with Trump aides separately confirming he is "more seriously considering resumption of major combat operations than in recent weeks." This is the most direct combat-resumption signal since the Apr 30 CENTCOM military options briefing. Iran's lead negotiator Ghalibaf responded that Iran is "prepared for every option" and its armed forces are "prepared to deliver a lesson-giving response to any aggression." An unnamed advisor to the supreme leader warned Trump: "never imagine that by taking advantage of Iran's current calm, you will be able to enter Beijing triumphantly" — signaling Iran may coordinate a pre-summit escalation to undercut Trump's Beijing leverage. Lebanon deteriorated sharply: Hezbollah carried out 24 attacks on Israeli forces in 24 hours — the UN confirmed it as "the most intense since the ceasefire started." IDF issuing evacuation warnings for 9 areas of southern Lebanon; 2,750+ killed in Lebanon since March 2. Lebanon ceasefire formally expires May 14 (T-2). Trump-Xi summit confirmed for Beijing May 14-15. China positioned as "upper hand" co-guarantor by multiple analyses. Brent edged further to $104.97 (+0.73%). Gold at $4,745.60 — 5% from $5,000 psychological threshold. VIX +2.12% to ~17.87, showing earliest signs of repricing but still far below fair value at T-2. DXY firming (+0.33% to 98.28) on safe-haven demand.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
 | S1: Limited/air campaign baseline | 9% | → from 9% |
-| S2: Partial Hormuz disruption (ACTIVE) | 44% | ↓ from 45% (−1pp — Trump "totally unacceptable" + Iran Hormuz sovereignty demand confirms structural gap; deal pathway alive but further right; Oman 4th round "difficult but constructive" partially offsets) |
-| S3: Regional war / full proxy activation | 39% | ↑ from 38% (+1pp — Trump rejection sharpens incompatibility; Netanyahu "not over" + Lebanon T-3 + Brent +3.4% = market repricing extended stalemate/escalation risk) |
+| S2: Partial Hormuz disruption (ACTIVE) | 43% | ↓ from 44% (−1pp — Trump "garbage"/"stupid" escalation deepens incompatibility; Ghalibaf "every option" hardening; Lebanon ceasefire near-collapse T-2; deal pathway nominally alive but opening positions incompatible on all axes) |
+| S3: Regional war / full proxy activation | 40% | ↑ from 39% (+1pp — Trump aides "combat resumption more seriously considered"; Iran "lesson-giving response" threat; Lebanon single-day record Hezbollah attacks; Iranian advisor "Beijing" warning = pre-summit escalation threat live) |
 | S4: Nuclear dimension | 8% | → from 8% |
-| S5: Great power entanglement | 26% | → from 26% (Trump-Xi summit T-3; China maintaining co-guarantor role; no new Chinese retaliation to satellite imagery sanctions today) |
+| S5: Great power entanglement | 26% | → from 26% (Trump-Xi summit T-2; China "upper hand" positioning; no new Chinese action today) |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | ~$103.93/bbl (+3.4% — Trump rejection reverses deal-optimism discount) | 🔴 HIGH |
-| WTI crude | ~$95–96/bbl est. (+~3%) | 🔴 HIGH |
-| US gas price | ~$4.47/gal (structural; slight lag from Brent move; pump relief pushed further right) | 🔴 EXTREME |
-| Hormuz transits/day | ~5/day (Oman talks produced no access agreement; IRGC sanctions-enforcement warning active) | 🔴 EXTREME |
-| War-risk insurance | ~1.25–1.45%+ hull/transit (Trump rejection reprices deal timeline; CMA CGM container ship damaged in strait attempt) | 🔴 EXTREME |
-| EU TTF gas | ~€58–67/MWh (deal delay extends LNG disruption; single Qatar LNG transit not structural) | 🔴 HIGH |
-| Urea (fertilizer) | ~$700/mt (structural; 45M+ food insecure; deal delay extends into harvest season) | 🔴 EXTREME |
-| S&P 500 | Slight negative bias; Trump rejection reprices diplomatic risk T-3 to convergence | 🟡 ELEVATED (⚠️ MISPRICE) |
-| VIX | ~17.5 est. (deepest proximity-adjusted misprice of war; T-3 to triple convergence with binary unresolved; fair value 22-28+) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE — T-3) |
-| USD DXY | ~98.03 (+0.2%; slight risk-off firming; structural energy drag persists) | 🟡 ELEVATED |
-| Gold | ~$4,465–4,495 est. (Trump rejection + Netanyahu "not over" = escalation premium restored; safe haven bid T-3) | 🔴 HIGH |
+| Brent crude | $104.97/bbl (+0.73% — continued upward drift on Trump "garbage" + Ghalibaf "every option") | 🔴 HIGH |
+| WTI crude | ~$96–97/bbl est. (+0.5-1%) | 🔴 HIGH |
+| US gas price | ~$4.47–4.49/gal (structural; no pump relief pathway before Islamabad outcome) | 🔴 EXTREME |
+| Hormuz transits/day | ~5/day (~5% of pre-war; structural closure; 1,550+ vessels stranded) | 🔴 EXTREME |
+| War-risk insurance | ~1.25–1.45%+ hull/transit (Ghalibaf "lesson-giving" + Lebanon escalation elevate near-term seizure/strike risk T-2) | 🔴 EXTREME |
+| EU TTF gas | ~€60–70/MWh (deal delay structural; LNG tight through 2027 IEA) | 🔴 HIGH |
+| Urea (fertilizer) | ~$700/mt (structural floor; 2026 harvest damage locked in; WFP 45M+ food insecure) | 🔴 EXTREME |
+| S&P 500 | 7,412.84 (+0.19% — complacent; T-2 binary unpriced) | 🟡 ELEVATED (⚠️ MISPRICE) |
+| VIX | ~17.87 (+2.12% from ~17.5 — earliest repricing signal; still far below fair value 25-32+ T-2) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE — T-2) |
+| USD DXY | 98.28 (+0.33% — safe-haven firming from 10-week low 97.91) | 🟡 ELEVATED |
+| Gold | $4,745.60 (+0.31% — 5% from $5,000; escalation premium rebuilding) | 🔴 HIGH |
 
 **Key developments:**
-- Trump characterized Iran's MOU counter-proposal as "totally unacceptable" / accuses Tehran of "playing games"; Iran demands Hormuz sovereignty + war damages compensation; Iran FM calls proposal "reasonable and generous" (Sources: Gulf News, CNN live updates May 11, NPR)
-- 4th-round Oman framework talks "difficult but constructive"; both sides agreed to continue to May 14-15 Islamabad; Iran proposed joint nuclear enrichment with regional Arab states + US investment; Witkoff denied this was discussed (Sources: PBS NewsHour, CNN live updates May 11, Times of Israel)
-- Netanyahu: Iran war "not over"; Iran deal is "disaster" for Israel; IDF striking 22+ Lebanon targets daily T-3 to May 14 expiry; Israel killed Hezbollah Radwan Force ops commander Ballout in Beirut May 6-7 (Sources: Real Tribune, Times of Israel, Euronews, Al-Monitor)
-- Brent +3.4% to ~$103.93 as deal-optimism discount from May 6-10 fully reversed (Source: CNBC May 11)
-- IMF/ECB confirming economic damage: global growth 2.5% at $100+ oil; Germany/Italy entering technical recession; 45M+ additional food insecure (Sources: Oxford Economics, IMF WEO, Euronews)
+- Trump escalated Iran proposal language to "garbage"/"stupid"/"piece of garbage done by people with no clue as to the danger they're in"; declared ceasefire "on massive life support / the weakest right now"; Trump aides confirmed he is "more seriously considering resumption of major combat operations than in recent weeks" (Sources: Washington Post, CBS News, Al Jazeera live May 12, Washington Times, PBS, Bloomberg)
+- Ghalibaf: Iran "prepared for every option"; "armed forces prepared to deliver lesson-giving response to any aggression"; Iranian advisor to supreme leader warned Trump: "never imagine that by taking advantage of Iran's current calm, you will be able to enter Beijing triumphantly" (Sources: CNN live, The News Pakistan, CBS News live)
+- Lebanon worst fighting since ceasefire: Hezbollah 24 attacks on Israeli forces in 24 hours (UN: "most intense since truce began"); attacks include explosive drones, rockets, artillery, guided missiles; IDF issuing evacuation warnings for 9 southern Lebanon areas; cumulative Lebanon toll 2,750+ since March 2; Lebanon expiry May 14 T-2 (Sources: Al Jazeera May 11-12, NPR, GOV.UK Lebanon bulletin May 2026, Washington Post)
+- Trump-Xi summit confirmed Beijing May 14-15 (T-2); Iran war high on agenda; China positioned as "upper hand" co-guarantor; CFR/CNN: "Xi has the upper hand"; satellite imagery sanctions (May 10) will be flashpoint (Sources: CNBC, Chatham House, Bloomberg, CFR)
+- Markets: Brent $104.97 (+0.73%), Gold $4,745.60 (+0.31%), DXY 98.28 (+0.33%), VIX ~17.87 (+2.12%), S&P 500 7,412.84 (+0.19%); Saudi Aramco CEO: market losing ~100M bbl/week; normalization "pushed into next year" if talks fail (Sources: Trading Economics, Fortune, Yahoo Finance, Investing.com)
 
 **Upgraded risks:**
-- S3 escalation (↑1pp to 39%): Trump rejection + Iran Hormuz sovereignty demand + Netanyahu "not over" = fundamental incompatibility confirmed entering May 14-15; any Islamabad failure triggers "Project Freedom Plus"
-- Lebanon expiry binary sharpened (T-3): Netanyahu "disaster" warning + IDF peak pressure + Beirut ceasefire breach (Radwan Force strike) = Israel may reject 3rd extension or demand major concessions; forces Trump to split bandwidth across Lebanon + Islamabad + Trump-Xi on May 14-15
+- S3 escalation (↑1pp to 40%): Trump "more seriously considered" combat resumption; Iran "lesson-giving response"; Lebanon worst-since-ceasefire fighting; Iranian advisor pre-summit escalation threat; Praying Mantis window T-2
+- Lebanon binary maximum elevation (T-2): Hezbollah single-day record 24 attacks = de facto ceasefire collapse; formal May 14 expiry forces Trump to choose Lebanon + Islamabad + Beijing simultaneously; Netanyahu "disaster" = no 3rd extension without major concessions
 
 **Downgraded risks:**
-- Immediate diplomatic collapse: Oman 4th round "difficult but constructive" + agreed to continue = neither side walking away T-3 to formal talks; Iran joint enrichment proposal = new creative flexibility entering Islamabad
+- No material downgrade today — all signals directionally escalatory entering T-2
 
 **Watch:**
-- **May 14-15 triple convergence (T-3)**: Formal Islamabad US-Iran talks + Trump-Xi summit + Lebanon ceasefire expiry all converging; VIX ~17.5 vs. fair value 22-28+; most consequential 48-hour window of the war
-- **Iran's formal clarification of joint enrichment proposal** (before May 14): If credible = new compromise basis; if theater = Islamabad collapses within hours of opening
-- **Israel's Lebanon decision**: Netanyahu "disaster" warning + IDF peak pressure = possible rejection of 3rd extension or demand for major concessions; forces Trump to choose between Lebanon and Hormuz/nuclear simultaneously
-- **China's Trump-Xi summit posture on Iran**: Whether China commits to formal co-guarantor enforcement role; satellite imagery sanctions will shape summit dynamics; S5 trajectory
-- **"Project Freedom Plus" trigger**: If Islamabad collapses, Trump pre-signaled more aggressive convoy operation; Brent spike to $115-125 on announcement; watch for CENTCOM pre-positioning May 13-14
-- **US April CPI (mid-May)**: >3.5% = sharper domestic pressure to seal deal despite positioning
+- **May 14-15 triple convergence (T-2)**: Islamabad formal US-Iran talks + Trump-Xi summit + Lebanon ceasefire expiry — all within 48 hours; VIX ~17.87 vs. fair value 25-32+; most consequential window of the war
+- **IRGC pre-summit action (May 12-13)**: Ghalibaf "every option" + Iranian advisor "Beijing" warning = IRGC kinetic action before Islamabad is live risk; watch Hormuz mine activity / vessel seizures
+- **Lebanon extension vs. expiry (May 13-14)**: Hezbollah 24 attacks/day + Netanyahu "disaster" = Israel likely demands major concessions or rejects 3rd extension; if Lebanon formally re-escalates May 14, splits Trump bandwidth three ways
+- **Praying Mantis scenario (May 12-14)**: Trump "more seriously considered" + CSGs deployed + CENTCOM briefed Apr 30 = limited pre-summit naval action on IRGC assets is live; watch carrier group movements
+- **Trump-Xi Iran agenda (May 14-15)**: Whether Xi commits formal co-guarantor enforcement vs. passive mediator; satellite imagery sanctions flashpoint; outcome determines S5 trajectory
+- **Gold $5,000 threshold**: $4,745.60 is 5% away; Islamabad failure + Lebanon re-escalation = $5,000 likely within 48 hours; watch as binary risk indicator
 
 ---
 
