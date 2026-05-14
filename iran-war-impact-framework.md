@@ -6,53 +6,56 @@
 
 ---
 
-## Daily Briefing — 2026-05-13
+## Daily Briefing — 2026-05-14
 
-**Overall situation:** Day 75 / Week 11. T-1 to the most consequential 48-hour window of the conflict. A pre-summit operational pause — the quietest day since May 2, with no confirmed new military incidents from any front. Trump is en route to Beijing and new reporting (AP/Columbian) reveals both Trump and Xi are "intent on keeping deep differences over Iran war from overshadowing the China summit" — a subtle but material shift from last week's "Xi has the upper hand" framing, suggesting a managed summit with bilateral guardrails rather than an Iran showdown. China confirmed to have pressed Iran on Hormuz reopening in the days before the summit; Secretary Rubio publicly called on Beijing to leverage the Araghchi visit. Lebanon's third round of direct Israel-Lebanon talks in Washington also opens tomorrow (simultaneous with Islamabad and Beijing). ISW-CTP assessment: Iran "perceives the upper hand"; IRGC-Vahidi remains the dominant decision-maker. Bloomberg published a dedicated piece today on the Hormuz standoff directly hitting the world's most vulnerable farmers. Brent pulled back modestly to ~$107/bbl (−0.67%); VIX eased slightly to ~17.5–18 — still a historic extreme misprice at T-1.
+**Overall situation:** Day 76 / Week 11. The quadruple convergence day arrived — and the dominant outcome was diplomatic. Trump and Xi Jinping jointly declared that the Strait of Hormuz "must remain open" and that Iran "can never have a nuclear weapon," the most consequential US-China alignment on the war to date; Xi explicitly opposed Iran's "militarization of the Strait" and any "effort to charge a toll for its use," directly targeting Iran's $2M/ship scheme. Trump described the summit as "extremely positive"; both sides agreed to a "constructive China-US relationship of strategic stability." Lebanon ceasefire extended for the 4th time (~to May 19) as Lebanon-Israel Washington talks ran in parallel. The scheduled Islamabad 5th-round talks did not convene as planned — diplomatic track shifted to Rome (May 23). Simultaneously: ISW-CTP assessed Iran is "preparing for renewed war" with missile stockpiles at ~70% of pre-war levels, and Russia confirmed shipping drone components to Iran via the Caspian Sea. Congressional letter (52 senators + 177 House members) constrained any nuclear deal permitting enrichment. Brent essentially flat at ~$105.87 (+0.22%); VIX ~17.99–18.5 — historic misprice continues.
 
 **Scenario probability update (vs. yesterday):**
 | Scenario | Prob | Change |
 |----------|------|--------|
 | S1: Limited/air campaign baseline | 9% | → from 9% |
-| S2: Partial Hormuz disruption (ACTIVE) | 44% | ↑ from 43% (+1pp — China's Wang Yi confirmed pressing Iran on Hormuz reopening pre-summit; Trump-Xi summit framing shifted to "managing differences" rather than confrontational; pre-summit operational quiet suggests deliberate de-escalation from both sides as diplomatic scaffolding builds; modest oil pullback echoes mild deal-probability pricing) |
-| S3: Regional war / full proxy activation | 39% | ↓ from 40% (−1pp — pre-summit quiet on all proxy fronts for first time in days; no new Iraq/Hezbollah/Houthi attacks today; Trump and Xi managing Iran as subordinate agenda item, not crisis driver; Lebanon T-1 live but today's operational pause reduces immediate escalation probability) |
+| S2: Partial Hormuz disruption (ACTIVE) | 46% | ↑ from 44% (+2pp — Trump-Xi joint statement is the most significant external diplomatic pressure on Iran's Hormuz strategy since the war began; China publicly condemned Iran's toll scheme and militarization, stripping Iran's key diplomatic cover; Lebanon ceasefire extended through ~May 19 keeps proxy front manageable; dual-track coercion + summit diplomacy = most credible resolution architecture yet) |
+| S3: Regional war / full proxy activation | 37% | ↓ from 39% (−2pp — Trump-Xi summit alignment suppresses near-term proxy escalation pathway; Lebanon ceasefire extended prevents immediate northern-front collapse; summit success reduces IRGC Vahidi's window to use kinetics as spoiler; partially offset by ISW-CTP confirming Iran actively preparing for resumed war) |
 | S4: Nuclear dimension | 8% | → from 8% |
-| S5: Great power entanglement | 26% | → from 26% (T-1; summit management framing is mild S5 de-escalation signal, but summit outcome unknown; maintaining until tomorrow's confirmation) |
+| S5: Great power entanglement | 25% | ↓ from 26% (−1pp — Trump-Xi "constructive China-US relationship of strategic stability" framework + Hormuz joint statement = direct US-China coordination is an S5 de-escalator; partially offset by Russia confirmed shipping drone components to Iran via Caspian Sea = Russia-Iran military-technical deepening) |
 
 **Key indicator readings today:**
 | Indicator | Value | vs. 30 days ago | Alert? |
 |-----------|-------|-----------------|--------|
-| Brent crude | ~$107/bbl (−0.67% — modest pre-summit pullback; oil market pricing marginal deal probability ahead of triple convergence) | +~12% vs. 30 days ago (~$95.42) | 🔴 HIGH |
-| WTI crude | ~$98/bbl est. (−0.5-1%) | +~8% vs. 30 days ago | 🔴 HIGH |
-| US gas price (avg) | ~$4.47–4.49/gal (structural; no pump relief pathway before Islamabad outcome) | +$1.47/gal vs. pre-war $3.01 | 🔴 EXTREME |
-| Hormuz transits/day | ~18–20 vessels/day (slight improvement vs. ~17 on May 11; consistent with ~10% of pre-war; 1,550+ vessels stranded, 22,500 mariners trapped) | Near-zero vs. 100+/day pre-war | 🔴 EXTREME |
-| War-risk insurance | ~1.25–1.45%+ hull/transit (structural; pre-summit pause provides minimal relief) | +900%+ vs. pre-war 0.125% | 🔴 EXTREME |
-| EU TTF natural gas | ~€60–70/MWh (deal delay structural; LNG tight through 2027 IEA) | +100-133% vs. pre-war ~€30/MWh | 🔴 HIGH |
-| Urea (fertilizer) | ~$700/mt (structural floor; 45M+ food insecure; spring planting window closed; Bloomberg: standoff hitting world's most vulnerable farmers May 13) | +52% vs. pre-war ~$460/mt | 🔴 EXTREME |
-| S&P 500 | 7,400.96 (−0.16% — slight pre-summit caution; still extreme complacency relative to T-1 binary risk) | Flat to slightly positive vs. 30 days ago | 🟡 ELEVATED (⚠️ MISPRICE) |
-| VIX | ~17.5–18.0 (slight easing from 17.87 — pre-summit quiet reduces near-term spike probability marginally; still far below T-1 fair value 22–28+; most extreme proximity-adjusted misprice of the war) | Flat vs. 30 days ago | 🟡 ELEVATED (⚠️ EXTREME MISPRICE — T-1) |
-| USD DXY | 98.28 (flat — no new safe-haven catalyst today; holding pre-summit level) | −2.0% vs. 30 days ago | 🟡 ELEVATED |
-| Gold | ~$4,715 (−0.65% — modest pre-summit pullback on "managed summit" framing; $5,000 target deferred but intact if Islamabad fails) | +~6% vs. 30 days ago | 🔴 HIGH |
+| Brent crude | ~$105.87 (+0.22%) — flat despite Trump-Xi Hormuz joint statement; market awaiting Rome talks (May 23) and Iran's response to China's public stance | +~11% vs. 30 days ago (~$95.42) | 🔴 HIGH |
+| WTI crude | ~$97–98/bbl est. | +~8% vs. 30 days ago | 🔴 HIGH |
+| US gas price (avg) | ~$4.47–4.50/gal (structural; no pump relief without confirmed Hormuz reopening + mine-clearing 6-10 weeks minimum) | +$1.47/gal vs. pre-war $3.01 | 🔴 EXTREME |
+| Hormuz transits/day | ~14 vessels/day (live tracker; selective access emerging — Japanese-bound tanker confirmed transit; still ~10-14% of pre-war 100+/day) | Near-zero vs. 100+/day pre-war | 🔴 EXTREME |
+| War-risk insurance | ~1.25–1.45%+ hull/transit (structural; Trump-Xi statement provides no immediate relief) | +900%+ vs. pre-war 0.125% | 🔴 EXTREME |
+| EU TTF natural gas | ~€60–70/MWh (structural; LNG tight through 2027 IEA) | +100-133% vs. pre-war ~€30/MWh | 🔴 HIGH |
+| Urea (fertilizer) | ~$700/mt (structural floor; 30% of global urea trade from Hormuz region; Brazil urea imports −33% YoY) | +52% vs. pre-war ~$460/mt | 🔴 EXTREME |
+| S&P 500 | ~7,406 (+0.07% — muted; summit provides marginal comfort but Iran war structural damage unresolved) | Flat to slightly positive vs. 30 days ago | 🟡 ELEVATED (⚠️ MISPRICE) |
+| VIX | ~17.99–18.5 (slight uptick; summit de-escalation partially offset by Iran war preparations; historic misprice continues vs. live kinetic conflict + Russia-Iran military deepening) | Flat vs. 30 days ago | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
+| USD DXY | ~98.31–98.60 (slight firming — summit "extremely positive" + Hormuz joint statement provide mild safe-haven support) | −2.0% vs. 30 days ago | 🟡 ELEVATED |
+| Gold | ~$4,715 (flat — Trump-Xi alignment compresses near-term geopolitical premium; $5,000 target deferred to Rome failure + Lebanon May 19 re-escalation scenario) | +~6% vs. 30 days ago | 🔴 HIGH |
 
 **Key developments today:**
-- 🛫🇨🇳 **TRUMP EN ROUTE TO BEIJING; TRUMP AND XI "INTENT TO KEEP IRAN FROM OVERSHADOWING SUMMIT"** — New reporting (AP, The Columbian, WSLS) reveals both Trump and Xi are deliberately managing the summit agenda to prevent Iran from dominating the agenda. This is a material shift from last week's "Xi has the upper hand" and "Iran gives Xi leverage" framing — it signals a more businesslike summit structure with guardrails on Iran, reducing the probability of the summit itself becoming an escalation trigger. The meeting will address trade, Taiwan, AI, and Iran war — in that order per current framing. Trump was confirmed en route to Beijing. (Sources: The Columbian/AP May 12–13, CNBC, Bloomberg)
-- 🇨🇳🔑 **CHINA PRESSED IRAN ON HORMUZ REOPENING DAYS BEFORE SUMMIT — MOST SIGNIFICANT EXTERNAL PRESSURE ON IRAN'S KEY DEMAND** — China's Wang Yi confirmed to have explicitly pressed Iran to reopen the Strait of Hormuz in the lead-up to the Trump-Xi summit. Secretary Rubio publicly called on Beijing to use its leverage during the Araghchi visit. China's posture: pressing on Hormuz while defending Iran's civilian nuclear rights. This is the most direct pre-summit Chinese pressure on Iran's key demand of the entire conflict. If the summit produces a formal Chinese commitment to press Iran on Hormuz, S2 probability rises materially. (Sources: Vision Times May 11, PBS News, CNBC/Al Jazeera May 6 confirmed pre-summit context)
-- 🇱🇧🕊️ **LEBANON T-1: THIRD ROUND OF DIRECT ISRAEL-LEBANON TALKS IN WASHINGTON TOMORROW** — Israel-Lebanon peace talks (third round) confirmed for Washington, May 14-15 — running simultaneously with Islamabad US-Iran talks and the Trump-Xi summit in Beijing. Lebanon ceasefire expires tomorrow (May 14). Three simultaneous diplomatic tracks open at T-0. Lebanon Health Ministry: 380 killed since ceasefire began; 13 killed Tuesday in southern attacks. (Sources: Security Council Report, Wikipedia 2026 Israel-Lebanon peace talks, Lebanon Health Ministry)
-- 🌾📉 **BLOOMBERG: HORMUZ SHIPPING STANDOFF NOW DIRECTLY HITTING WORLD'S MOST VULNERABLE FARMERS** — Bloomberg published a dedicated piece today (May 13) on the fertilizer and food security cascade: ~20–30% of global fertilizer exports transit Hormuz; urea at ~$700/mt (+50%+ since war start); WFP estimates 45M+ additional food insecure; Sub-Saharan Africa, South Asia, and Egypt most exposed; ISW-CTP: Iran "perceives upper hand," IRGC-Vahidi driving decisions; Iran's terms require US to relinquish leverage before talks begin — structural block on any near-term resolution. (Sources: Bloomberg May 13, ISW-CTP May 11, WFP)
-- 🔇 **OPERATIONAL QUIET — NO NEW PROXY ATTACKS FOR FIRST TIME SINCE MAY 2** — No confirmed new military incidents from any front today (Iraq militia, Hezbollah, Houthi, or IRGC). The pre-summit window appears to be creating a deliberate operational pause. Both sides signaling preference for summit-then-talks sequence before kinetics.
+- 🤝🇨🇳🇺🇸 **TRUMP-XI HORMUZ JOINT STATEMENT: "MUST REMAIN OPEN" + IRAN "CANNOT HAVE NUCLEAR WEAPON"** — Trump and Xi jointly declared the Strait of Hormuz "must remain open to support the free flow of energy" and that Iran "can never have a nuclear weapon." Xi explicitly opposed Iran's militarization of the Strait and stated China's opposition to "any effort to charge a toll for its use" — directly targeting Iran's $2M/ship yuan-crypto toll scheme. Xi expressed interest in purchasing more US oil to reduce China's Strait dependence. Trump: talks "extremely positive"; US-China agreed to a "constructive relationship of strategic stability." China has now publicly aligned against Iran's core Hormuz demand — the most significant diplomatic development since Project Freedom was announced. (CBS News live updates, CNBC, Al Jazeera live)
+- 🚫🕊️ **ISLAMABAD 5TH-ROUND TALKS DID NOT CONVENE AS SCHEDULED — DEFERRED TO ROME (MAY 23)** — Pakistan was "scrambling to salvage" US-Iran diplomacy (Al Jazeera May 12). The planned 5th round of formal US-Iran talks did not convene in Islamabad on May 14; diplomatic track shifted to Rome (5th round now reported May 23). Trump-Xi summit consumed the diplomatic bandwidth. US-Iran communication continues via Pakistan back-channel only. Congressional letter (52 senators + 177 House members) sent today rejecting any deal permitting Iran to continue uranium enrichment — constrains Trump's nuclear deal flexibility regardless of summit momentum. (Al Jazeera, PBS News, Congress.gov)
+- 🇱🇧 **LEBANON CEASEFIRE EXTENDED 4TH TIME (~MAY 19); ISRAEL-LEBANON WASHINGTON TALKS ONGOING** — Lebanon's ceasefire extended again (~to May 19) as Lebanon-Israel talks ran in parallel in Washington. Lebanon pressed Israel for a full ceasefire and timetable for withdrawal. Israeli strikes killed 22 in Lebanon Wednesday including 8 children during the truce period. Hezbollah rejected the Washington talks but nominal ceasefire holds. 400+ killed since truce began. (RTE, USNews, Lebanon Health Ministry)
+- ⚔️📡 **ISW-CTP: IRAN ACTIVELY PREPARING FOR RENEWED WAR; RUSSIA SHIPS DRONE COMPONENTS VIA CASPIAN** — CTP-ISW assessed Iran is "likely preparing for resumption of hostilities" — missile stockpiles at ~70% of pre-war levels; Iran executing military movements and internal security exercises. Russia confirmed shipping drone components to Iran via Caspian Sea (US officials) to rebuild offensive capabilities. ISW: Iran "perceives upper hand"; Vahidi military track remains dominant decision-maker. (Euronews May 13, CTP-ISW May 10-12, US officials via Euronews)
+- 🏛️ **CONGRESSIONAL CONSTRAINT: 52 SENATORS + 177 HOUSE MEMBERS REJECT ENRICHMENT IN ANY DEAL** — Bipartisan letter to Trump today: no deal should allow Iran to continue uranium enrichment; "no agreement should leave open a path to nuclear weapons." Reinforces the structural incompatibility between US floor (no enrichment) and Iran floor (nuclear sovereignty + deferred nuclear talks). Constrains Trump's deal flexibility regardless of summit momentum. (CRS, Congress.gov)
 
 **Upgraded risks:**
-- **S2 (↑1pp to 44%)**: China's Wang Yi pressing Iran on Hormuz is the most significant external pressure on Iran's Hormuz demand to date; coupled with Trump-Xi summit management framing, Chinese co-guarantor role could emerge from summit in a form that de-risks Hormuz reopening; mild deal-positive pre-summit positioning confirmed by oil pullback and proxy quiet
+- **S2 (↑2pp to 46%)**: China's public opposition to Iran's toll scheme is the most powerful external pressure on Iran's core Hormuz demand since the war began; dual-track summit diplomacy + coercion (naval blockade) = most credible resolution architecture yet; Lebanon extension buys more time
+- **Tech/Semis (SOXX, SMH, QQQ)**: Trump-Xi "constructive China-US relationship of strategic stability" framework = most direct US-China tech de-escalation signal of the war; Taiwan not prominently in US readout
 
 **Downgraded risks:**
-- **S3 (↓1pp to 39%)**: Pre-summit operational quiet on all proxy fronts; Trump-Xi "managing differences" framing reduces summit-as-escalation-trigger risk; today's pause is the most operationally quiet day in two weeks
+- **S3 (↓2pp to 37%)**: Trump-Xi summit alignment creates a diplomatic window suppressing near-term proxy escalation; Lebanon ceasefire extended; IRGC Vahidi's summit-window spoiler opportunity reduced
+- **S5 (↓1pp to 25%)**: Trump-Xi direct coordination on Hormuz + "strategic stability" framework = most direct great-power de-escalation of the war; offset by Russia-Iran Caspian drone pipeline (structural escalator)
 
 **New precursor events to watch:**
-- **May 14-15 triple convergence (T-0)**: Islamabad formal US-Iran talks + Trump-Xi summit + Lebanon ceasefire expiry + Lebanon-Israel Washington talks — four simultaneous tracks; watch which consumes Trump's bandwidth
-- **China's Hormuz commitment at summit**: Whether Xi pledges formal enforcement pressure on Iran re: Hormuz is the S2 vs. S5 pivot point; a Chinese co-guarantor commitment is the biggest possible deal catalyst
-- **Lebanon May 14 decision**: Will Trump announce 4th extension, let it expire, or use Lebanon as Islamabad leverage? Netanyahu's "disaster" framing + Hezbollah 24 attacks/day suggests Israel will reject further extension without major concessions
-- **Gold $5,000 threshold**: ~$4,715 today; if Islamabad fails AND Lebanon re-escalates on May 14, $5,000 likely within 24–48 hours — watch as binary risk indicator
-- **IRGC posture during summit**: Whether IRGC-Vahidi uses the summit window to execute a kinetic action (mine-laying, vessel shadow, drone provocation) to undercut any deal; ISW-CTP confirm Vahidi is dominant decision-maker
+- **China direct pressure on Tehran (next 24-72hrs)**: Whether Beijing follows up the joint statement with formal diplomatic demands on Iran to end toll + reopen Hormuz — the S2 → resolution pivot point; watch Araghchi-Wang Yi contact or Chinese public statement to Tehran
+- **Rome 5th round (May 23)**: Whether talks reconvene with China co-guarantor framework embedded — first US-Iran talks since the Trump-Xi joint Hormuz statement; critical test of whether China's public stance moves Iran's negotiating position
+- **Iran's response to China's public stance (next 24-48hrs)**: IRGC-Vahidi faces direct challenge — China publicly opposing the toll scheme undermines Iran's diplomatic cover; watch for IRGC kinetic response as a "warning" to China; ISW-CTP confirms Vahidi is dominant decision-maker
+- **Lebanon May 19 expiry**: Short 5-day extension sets up another binary; watch Washington talks for longer framework before May 19; Netanyahu "disaster" framing makes a 5th extension politically costly
+- **Russia-Iran Caspian drone pipeline**: Monitor for US sanctions or interdiction response; direct US action on Caspian supply routes would be the most direct S5 escalation of the conflict
+- **Gold $5,000**: Trump-Xi alignment defers near-term; Rome failure + Lebanon re-escalation on May 19 = next trigger for $5,000 within 24-48hrs
 
 ---
 
@@ -163,12 +166,12 @@ Five escalation scenarios with current probability weightings and key trigger ev
 - **Triggers up:** Iran negotiated ceasefire, Hormuz fully reopened, proxy ceasefire
 - **Triggers down:** Any vessel attack, Hormuz mining, Hezbollah ground operation
 
-### S2 — Partial Hormuz Disruption — ACTIVE SCENARIO (44%) 
+### S2 — Partial Hormuz Disruption — ACTIVE SCENARIO (46%) 
 *Current state: traffic severely reduced, US campaign to reopen ongoing, war-risk premiums extreme*
 - **Triggers up:** Peace deal, full reopening, proxy disengagement
 - **Triggers down:** Mining of strait, attack on US naval vessel, full Hezbollah ground war in Israel
 
-### S3 — Regional War / Full Proxy Activation (39%)
+### S3 — Regional War / Full Proxy Activation (37%)
 *Hezbollah opens full northern front in Israel, Iraqi militia attacks escalate to strategic targets, Houthis resurge*
 - **Triggers up:** Israeli ground invasion of Lebanon, US base casualties exceed threshold, Hezbollah missile hits Israeli civilian infrastructure
 - **Triggers down:** Hezbollah ceasefire deal, Iran proxy command disrupted by strikes, Iraqi government crackdown on militia (Lebanon gov ban on Hezbollah is a new downward trigger — Apr 1)
@@ -178,7 +181,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 - **Triggers up:** Evidence Iran attempting to weaponize fissile material, Israeli domestic political pressure for "final solution" to nuclear threat
 - **Triggers down:** Iranian nuclear leadership killed/disrupted (partially occurred), IAEA verification of program halt
 
-### S5 — Great Power Entanglement (26%)
+### S5 — Great Power Entanglement (25%)
 *Russia or China provide material military support to Iran, creating direct US confrontation risk*
 - **Triggers up:** US strike on Iranian asset supported by Russian intelligence, China deploys naval assets near strait, UNSC deadlock leads to unilateral actions; **NEW Apr 15: Iran confirmed using Chinese spy satellite (Earth Eye) as active targeting system against US military bases — Chinese commercial space infrastructure embedded in Iranian kill chain; Russian Ilyushin Il-76 aircraft delivering radar/electronics to Iran at high tempo**
 - **Triggers down:** Back-channel US-China agreement, Russia chooses economic over military alignment; US formally accepts Chinese "mediator" framing without confronting satellite kill-chain evidence
