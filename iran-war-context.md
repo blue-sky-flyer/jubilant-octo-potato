@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-05-15*
+*Last updated: 2026-05-16*
 
 ---
 
@@ -99,10 +99,11 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ---
 
-## Daily Log (May 10 – May 15)
+## Daily Log (May 10 – May 16)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| May 16 | Lebanon-Israel ceasefire extended 45 days (longest extension; new expiry ~July 3; Washington ambassador-level talks); Trump: Iran ceasefire "massive life support" (most pessimistic US framing since April 8); Brent +8.1% weekly to ~$111 (largest weekly gain since late April); VIX +6.78% to 18.43 (largest single-session move in weeks; markets repricing Rome); DXY 99.27 at 1-month high (+1% weekly); Lebanon May 19 binary resolved; Rome May 23 = sole remaining binary (7 days); VP Vance: "still making progress"; no new proxy attacks | S2 ↑46% (+1pp), S3 ↓37% (−1pp), all others → | ~$111 (+8.1% wk) | 18.43 (+6.78%) |
 | May 15 | ISW: Iran restores 30/33 Hormuz missile sites + stockpiles ~70% pre-war (most significant military capability development since Russia-Iran Caspian drone pipeline); April wholesale inflation fastest since 2022 + consumer prices biggest increase since 2023; Fed rate hike pricing for December emerges (DXY 99.05) — first hike pricing of conflict; Trump-Xi summit Day 2 — no additional Iran communiqué; Gold falls 2nd day (~$4,617–$4,680); WFP: 45M additional people at acute food insecurity risk if war persists past mid-2026 at $100+ oil; Lebanon ceasefire holds (~May 19 expiry); Rome 5th-round talks confirmed May 23 | S2 ↓45% (−1pp), S3 ↑38% (+1pp), all others → | $106.89 (+1.11%) | ~18.13 (+0.14) |
 | May 14 | Trump-Xi joint statement: "Hormuz must remain open" + Iran "cannot have nuclear weapon"; Xi explicitly opposes Iran's $2M/ship toll scheme and militarization; China publicly strips Iran of Hormuz diplomatic cover; Lebanon ceasefire extended 4th time (~May 19); Islamabad 5th round did not convene (deferred to Rome May 23); ISW-CTP: Iran actively preparing for renewed war, missile stockpiles ~70%; Russia confirmed shipping drone components to Iran via Caspian Sea; Congressional letter (52 senators + 177 House members) rejects enrichment in any deal | S1 →9%, S2 ↑46% (+2pp), S3 ↓37% (−2pp), S4 →8%, S5 ↓25% (−1pp) | ~$105.87 (+0.22%) | ~17.99–18.5 |
 | May 13 | Pre-summit operational pause T-1; quietest day since May 2; Trump en route Beijing; Trump-Xi "intent to keep Iran from overshadowing summit" = managed summit framing; China's Wang Yi confirmed pressing Iran on Hormuz pre-summit; Lebanon 3rd-round direct talks in Washington also May 14; Bloomberg: Hormuz standoff hits world's most vulnerable farmers; ISW-CTP: Iran "perceives upper hand," Vahidi dominant | S1 →9%, S2 ↑44% (+1pp), S3 ↓39% (−1pp), all others → | ~$107 (−0.67%) | ~17.5–18 (T-1 extreme misprice) |
@@ -112,53 +113,53 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ---
 
-## Yesterday — Full Detail (May 15, Day 77)
+## Yesterday — Full Detail (May 16, Day 78)
 
-**Overall situation:** Day 77 / Week 11. Trump-Xi summit entered Day 2 with no additional Iran communiqué, but DXY firmed to 99.05 as markets absorbed the standout development of the day: US April wholesale inflation accelerated at its fastest pace since 2022, consumer prices posted their biggest increase since 2023, and some traders began pricing a Fed rate hike by December — the first session of this conflict where a hike (not merely "no cut") enters futures pricing. The structural stagflation trap deepens. ISW-CTP confirmed Iran has restored operational access to 30 of its 33 Hormuz missile sites with stockpiles at ~70% of pre-war levels — military capability is being rebuilt INTO the Rome May 23 talks window, increasing Iran's leverage and reducing its incentive to accept compromise. Brent edged to $106.89 (+1.11%); Gold fell for a second consecutive session to ~$4,617–4,680; VIX ticked up to ~18.13. Lebanon ceasefire holds (~May 19 expiry). Rome confirmed for 5th-round formal talks (May 23). WFP formally warned that 45M additional people face acute food insecurity if the war persists past mid-2026 at $100+ oil — a 30-45 day timeline pressure.
+**Overall situation:** Day 78 / Week 12. The Lebanon-Israel ceasefire was extended 45 days on May 15 — the longest single extension of the conflict — following the third round of ambassador-level Washington talks. This removes the Lebanon May 19 binary that was yesterday's most urgent S3 trigger. However, Trump publicly described the Iran war ceasefire as being on "massive life support," the most explicitly pessimistic US framing since April 8; VP Vance hedged with negotiators "still making progress." Brent closed Friday at ~$111/bbl (+8.1% weekly gain — largest since late April). VIX jumped +6.78% to 18.43 on Friday, its largest single-session move in weeks, suggesting markets are beginning to reprice Rome failure probability. DXY climbed to 99.27 on the week's CPI (biggest consumer price increase since 2023) and PPI (fastest wholesale inflation since 2022). No new proxy attacks reported. Rome May 23 (7 days) is now the sole near-term binary event.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
 | S1: Limited/air campaign baseline | 9% | → from 9% |
-| S2: Partial Hormuz disruption (ACTIVE) | 45% | ↓ from 46% (−1pp — Iran's restoration of 30/33 Hormuz missile sites signals military preparation outpacing diplomatic progress; partially offset by Trump-Xi summit Day 2 continuity and Lebanon ceasefire holding) |
-| S3: Regional war / full proxy activation | 38% | ↑ from 37% (+1pp — ISW-CTP confirms 30/33 missile sites restored + stockpiles ~70%; Iran "perceives upper hand"; Vahidi dominant; restored capability increases Iran's incentive to wait for better deal terms) |
+| S2: Partial Hormuz disruption (ACTIVE) | 46% | ↑ from 45% (+1pp — Lebanon 45-day extension removes near-term proxy escalation trigger; reinforces prolonged S2 standoff thesis) |
+| S3: Regional war / full proxy activation | 37% | ↓ from 38% (−1pp — Lebanon 45-day extension deactivates Lebanon front as immediate escalation trigger for ~45 days) |
 | S4: Nuclear dimension | 8% | → from 8% |
 | S5: Great power entanglement | 25% | → from 25% |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | $106.89 (+1.11% — 2nd consecutive session of gains) | 🔴 HIGH |
-| WTI crude | ~$98–99/bbl est. | 🔴 HIGH |
+| Brent crude | ~$111/bbl (Friday close; +8.1% weekly) | 🔴 HIGH |
+| WTI crude | ~$103–104/bbl est. | 🔴 HIGH |
 | US gas price | ~$4.47–4.50/gal (structural; no relief until Hormuz reopening + mine-clearing 6-10 weeks) | 🔴 EXTREME |
-| Hormuz transits/day | ~11–14 vessels/day (~10-14% of pre-war; 30/33 Iranian missile sites now operational) | 🔴 EXTREME |
+| Hormuz transits/day | ~11 vessels/day (May 13 data; ~11% of pre-war; 1,550 vessels stranded; 22,500 mariners trapped) | 🔴 EXTREME |
 | War-risk insurance | ~1.25–1.45%+ hull/transit (structural) | 🔴 EXTREME |
 | EU TTF gas | ~€60–70/MWh (structural) | 🔴 HIGH |
 | Urea (fertilizer) | ~$700/mt (structural; WFP: 45M additional at acute food insecurity risk mid-2026) | 🔴 EXTREME |
-| S&P 500 | ~7,400–7,420 (flat; Trump-Xi Day 2 vs. inflation headwinds) | 🟡 ELEVATED (⚠️ MISPRICE) |
-| VIX | ~18.13 (+0.14 — slight uptick; extreme misprice ahead of Lebanon May 19 + Rome May 23) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
-| USD DXY | ~99.05 (+0.16% — April wholesale inflation fastest since 2022; Fed rate hike pricing December) | 🟡 ELEVATED |
-| Gold | ~$4,617–4,680 (−0.7% to −1.9% — 2nd consecutive decline; summit suppresses premium) | 🔴 HIGH |
+| S&P 500 | ~7,400–7,450 (slight uptick on Lebanon extension; VIX jump + stagflation limit upside) | 🟡 ELEVATED (⚠️ MISPRICE) |
+| VIX | 18.43 (+1.17 pts, +6.78% Friday — largest single-session move in weeks) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
+| USD DXY | ~99.27 (+1%+ weekly — 1-month high; CPI + PPI + Fed rate hike pricing) | 🟡 ELEVATED |
+| Gold | ~$4,600–4,650 (3rd consecutive session decline; Lebanon extension + summit residual suppress premium) | 🔴 HIGH |
 
 **Key developments:**
-- April wholesale inflation fastest since 2022; consumer prices biggest increase since 2023; Fed rate hike now being priced by some traders for December — first hike pricing of the conflict; DXY 99.05
-- Trump-Xi summit Day 2 ongoing; no additional Iran communiqué; Xi interest in US oil purchase confirmed — structural shift in China energy sourcing if realized
-- ISW-CTP: Iran restores 30/33 Hormuz missile sites; missile stockpiles ~70% pre-war; Vahidi dominant; Iran "perceives upper hand" — military capability being rebuilt into Rome window
-- WFP: 45M additional people at acute food insecurity risk if war persists past mid-2026 at $100+ oil; spring 2026 planting window irreversibly compromised; urea $700/mt structural floor
-- Lebanon ceasefire holds; Rome 5th-round talks confirmed May 23; no new proxy attacks reported; quietest military day since May 13 pre-summit pause
+- Lebanon-Israel ceasefire extended 45 days (US State Dept confirmed; ~July 3 new expiry) — longest single extension; removes Lebanon May 19 binary; Lebanon front deactivated ~45 days
+- Trump: Iran ceasefire "massive life support" — most pessimistic US diplomatic framing since April 8; VP Vance hedged "still making progress"
+- Brent +8.1% weekly to ~$111 (largest weekly gain since late April); VIX +6.78% to 18.43 (largest single-session move in weeks); DXY 99.27 at 1-month high
+- Rome May 23 confirmed as sole remaining near-term binary event (7 days); no new proxy attacks reported (quietest weekend since mid-May pre-summit pause)
+- ISW-CTP unchanged: Iran "perceives upper hand," Vahidi dominant, 30/33 missile sites restored, stockpiles ~70% pre-war, preparing for resumed hostilities
 
 **Upgraded risks:**
-- S3 (↑1pp to 38%): Iran's military restoration into Rome window — 30/33 missile sites operational + ~70% stockpiles increases Iran's leverage and reduces concession pressure
+- None. Lebanon 45-day extension is net de-escalatory for near-term scenario probabilities.
 
 **Downgraded risks:**
-- S2 (↓1pp to 45%): Military preparation outpacing diplomatic track; Iran capability restoration reduces deal urgency for regime
+- S3 (−1pp to 37%): Lebanon 45-day extension removes the most immediate proxy escalation trigger; Lebanon front deactivated ~45 days; no new proxy front activations reported
 
 **Watch:**
-- **Lebanon May 19 expiry (4 days)**: Hard binary; watch Washington talks for longer framework; Netanyahu "disaster" framing makes 5th extension politically costly — Lebanon front reopening risk highest since April 17
-- **Rome May 23 (8 days)**: First formal US-Iran talks since Trump-Xi joint Hormuz statement; critical test of whether China's public stance moves Iran's position; Rome failure = S3 spikes toward 45%+
-- **Iran pre-Rome negotiating posture**: With 30/33 missile sites restored, watch for Iranian hardening before Rome; Vahidi may use capability as justification to demand more
-- **Fed rate hike probability**: If December hike probability exceeds ~30%, structural EM debt stress escalates — watch EMBI spread widening
-- **China follow-through on Xi Hormuz commitment**: Watch whether Beijing formally communicates joint statement to Tehran as an ultimatum vs. merely a US-facing public position
+- **Rome May 23 (7 days)**: SOLE near-term binary. Trump "massive life support" framing means failure → immediate resumption of US pressure options under live ROE. Rome failure = S3 spike to 43%+.
+- **Trump rhetoric next 48–72 hrs**: "Massive life support" is either pre-Rome pressure posturing or a genuine threshold signal. Watch for escalation vs. back-channel signal.
+- **VIX repricing trajectory**: Friday's +6.78% — beginning of market catch-up to Rome's 7-day countdown? If VIX moves above 20, markets acknowledging conflict's structural duration.
+- **Iran's pre-Rome posture**: With 30/33 missile sites restored, watch for hardening vs. softening. Araghchi-Vahidi track tension is the key signal.
+- **EM currency + EMBI spreads**: DXY 99.27 + Fed rate hike pricing + $111 Brent = EM debt stress accelerating. Watch Egypt, Pakistan, Turkey, Bangladesh FX.
 
 ---
 
