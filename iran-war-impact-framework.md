@@ -1,58 +1,60 @@
 # Iran War Economic Impact Framework
 *Framework version: 1.0 — Created 2026-03-26*
-*Last updated by daily agent: 2026-05-17*
+*Last updated by daily agent: 2026-05-18*
 
 > **How to use this document:** Load this file into a Claude conversation and ask any question — by sector, geography, scenario, or indicator. Example prompts at the bottom. The Daily Briefing at the top is refreshed each morning by a scheduled agent.
 
 ---
 
-## Daily Briefing — 2026-05-17
+## Daily Briefing — 2026-05-18
 
-**Overall situation:** Day 79 / Week 12. The New York Times reported May 15 that the US and Israel are in "intense preparations" for renewed strikes on Iran as early as next week (May 18–23) — the most explicit strike-preparation signal of the conflict since the April 30 CENTCOM–Trump briefing. Options include commando ground operations to extract nuclear material from bombed-out facilities and seizure of Kharg Island. This creates a direct competition between the strike timeline and Rome May 23 (6 days away): strikes before Rome collapse diplomacy; a Rome deal stands strikes down. Iran's pre-Rome posture is hardened — Araghchi cites "fundamental differences"; enrichment red lines reaffirmed. Putin-Xi meeting expected week of May 18. US markets closed Sunday; Friday close: Brent ~$111/bbl, VIX 18.43, DXY 99.27.
+**Overall situation:** Day 80 / Week 12. Three events define today: (1) A drone struck the perimeter of the UAE's Barakah nuclear power plant Sunday — the first confirmed attack on nuclear infrastructure of a US-aligned state; no casualties or reactor damage, but JPost reports it was explicitly intended to warn Emiratis "we can also strike the nuclear reactor itself and trigger a nuclear incident." (2) Trump on Sunday night Truth Social: "For Iran, the Clock is Ticking, and they better get moving, FAST, or there won't be anything left of them" — his most direct threat of resumed all-out strikes since the April 30 CENTCOM briefing. (3) Markets open Monday with S&P −1.24% (7,408.50), VIX breaking above 19, Brent ~$110, while Araghchi states Tehran "cannot trust the Americans at all." Rome May 23 (5 days) remains the sole diplomatic binary; Putin-Xi meeting expected this week ahead of Rome.
 
 **Scenario probability update (vs. yesterday):**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 11% | ↑ from 9% (+2pp — NYT describes limited-option framing: commando nuclear extraction + Kharg Island seizure = S1-type targeted kinetics; raises probability of new limited action distinct from full S3 proxy war) |
-| S2: Partial Hormuz disruption (ACTIVE) | 43% | ↓ from 46% (−3pp — prolonged S2 standoff thesis directly undercut by active strike-preparation reporting before Rome; new kinetics would transition S2 into S1/S3 depending on scope and proxy response) |
-| S3: Regional war / full proxy activation | 40% | ↑ from 37% (+3pp — "intense preparations" for strikes "as early as next week" materially raises probability of renewed kinetics before or around Rome; proxy re-escalation would likely follow new US-Israel strikes on Iranian soil) |
-| S4: Nuclear dimension | 8% | → from 8% |
-| S5: Great power entanglement | 25% | → from 25% (Putin-Xi meeting expected week of May 18 is a key watchpoint but no new escalation confirmed today) |
+| S1: Limited/air campaign baseline | 12% | ↑ from 11% (+1pp — Trump "much harder strikes" threat + pre-Rome limited-kinetics framing; Barakah attack could trigger calibrated US response short of full S3 escalation) |
+| S2: Partial Hormuz disruption (ACTIVE) | 40% | ↓ from 43% (−3pp — UAE nuclear plant attack + Trump clock-is-ticking rhetoric erodes standoff-without-new-kinetics probability; S2 now requires Rome success within 5 days to be sustained) |
+| S3: Regional war / full proxy activation | 43% | ↑ from 40% (+3pp — Barakah drone attack is third-country proxy escalation targeting nuclear infrastructure; S3 is now the plurality scenario; Trump explicit strike threat + NYT preparations = highest probability of any scenario) |
+| S4: Nuclear dimension | 9% | ↑ from 8% (+1pp — first attack on nuclear power plant of US-allied state; explicitly intended as nuclear coercion signal; JPost: "we can also strike the nuclear reactor itself and trigger a nuclear incident") |
+| S5: Great power entanglement | 25% | → from 25% (Putin-Xi meeting expected this week = live watchpoint; BRICS summit ended without joint Iran statement = slight fracture in Iran's multilateral cover; no new US-China escalation today) |
 
 **Key indicator readings today:**
 | Indicator | Value | vs. 30 days ago | Alert? |
 |-----------|-------|-----------------|--------|
-| Brent crude | ~$111/bbl (Friday close; +8.1% weekly) | +~16% vs. ~$95.42 (Apr 17) | 🔴 HIGH |
-| WTI crude | ~$103–104/bbl est. | +~14% vs. 30 days ago | 🔴 HIGH |
-| US gas price (avg) | ~$4.47–4.50/gal (structural; no relief until Hormuz opens + 6-10 weeks mine-clearing) | +$1.50/gal vs. pre-war $3.01 | 🔴 EXTREME |
-| Hormuz transits/day | ~5–11 vessels/day (~5–11% of pre-war 100+/day; 1,550 vessels stranded; 22,500 mariners trapped) | Near-zero vs. 100+/day pre-war | 🔴 EXTREME |
-| War-risk insurance | ~1.25–1.45%+ hull/transit (structural) | +900%+ vs. pre-war 0.125% | 🔴 EXTREME |
+| Brent crude | ~$109–110/bbl (↑ on Trump clock-is-ticking warning; IEA: inventories depleting at record pace) | +~14% vs. ~$95.42 (Apr 18) | 🔴 HIGH |
+| WTI crude | ~$101–103/bbl est. | +~12% vs. 30 days ago | 🔴 HIGH |
+| US gas price (avg) | ~$4.47–4.50/gal (no relief pathway; mine-clearing 6–10 weeks minimum post-deal) | +$1.50/gal vs. pre-war $3.01 | 🔴 EXTREME |
+| Hormuz transits/day | ~5–10/day (Saturday: 10; Sunday morning: 0; structurally near-closed) | Near-zero vs. 100+/day pre-war | 🔴 EXTREME |
+| War-risk insurance | ~1.25–1.45%+ hull/transit; Barakah attack likely to push premiums higher | +900%+ vs. pre-war 0.125% | 🔴 EXTREME |
 | EU TTF natural gas | ~€60–70/MWh (structural) | +100–133% vs. pre-war ~€30/MWh | 🔴 HIGH |
 | Urea (fertilizer) | ~$700/mt (structural; WFP: 45M additional at acute food insecurity risk mid-2026) | +52% vs. pre-war ~$460/mt | 🔴 EXTREME |
-| S&P 500 | ~7,350–7,400 (risk-off Friday; markets repricing Rome failure + strike preparations) | Flat vs. 30 days ago | 🟡 ELEVATED (⚠️ MISPRICE) |
-| VIX | 18.43 (Friday close; +6.78% — largest single-session move in weeks) | Flat vs. 30 days ago | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
-| USD DXY | ~99.27 (1-month high; +1%+ weekly; CPI + PPI + Fed rate hike pricing) | −0.5% vs. 30 days ago | 🟡 ELEVATED |
-| Gold | ~$4,600–4,650 (3rd consecutive decline; NYT strike report expected to provide Monday support) | +3–4% vs. 30 days ago | 🔴 HIGH |
+| S&P 500 | ~7,408.50 (−1.24% Monday; repricing Barakah attack + Trump threats) | Flat/slightly lower vs. 30 days ago | 🟡 ELEVATED (⚠️ MISPRICE) |
+| VIX | ~18.96–19.25 (open); first break above 19 in weeks; up from 18.43 Friday close | Flat vs. 30 days ago | 🟡 ELEVATED (⚠️ EXTREME MISPRICE — nuclear plant attack + Rome 5 days + strike prep unpriced) |
+| USD DXY | ~99.39 (new 1-month high; rate hike fully priced March 2027; >50% chance before end-2026) | +1%+ vs. 30 days ago | 🟡 ELEVATED |
+| Gold | ~$4,561.90 (−2.63% Monday; 5th consecutive decline; dollar/rate-hike headwind overriding safe-haven bid) | +2% vs. 30 days ago | 🔴 HIGH |
 
 **Key developments today:**
-- **NYT: US-ISRAEL IN "INTENSE PREPARATIONS" FOR RENEWED IRAN STRIKES AS EARLY AS NEXT WEEK** — New York Times (May 15) reported US and Israel are conducting the most intense preparations since the April ceasefire for renewed attacks on Iran, potentially beginning as early as the week of May 18–23. Military options explicitly described: (1) commando ground operations to extract nuclear material from bombed-out Iranian facilities (requiring thousands of supporting forces to establish a perimeter against Iranian ground troops); (2) seizure of Kharg Island (90% of Iran's oil exports). This is the most direct strike-preparation signal since the April 30 CENTCOM–Trump "new military options" briefing. Directly competes with the Rome May 23 diplomatic window — maximum pressure architecture, maximum miscalculation risk.
-- **ROME MAY 23 (6 DAYS): STRIKE TIMELINE COMPETING WITH DIPLOMATIC WINDOW** — Two competing US timelines run simultaneously: (1) Military: "as early as next week" (May 18–23); (2) Diplomatic: Rome May 23 5th-round talks. Iran's pre-Rome posture is hardened: Araghchi "fundamental differences"; senior officials reiterate enrichment red lines (no centrifuge dismantlement, no halt, no reduction below JCPOA levels, no missile negotiations). ISW-CTP: Vahidi dominant; 30/33 Hormuz missile sites restored; stockpiles ~70% pre-war and building. Iran arrives at Rome with military capability restored and explicit Russian + Chinese diplomatic backing — from a position of perceived strength.
-- **PUTIN-XI MEETING EXPECTED WEEK OF MAY 18 — CONCURRENT WITH STRIKE WINDOW, AHEAD OF ROME** — Putin-Xi summit expected week of May 18 runs simultaneously with the US-Israel strike preparation window and precedes Rome by days. Russia confirmed Caspian Sea drone component resupply to Iran (May 13-14). Araghchi's deliberate sequencing — Russia (Apr 27) → China (May 8) → Rome (May 23) — means Iran arrives at Rome with full Russian and Chinese diplomatic scaffolding in place. A coordinated Putin-Xi-Iran statement ahead of Rome would give Tehran maximalist leverage and reduce US strike deterrence calculus.
-- **STAGFLATION DEEPENING — FED RATE HIKE PRICING ENTERS DECEMBER FUTURES** — April CPI (biggest consumer price increase since 2023) + April PPI (fastest wholesale inflation since 2022) = first conflict session where a Fed rate hike — not merely "no cut" — enters December futures pricing. DXY 99.27 at 1-month high. $111 Brent + fastest wholesale inflation since 2022 = monetary policy trapped; rate hike pricing = structural EM debt stress accelerating. IMF: global growth 2.5% at $100+ oil (2% = "close call for global recession"). WFP: 45M additional at acute food insecurity risk if war persists past mid-2026.
+- **UAE BARAKAH NUCLEAR POWER PLANT STRUCK BY DRONE — FIRST NUCLEAR INFRASTRUCTURE ATTACK ON US-ALIGNED STATE** — Three drones entered UAE from the western border direction (May 17); one struck an electrical generator outside the inner perimeter of Barakah Nuclear Power Plant (Abu Dhabi, Al Dhafra area). No casualties, no reactor damage, no radioactive release confirmed. Investigation ongoing; no claim of responsibility. Jerusalem Post: the attack was explicitly intended to "send a message to Emiratis" — "We can also strike the nuclear reactor itself and trigger a nuclear incident." UAE condemned as "treacherous terrorist attack." Bloomberg directly linked this attack to Trump's "Clock is Ticking" warning in its headline. The Barakah plant (UAE's only nuclear power station, operated by Korea Electric Power Corp) handles a significant share of UAE electricity generation — UAE is a key US-aligned state that exited OPEC/OPEC+ May 1 in alignment with US. This is a qualitative escalation: Iran-linked proxies have now explicitly targeted nuclear civilian infrastructure of a third country.
+- **TRUMP "CLOCK IS TICKING" — MOST EXPLICIT ALL-OUT STRIKE THREAT SINCE CENTCOM BRIEFING** — Trump on Truth Social Sunday night: "For Iran, the Clock is Ticking, and they better get moving, FAST, or there won't be anything left of them." Axios phone call: "they are going to get hit much harder" if no improved deal. CBS News: Araghchi says Tehran "cannot trust the Americans at all" and is "trying to maintain" ceasefire "to give diplomacy a chance." Iranian Mehr News Agency: US has made "no concrete concessions" — warns of "impasse in negotiations." This is deliberate pre-Rome maximum-pressure signaling, timed to coincide with the Barakah attack.
+- **ROME MAY 23 (5 DAYS) — SOLE REMAINING BINARY; PUTIN-XI MEETING THIS WEEK** — Rome fifth-round talks remain the sole near-term diplomatic binary. Araghchi completed great-power scaffolding tour: Russia (Apr 27) → China (May 8) → BRICS India summit (May 14-15). BRICS summit ENDED WITHOUT JOINT STATEMENT — deep divisions; single member blocked Iran language (likely India hedging or a Gulf-aligned member). Iran loses potential multilateral diplomatic cover from BRICS. Putin-Xi meeting expected week of May 18 (Vedomosti sourced, this week); Putin warned Trump resumed Iran war would be "dangerous and unacceptable." No confirmed joint Russia-China statement yet today. If Putin and Xi issue coordinated backing for Iran before Rome, Tehran arrives with maximum leverage.
+- **MARKETS REPRICING BUT STILL EXTREME MISPRICE** — S&P −1.24% (7,408.50); VIX 18.96–19.25 (up from 18.43); gold down 2.63% ($4,561.90, 5th consecutive decline — dollar/rate-hike dynamics dominating safe-haven bid); DXY 99.39 at new 1-month high; Brent ↑ on Trump warning. Fed rate hike now fully priced for March 2027 with >50% chance before end-2026. At VIX ~19 with a nuclear power plant attack, Trump explicit strike threats, and Rome 5 days away, the market continues to underprice tail risk substantially.
+- **LEBANON CEASEFIRE EXTENDED 45 DAYS (~JULY 3); ISRAEL STRIKING ANYWAY** — Israel and Lebanon agreed to 45-day extension (longest of the conflict; new expiry ~July 3; US State Dept confirmed). However, Israel launched 100+ strikes in Lebanon after agreeing to extend; 5 killed, 15 injured Sunday despite the extension (Al Jazeera). 670+ killed in Israeli strikes since ceasefire began. Lebanon binary resolved until July 3 — removes near-term Lebanon escalation as an independent catalyst.
 
 **Upgraded risks:**
-- S3 (+3pp to 40%): NYT "intense preparations" for strikes "as early as next week" = most explicit kinetic signal since April 30; renewed strikes before/around Rome is the direct S3 pathway if proxy re-escalation follows
-- S1 (+2pp to 11%): Limited-option framing (commando extraction + Kharg seizure) = S1-type targeted actions; raises probability of new limited kinetics distinct from full proxy war
+- S3 (+3pp to 43%, now plurality scenario): UAE Barakah nuclear plant attack by Iran-linked proxies = third-country nuclear infrastructure targeting; most significant proxy escalation since IRGC vessel seizures; direct S3 pathway
+- S4 (+1pp to 9%): First attack on nuclear power plant of US-aligned state; JPost confirms explicit nuclear coercion intent ("we can hit the reactor itself"); sets new conflict precedent for civilian nuclear infrastructure as proxy warfare target
+- S1 (+1pp to 12%): Trump "much harder strikes" + US-Israel "intense preparations" (NYT) raises probability of calibrated pre-Rome kinetics
 
 **Downgraded risks:**
-- S2 (−3pp to 43%): Prolonged standoff thesis directly undercut by active strike-preparation reporting; S2 requires continued diplomatic-blockade stalemate without new US-Israel kinetics — now under acute threat
+- S2 (−3pp to 40%): Active Barakah proxy escalation + Trump maximum-pressure rhetoric directly undercuts extended standoff-without-new-kinetics hypothesis; S2 increasingly depends on Rome success within 5 days
 
 **New precursor events to watch:**
-- **Strike execution before Rome (next 6 days)**: If US or Israeli assets move to strike positions, Rome is effectively canceled and S3 spikes toward 48%+. Watch for CENTCOM operational orders, Israeli Air Force mobilization reports, unusual carrier group positioning.
-- **Putin-Xi meeting (week of May 18) outcomes**: Coordinated Russia-China statement backing Iran before Rome maximizes Tehran's leverage. Watch for joint communiqué language on Hormuz sovereignty, nuclear rights, and sanctions.
-- **Iran Araghchi pre-Rome signaling (next 48–72 hrs)**: Softening (enrichment flexibility, Hormuz partial opening signal) = deal momentum; hardening (Vahidi counter-signal, new maximalist demands) = Rome failure signals. Araghchi-Vahidi tension remains the structural key.
-- **Trump rhetoric this week**: Any announcement canceling Rome = immediate S3 catalyst. "Project Freedom Plus" revival = S3 spike. Deal-positive language = S2 reinforcement.
-- **EM stress indicators**: DXY 99.27 + Fed rate hike pricing + $111 Brent = Pakistan (PKR), Egypt (EGP), Turkey (TRY), Bangladesh (BDT) under structural pressure. Watch EMBI spread widening and emergency central bank actions.
+- **Barakah investigation/attribution (48–72 hrs)**: Confirmed Iranian proxy origin = UAE demands US response; watch CENTCOM statement on Barakah origin and Trump response. UAE is a post-OPEC-exit US-aligned partner — cannot be seen to absorb nuclear infrastructure attack without US response.
+- **Putin-Xi joint statement (this week)**: Coordinated Russia-China backing for Iran's Rome position = Tehran's maximalist leverage. Watch for language on Hormuz sovereignty, nuclear rights, and sanction removal as preconditions.
+- **Trump response to Barakah (next 24–48 hrs)**: Any statement attributing Barakah to Iran explicitly = S3 escalation signal. "Project Freedom Plus" or new strike package announcement = Rome canceled and S3 confirmed.
+- **Araghchi pre-Rome signaling (next 48–72 hrs)**: Any nuclear flexibility signal (Phase 2 enrichment pause + HEU dilution option surviving Vahidi pushback) = deal momentum; reversion to maximalist 14-point demands = Rome failure signal.
+- **EM stress**: DXY 99.39 + rate hike fully priced + $110 Brent = Pakistan (PKR), Egypt (EGP), Turkey (TRY), Bangladesh (BDT) under structural pressure. Watch EMBI spread widening and emergency central bank interventions.
 ---
 
 ## Background: The 2026 Iran War
@@ -157,24 +159,24 @@
 
 Five escalation scenarios with current probability weightings and key trigger events.
 
-### S1 — Limited Air Campaign (11%)
+### S1 — Limited Air Campaign (12%)
 *US/Israeli strikes with Iranian retaliation, no major shipping disruption, proxies restrained*
 - **Triggers up:** Iran negotiated ceasefire, Hormuz fully reopened, proxy ceasefire
 - **Triggers down:** Any vessel attack, Hormuz mining, Hezbollah ground operation
 
-### S2 — Partial Hormuz Disruption — ACTIVE SCENARIO (43%)
+### S2 — Partial Hormuz Disruption — ACTIVE SCENARIO (40%)
 *Current state: traffic severely reduced, US campaign to reopen ongoing, war-risk premiums extreme*
 - **Triggers up:** Peace deal, full reopening, proxy disengagement
 - **Triggers down:** Mining of strait, attack on US naval vessel, full Hezbollah ground war in Israel
 
-### S3 — Regional War / Full Proxy Activation (40%)
+### S3 — Regional War / Full Proxy Activation (43%)
 *Hezbollah opens full northern front in Israel, Iraqi militia attacks escalate to strategic targets, Houthis resurge*
-- **Triggers up:** Israeli ground invasion of Lebanon, US base casualties exceed threshold, Hezbollah missile hits Israeli civilian infrastructure
+- **Triggers up:** Israeli ground invasion of Lebanon, US base casualties exceed threshold, Hezbollah missile hits Israeli civilian infrastructure; **NEW May 18: Drone attack on UAE Barakah nuclear power plant = proxy nuclear infrastructure targeting; direct S3 trigger if US responds militarily**
 - **Triggers down:** Hezbollah ceasefire deal, Iran proxy command disrupted by strikes, Iraqi government crackdown on militia (Lebanon gov ban on Hezbollah is a new downward trigger — Apr 1)
 
-### S4 — Nuclear Dimension (8%)
+### S4 — Nuclear Dimension (9%)
 *Israeli or US strikes on Iranian nuclear facilities, or Iranian nuclear coercion*
-- **Triggers up:** Evidence Iran attempting to weaponize fissile material, Israeli domestic political pressure for "final solution" to nuclear threat
+- **Triggers up:** Evidence Iran attempting to weaponize fissile material, Israeli domestic political pressure for "final solution" to nuclear threat; **NEW May 18: Drone attack on UAE Barakah nuclear power plant with explicit "we can hit the reactor itself" coercion message = first confirmed nuclear coercion against third-country civilian nuclear infrastructure**
 - **Triggers down:** Iranian nuclear leadership killed/disrupted (partially occurred), IAEA verification of program halt
 
 ### S5 — Great Power Entanglement (25%)
