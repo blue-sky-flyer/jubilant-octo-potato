@@ -272,7 +272,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T1-04: USD Safe-Haven Strengthening
-**Likelihood:** 40% | **Trend:** ↓↓ (DXY at 98.39 on April 14 — reversed 99.19 safe-haven bid from April 13 blockade day; UK/NATO divergence = US geopolitical isolation premium; Lavrov-Beijing reduces dollar's shelter narrative; structural bearish forces: fiscal expansion + 4.2% OECD inflation + yuan-oil normalization) | **Horizon:** Uncertain; watch Fed rate path and second-meeting outcome
+**Likelihood:** 46% | **Trend:** ↑ (DXY 99.39 — new 1-month high; rate hike fully priced for March 2027 with >50% chance before end-2026; April CPI biggest increase since 2023 + April PPI fastest since 2022 = structural dollar bid confirmed near-term; structural bearish forces remain: yuan-oil normalization + US fiscal expansion + NATO divergence; but near-term momentum clearly dollar-bullish through Rome binary) | **Horizon:** Near-term ↑ through Rome May 23; longer-term contingent on Hormuz resolution and eventual Fed pivot
 **Sectors:** Financials, Export-oriented industries | **Geographies:** EM currencies hardest hit
 
 **Key Indicators:**
@@ -664,7 +664,7 @@ Five escalation scenarios with current probability weightings and key trigger ev
 ---
 
 #### T3-05: Nuclear Non-Proliferation Norm Erosion
-**Likelihood:** 44% | **Trend:** ↑ | **Horizon:** 2–5 years — net −8% from 52% on one-page memo deal framework (May 7): 12-15yr nuclear enrichment moratorium in deal terms = if Iran accepts, the regional lesson shifts from "nuclear weapons = survival" to "conventional military + Hormuz leverage + diplomatic pressure = negotiated settlement"; Saudi/regional proliferation incentive materially reduced under this framework; residual risk: moratorium ≠ dismantlement; Iran keeps enrichment infrastructure; "latent deterrence" lesson still present; trend ↑↑ → ↑ as deal framework emerges
+**Likelihood:** 49% | **Trend:** ↑↑ | **Horizon:** 2–5 years — net +5% from 44%: Drone attack on UAE's Barakah nuclear power plant (May 17) = FIRST confirmed attack on nuclear infrastructure of a third-country US ally; JPost: explicitly intended to "send message" that "we can also strike the nuclear reactor itself and trigger a nuclear incident" — Iran-linked nuclear coercion against Gulf-state civilian nuclear infrastructure; directly accelerates Saudi/UAE nuclear program incentive (if proxies can threaten civilian reactors, Gulf states' calculation for indigenous nuclear deterrence strengthens materially); moratorium deal framework (if reached) partially offsets by shifting regional lesson from "nukes = survival" to "negotiated settlement possible," but Barakah attack shifts structural incentive calculation before any deal is reached
 **Sectors:** Geopolitics, Defense | **Geographies:** Saudi Arabia, Turkey, Egypt, potentially others
 
 **Mechanism:** If Iran's conventional military is destroyed but nuclear program is seen as having been the deterrent that saved it (in some narrative), regional powers (especially Saudi Arabia) will draw the lesson that nuclear weapons = survival. This is one of the highest-consequence structural risks.
