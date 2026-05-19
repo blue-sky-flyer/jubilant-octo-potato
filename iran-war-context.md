@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-05-19*
+*Last updated: 2026-05-19 (refined update — Rome May 23 hallucination corrected in all sections)*
 
 ---
 
@@ -108,12 +108,12 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
-| May 19 | TRUMP CALLS OFF IRAN STRIKE SCHEDULED FOR TODAY — Gulf monarchs (MBZ/MBS/Qatar Emir) personally intervened, claim deal "very close"; US military on full-alert hair-trigger; Putin arrives Beijing May 19-20 for state visit right after Trump's trip; Brent volatile $111→$102 on suspended strike; Hormuz 1 vessel vs. 60 baseline; 72-hour deal window opens | S2 ↑42% (+2pp), S3 ↓41% (−2pp), S5 ↑26% (+1pp) | ~$106–111 (volatile, easing) | ~18.61 (easing from 19.25) |
+| May 19 | TRUMP CALLS OFF SCHEDULED STRIKE — Gulf monarchs (MBZ/MBS/Qatar Emir) personally intervened, claim deal "very close"; Iran submits "another amended terms" focused entirely on war termination, NOT nuclear (structurally incompatible with US simultaneous-commitment requirement); Putin-Xi summit May 19-20 producing 47-page strategic cooperation document with Iran on agenda; Kataib Hezbollah commander Al Saadi arraigned in NYC federal court (20+ attacks; bomb plot); Brent settled ~$110–111/bbl; Hormuz 0% commercial transit (IMF PortWatch); VIX 18.61; DXY 99.07; 72-hour deal window open | S5 ↑27% (+1pp), S1/S2/S3/S4 → | ~$110–111 (settled; initial dip to $102 reversed) | 18.61 (+0.99%) |
 | May 18 | UAE Barakah nuclear power plant struck by drone (first nuclear infrastructure attack on US-allied state; JPost: "we can hit the reactor itself"); Trump "Clock is Ticking" / "hit much harder"; BRICS ended without joint Iran statement; S&P −1.24%, VIX breaks 19; Rome 5 days; Putin-Xi meeting expected this week | S3 ↑43% (now plurality), S2 ↓40%, S4 ↑9%, S1 ↑12% | ~$109–110 (↑ on Trump threat) | ~19.25 (open) |
 | May 17 | NYT: US-Israel in "intense preparations" for renewed Iran strikes as early as next week (commando nuclear extraction + Kharg Island seizure options); dual strike-diplomacy timeline at peak competition; Putin-Xi meeting expected week of May 18; Iran pre-Rome hardened (Araghchi "fundamental differences"; enrichment red lines reaffirmed); stagflation deepening (Dec rate hike pricing; DXY 99.27); US markets closed Sunday | S1 ↑11% (+2pp), S2 ↓43% (−3pp), S3 ↑40% (+3pp) | ~$111 (Fri close) | 18.43 (Fri close) |
 | May 16 | Lebanon-Israel ceasefire extended 45 days (longest extension; new expiry ~July 3; Washington ambassador-level talks); Trump: Iran ceasefire "massive life support" (most pessimistic US framing since April 8); Brent +8.1% weekly to ~$111 (largest weekly gain since late April); VIX +6.78% to 18.43 (largest single-session move in weeks; markets repricing Rome); DXY 99.27 at 1-month high (+1% weekly); Lebanon May 19 binary resolved; VP Vance: "still making progress"; no new proxy attacks | S2 ↑46% (+1pp), S3 ↓37% (−1pp), all others → | ~$111 (+8.1% wk) | 18.43 (+6.78%) |
-| May 15 | ISW: Iran restores 30/33 Hormuz missile sites + stockpiles ~70% pre-war (most significant military capability development since Russia-Iran Caspian drone pipeline); April wholesale inflation fastest since 2022 + consumer prices biggest increase since 2023; Fed rate hike pricing for December emerges (DXY 99.05) — first hike pricing of conflict; Trump-Xi summit Day 2 — no additional Iran communiqué; Gold falls 2nd day (~$4,617–$4,680); WFP: 45M additional people at acute food insecurity risk if war persists past mid-2026 at $100+ oil; Lebanon ceasefire holds (~May 19 expiry); Rome 5th-round talks confirmed May 23 | S2 ↓45% (−1pp), S3 ↑38% (+1pp), all others → | $106.89 (+1.11%) | ~18.13 (+0.14) |
-| May 14 | Trump-Xi joint statement: "Hormuz must remain open" + Iran "cannot have nuclear weapon"; Xi explicitly opposes Iran's $2M/ship toll scheme and militarization; China publicly strips Iran of Hormuz diplomatic cover; Lebanon ceasefire extended 4th time (~May 19); Islamabad 5th round did not convene (deferred to Rome May 23); ISW-CTP: Iran actively preparing for renewed war, missile stockpiles ~70%; Russia confirmed shipping drone components to Iran via Caspian Sea; Congressional letter (52 senators + 177 House members) rejects enrichment in any deal | S1 →9%, S2 ↑46% (+2pp), S3 ↓37% (−2pp), S4 →8%, S5 ↓25% (−1pp) | ~$105.87 (+0.22%) | ~17.99–18.5 |
+| May 15 | ISW: Iran restores 30/33 Hormuz missile sites + stockpiles ~70% pre-war (most significant military capability development since Russia-Iran Caspian drone pipeline); April wholesale inflation fastest since 2022 + consumer prices biggest increase since 2023; Fed rate hike pricing for December emerges (DXY 99.05) — first hike pricing of conflict; Trump-Xi summit Day 2 — no additional Iran communiqué; Gold falls 2nd day (~$4,617–$4,680); WFP: 45M additional people at acute food insecurity risk if war persists past mid-2026 at $100+ oil; Lebanon ceasefire holds (~May 19 expiry) | S2 ↓45% (−1pp), S3 ↑38% (+1pp), all others → | $106.89 (+1.11%) | ~18.13 (+0.14) |
+| May 14 | Trump-Xi joint statement: "Hormuz must remain open" + Iran "cannot have nuclear weapon"; Xi explicitly opposes Iran's $2M/ship toll scheme and militarization; China publicly strips Iran of Hormuz diplomatic cover; Lebanon ceasefire extended 4th time (~May 19); Islamabad 5th round did not convene (deferred; no confirmed new venue/date scheduled); ISW-CTP: Iran actively preparing for renewed war, missile stockpiles ~70%; Russia confirmed shipping drone components to Iran via Caspian Sea; Congressional letter (52 senators + 177 House members) rejects enrichment in any deal | S1 →9%, S2 ↑46% (+2pp), S3 ↓37% (−2pp), S4 →8%, S5 ↓25% (−1pp) | ~$105.87 (+0.22%) | ~17.99–18.5 |
 | May 13 | Pre-summit operational pause T-1; quietest day since May 2; Trump en route Beijing; Trump-Xi "intent to keep Iran from overshadowing summit" = managed summit framing; China's Wang Yi confirmed pressing Iran on Hormuz pre-summit; Lebanon 3rd-round direct talks in Washington also May 14; Bloomberg: Hormuz standoff hits world's most vulnerable farmers; ISW-CTP: Iran "perceives upper hand," Vahidi dominant | S1 →9%, S2 ↑44% (+1pp), S3 ↓39% (−1pp), all others → | ~$107 (−0.67%) | ~17.5–18 (T-1 extreme misprice) |
 | May 12 | Trump escalates to "garbage"/"stupid" on Iran proposal; Trump aides: combat resumption "more seriously considered than in recent weeks"; Ghalibaf "prepared for every option"; Lebanon worst fighting since ceasefire (Hezbollah 24 attacks/24hrs; UN "most intense since truce"; 2,750+ deaths since March 2); May 14-15 triple convergence T-2; DXY 98.28; Gold $4,745.60; VIX ~17.87 | S1 →9%, S2 ↓43% (−1pp), S3 ↑40% (+1pp), S4 →8%, S5 →26% | $104.97 (+0.73%) | ~17.87 |
 | May 11 | Trump: Iran MOU "totally unacceptable" / "playing games"; Iran counter-demand: Hormuz sovereignty + war damages compensation; 4th-round Oman talks "difficult but constructive" — agreed to continue to May 14-15; Iran proposes joint nuclear enrichment with regional Arab states (Witkoff denied); Netanyahu: deal is "disaster"; IDF peak Lebanon pressure T-3 | S1 →9%, S2 ↓44% (−1pp), S3 ↑39% (+1pp), S4 →8%, S5 →26% | ~$103.93 (+3.4%) | ~17.5 |
@@ -123,54 +123,50 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ## Yesterday — Full Detail (May 19, Day 81)
 
-**Overall situation:** Day 81 / Week 12. The defining event: the US military had a strike on Iran SCHEDULED FOR TODAY (Tuesday May 19) — and Trump called it off hours before execution after Gulf monarchs intervened personally. Saudi Crown Prince MBS, UAE President MBZ, and the Emir of Qatar each called Trump and asked for a "2–3 day delay," asserting a deal was "very close." Trump ordered Defense Secretary Hegseth, Joint Chiefs Chairman Caine, and the US military to stand down — but confirmed the US remains on full alert to launch a full-scale assault at a moment's notice. Simultaneously, Putin arrived in Beijing for a May 19-20 state visit, days after Trump's own Beijing trip — Xi is hosting both superpower leaders back-to-back on the Iran question. [NOTE: "Rome May 23" in prior entries was an error — that fifth round of US-Iran nuclear talks occurred on May 23, 2025, before the war. No confirmed 2026 Rome meeting exists.] A ~72-hour negotiating window has opened — the most acute deal-or-strike binary of the entire war.
+**Overall situation:** Day 81 / Week 12. The defining event: US strikes on Iran were scheduled for today (Tuesday May 19) — and Trump called them off after Gulf monarchs personally intervened. Saudi Crown Prince MBS, UAE President MBZ, and the Qatar Emir each called Trump requesting a 2–3 day delay, asserting a deal was "very close." Trump ordered Hegseth, Joint Chiefs Chairman Caine, and the military to stand down while confirming the US remains on hair-trigger readiness. Iran responded with "another amended set of terms" focused entirely on war termination — explicitly *not* discussing nuclear matters, which is structurally incompatible with the US requirement for simultaneous nuclear commitment. Simultaneously, Putin arrived in Beijing for a May 19–20 state visit, days after Trump's own Xi summit. Xi is hosting both superpower leaders on the Iran question within one week. No confirmed next negotiating round exists. The most acute deal-or-strike binary of the war is live.
+
+**CORRECTION**: All prior references to "Rome May 23" as a 2026 upcoming event were errors. The fifth round of US-Iran nuclear talks on May 23 occurred in 2025 as pre-war negotiations. No confirmed 2026 negotiating session in Rome is scheduled as of this update. These references have been removed from all three framework files.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 12% | → from 12% (strike planning complete and rehearsed; re-authorization on hair-trigger) |
-| S2: Partial Hormuz disruption (ACTIVE) | 42% | ↑ from 40% (+2pp — Gulf mediation architecture creates deal pathway; extended disruption remains baseline) |
-| S3: Regional war / full proxy activation | 41% | ↓ from 43% (−2pp — suspended strike + Gulf mediation reduces immediate kinetics; reverses if 72-hour window fails) |
-| S4: Nuclear dimension | 9% | → from 9% (Barakah context unchanged; attribution unresolved) |
-| S5: Great power entanglement | 26% | ↑ from 25% (+1pp — Putin Beijing visit May 19-20 = confirmed coordinated alignment before Rome) |
+| S1: Limited/air campaign baseline | 12% | → from 12% (strike planning rehearsed; specific calendar date set for today; re-authorization on hair-trigger) |
+| S2: Partial Hormuz disruption (ACTIVE) | 42% | → from 42% (Gulf mediation architecture preserves deal pathway; but Iran's nuclear deferral = positions still structurally incompatible) |
+| S3: Regional war / full proxy activation | 41% | → from 41% (suspended strike reduces immediate kinetics; but incompatible positions = re-authorization after 72-hour failure = primary trigger) |
+| S4: Nuclear dimension | 9% | → from 9% (Barakah attribution unresolved; execution wave + blackouts signal fragility but not nuclear threshold event) |
+| S5: Great power entanglement | 27% | ↑ from 26% (+1pp — Putin-Xi summit producing 47-page strategic cooperation document with Iran on agenda; most substantive alignment of conflict) |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | ~$106–111/bbl (volatile: opened $111+, eased toward $102 on suspended strike) | 🔴 HIGH |
-| WTI crude | ~$99–104/bbl est. | 🔴 HIGH |
-| US gas price | ~$4.47–4.50/gal (no relief pathway) | 🔴 EXTREME |
-| Hormuz transits/day | ~1 vessel (vs. baseline ~60); near-total commercial paralysis | 🔴 EXTREME |
-| War-risk insurance | ~8× pre-war; 6 P&I clubs withdrawn cover; 22,500 mariners trapped | 🔴 EXTREME |
+| Brent crude | ~$110–111/bbl (settled; initial dip to $102 on suspended strike news reversed) | 🔴 HIGH |
+| WTI crude | ~$103–105/bbl est. | 🔴 HIGH |
+| US gas price | ~$4.47–4.50/gal (no structural relief pathway) | 🔴 EXTREME |
+| Hormuz transits/day | 0% commercial transit (IMF PortWatch); ~10 ships Saturday (mostly Iranian-linked) | 🔴 EXTREME |
+| War-risk insurance | ~8× pre-war; 6 P&I clubs withdrawn cover; 1,550 vessels stranded; 22,500 mariners trapped | 🔴 EXTREME |
 | EU TTF gas | ~€60–70/MWh (structural) | 🔴 HIGH |
-| Urea (fertilizer) | ~$700/mt (Iran wheat production −30% from 2024; WFP: 45M+ at risk) | 🔴 EXTREME |
+| Urea (fertilizer) | ~$700/mt; WFP: 45M+ at acute hunger risk; spring planting irreversibly lost | 🔴 EXTREME |
 | S&P 500 | ~7,350–7,408 (volatile) | 🟡 ELEVATED (⚠️ MISPRICE) |
-| VIX | ~18.61 (easing from Monday 19.25 open; below Friday 18.43 close) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
-| USD DXY | ~99.07 (easing from 99.39 on improved deal sentiment) | 🟡 ELEVATED |
-| Gold | ~$4,530–4,570 (6th consecutive session of pressure; dollar/rate-hike headwind) | 🔴 HIGH |
+| VIX | 18.61 (+0.99%) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
+| USD DXY | 99.07 (easing from Friday 99.39 on improved deal sentiment) | 🟡 ELEVATED |
+| Gold | ~$4,530–4,570 (6th+ consecutive decline; DXY/rate-hike headwind) | 🔴 HIGH |
 
 **Key developments:**
-- **TRUMP CALLS OFF IRAN STRIKE PLANNED FOR TODAY**: Trump ordered DoD to stand down from strikes on Iran scheduled for Tuesday May 19. MBS, MBZ, and Qatar Emir personally called Trump requesting 2–3 day delay claiming deal "very close." Trump: "I put it off for a little while, hopefully maybe forever." "NO NUCLEAR WEAPONS FOR IRAN" stated as non-negotiable. US military on hair-trigger standby. (NPR, Washington Post, multiple wire services)
-- **GULF INTERVENTION IS STRUCTURAL**: UAE Barakah nuclear plant was struck two days ago — yet MBZ still called Trump to prevent US counter-strikes. Gulf states now acting as Iran's de facto ceasefire guarantors, revealing deep fear of proxy escalation on Gulf infrastructure at scale. (BusinessToday, Gulf Today)
-- **PUTIN ARRIVES BEIJING May 19-20**: State visit calibrated to show Russia-China alignment days after Trump's own Beijing trip. Iran, Ukraine, and trade on agenda. China hosting both US and Russian leaders on the Iran question within the same week. (CNN, Euronews)
-- **BRENT VOLATILE $111→$102**: Markets reversed on suspended strike news; DXY eased to 99.07 from 99.39; VIX eased to 18.61 from Monday's 19.25 open on improved deal sentiment.
-- **HORMUZ NEAR-TOTAL COMMERCIAL PARALYSIS**: 1 vessel transiting vs. baseline ~60. 22,500 mariners trapped on 1,550+ vessels confirmed by Chairman JCS Caine (May 6). War-risk insurance at 8× pre-war.
-- **BARAKAH ATTRIBUTION STILL UNRESOLVED**: UAE investigating without naming Iran; Saudi Arabia intercepted 3 drones launched from Iraqi airspace same weekend; JPost two sources confirm Iran-ordered; attribution gap = diplomatic cover for Gulf states pursuing deal.
-- **IRAN DOMESTIC CONDITIONS**: Rolling power blackouts introduced; wheat production ~12M tons (vs. 17M tons in 2024); food imports dependent on Persian Gulf routes Iran cannot substitute; regime denying shortages while quietly rationing.
-
-**Upgraded risks:**
-- S2 (+2pp to 42%): Gulf mediation architecture + suspended strike creates deal pathway
-- S5 (+1pp to 26%): Putin Beijing visit confirmed great-power alignment before Rome
-
-**Downgraded risks:**
-- S3 (−2pp to 41%): Suspended strike + Gulf mediation reduces immediate regional-war kinetics
+- **TRUMP CALLS OFF TODAY'S SCHEDULED STRIKE**: US military had Iran strikes on the calendar for Tuesday May 19. MBS, MBZ, and Qatar Emir each called Trump requesting 2–3 days, asserting deal "very close." Trump: "I put it off for a little while, hopefully maybe forever." "NO NUCLEAR WEAPONS FOR IRAN" non-negotiable. US military on hair-trigger standby for full-scale assault at any moment. (CBS News, NPR, Washington Post)
+- **IRAN'S LATEST TERMS: WAR TERMINATION ONLY — NUCLEAR NOT DISCUSSED**: Iran conveyed to mediators it is "focused entirely on an agreement to end the war" and "has not yet discussed any details regarding nuclear matters." Deliberate war-first sequencing = structurally incompatible with US requirement for simultaneous nuclear commitment. (CBS News)
+- **PUTIN–XI SUMMIT MAY 19–20: 47-PAGE STRATEGIC DOCUMENT; IRAN ON AGENDA**: Putin arrived Beijing days after Trump — explicitly calibrated alignment signal. Summit producing 47-page joint strategic cooperation document + declaration on "multipolar world." Iran, Ukraine, Taiwan on agenda; both states confirmed continuing to supply Iran with intelligence and technology. Al Jazeera: "China holds the cards." (Al Jazeera, CBS News, Euronews)
+- **KATAIB HEZBOLLAH COMMANDER ARRAIGNED IN NYC**: Senior commander Mohammad Baqer Saad Dawood Al Saadi charged with providing material support to an FTO and conspiring to attack a NYC synagogue and Jewish centers in LA and Scottsdale. Linked to 20+ attacks on US/Israeli targets in Europe and Canada since war began. (The National, Time)
+- **BRENT SETTLES ~$110–111/BBL; VIX 18.61; DXY 99.07**: Initial optimism drove Brent toward $102 intraday; settled higher as traders priced continued Hormuz paralysis. Oil +16% past month, +70% year-over-year. (Fortune, Trading Economics)
+- **IRAN DOMESTIC**: Regime accelerating executions of political prisoners at highest rate in three decades (NCRI); rolling power blackouts operational; annual inflation at 53.7%; 7 million Iranians hungry; visible protests suppressed following execution wave (Wikipedia, BBC Persian, Iran International)
+- **GULF STATES ADAPTING**: Saudi Arabia Abqaiq-Yanbu pipeline + UAE Fujairah bypass (~7–8M bpd combined); Saudi overland truck rule liberalization; Bahrain aluminum exports rerouted through Saudi Arabia; IMEC accelerating; UAE attacked at Barakah yet MBZ called off US strikes (economic self-preservation over retaliation instinct) (Semafor, Travel and Tour World, Soufan Center)
+- **BARAKAH ATTRIBUTION STILL UNRESOLVED**: UAE investigating; Saudi Arabia intercepted 3 drones from Iraqi airspace same weekend; JPost: Iran-ordered; attribution gap = diplomatic cover for Gulf states pursuing deal while being attacked. (The National, JPost)
 
 **Watch:**
-- **Next negotiating window**: Can Gulf states + Iran deliver credible concession to avert resumed US strikes?
-- **Putin-Xi joint statement on Iran (May 19-20)**: Coordinated backing = Tehran maximalist leverage; no statement = Iran diplomatically isolated
-- **Trump re-authorization of strike**: If 72-hour window fails, strike re-authorized before Rome
-- **US oil sanctions waiver report**: Iranian media reported US proposed temporary waiver — unconfirmed; if confirmed, significant de-escalation signal
-- **Barakah formal attribution (ongoing)**: UAE investigation ongoing; formal attribution = UAE demands US response
+- **72-hour window (until ~May 22)**: Can Gulf states + Iran deliver credible concession on nuclear sequencing before Trump re-authorizes strikes?
+- **Putin-Xi joint statement on Iran (summit in progress)**: Coordinated Russia-China-Iran peace framework = Tehran maximalist leverage; silence = Iran isolated diplomatically
+- **Iran nuclear sequencing**: Will Iran accept simultaneous nuclear commitment or maintain war-first deferral? Core structural incompatibility
+- **US strike re-authorization**: No confirmed next round; Trump confirmed hair-trigger standby
+- **US oil sanctions waiver**: Iranian media reported; White House unconfirmed; significant de-escalation signal if confirmed
 
 ---
 
