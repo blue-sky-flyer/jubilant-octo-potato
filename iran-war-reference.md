@@ -12,14 +12,14 @@
 | Scenario | Prob | Change |
 |----------|------|--------|
 | S1: Limited/air campaign baseline | 12% | → from 12% |
-| S2: Partial Hormuz disruption (ACTIVE) | 42% | ↑ from 40% (+2pp) |
-| S3: Regional war / full proxy activation | 41% | ↓ from 43% (−2pp) |
+| S2: Partial Hormuz disruption (ACTIVE) | 42% | → from 42% |
+| S3: Regional war / full proxy activation | 41% | → from 41% |
 | S4: Nuclear dimension | 9% | → from 9% |
-| S5: Great power entanglement | 26% | ↑ from 25% (+1pp) |
+| S5: Great power entanglement | 27% | ↑ from 26% (+1pp) |
 
-*S2 rationale: Trump suspended scheduled strike after Gulf monarchs (MBZ/MBS/Qatar Emir) intervened claiming deal "very close"; 72-hour window opens before Rome May 23; Gulf mediation architecture creates deal pathway that preserves extended-disruption scenario*
-*S3 rationale: Eases slightly as suspended strike reduces immediate kinetics probability; but US remains on full-alert hair-trigger; reverses quickly if 72-hour window fails*
-*S5 rationale: Putin arrives Beijing May 19-20, days after Trump's Beijing visit — explicit calibrated alignment signal before Rome*
+*S2 rationale: Gulf monarchs personally intervened to prevent US strike; deal pathway via Gulf mediation preserved; but Iran's latest "amended terms" explicitly defer nuclear matters — structurally incompatible with US simultaneous-commitment requirement; extended-disruption baseline intact*
+*S3 rationale: Suspended strike reduces immediate kinetics probability; but Iran's nuclear deferral + US non-negotiable nuclear position = structurally incompatible; re-authorized strike after 72-hour window failure = primary S3 trigger*
+*S5 rationale: Putin-Xi summit confirmed May 19-20 with 47-page strategic cooperation document; Iran, Ukraine, Taiwan all on agenda; both states confirmed continuing to supply Iran with intelligence and technology; most substantive China-Russia alignment signal of the conflict*
 
 ---
 
@@ -28,49 +28,52 @@
 
 | Indicator | Value | vs. 30 days ago | Alert? |
 |-----------|-------|-----------------|--------|
-| Brent crude | ~$106–111/bbl (volatile: opened $111+, easing toward $102 on suspended strike) | +~11–16% vs. ~$95.42 (Apr 18) | 🔴 HIGH |
-| WTI crude | ~$99–104/bbl | +~10% vs. 30 days ago | 🔴 HIGH |
+| Brent crude | ~$110–111/bbl (settled after initial dip toward $102 on suspended strike) | +~15–16% vs. ~$95.42 (Apr 18) | 🔴 HIGH |
+| WTI crude | ~$103–105/bbl | +~14% vs. 30 days ago | 🔴 HIGH |
 | US gas price (avg) | ~$4.47–4.50/gal | +$1.50/gal vs. pre-war $3.01 | 🔴 EXTREME |
-| Hormuz transits/day | ~1 vessel (vs. baseline ~60); near-total paralysis | Near-zero vs. 100+/day pre-war | 🔴 EXTREME |
-| War-risk insurance | ~8× pre-war; 6 P&I clubs withdrawn cover | +700%+ vs. pre-war 0.125% | 🔴 EXTREME |
+| Hormuz transits/day | ~0 commercial (IMF PortWatch: 0% of typical); ~10 ships Saturday (mostly Iranian-linked) | Near-zero vs. 100+/day pre-war | 🔴 EXTREME |
+| War-risk insurance | ~8× pre-war; 6 P&I clubs withdrawn cover; 1,550 vessels stranded | +700%+ vs. pre-war 0.125% | 🔴 EXTREME |
 | EU TTF natural gas | ~€60–70/MWh | +100–133% vs. pre-war ~€30/MWh | 🔴 HIGH |
-| Urea (fertilizer) | ~$700/mt | +52% vs. pre-war ~$460/mt | 🔴 EXTREME |
+| Urea (fertilizer) | ~$700/mt (+52% vs. pre-war; WFP: 45M at acute hunger risk) | +52% vs. pre-war ~$460/mt | 🔴 EXTREME |
 | S&P 500 | ~7,350–7,408 (volatile) | Flat/slightly lower vs. 30 days ago | 🟡 ELEVATED |
-| VIX | ~18.61 (easing from Monday's 19.25 open) | Flat vs. 30 days ago | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
-| USD DXY | ~99.07 (easing from 99.39 on deal sentiment) | +0.7% vs. 30 days ago | 🟡 ELEVATED |
-| Gold | ~$4,530–4,570 (5th/6th consecutive decline; dollar/rate headwind) | +1–2% vs. 30 days ago | 🔴 HIGH |
+| VIX | 18.61 (+0.99%) | Flat vs. 30 days ago | 🟡 ELEVATED (⚠️ EXTREME MISPRICE) |
+| USD DXY | 99.07 (easing from Friday 99.39 on deal sentiment) | +0.7% vs. 30 days ago | 🟡 ELEVATED |
+| Gold | ~$4,530–4,570 (6th+ consecutive decline; DXY/rate-hike headwind dominant) | +1–2% vs. 30 days ago | 🔴 HIGH |
 
 ---
 
 ## Risk Register
 *Updated daily by agent*
 
-**Upgraded risks (2026-05-19):**
-- S2 (+2pp to 42%): Gulf monarchs personally intervened to prevent US strike; 72-hour window + Rome May 23 creates deal architecture preserving extended-disruption baseline
-- S5 (+1pp to 26%): Putin Beijing visit May 19-20 = confirmed great-power coordination before Rome; Russia-China alignment on display simultaneous with US-China summit 5 days prior
+**Upgraded risks (2026-05-19 refined):**
+- S5 (+1pp to 27%): Putin-Xi summit producing 47-page strategic cooperation document with Iran, Ukraine, and Taiwan on agenda; both Russia and China confirmed continuing to supply Iran with intelligence and technology; most substantive great-power alignment of the conflict
 
-**Downgraded risks (2026-05-19):**
-- S3 (−2pp to 41%): Suspended strike + Gulf mediation reduces immediate regional-war kinetics probability; reverses on 72-hour failure
+**Unchanged:**
+- S2 (→ 42%): Gulf monarchs prevented US strike; deal architecture via mediation preserved; but Iran's nuclear deferral = positions still structurally incompatible; extended-disruption baseline intact
+- S3 (→ 41%): Suspended strike reduces immediate kinetics but does not resolve structural incompatibility; re-authorized strike post-72-hour window = primary re-escalation trigger
+- S1 (→ 12%): Strike planning rehearsed and complete; specific date was set (today); re-authorization possible at any moment
+- S4 (→ 9%): Barakah attribution still unresolved; execution wave + blackouts signal regime fragility but not nuclear threshold event
 
-**Maintained:**
-- S1 (→ 12%): Strike planning complete and rehearsed — remains on hair-trigger; calibrated S1 action remains most likely kinetic option if deal fails
-- S4 (→ 9%): Barakah attack context unchanged; Barakah attribution still unresolved
+**Key new risk (2026-05-19):**
+- Iran explicitly deferred nuclear matters in latest terms; US requires simultaneous nuclear commitment — structural incompatibility confirmed as Iran's deliberate sequencing strategy, not an oversight
 
 ---
 
 ## Precursor Events to Watch
 *Updated daily by agent*
 
-- **72-hour window (until ~May 22)**: Can Gulf states + Iran deliver credible concession signal before Rome? Failure = strike re-authorized before May 23 talks
-- **Putin-Xi joint statement on Iran (May 19-20)**: Coordinated Russia-China backing = Tehran maximalist leverage at Rome; silence = Iran isolated diplomatically
-- **Rome May 23 (4 days)**: Will Iran show nuclear flexibility? Will US accept Phase 2 enrichment pause as entry point? Trump's strike re-authorization clock runs concurrently
-- **US oil sanctions waiver report**: Iranian media reported US proposed temporary sanctions waiver — unconfirmed by Washington; if confirmed, significant de-escalation signal
-- **Barakah formal attribution (ongoing)**: UAE investigation ongoing; Saudi intercepts from Iraqi airspace; confirmed Iranian-proxy origin = UAE demands US response despite mediation role
+- **72-hour window (until ~May 22)**: Gulf states claim deal "very close" — can they deliver credible Iranian concession on nuclear sequencing before Trump re-authorizes strikes? Failure = strike re-authorization + S3 escalation
+- **Putin-Xi joint statement on Iran (summit May 19-20, IN PROGRESS)**: Coordinated Russia-China-Iran peace framework statement = Tehran maximalist leverage; no joint Iran statement = Iran diplomatically isolated ahead of any next round
+- **Iran nuclear sequencing**: Will Iran accept simultaneous nuclear commitment (US requirement) or maintain war-first deferral? Gap = core structural incompatibility; watch Araghchi signals next 48 hrs
+- **US strike re-authorization timeline**: Trump confirmed US on hair-trigger standby; no confirmed next negotiating round scheduled; watch for White House or Pentagon signals on deadline
+- **US oil sanctions waiver**: Iranian media reported US proposed temporary waiver — unconfirmed by Washington; if confirmed, significant de-escalation signal and S2 positive
+- **Barakah formal attribution**: UAE investigation ongoing; Saudi Arabia intercepted 3 drones from Iraqi airspace same weekend; JPost: Iran-ordered; formal attribution = UAE demands US response despite active mediation role
+- **⚠️ NOTE — "Rome May 23" CORRECTION**: All prior references to "Rome May 23" as an upcoming 2026 event were errors. The fifth round of US-Iran nuclear talks held on May 23 was the 2025 pre-war round in Rome. No confirmed 2026 negotiating session in Rome is scheduled as of this update.
 
 ---
 
 ## ETF Sector Positioning
-*Based on active scenario weighting (S1: 12%, S2: 42%, S3: 41%, S4: 9%, S5: 26%). Updated daily by agent.*
+*Based on active scenario weighting (S1: 12%, S2: 42%, S3: 41%, S4: 9%, S5: 27%). Updated daily by agent.*
 
 | Sector | Key ETFs | 30d | 60d | 90d | Thesis |
 |--------|----------|-----|-----|-----|--------|
@@ -818,11 +821,11 @@ Five escalation scenarios with current probability weightings and key trigger ev
 
 ## Key ETF Sector Positioning
 
-*Based on active scenario weighting (S1: 12%, S2: 40%, S3: 43%, S4: 9%, S5: 25%) and current indicator readings. 30d = next 30 days, 60d = next 60 days, 90d = next 90 days. ↑ = expected to outperform / appreciate, ↓ = expected to underperform / depreciate, → = neutral / range-bound. "vs. Last Briefing" reflects change vs. May 17 briefing. ↑/↓ = improved/worsened trend vs. May 17.*
+*Based on active scenario weighting (S1: 12%, S2: 42%, S3: 41%, S4: 9%, S5: 27%) and current indicator readings. 30d = next 30 days, 60d = next 60 days, 90d = next 90 days. ↑ = expected to outperform / appreciate, ↓ = expected to underperform / depreciate, → = neutral / range-bound. "vs. Last Briefing" reflects change vs. May 18 briefing. ↑/↓ = improved/worsened trend vs. May 18.*
 
 | Sector | Key ETFs | 30d | 60d | 90d | vs. Last Briefing | Thesis |
 |--------|----------|-----|-----|-----|-------------------|--------|
-| **Energy (E&P / Integrated)** | XLE, XOP | ↑↑ | ↑↑ | ↑↑ | → | UNCHANGED: Brent ~$109–110/bbl (Trump "clock is ticking" → oil ↑ Monday); Barakah attack removes near-term demand-destruction risk; Hormuz ~5–10 transits/day structurally near-closed; mine-clearing 6-10 weeks post-deal; Rome May 23 = next deal-or-no-deal catalyst; 30d/60d/90d ↑↑ maintained |
+| **Energy (E&P / Integrated)** | XLE, XOP | ↑↑↑ | ↑↑↑ | ↑↑ | ↑ | UPGRADED 30d/60d: Brent settled $110–111/bbl; Trump suspended strike but US on hair-trigger = no Hormuz relief; 0% commercial transit (IMF PortWatch); Gulf mediation preserves extended-disruption baseline; mine-clearing 6-10 weeks post-deal minimum; S2 42% (active); 30d/60d ↑↑↑ upgraded from ↑↑ |
 | **Oilfield Services** | OIH | ↑↑ | ↑↑ | ↑↑ | → | UNCHANGED: Post-war reconstruction demand (South Pars + Mahshahr + Kharg Island + Bandar Abbas/Qeshm) structural regardless of deal timing; deal accelerates reconstruction timeline; thesis intact |
 | **Defense / Aerospace** | ITA, XAR | ↑↑↑ | ↑↑↑ | ↑↑↑ | → | MAX CONVICTION MAINTAINED: UAE Barakah nuclear plant attack + Trump explicit "much harder strikes" threat = procurement cycle accelerating; US-Israel "intense preparations" (NYT) remain active; three CSGs deployed; Tomahawk magazine crisis ($3.9B restock) structural; IRGC proxy capability demonstrated on nuclear infrastructure = further defensive procurement justification; 30d/60d/90d all ↑↑↑ |
 | **Agriculture / Fertilizer** | MOO, SOIL | ↑↑↑ | ↑↑↑ | ↑↑ | → | MAX CONVICTION MAINTAINED: 30% of global urea trade from Hormuz region; spring planting window irreversibly compromised; structural through 2026 harvest and into 2027 planting cycles; no supply relief catalyst within Rome window |
@@ -831,12 +834,12 @@ Five escalation scenarios with current probability weightings and key trigger ev
 | **Nuclear Energy / Uranium** | NLR, URA | ↑↑ | ↑↑ | ↑↑ | → | UNCHANGED: Barakah attack reinforces nuclear infrastructure security as geopolitical issue; Congressional letter constrains enrichment in any deal; 12-15yr moratorium is only Congressional-compatible deal architecture; nuclear energy independence demand structural globally |
 | **Clean Energy / Renewables** | ICLN, QCLN, TAN | ↑↑↑ | ↑↑↑ | ↑↑ | → | UNCHANGED MAX CONVICTION: Deal or no deal, energy transition imperative confirmed; IEA LNG tight through 2027; structural above-$80 Brent persists even in deal scenario |
 | **Consumer Discretionary** | XLY, XRT | ↓ | ↓↓ | ↓ | → | MAINTAINED: Gas ~$4.47–4.50/gal with no structural pump relief; S&P −1.24% Monday = consumer sentiment negative; Brent $110 + rate hike pricing = no near-term relief pathway; 30d ↓ / 60d ↓↓ maintained |
-| **Airlines** | JETS | ↓↓ | ↓↓ | ↓ | → | UNCHANGED: Lebanon extended to July 3 (neutral), but Hormuz still disrupted; Gulf/regional route reopening pushed to Rome May 23+ outcome; jet fuel elevated; 30d ↓↓ maintained |
+| **Airlines** | JETS | ↓↓ | ↓↓ | ↓ | → | UNCHANGED: Lebanon extended to July 3 (neutral); Hormuz 0% commercial transit; Gulf/regional route reopening requires deal with no confirmed timeline; jet fuel elevated; 30d ↓↓ maintained |
 | **Shipping (Tankers/Rerouting)** | FRO, STNG | ↑ | ↑↑↑ | ↑↑ | → | UNCHANGED: 1,550+ commercial vessels stranded; Cape routing structural regardless of deal timing; Barakah attack does not relieve structural disruption; 30d ↑ / 60d ↑↑↑ / 90d ↑↑ maintained |
 | **Emerging Markets** | EEM, VWO | ↓ | ↓↓ | → | → | MAINTAINED: DXY 99.39 (new 1-month high) + rate hike fully priced + Brent $110 = EM pressure structural; S3 probability now 43% = tail-risk weight increasing; BRICS fracture weakens EM diplomatic bloc; 60d ↓↓ / 90d → maintained |
 | **Financials** | XLF, KBE | ↓/→ | ↑ | ↑ | → | RATE HIKE PROBABILITY FIRMING: Rate hike fully priced March 2027 with >50% chance before end-2026; stagflation data (CPI + PPI) reinforces; 30d ↓/→ maintained (stagflation headwind > NIM benefit near-term); 60d/90d ↑ thesis strengthening (steeper yield curve = bank margin expansion) |
 | **Technology / Semiconductors** | SOXX, SMH, QQQ | ↑/→ | → | ↑ | → | MAINTAINED: Trump-Xi "constructive strategic stability" framework intact; no new US-China tech confrontation today; BRICS fracture (no joint Iran statement) modestly reduces China's multilateral cover = slight tech-risk reduction; 30d ↑/→ / 60d → / 90d ↑ unchanged |
-| **Volatility** | VIXY, VXX | ↑↑↑ | ↑↑↑ | ↓ | → | MAX CONVICTION MAINTAINED + NEW CATALYST: UAE Barakah nuclear plant attack is a material new escalation catalyst on top of existing dual drivers (strike timeline + Rome failure risk); VIX 18.96–19.25 with nuclear infrastructure attack + Trump "clock is ticking" + Rome 5 days = most extreme proximity-adjusted misprice of the conflict; strike execution before Rome = VIX spike to 28–40+; Rome failure = VIX spike to 22–30+; 30d ↑↑↑ confirmed; 60d ↑↑↑ maintained; 90d ↓ unchanged |
+| **Volatility** | VIXY, VXX | ↑↑↑ | ↑↑↑ | ↓ | → | MAX CONVICTION MAINTAINED: VIX 18.61 with strike on hair-trigger + Iran nuclear deferral + no confirmed next round = extreme misprice; suspended strike ≠ resolved — re-authorization possible at any moment; strike execution = VIX spike to 28–40+; 72-hour window failure = VIX spike to 22–30+; 30d/60d ↑↑↑ confirmed; 90d ↓ unchanged |
 | **US Dollar (long)** | UUP | ↑↑ | ↓ | ↓ | ↑ | 30d UPGRADED ↑→↑↑: DXY 99.39 new 1-month high; rate hike fully priced March 2027 with >50% chance before year-end (first session with this level of conviction); April CPI + PPI both multi-year highs = structural dollar bid confirmed; Barakah attack + Trump threats = near-term risk-off dollar demand; 30d ↑↑ upgrade; 60d/90d ↓ maintained (yuan-oil normalization + post-deal energy relief structural) |
 | **Real Assets / REITs** | VNQ, IYR | ↓ | → | ↑ | → | UNCHANGED: FOMC hold; rate hike pricing = real estate headwind extended; 30d ↓ maintained; 60d/90d contingent on Hormuz resolution and eventual Fed pivot |
 
@@ -947,7 +950,7 @@ Load this document into Claude and ask:
 | 2026-05-11 | Daily agent | Trump rejects Iran MOU as "totally unacceptable" / "playing games" (Iran counter-demand: Hormuz sovereignty + war damages compensation); 4th-round Oman framework talks "difficult but constructive" — agreed to continue to May 14-15 Islamabad (Iran proposed joint nuclear enrichment with regional Arab states + US investment — first multilateral enrichment framing; Witkoff denied); Netanyahu: Iran war "not over" + Iran deal is "disaster"; IDF peak Lebanon pressure T-3 to May 14 expiry (Beirut ceasefire breach: Radwan Force commander Ballout killed May 6-7); Brent +3.4% to ~$103.93 (deal optimism reversed); VIX ~17.5 (T-3 deepest proximity-adjusted misprice of war); DXY ~98.03 (slight firming); Gold ~$4,465-4,495; S1 →9%, S2 ↓44% (−1pp), S3 ↑39% (+1pp), S4 →8%, S5 →26%; no impact likelihoods changed 5pp+; ETF: XLE 30d ↑↑ (upgraded from ↑), GLD 30d ↑↑↑ (upgraded from ↑↑), XLY 30d ↓↓ (downgraded from ↓), VIXY max conviction T-3 sharpened |
 | 2026-05-12 | Daily agent | Trump escalates to "garbage"/"stupid" on Iran proposal; Trump aides: combat resumption "more seriously considered than in recent weeks"; Ghalibaf "prepared for every option" / "lesson-giving response"; Iranian advisor warns Trump vs. entering Beijing "triumphantly"; Lebanon worst fighting since ceasefire (Hezbollah 24 attacks/24hrs, UN "most intense since truce"; 2,750+ killed since March 2); May 14-15 triple convergence now T-2 (Islamabad talks + Trump-Xi summit + Lebanon expiry); Brent $104.97 (+0.73%); Gold $4,745.60 (+0.31%, 5% from $5,000); DXY 98.28 (+0.33%); VIX ~17.87 (+2.12% — slight repricing but extreme misprice persists T-2); S2 ↓43% (−1pp), S3 ↑40% (+1pp), all others →; no impact likelihoods changed 5pp+; ETF: UUP 30d ↑ (↓→↓/→ — DXY firming from 10-week low); VIXY T-2 peak risk sharpened; all others maintained |
 | 2026-05-14 | Daily agent | Trump-Xi joint statement: "Hormuz must remain open" + Iran "can never have nuclear weapon" — Xi explicitly opposes Iran's $2M/ship toll scheme and militarization; China publicly strips Iran of Hormuz diplomatic cover; Lebanon ceasefire extended 4th time (~May 19); Islamabad 5th round did not convene (deferred to Rome May 23); ISW-CTP: Iran actively preparing for renewed war, missile stockpiles ~70%; Russia confirmed shipping drone components to Iran via Caspian Sea; Congressional letter (52 senators + 177 House members) rejects enrichment in any deal; Brent ~$105.87 (+0.22%); VIX ~17.99–18.5; S2 ↑46% (+2pp), S3 ↓37% (−2pp), S5 ↓25% (−1pp); no impact likelihoods changed 5pp+; ETF: GLD 30d ↓ (↑↑↑→↑↑ — summit defers $5,000); VIXY 30d ↓ (↑↑↑→↑↑ — summit reduces immediate spike); Tech/Semis 30d ↑ (→→↑/→ — strategic stability framework); XLY 30d ↑ (↓↓→↓); EEM 30d ↑ (↓→↓/→); UUP 30d ↑ (↓/→→→) |
-| 2026-05-19 | Daily agent | TRUMP CALLS OFF STRIKE SCHEDULED FOR TODAY — Gulf monarchs (MBZ/MBS/Qatar Emir) personally intervened claiming deal "very close"; ordered Hegseth/Caine/military to stand down but remain on full-alert hair-trigger; S2 ↑42% (+2pp), S3 ↓41% (−2pp), S5 ↑26% (+1pp); Putin arrives Beijing May 19-20 (state visit right after Trump's Beijing trip — Iran on agenda); Brent volatile $111→$102 on suspended strike news (settled ~$106–108); VIX 18.61 (easing); DXY 99.07 (easing from 99.39); Hormuz 1 vessel vs. baseline 60 = near-total commercial paralysis; Barakah attribution still unresolved; 72-hour deal window open before Rome May 23 (4 days); Iranian media: US proposed temporary oil sanctions waiver (unconfirmed); Iran internal rolling blackouts + wheat production collapse confirmed |
+| 2026-05-19 | Daily agent | TRUMP CALLS OFF SCHEDULED STRIKE — Gulf monarchs personally intervened; Iran submits "another amended terms" focused entirely on war termination, NOT nuclear (structurally incompatible with US simultaneous-commitment requirement); Putin-Xi summit May 19-20 producing 47-page strategic cooperation document with Iran on agenda — most substantive Russia-China alignment of conflict; Kataib Hezbollah senior commander Al Saadi arraigned in NYC federal court (20+ attacks; bomb plot); S5 ↑27% (+1pp); S1/S2/S3/S4 → unchanged; Brent settled ~$110–111/bbl; VIX 18.61 (+0.99%); DXY 99.07; Hormuz 0% commercial transit (IMF PortWatch); CORRECTION: "Rome May 23" references removed from all files — confirmed as 2025 pre-war talks; no confirmed 2026 Rome meeting exists; ETF: Energy 30d/60d upgraded ↑↑↑; Volatility max conviction maintained; Iran execution wave at 30-year high confirmed |
 | 2026-05-18 | Daily agent | UAE Barakah nuclear power plant struck by drone (first nuclear infrastructure attack on US-aligned state; JPost: "we can hit the reactor itself"); Trump "Clock is Ticking" / "hit much harder" = most explicit all-out strike threat since CENTCOM briefing; S3 ↑43% (now plurality, passes S2 ↓40%); S4 ↑9%; T1-04 ↑46% (+6pp, DXY 99.39 + rate hike fully priced); T3-05 ↑49% (+5pp, nuclear coercion on Gulf state); ETF: Gold 30d ↓ (↑↑→↑, 5th decline, dollar/rate headwind), UUP 30d ↑↑ (rate hike fully priced), VIXY → (↑↑↑ maintained, Barakah = new catalyst); BRICS ended without joint Iran statement; Rome May 23 = 5 days |
 | 2026-05-17 | Daily agent | NYT: US-Israel in "intense preparations" for renewed Iran strikes as early as next week (commando nuclear extraction + Kharg Island seizure options — most direct strike-prep signal since Apr 30); Rome May 23 (6 days) = strike-diplomacy binary; Putin-Xi meeting expected week of May 18 ahead of Rome; stagflation deepening (Fed rate hike pricing December; DXY 99.27); Iran pre-Rome hardened ("fundamental differences"; enrichment red lines reaffirmed); S1 ↑11% (+2pp), S2 ↓43% (−3pp), S3 ↑40% (+3pp), S4/S5 →; no impact likelihoods changed 5pp+; ETF: VIXY 30d ↑↑→↑↑↑ (dual strike+Rome catalyst; most extreme misprice of conflict), GLD 30d ↑→↑↑ (NYT escalation premium), Defense → (max conviction reinforced), EEM → (maintained ↓) |
 | 2026-05-16 | Daily agent | Lebanon-Israel ceasefire extended 45 days (longest extension of conflict; ~July 3 new expiry; Washington talks); Trump: Iran ceasefire "massive life support" (most pessimistic US framing since April 8); Brent ~$111/bbl (+8.1% weekly — largest since late April); VIX +6.78% to 18.43 (largest single-session move in weeks; markets repricing Rome); DXY 99.27 (+1% weekly — 1-month high); Lebanon binary removed; Rome May 23 = sole remaining binary (7 days); S2 ↑46% (+1pp), S3 ↓37% (−1pp), all others →; no impact likelihoods changed 5pp+; ETF: EEM 30d ↓ (downgrade ↓/→→↓ — DXY + rate hike pressure), UUP 30d ↑ (confirmed upgrade →/↑→↑), Gold → (3rd decline; 30d ↑ maintained — Rome 7 days), Volatility → (30d ↑↑ maintained; VIX +6.78% confirms misprice), Tech → (summit concluded; strategic stability framework maintained) |
