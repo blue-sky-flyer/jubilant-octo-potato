@@ -1,64 +1,58 @@
 # Iran War Economic Impact Framework
-*Last updated by daily agent: 2026-05-19*
+*Last updated by daily agent: 2026-05-20*
 
 > **[Full reference — scenario probabilities, market indicators, impact catalog, historical log](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)**
 
 ---
 
-## Daily Briefing — 2026-05-19
+## Daily Briefing — 2026-05-20
 
-**Overall situation:** Day 81 / Week 12. US strikes on Iran were scheduled for today (Tuesday May 19) — Trump called them off after Gulf monarchs (MBS, MBZ, Qatar Emir) personally intervened, each calling Trump directly and claiming a deal is "very close." Iran responded with "another amended set of terms" focused entirely on war termination — explicitly *not* discussing nuclear matters. Simultaneously, Putin arrived in Beijing for a May 19–20 state visit days after Trump's own Xi summit; Xi is now hosting both superpower leaders on Iran within the same week. The most acute deal-or-strike binary of the war is live, with no confirmed next negotiating round.
+**Overall situation:** Day 82 / Week 12. Two events define the day: Xi Jinping publicly warned Trump against resuming Iran strikes after the Putin-Xi summit concluded — the most direct Chinese brake on US military action since the war began, sharply reversing the May 14 tone where Xi aligned with US goals. Simultaneously, Iran's foreign ministry explicitly rejected the US five-point nuclear demand, declaring HEU transfer to the US is off the table "under no circumstances." The 72-hour Gulf-brokered window (from Trump's May 19 stand-down) is approaching expiry with positions widening, not converging.
 
 **Key developments today:**
-- **TRUMP CALLS OFF TODAY'S SCHEDULED IRAN STRIKE**: US military had strikes on the calendar for Tuesday May 19. Qatar Emir, Saudi Crown Prince MBS, and UAE President MBZ each called Trump requesting 2–3 days, asserting deal is "very close." Trump: "I put it off for a little while, hopefully maybe forever." US military remains on hair-trigger standby for full-scale assault at any moment. "NO NUCLEAR WEAPONS FOR IRAN" stated as non-negotiable. (CBS News, NPR, Washington Post)
-- **IRAN'S LATEST TERMS: WAR TERMINATION ONLY — NUCLEAR NOT YET DISCUSSED**: Iran told mediators it is "focused entirely on an agreement to end the war" and "has not yet discussed any details regarding nuclear matters." Iran's deliberate war-first sequencing remains structurally incompatible with the US position requiring nuclear commitment simultaneously with any deal. (CBS News)
-- **PUTIN–XI SUMMIT MAY 19–20: 47-PAGE STRATEGIC DOCUMENT; IRAN ON AGENDA**: Putin arrives Beijing days after Trump — explicitly calibrated to show Russia-China alignment. Summit to produce a 47-page joint strategic cooperation document plus a declaration on "multipolar world." Iran, Ukraine, and Taiwan on agenda; both states confirmed continuing to supply Iran with intelligence and technology. Al Jazeera: "China holds the cards." (Al Jazeera, CBS News, Euronews)
-- **KATAIB HEZBOLLAH COMMANDER ARRAIGNED IN NYC FEDERAL COURT**: Senior commander Mohammad Baqer Saad Dawood Al Saadi charged with providing material support to a designated FTO and conspiring to bomb a NYC synagogue and Jewish centers in LA and Scottsdale. Linked to 20+ attacks on US/Israeli targets in Europe and Canada since war began. (The National, Time)
-- **BRENT SETTLES ~$110–111/BBL; VIX 18.61; DXY 99.07**: Initial optimism drove prices toward $102 intraday on suspended-strike news; market settled higher as traders priced continued Hormuz paralysis. Oil +16% past month, +70% year-over-year. DXY eased from Friday's 99.39; VIX +0.99%. (Fortune, Trading Economics)
-- **HORMUZ: ZERO COMMERCIAL TRANSIT (IMF PORTWATCH)**: ~10 ships transited Saturday (mostly Iranian-linked). 1,550 vessels stranded, 22,500 mariners trapped. War-risk insurance at 8× pre-war; 6 P&I clubs withdrawn. (Bloomberg, USNI)
+- **XI WARNS TRUMP AGAINST RESUMING IRAN STRIKES**: Following Putin-Xi summit (May 19–20), Xi publicly declared "a comprehensive ceasefire is imperative, restarting war is even more unacceptable." Summit produced a joint "comprehensive strategic partnership" statement plus a "multipolar world" declaration and 20+ bilateral agreements. Xi's anti-strike warning is qualitatively different from May 14's alignment with US goals — China is now acting as a brake on US escalation, not a co-signatory to US demands. Iran gains diplomatic cover. (Bloomberg, RFERL)
+- **US FIVE-POINT NUCLEAR DEMAND REJECTED**: US proposal required Iran to keep only ONE nuclear site operational and transfer entire HEU stockpile to the US. Iran FM: "uranium will under no circumstances be transferred anywhere." Iran's amended terms via Pakistan remain focused solely on war termination; nuclear matters explicitly excluded from current round. Gap is widening. (WION, Euronews)
+- **72-HOUR WINDOW NEARING EXPIRY; NO NEW ROUND CONFIRMED**: Gulf monarchs bought a 2–3 day stand-down (May 19). No next negotiating session scheduled. Iran's structural rejection of HEU transfer means nuclear gap has not moved. US military remains on hair-trigger standby for full-scale assault. (CBS News, NPR)
+- **HORMUZ: 0% COMMERCIAL TRANSIT; BRENT $109–112**: Two Chinese tankers exited May 20 — only movement, likely Iran-approved (parallel to Qatar LNG on May 10). IMF PortWatch: zero commercial transit. 1,550 vessels stranded, 22,500 mariners trapped. VIX 17.95 (−0.61%); DXY 99.40 (six-week highs). (HormuzTracker, Trading Economics)
+- **WORLD BANK CUTS GULF REGION GDP FORECAST 4.4% → 1.3%**: Kuwait and Qatar contracting sharply; only Saudi Arabia and Oman partially insulated via bypass infrastructure. US gas $4.47/gal with no structural relief pathway. IMF: global growth 2.5% at $100+ oil. (World Bank, IMF via Oxford Economics)
 
 **On the Ground in Iran:**
-- Regime is accelerating executions of political prisoners at the highest rate in three decades — wartime repression wave combined with conscription pressure and rolling blackouts signals deepening internal fragility. (NCRI)
-- Rolling power blackouts now operational; regime ordering population to reduce food, bread, water, energy, and fuel consumption — extraordinary austerity signal from a government that historically denies shortages. (Wikipedia, BBC Persian context)
-- Annual inflation at 53.7% (March/April estimate); food inflation above 70% pre-war; 7 million Iranians reported hungry; meat now a luxury item. (Iran International, NCRI)
-- ⚠️ Visible street protests largely suppressed as of May following execution wave; structural economic pressure building via shortages and blackouts, but no confirmed street-level action today. (Wikipedia)
+- Internet blackout now surpassing Day 82 (1,920+ hours) — among the longest continuous national blackouts in modern history; regime simultaneously executing political prisoners at the highest rate in three decades. (NCRI, NetBlocks)
+- Annual inflation 53.7%; food inflation above 70%; 7 million Iranians reported hungry. Regime openly ordering population to reduce food, energy, and fuel consumption — extraordinary public austerity signal. (Iran International, NCRI)
+- Iran FM's explicit HEU transfer rejection confirms regime consensus has hardened: war-termination-first, nuclear-sovereignty-never. Araghchi diplomatic channel technically open but military track (IRGC-Vahidi) remains structurally dominant per ISW-CTP.
+- ⚠️ Agricultural sector: southern port disruption + fertilizer at $700/mt + sanctions = potential crop failure risk H2 2026; no confirmed ground-level harvest data yet. (IFPRI)
 
 **Gulf States Adaptation:**
-- UAE hit at Barakah nuclear plant (May 17) — yet MBZ still called Trump to prevent US counter-strikes, revealing economic self-preservation and fear of proxy escalation at scale overrides retaliation instinct. Saudi-UAE fissure: Saudi favors accommodation; UAE favors military confrontation. (Soufan Center)
-- Saudi Arabia Abqaiq-Yanbu pipeline + UAE Fujairah bypass: ~7–8M bpd combined capacity; Saudi liberalized overland truck rules (foreign-owned empty trucks may now enter Saudi Arabia to pick up goods for export); NEOM port described as "crucial lifeline." (Semafor)
-- Bahrain routing aluminum exports overland through Saudi Arabia to western ports; GCC Rail gaining political momentum as permanent Hormuz bypass architecture. (Semafor, Travel and Tour World)
-- IMEC (India-Middle East-Europe Corridor) accelerating: Qatar, UAE, and Saudi Arabia all citing Hormuz disruption as structural argument for IMEC investment. (Travel and Tour World)
+- Saudi Arabia Abqaiq-Yanbu east-west pipeline diverting ~7M bpd to Red Sea / Yanbu; UAE Fujairah bypass active — combined ~7–8M bpd; Saudi GDP holding. Kuwait and Qatar have no equivalent bypass and are contracting. (World Bank, The Conversation)
+- Qatar performing triple role simultaneously: Emir personally called Trump to prevent May 19 strikes, QatarEnergy force majeure remains in effect, and Iran-approved LNG tanker transits continue (May 10 precedent). Masterclass in wartime balancing. (Middle East Council, Axios)
+- GCC Rail and IMEC (India-Middle East-Europe Corridor) gaining political momentum — Gulf states using Hormuz disruption as structural argument for accelerated investment in permanent bypass infrastructure. (Semafor, Travel and Tour World)
+- World Bank GDP downgrade (4.4%→1.3%) intensifying Gulf sovereign urgency to close war on any viable terms; MBZ absorbing Barakah strike and still calling Trump off = Gulf economic self-preservation structurally stronger than retaliation instinct.
 
 **Strategic Playbook — What Each Actor Could Do:**
 *Hypotheses rewritten daily. Status checked against today's news.*
 
 **🇮🇷 Iran** *(goal: end blockade, preserve nuclear program, regime survival)*
-- **[Rational]** Submit war-termination-first terms; explicitly defer nuclear — maximize US political commitment before any enrichment concession → ✅ CONFIRMED TODAY: Iran submitted "another amended set of terms" focused solely on war end; nuclear not yet discussed
-- **[Rational]** Use Gulf states' fear of proxy escalation as deterrent shield preventing US kinetics → ✅ CONFIRMED: Gulf monarchs called off US strike despite Barakah attack on their own soil — Iran's proxy threat to Gulf infrastructure is real deterrence
-- **[Creative]** Rebuild Hormuz missile sites + stockpiles during negotiating pause to maximize leverage at any future round → 🔴 CONFIRMED STRUCTURAL: 30/33 sites restored; stockpiles ~70% pre-war and rising (ISW-CTP)
+- **[Rational]** Reject HEU transfer categorically; use Xi's anti-strike statement as diplomatic shield; maintain war-termination sequencing to exhaust 72-hour window without concession → ✅ CONFIRMED: FM rejection explicit; Xi provided direct cover today
+- **[Creative]** Allow selective allied tanker transit (China, Qatar) to signal Hormuz "controllable" without formally reopening — demonstrates leverage without triggering Praying Mantis → 🔄 ONGOING: 2 Chinese tankers May 20; Qatari LNG May 10
 
 **🇺🇸 United States** *(goal: nuclear disarmament, Hormuz reopening, regime cost imposition)*
-- **[Rational]** Use specific-date strike threat as maximum credible coercive leverage — strike had today's calendar date; standing down = maximum pressure without firing → ✅ CONFIRMED: Re-authorization possible at any moment; Iran knows the hour was set
-- **[Rational]** Let Gulf allies extract Iranian concessions; Trump claims win without new air campaign → 🔄 ONGOING: Gulf monarchs acting as intermediaries; monitoring 72-hour window
-- **[Creative]** Announce temporary oil sanctions waiver as pre-talks good-faith gesture → 🔍 Iranian media reported this; White House unconfirmed; watch next 24–48 hrs
-- **[Hypothesis]** Re-authorize strike after 72-hour window if Iran keeps deferring nuclear → 🔴 HIGH RISK: Iran explicitly says nuclear not yet discussed; US requires simultaneous nuclear commitment = structurally incompatible positions persist
+- **[Rational]** Re-authorize strikes at 72-hour window expiry; Xi warning raises diplomatic cost but $4.47/gal gas and War Powers bypass make domestic calculus dominant → 🔴 HIGH RISK: Iran rejected HEU transfer; no new round confirmed; window closing
+- **[Creative]** Accept Xi's ceasefire framing as "China-backed historic agreement" — gives Trump a deal he can sell as geopolitically transformative without requiring HEU transfer as day-one commitment → 🔍 Not yet seen; requires Trump to accept phased nuclear framework
 
 **🇮🇱 Israel** *(goal: eliminate Hezbollah/proxy threat, prevent Iranian nuclear capability)*
-- **[Rational]** Continue Lebanon strikes during 45-day extension (expiry ~July 3) to degrade Hezbollah regardless of any Iran deal → ✅ CONFIRMED: 100+ strikes since extension; 670+ killed since ceasefire
-- **[Creative]** Threaten unilateral Iran nuclear strike if any deal legitimizes enrichment → 🔍 Netanyahu "disaster" framing structurally active; no new action today
+- **[Rational]** Continue Lebanon strikes during 45-day extension (expiry ~July 3); maintain Netanyahu "any deal is a disaster" framing as implicit veto threat on soft nuclear terms → ✅ CONFIRMED: 100+ strikes since extension; veto framing structurally live
 
 **Gulf States** *(goal: stability, oil revenue, avoid direct targeting, maintain US security guarantee)*
-- **[Rational]** Personally call Trump to prevent US strikes even when own territory is attacked → ✅ CONFIRMED TODAY: Barakah attacked; MBZ still called Trump to stand down
-- **[Creative]** Position as de facto Iran–US ceasefire guarantors; extract post-war economic concessions from both sides → 🔄 ONGOING: Gulf monarchs now explicit intermediaries
+- **[Rational]** Use direct monarch-to-Trump calls to keep buying time; World Bank GDP downgrade (4.4%→1.3%) sharpens their urgency to close the conflict → 🔄 ONGOING: 72-hour window bought; next step unclear
+- **[Creative]** Offer Iran specific economic incentives (reconstruction investment, sanctions relief advocacy) to bridge nuclear-sequencing gap that US-Iran cannot bridge bilaterally → 🔍 Qatar best positioned; not yet seen
 
 **Proxies (Hezbollah / Iraqi Militias / Houthis)** *(goal: survive, extract concessions, serve Iranian interests)*
-- **[Rational]** Hold below US base-casualty threshold while Iran diplomacy active → 🔄 ONGOING: No confirmed new proxy attacks today; Kataib Hezbollah activity now exposed via NYC federal prosecution
-- **[Creative]** Strike Gulf nuclear infrastructure to fracture US-Gulf alliance; rely on Gulf economic self-interest to absorb → ✅ CONFIRMED (May 17): Barakah struck; Gulf states absorbed attack without demanding US counter-escalation — strategy partially effective
+- **[Rational]** Maintain below-threshold posture while Iran holds diplomatic cover from Xi → 🔄 ONGOING: No new attacks confirmed today; Kataib Hezbollah NYC prosecution exposing operational reach
+- **[Creative]** Strike second Gulf nuclear or energy infrastructure target — fracture Gulf mediation role by forcing UAE/Saudi to choose between diplomacy and retaliation → 🔍 HIGH RISK: Would collapse Gulf intermediary role; Barakah attribution still unresolved
 
 **🇨🇳🇷🇺 China & Russia** *(goal: weaken US global position, gain strategic leverage, secure energy/trade benefits)*
-- **[Rational]** Putin visits Beijing immediately after Trump — demonstrate coordinated Russia-China alignment before next diplomatic round → ✅ CONFIRMED TODAY: Putin in Beijing May 19–20; 47-page strategic document + Iran on agenda
-- **[Rational]** Buy discounted Iranian oil + supply drone components via Caspian while maintaining nominal neutrality → ✅ CONFIRMED: Russia Caspian drone pipeline active (May 13-14); China ~1.5M bpd Iranian crude
-- **[Creative]** Issue Putin-Xi joint statement on Iran giving Tehran diplomatic cover to accept a weaker deal while preserving face → 🔍 LIVE WATCHPOINT: Summit in progress; any joint Iran peace framework would be most consequential development since Trump-Xi May 14 communiqué
+- **[Rational]** Xi issues direct anti-strike warning to Trump post-summit; flips from May 14 US-aligned communiqué to explicit brake on US escalation — maximum diplomatic leverage at minimum military cost → ✅ CONFIRMED TODAY: Most significant China action of war; Iran gains cover; US faces reputational cost if it strikes despite Xi warning
+- **[Creative]** Propose Putin-Xi joint Iran peace framework (war termination + enrichment limits + Hormuz international management) bypassing US HEU transfer demand — gives Iran face-saving off-ramp → 🔍 LIVE WATCHPOINT: Summit concluded; joint statement details emerging
 
 ---
 
