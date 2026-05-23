@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-05-22*
+*Last updated: 2026-05-23*
 
 ---
 
@@ -120,10 +120,11 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ---
 
-## Daily Log (May 17 – May 22)
+## Daily Log (May 17 – May 23)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| May 23 | TULSI GABBARD RESIGNS AS DNI (effective June 30) — husband Abraham Williams diagnosed with rare bone cancer; acting DNI Aaron Lukas; 4th Trump Cabinet member to resign; intelligence leadership vacuum during active "all ready to go" strike posture. HOUSE GOP PULLS IRAN WAR POWERS VOTE — near-passage (Dems + 4 GOP crossovers); mandatory floor vote in June when Congress returns from Memorial Day recess; most significant congressional constraint since Senate 50-47 May 1. REGIONAL LEADERS PUSH TRUMP FOR MORE TIME — Pakistan, Gulf, Qatari delegation in Tehran; NBC: Tehran signals gaps "reduced"; no framework commitment confirmed yet. IRGC AGAIN CLAIMS 25-VESSEL HORMUZ TRANSIT (⚠️ second information operation in 3 days). IISS: Egypt-Pakistan-Saudi-Turkey "new Middle Eastern quadrilateral" forming. Markets closed (Saturday); internet blackout Day 85 (2,000+ hours). | S2 ↑42% (+1pp), S3 ↓42% (−1pp) — TIED | ~$103–105 (Friday close; markets closed Saturday) | 16.70 (Friday close; ⚠️ EXTREME MISPRICE) |
 | May 22 | KHAMENEI WRITTEN DECREE BANNING HEU EXPORT "UNDER ANY CIRCUMSTANCES" (Reuters) — most structurally significant nuclear hardline of the conflict; irrevocable constitutional constraint within Iranian system; forecloses core US demand; Gold fell $9 to $4,530. PAKISTAN ARMY CHIEF MUNIR TO TEHRAN WITH DRAFT FINAL AGREEMENT — highest-level Pakistani mediation engagement; first military principal physically delivering draft inside Iran; gaps "narrowing." TRUMP "BORDERLINE / ALL READY TO GO" — most explicit military ultimatum framing of war. US INTEL: Iran military-industrial reconstruction faster than expected (CNN). POWER OF SIBERIA 2 pipeline (Russia→China) commercially accelerated by Iran war (Bloomberg May 19 / Putin-Xi summit). Internet blackout Day 84 (2,000+ hours). | S3 ↑43% (+1pp back to plurality), S2 ↓41% (−1pp) | $104.52 (+1.89% on Munir visit; down from ~$107 range after Khamenei decree) | 16.76 (−3.90%, ⚠️ EXTREME MISPRICE) |
 | May 21 | SAUDI AL ARABIYA "FINAL TOUCHES" DEAL REPORT + TRUMP "NO HURRY / ONE SHOT" — closest deal-proximity signal of war; Saudi FM praised Trump, called for pre-conflict Hormuz conditions; IRAN LAUNCHES "PERSIAN GULF STRAIT AUTHORITY" — official X account, $2M/ship yuan permit system institutionalized as permanent state claim; EUROZONE PMI FLASH 47.5 (31-month low) / France 43.5 (COVID-lockdown level) — sharpest European recession signal of war; NCRI: 31 political executions since March 19; Brent $107.16 / Brent $105.54 settled May 20 (−5.16%); 72-hour window at Day 3 (~May 22 expiry); internet blackout Day 83 | S2 ↑42% (+1pp), S3 ↓42% (−1pp) — TIED at 42% | $107.16 (May 21) / $105.54 (May 20 settle) | 17.44 (−3.43%) |
 | May 20 | XI WARNS TRUMP AGAINST IRAN STRIKES (Putin-Xi summit concluded) — "restarting war is even more unacceptable"; Xi flips from May 14 US-aligned framing to explicit anti-escalation brake; IRAN FM REJECTS HEU TRANSFER "UNDER NO CIRCUMSTANCES"; IRGC claims 26-ship Hormuz transit (⚠️ unverified — information operation vs. IMF PortWatch 0% commercial); US boards Iranian-flagged tanker in Gulf of Oman (active blockade enforcement); Senate bill advancing — Cassidy flips (3rd GOP defection); Brent $110.34 morning (−$2.59 on Xi deal-relief); Gulf GDP (World Bank): Qatar −14.7%, Kuwait −4.2%; 72-hour window approaching expiry (~May 22); no new round confirmed; internet blackout Day 82+ | S1 ↓11% (−1pp), S2 ↓41% (−1pp), S3 ↑43% (+2pp, now plurality), S4 →9%, S5 ↑28% (+1pp) | $110.34 open / 110.68–111.47 futures range | 17.95 (−0.61%) |
@@ -133,44 +134,44 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ---
 
-## Yesterday — Full Detail (May 22, Day 84)
+## Yesterday — Full Detail (May 23, Day 85)
 
-**Overall situation:** Day 84 / Week 12. Two events define the day in direct tension: Pakistan Army Chief Field Marshal Asim Munir arrived in Tehran personally carrying a draft final agreement framework — the first time a military principal has physically delivered a text inside Iran since the war began, and the clearest operational signal that a deal is close enough to require face-to-face brokering. Against this, Supreme Leader Mojtaba Khamenei issued a formal written directive banning the export of enriched uranium from Iranian territory under any circumstances — directly foreclosing the core US demand that HEU stockpiles leave the country under any deal. Trump publicly characterized negotiations as "borderline" between continued talks and resumed strikes: "If we don't get the right answers, it goes very quickly. We're all ready to go." Markets absorbed both signals: Brent recovered to $104.52 (+1.89%) after declining from the ~$107 range when the Khamenei directive emerged; gold fell to $4,530 as deal optimism faded. S3 is back at 43% (plurality) as the nuclear obstacle hardened faster than the Munir visit bridges it.
+**Overall situation:** Day 85 / Week 13. Saturday — no markets, no kinetic action. The day is defined by two US domestic political events that structurally constrain Trump's military options, and by regional leaders continuing to press for more time while Munir remains in Tehran. Tulsi Gabbard resigned as Director of National Intelligence, effective June 30, creating an intelligence leadership vacancy at the precise moment CENTCOM has a live "all ready to go" strike posture. House Republican leadership pulled a war powers resolution vote on Thursday night that had enough crossover Democratic plus Republican support to pass — the first time a majority of Congress has visibly aligned against Trump's Iran posture; the vote is procedurally required to return when Congress comes back from Memorial Day recess in early June. Against these constraint signals, regional leaders (Pakistan, Gulf monarchs, Qatari delegation now physically in Tehran alongside Munir) pushed Trump for more negotiating time — and NBC reports Tehran is signaling gaps have "reduced." S2 and S3 are tied at 42% each — the same ambiguous stalemate of May 21, with the nuclear obstacle unchanged but institutional US strike capacity modestly more encumbered than 24 hours ago.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
 | S1: Limited/air campaign baseline | 11% | → unchanged |
-| S2: Partial Hormuz disruption (ACTIVE) | 41% | ↓ from 42% (−1pp) |
-| S3: Regional war / full proxy activation | 43% | ↑ from 42% (+1pp — Khamenei HEU decree + Trump "borderline"; back to plurality) |
+| S2: Partial Hormuz disruption (ACTIVE) | 42% | ↑ from 41% (+1pp) |
+| S3: Regional war / full proxy activation | 42% | ↓ from 43% (−1pp) |
 | S4: Nuclear dimension | 9% | → unchanged |
 | S5: Great power entanglement | 28% | → unchanged |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | $104.52 (May 22, +1.89%; rebound on Munir visit after declining from ~$107 on Khamenei decree) | 🔴 HIGH |
-| WTI crude | ~$99–101/bbl (estimated from Brent spread) | 🔴 HIGH |
+| Brent crude | ~$103–105 (Friday close ~$103.54; markets closed Saturday) | 🔴 HIGH |
+| WTI crude | ~$97–101/bbl (estimated from Brent spread) | 🔴 HIGH |
 | US gas price | ~$4.47–4.50/gal | 🔴 EXTREME |
-| Hormuz transits | ~2% commercial (2 vessels vs. 95/day typical); "Persian Gulf Strait Authority" official state institution; $10–14M VLCC war-risk premium | 🔴 EXTREME |
+| Hormuz transits | Near-zero commercial (IMF PortWatch); IRGC claimed 25-vessel transit (⚠️ second information operation in 3 days); Gulf states advising ships not to use Hormuz route | 🔴 EXTREME |
 | War-risk insurance | ~8× pre-war; 6 P&I clubs withdrawn; 1,550 vessels stranded; 22,500 mariners trapped; $10–14M/VLCC voyage | 🔴 EXTREME |
-| VIX | 16.76 (−3.90%) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE — live "all ready to go" military posture) |
-| USD DXY | 99.27 (+0.01%) | 🟡 ELEVATED |
-| Gold | $4,530.46 (fell ~$9 on Khamenei HEU decree; deal optimism fading) | 🔴 HIGH |
+| VIX | 16.70 (Friday close; ⚠️ EXTREME MISPRICE — Gabbard DNI vacancy + war powers vote + live military posture) | 🟡 ELEVATED |
+| USD DXY | 99.32 (Friday close; +0.08%) | 🟡 ELEVATED |
+| Gold | ~$4,510–4,530 (non-trading Saturday; post-Khamenei-decree retreat continuing) | 🔴 HIGH |
 
 **Key developments:**
-- **PAKISTAN ARMY CHIEF MUNIR TO TEHRAN WITH DRAFT FINAL AGREEMENT**: Field Marshal Asim Munir personally delivered a draft text framework to Tehran, per Voice of Emirates and regional sources. Text covers "general framework and confidence-building measures as guarantees." Iran confirmed receipt; gaps described as "narrowing." Highest-fidelity operational deal signal since the war began. (Voice of Emirates, Al Jazeera)
-- **KHAMENEI DECREE: ENRICHED URANIUM CANNOT LEAVE IRAN**: Supreme Leader Mojtaba Khamenei issued a formal directive (Reuters May 21-22) mandating Iran's enriched uranium, including near-weapons-grade material, must not be exported. Creates irrevocable constitutional constraint within Iranian system — any negotiator accepting HEU export defies a Supreme Leader decree. Trump has explicitly promised Israel HEU will leave Iran under any deal. Gold fell $9 to $4,530 on the news. (Reuters)
-- **TRUMP "BORDERLINE" — MILITARY-OR-DEAL ULTIMATUM**: Trump told reporters: "If we don't get the right answers, it goes very quickly. We're all ready to go." Most explicit military ultimatum framing of the war; more acute than May 21 "no hurry / one shot"; decision point explicitly imminent. (Fox News, Al Jazeera)
-- **US INTEL: IRAN MILITARY-INDUSTRIAL RECONSTRUCTION FASTER THAN EXPECTED**: CNN cited US intelligence assessments that Iran's military capacity is reconstituting faster than prior projections. Combined with 30/33 Hormuz missile sites restored at ~70% stockpiles (ISW-CTP), each week of status quo increases Iranian leverage structurally.
-- **POWER OF SIBERIA 2 COMMERCIALLY ACCELERATED (Bloomberg May 19)**: Russia-China long-delayed Arctic Yamal→China gas pipeline was top agenda at Putin-Xi summit May 20; Iran war's LNG disruption cited as accelerating commercial case. Structural long-run Russia-China energy integration benefit, accruing regardless of war outcome.
+- **TULSI GABBARD RESIGNS AS DNI**: Effective June 30; husband Abraham Williams diagnosed with rare bone cancer; acting DNI Aaron Lukas; 4th Trump Cabinet member to resign; intelligence coordination capacity for imminent strike planning now in transition at most consequential moment of war. (Washington Post, NPR, Fox News)
+- **HOUSE GOP PULLS IRAN WAR POWERS VOTE**: Leadership pulled Thursday's vote after Democrats plus GOP crossovers (Fitzpatrick, Massie, Davidson, Barrett) had the votes to pass it; Rep. Meeks: "procedurally must happen when Congress returns from Memorial Day recess in early June." Most significant congressional constraint signal since Senate 50-47 war-termination near-pass on May 1. (CBS News, NPR, Axios)
+- **REGIONAL LEADERS PUSH TRUMP FOR MORE TIME**: Pakistani, Gulf, Qatari officials pressing Trump to allow more negotiating space; Qatari delegation in Tehran alongside Munir (The National, May 23); NBC: Tehran signals gaps "reduced." No framework commitment publicly confirmed from Munir visit yet.
+- **IRGC CLAIMS 25-VESSEL HORMUZ TRANSIT**: Second unverified transit claim in 3 days (⚠️ Iran information operation; IMF PortWatch shows near-zero commercial); Gulf states simultaneously advising ships to avoid Hormuz route entirely (Bloomberg May 21).
+- **IISS: NEW MIDDLE EASTERN QUADRILATERAL**: Egypt, Pakistan, Saudi Arabia, Turkey emerging as shared security posture bloc (IISS analysis); earliest indication of a post-war regional architecture.
 
 **Watch:**
-- **Munir-Tehran outcome**: Watch whether Iran confirms any framework element before Munir departs — even general-principles commitment = S2 strong positive; departure without commitment = S3 re-authorization pressure
-- **US response to Khamenei HEU decree**: (a) demand dissolution = deal collapses; (b) propose phased dilution / third-party enrichment = reopens deal space; (c) silence = US implicitly accepting Iran's nuclear floor; watch Witkoff/Rubio next statement
-- **Trump next public Iran statement within 24-48 hours**: Binary is narrowing; "borderline" language implies an imminent decision rather than sustained patience
-- **Gulf monarch call if Munir fails**: MBS/MBZ/Qatar Emir direct Trump calls have delayed strikes twice; a third call is the backstop; watch within 24 hours of any Munir failure signal
-- **Egypt FX / EMBI trigger**: Pound −9% YTD, $30B debt service; closest MENA sovereign to disorderly event; no discrete trigger today
+- **Munir-Tehran outcome**: No framework commitment confirmed yet; any general-principles acceptance = S2 strong positive; departure empty-handed = S3 re-authorization pressure; Qatari delegation as second track
+- **Trump next public Iran statement (Monday)**: Monday return from weekend = first post-recess signal; "they moved" framing = S2 reinforced; "time's up" framing = imminent re-authorization
+- **House war powers floor vote (early June)**: Watch whether additional GOP members join Fitzpatrick/Massie/Davidson/Barrett during Memorial Day recess — each additional member raises veto-override risk
+- **Acting DNI Lukas first public statement**: Watch for intelligence community assessment on resumed strike authorization; any divergence from CENTCOM "all ready to go" framing = S3 suppressor
+- **Next confirmed negotiating round**: No venue/date confirmed; silence past ~May 26-27 = S3 re-authorization pressure
 
 ---
 
