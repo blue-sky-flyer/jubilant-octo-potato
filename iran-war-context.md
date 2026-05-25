@@ -1,6 +1,6 @@
 # Iran War — Rolling Context
 *Maintained by the daily agent. Read this instead of the full framework.*
-*Last updated: 2026-05-24*
+*Last updated: 2026-05-25*
 
 ---
 
@@ -67,6 +67,7 @@ Key structural facts that persist:
 - **Power of Siberia 2 pipeline (Russia→China) commercially accelerated by Iran war (Bloomberg May 19)** — long-delayed Arctic Yamal gas pipeline to northeast China was a top Putin-Xi summit May 20 agenda item; Iran war's LNG disruption has made pipeline economics viable faster than planned; structural long-run Russia-China energy integration benefit from the war, accruing regardless of conflict outcome
 - **Saudi Al Arabiya "final touches" deal report + Trump "no hurry / one shot" (May 21)** — Saudi media reports final wording being completed on US-Iran deal, announcement expected soon; Saudi FM Faisal bin Farhan praised Trump's diplomacy, called for Hormuz restoration to "pre-conflict conditions"; Trump told reporters "I'm in no hurry / giving this one shot"; S2 and S3 now tied at 42% — the most ambiguous moment of the conflict
 - **TRUMP: DEAL "LARGELY NEGOTIATED" — TWO-PHASE FRAMEWORK (May 24)** — Most significant diplomatic development of the war: Trump declared deal with Iran "largely negotiated" and will have a decision by Sunday. Phase 1 = Iran clears mines + reopens Hormuz (no tolls) + US lifts naval blockade + oil sanctions waivers; Phase 2 = 30–60-day negotiations on HEU stockpile disposal and enrichment moratorium terms. Top negotiators approved: Vance, Witkoff, Kushner (US); Ghalibaf/pragmatist track (Iran) — most significant Iranian domestic balance shift since Vahidi hardliner dominance asserted in April. Trump "50-50"; Washington Times: announcement expected within 24 hours of Saturday morning. Times of Israel: Trump told Netanyahu final deal will include full nuclear dismantlement + all HEU removed (Phase 2 end-state assurance to Israel). UK PM Starmer endorsed deal structure with "unrestricted freedom of navigation" requirement. Brent rose to $106 intraday. S2 ↑50%, S3 ↓31%. (Axios, CNN, NPR, Times of Israel — all May 24, 2026)
+- **DEAL SLIPS TO "WORK IN PROGRESS" — HEU SEMANTIC GAP CONFIRMED (May 25)** — Sunday announcement did not materialize. Rubio: "still a work in progress" (Monday, New Delhi). Iranian FM: "reached a conclusion on a large part of the issues" but finalization not "imminent." Senior US official: "a few more days." Trump: "time is on our side." "No dust, no dollars" proportional Hormuz-to-blockade framework confirmed (CBS News). Critical ambiguity exposed: US says Iran agreed to "discuss surrendering" HEU in Phase 2; Iranian source denied agreeing to "hand over" the stockpile — Khamenei's HEU export decree (May 21–22) still in force. GOP hawks revolt: Graham/Wicker/Cruz call it a "disaster"; Trump: "don't listen to the losers." Brent fell ~6% to below $100 on Memorial Day thin-liquidity futures ($94–99) — war's clearest single-session deal-proximity signal. US and UK markets closed (Memorial Day + Spring Bank Holiday). S2 ↑51% (+1pp), S3 ↓30% (−1pp). (CNN, CBS, NPR, ABC, The Hill, Businessupturn.com — May 25, 2026)
 - **Eurozone PMI flash (May 21)** — S&P Global Flash Composite PMI 47.5 (31-month low); Services 46.4 (Feb 2021 low); France 43.5 (COVID-lockdown level); 7th consecutive month of input cost inflation acceleration; sharpest European recession signal of the war; structural war-attributable European contraction now quantified
 - **US boards Iranian-flagged tanker in Gulf of Oman (May 20)** — active blockade enforcement counter-narrative to IRGC same-day transit claim; two competing maritime authority claims simultaneously asserted; sets precedent for direct enforcement-vs-claim cycle heading into window expiry
 - **Senate bill advancing — Cassidy flip (May 20)** — third GOP defection on war termination (after Collins and Paul May 1); first post-primary-loss flip; legislative pressure on Trump building; veto-proof threshold not yet reached
@@ -121,10 +122,11 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ---
 
-## Daily Log (May 17 – May 24)
+## Daily Log (May 17 – May 25)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| May 25 | DEAL SLIPS TO "WORK IN PROGRESS" — Sunday announcement missed. Rubio (Monday, New Delhi): "still a work in progress." Iranian FM: "reached a conclusion on a large part of the issues" but finalization not "imminent." Senior US official: "a few more days." Trump: "time is on our side." "NO DUST, NO DOLLARS" proportional Hormuz-to-blockade framework confirmed (CBS News). HEU SEMANTIC GAP: US says Iran agreed to "discuss surrendering" HEU; Iranian source denied "handover." GOP HAWKS REVOLT: Graham/Wicker/Cruz call deal a "disaster"; Trump: "don't listen to the losers." BRENT BELOW $100: Fell ~6% on Memorial Day thin-liquidity futures ($94.22–$99.59; prev close $100.21) — war's clearest single-session deal-proximity signal. US AND UK MARKETS CLOSED (Memorial Day + Spring Bank Holiday). Iran NCRI May 25: Gross fixed capital formation −4.3%; protests in Shush (pensioners), Kermanshah (bakers), Khorramabad (students, dispersed with tear gas); dairy +20% June 1; internet blackout Day 87 (2,016+ hours). IISS quadrilateral confirmed: Egypt-Pakistan-Saudi-Turkey. PIIE: China (wants resolution) and Russia (benefits from continuation) diverging quietly. | S2 ↑51% (+1pp), S3 ↓30% (−1pp) | ~$94–99 (Memorial Day; down ~6%; first below $100 since early April) | 16.70 (Friday close; markets closed Monday) |
 | May 24 | TRUMP: DEAL "LARGELY NEGOTIATED" — Phase 1 Hormuz reopening + US sanctions waivers + naval blockade lifted; Phase 2 = 30–60-day HEU/nuclear negotiations. Ghalibaf (pragmatist track) approved draft — most significant Iranian domestic shift since Vahidi dominance asserted April 26. Trump "50-50" + "decision by Sunday." Washington Times: announcement within 24 hours. Times of Israel: Trump privately assured Netanyahu final deal = nuclear dismantlement + all HEU removed (Phase 2 end-state). UK PM Starmer endorses. Brent rose to $106 intraday. Markets closed (Sunday); Hormuz 2 vessels (2% baseline). Internet blackout Day 86 (2,100+ hours). | S2 ↑50% (+8pp), S3 ↓31% (−11pp), S4 ↓8% (−1pp), S5 ↓27% (−1pp) | ~$103–106 (Sunday futures rose to $106 intraday; Friday close $103.54) | 16.70 (Friday close; markets closed Sunday) |
 | May 23 | TULSI GABBARD RESIGNS AS DNI (effective June 30) — husband Abraham Williams diagnosed with rare bone cancer; acting DNI Aaron Lukas; 4th Trump Cabinet member to resign; intelligence leadership vacuum during active "all ready to go" strike posture. HOUSE GOP PULLS IRAN WAR POWERS VOTE — near-passage (Dems + 4 GOP crossovers); mandatory floor vote in June when Congress returns from Memorial Day recess; most significant congressional constraint since Senate 50-47 May 1. REGIONAL LEADERS PUSH TRUMP FOR MORE TIME — Pakistan, Gulf, Qatari delegation in Tehran; NBC: Tehran signals gaps "reduced"; no framework commitment confirmed yet. IRGC AGAIN CLAIMS 25-VESSEL HORMUZ TRANSIT (⚠️ second information operation in 3 days). IISS: Egypt-Pakistan-Saudi-Turkey "new Middle Eastern quadrilateral" forming. Markets closed (Saturday); internet blackout Day 85 (2,000+ hours). | S2 ↑42% (+1pp), S3 ↓42% (−1pp) — TIED | ~$103–105 (Friday close; markets closed Saturday) | 16.70 (Friday close; ⚠️ EXTREME MISPRICE) |
 | May 22 | KHAMENEI WRITTEN DECREE BANNING HEU EXPORT "UNDER ANY CIRCUMSTANCES" (Reuters) — most structurally significant nuclear hardline of the conflict; irrevocable constitutional constraint within Iranian system; forecloses core US demand; Gold fell $9 to $4,530. PAKISTAN ARMY CHIEF MUNIR TO TEHRAN WITH DRAFT FINAL AGREEMENT — highest-level Pakistani mediation engagement; first military principal physically delivering draft inside Iran; gaps "narrowing." TRUMP "BORDERLINE / ALL READY TO GO" — most explicit military ultimatum framing of war. US INTEL: Iran military-industrial reconstruction faster than expected (CNN). POWER OF SIBERIA 2 pipeline (Russia→China) commercially accelerated by Iran war (Bloomberg May 19 / Putin-Xi summit). Internet blackout Day 84 (2,000+ hours). | S3 ↑43% (+1pp back to plurality), S2 ↓41% (−1pp) | $104.52 (+1.89% on Munir visit; down from ~$107 range after Khamenei decree) | 16.76 (−3.90%, ⚠️ EXTREME MISPRICE) |
@@ -136,44 +138,45 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ---
 
-## Yesterday — Full Detail (May 24, Day 86)
+## Yesterday — Full Detail (May 25, Day 87)
 
-**Overall situation:** Day 86 / Week 13. Sunday — markets closed, no kinetic action. The defining event is the most consequential diplomatic development of the entire war: Trump declared a deal is "largely negotiated" and said he will have a decision by Sunday. The two-phase framework (Phase 1 = Hormuz reopening + sanctions relief; Phase 2 = HEU/nuclear talks in 30–60 days) was approved by top negotiators on both sides — critically including Ghalibaf from Iran's pragmatist track, whose faction had been sidelined by IRGC hardliner Vahidi since April 26. Trump told Axios "50-50" on Sunday announcement. The Washington Times reported a draft was agreed to Saturday morning with announcement within 24 hours. Times of Israel: Trump privately told Netanyahu the final deal's Phase 2 end-state will include nuclear dismantlement and all HEU removed from Iran — the Israeli assurance that appears to have unlocked Netanyahu's tacit consent to Phase 1 signing. UK PM Starmer endorsed the deal structure. Brent rose to $106 intraday on deal optimism. The binary for the coming hours is whether Sunday's announcement occurs or the deal collapses, and whether the IRGC Vahidi track challenges Ghalibaf's approval before it can be ratified.
+**Overall situation:** Day 87 / Week 13. Memorial Day — US and UK markets closed. The Sunday announcement Trump promised did not materialize. Rubio (Monday, New Delhi): deal "still a work in progress." Iranian FM Baghaei: "reached a conclusion on a large part of the issues" but finalization not "imminent." Senior US official: "a few more days." Trump: "time is on our side." The deal is not dead — both sides confirmed directional progress without walking away — but the timeline slipped roughly 72–96 hours from Trump's Saturday forecast. The most decisive development was the oil market: Brent fell roughly 6% on thin Memorial Day futures trading to below $100/bbl ($94.22–$99.59 range, previous close $100.21) — the war's clearest single-session deal-proximity signal since Project Freedom crashed WTI 8% on May 3. A new domestic US political complication emerged: GOP hawks (Graham, Wicker, Cruz) called the emerging 60-day framework a "disaster" and said it would make Operation Epic Fury "for naught." Trump dismissed them as "losers who know nothing about something not even fully negotiated yet." The structural deal-collapse mechanism sharpened: a US source said Iran agreed to "discuss surrendering" its HEU stockpile in Phase 2; an Iranian source denied any agreement to "hand over" it. Khamenei's written HEU export decree remains legally in force.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
 | S1: Limited/air campaign baseline | 11% | → unchanged |
-| S2: Partial Hormuz disruption (ACTIVE) | 50% | ↑ from 42% (+8pp) |
-| S3: Regional war / full proxy activation | 31% | ↓ from 42% (−11pp) |
-| S4: Nuclear dimension | 8% | ↓ from 9% (−1pp) |
-| S5: Great power entanglement | 27% | ↓ from 28% (−1pp) |
+| S2: Partial Hormuz disruption (ACTIVE) | 51% | ↑ from 50% (+1pp) |
+| S3: Regional war / full proxy activation | 30% | ↓ from 31% (−1pp) |
+| S4: Nuclear dimension | 8% | → unchanged |
+| S5: Great power entanglement | 27% | → unchanged |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | ~$103–106 (Sunday futures rose to $106 intraday; Friday close $103.54) | 🔴 HIGH |
-| WTI crude | ~$97–101/bbl (estimated from Brent spread) | 🔴 HIGH |
-| US gas price | ~$4.47–4.50/gal | 🔴 EXTREME |
-| Hormuz transits | 2 vessels (2% of 95/day pre-war baseline); "Persian Gulf Strait Authority" standing; Phase 1 deal = mine clearing required before physical reopening (6–10 weeks post-signing) | 🔴 EXTREME |
-| War-risk insurance | ~8× pre-war; 6 P&I clubs withdrawn; 1,550 vessels stranded; 22,500 mariners trapped; $10–14M/VLCC voyage; Lloyd's JWC designation won't lift until mine-clearing certified | 🔴 EXTREME |
-| VIX | 16.70 (Friday close; markets closed Sunday; deal confirmation = validates complacency; deal collapse = spike to 22–30+) | 🟡 ELEVATED |
-| USD DXY | 99.32 (Friday close; non-trading Sunday; deal confirmation = structural DXY pullback) | 🟡 ELEVATED |
-| Gold | ~$4,509 (Sunday; deal proximity compressing safe-haven bid; deal collapse = sharp reversal to $4,700+) | 🔴 HIGH |
+| Brent crude | ~$94–99/bbl (Memorial Day thin-liquidity futures; range $94.22–$99.59; down ~6%; first below $100 since early April) | 🟡 ELEVATED (deal signal) |
+| WTI crude | ~$89–93/bbl (estimated from Brent spread) | 🟡 ELEVATED |
+| US gas price | ~$4.56/gal (AAA; highest since 2022) | 🔴 EXTREME |
+| Hormuz transits | ~2 vessels (2%); "no dust, no dollars" proportional framework confirmed; mine clearing = 6–10 weeks post-signing minimum | 🔴 EXTREME |
+| War-risk insurance | ~8× pre-war; JWC full Persian Gulf designation; won't lift until mine-clearing certified | 🔴 EXTREME |
+| VIX | 16.70 (Friday close; US markets closed Monday) | 🟡 ELEVATED (⚠️ extreme misprice if deal collapses) |
+| USD DXY | 99.32 (Friday close; deal confirmation = structural pullback) | 🟡 ELEVATED |
+| Gold | ~$4,509 (last available; deal proximity compressing bid; deal collapse = reversal to $4,700+) | 🔴 HIGH |
 
 **Key developments:**
-- **TRUMP: DEAL "LARGELY NEGOTIATED"**: Two-phase structure confirmed: Phase 1 = Iran clears mines + reopens Hormuz (no tolls) + US lifts naval blockade + oil sanctions waivers. Phase 2 = 30–60 days on HEU stockpile and enrichment moratorium terms. All top negotiators approved. Announcement expected Sunday afternoon. Trump "50-50." (Axios May 24, 2026)
-- **GHALIBAF PRAGMATIST TRACK APPROVES DRAFT**: Most significant Iranian domestic balance shift since Vahidi hardliner asserted dominance in late April; if IRGC challenges before SNSC ratification, deal collapses. (Axios May 24, 2026)
-- **TRUMP-NETANYAHU CALL "VERY WELL" + TIMES OF ISRAEL NUCLEAR ASSURANCE**: Trump privately told Netanyahu final deal Phase 2 end-state = nuclear dismantlement + all HEU removed. Israeli tacit consent to Phase 1 conditionally secured. (Times of Israel May 24, 2026)
-- **UK PM STARMER ENDORSES**: Any deal must include "unrestricted freedom of navigation." First major NATO ally endorsement. (May 24, 2026)
-- **BRENT RISES TO $106 INTRADAY**: Sunday futures reflecting deal optimism from $103.54 Friday close.
+- **DEAL SLIPPAGE — "WORK IN PROGRESS," NOT IMMINENT**: Rubio (Monday): "still a work in progress." Iranian FM: "reached a conclusion on a large part of the issues" but finalization not "imminent." Senior US official: "a few more days." Trump: "time is on our side." Deal alive; timeline slipped. (CNN, CBS, NPR, ABC — May 25, 2026)
+- **"NO DUST, NO DOLLARS" PROPORTIONAL FRAMEWORK CONFIRMED**: Hormuz reopening and blockade relief are proportionally linked — mine clearing must happen before blockade loosens, step by step. Prevents information-warfare claim of Hormuz reopening without physical execution. (CBS News May 25, 2026)
+- **HEU SEMANTIC GAP SHARPENS**: US source: Iran agreed to "discuss surrendering" HEU. Iranian source: denied agreeing to "hand over" the stockpile. Khamenei's written decree banning HEU export "under any circumstances" (May 21–22) still legally in force. This is the deal's primary collapse mechanism. (Axios, HotAir — May 24–25, 2026)
+- **GOP HAWKS REVOLT**: Graham ("fundamental shift in Iran's favor"), Wicker ("disaster," "for naught"), Cruz, Pompeo, Bolton all critical. Trump: "don't listen to the losers." Hawks' quotes will circulate in Persian-language media as validation of Iran's narrative that US blinked. (The Hill, Fortune, PBS — May 24–25, 2026)
+- **BRENT BELOW $100 — DEAL-PROXIMITY SIGNAL**: Brent fell ~6% to $94–99 on Memorial Day thin-liquidity futures. First below $100 since early-to-mid April. War's largest single-session drop since Project Freedom crashed WTI 8% on May 3. (Businessupturn.com, May 25, 2026)
+- **IRAN UNVERIFIED DRONE CLAIM (May 24) ⚠️**: Iran claimed it shot down an Israeli surveillance drone; IDF "not familiar with incident." Possible IRGC information operation to signal capability and complicate Ghalibaf's domestic ratification window.
 
 **Watch:**
-- **Sunday deal announcement (most immediate binary)**: Signed = S2 surges, oil drops $15–25, VIX drops; Collapsed = S3 re-authorization near-certain within 24–48 hours
-- **Khamenei SNSC ratification of Ghalibaf approval**: IRGC/Vahidi dissent before Sunday = deal collapses
-- **Israel Netanyahu formal response**: Silence or endorsement = deal proceeds; public objection = US faces pressure to delay
-- **Phase 1 mine-clearing timeline**: CENTCOM confirmation of 6–10 week operation required for markets to fully price Hormuz reopening
-- **Phase 2 negotiating calendar**: Watch who represents Iran — Araghchi (durable) vs. IRGC figure (fragile)
+- **MOU signed or collapsed (48–96 hours)**: Deal alive but HEU semantic gap is live collapse mechanism. Signed = oil another $10–20 lower from below $100, VIX to low teens, mine-clearing begins. Collapsed = S3 re-authorization, Brent +$15–20 from below $100 floor, VIX spike to 22–30+.
+- **HEU language in MOU text**: Watch for any official Iranian statement bridging or hardening the "discuss disposal" vs. "hand over" gap.
+- **IRGC/Vahidi dissent signal**: Silence = tacit Ghalibaf ratification. Any IRGC military action = deal collapses. The unverified drone claim may be a Path C probing signal.
+- **Netanyahu formal response**: Conditional silence = deal proceeds. Public objection = delay pressure. Phase 2 HEU language is Israel's trip wire.
+- **Phase 1 mine-clearing timeline**: Oil stays partially elevated until CENTCOM mine-clearing certification — 6–10 weeks post-signing minimum.
 
 ---
 
