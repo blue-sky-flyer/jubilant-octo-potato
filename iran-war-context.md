@@ -104,6 +104,7 @@ Key structural facts that persist:
 - **US April inflation: wholesale fastest since 2022; Fed rate hike now being priced for December (May 15)** — First session of the conflict where a Fed rate hike (not merely "no cut") enters futures pricing. DXY climbed to 99.05. Structural stagflation deepens: $106+ Brent + fastest wholesale inflation since 2022 = monetary policy trapped between inflation control and recession avoidance.
 - **Trump expects Iran MOU response "tonight"; threatens "Project Freedom Plus" (May 9)** — "We may go back to Project Freedom if things don't happen, but it'd be Project Freedom plus, meaning Project Freedom plus other things"; T-5 to May 14 triple convergence (formal talks + Lebanon ceasefire expiry + Trump-Xi summit); Iran formal MOU response pending; IDF struck 85+ Hezbollah sites in 24 hrs
 
+- **TENTATIVE 60-DAY DEAL REACHED — PRINCIPALS NOT YET APPROVED (May 28–29)** — US and Iranian negotiators reached draft text for 60-day ceasefire extension + gradual synchronized Hormuz reopening + Phase 2 nuclear negotiations launch. Both Trump and Khamenei approvals pending; Vance: "not there yet" but "president will be in a position to endorse." US Treasury simultaneously sanctioned Iran's PGSA and warned Oman against toll facilitation; Oman confirmed compliance. IRGC fired warning shots at 4 vessels attempting unauthorized Hormuz transit — Path C enforcement of PGSA regime concurrent with deal finalization. VIX fell to 15.74 (conflict low). (Axios, CNN, ABC News, Al Jazeera — May 28–29, 2026)
 ---
 
 ## Weekly Summaries
@@ -131,10 +132,11 @@ The week of hardened positions, maximum S3 pricing, and escalating US-Iran brink
 
 ---
 
-## Daily Log (May 24 – May 28)
+## Daily Log (May 24 – May 29)
 
 | Date | Key Development | Scenario Shift | Brent | VIX |
 |------|----------------|----------------|-------|-----|
+| May 29 | TENTATIVE 60-DAY DEAL REACHED — PRINCIPALS NOT YET APPROVED: US and Iranian negotiators reached draft 60-day ceasefire extension + synchronized gradual Hormuz reopening; Vance: "president will be in a position to endorse, but TBD"; both Trump and Khamenei approvals pending. US TREASURY SANCTIONS IRAN'S PGSA + WARNS OMAN: Bessent called PGSA "a joke" and sanctioned it; warned Oman against toll facilitation; Oman confirmed "no plans" — Iran-Oman Strait management model dismantled before signing. IRGC FIRES WARNING SHOTS AT 4 VESSELS: 2 stopped, 2 turned back; PressTV claims 26 vessels transited (⚠️ unverified — same May 20 pattern). Brent ~$97 (slight recovery; deal pricing dominant). VIX 15.74 (−3.38%; CONFLICT LOW). DXY 98.99 (−0.03%). Gold ~$4,506 (+~1%). No proxy attacks confirmed. | S2 ↑54% (+3pp), S3 ↓27% (−3pp), S1 ↓10% (−1pp), S4/S5 → | ~$97 (slight recovery; tentative deal dominant; collapse = $110+) | 15.74 (−3.38%; CONFLICT LOW; ⚠️ EXTREME MISPRICE if deal collapses) |
 | May 28 | DOHA DEPARTURE WITHOUT SIGNING — $24B FROZEN ASSETS DEADLOCK: Ghalibaf + Araghchi + Hemmati returned to Tehran without signing any MOU; $24B frozen assets sequencing dispute is the central structural block ($12B at signing + $12B during 60-day window; US: assets after Hormuz opens); no follow-on round scheduled. IRAN STATE TV "DRAFT DEAL" LEAK (May 27) — described "unofficial draft framework" (Hormuz within 1 month, blockade lifted, Iran-Oman Strait management); White House immediately denied; caused Brent to fall below $95 intraday (largest sell-off since Project Freedom) before recovery to ~$96. TRUMP "WON'T RUSH" — Cabinet May 27; "time is on our side"; blockade "in full force until signed and certified." IRAQ OVERLAND ROUTE: al-Waleed → Syria's Baniyas port operational — first confirmed active Iraqi crude export bypass of Hormuz. Brent ~$96 (4th+ consecutive below $100). Gold ~$4,404 (−~2%, lowest in ~2 months). VIX 16.74 (+2.76%). DXY 99.30 (+0.10%). No proxy attacks. | S2 ↓51% (−2pp), S3 ↑30% (+2pp), S1/S4/S5 → | ~$96 (intraday dip below $95 on state TV; partial recovery; 4th+ below-$100 session) | 16.74 (+2.76%; ⚠️ EXTREME MISPRICE) |
 | May 27 | IRAN PARTIALLY LIFTS 88-DAY INTERNET BLACKOUT — President Pezeshkian ordered May 25; NetBlocks confirmed restoration May 26–27; access <10% of pre-shutdown levels; social media blocked; WhatsApp restricted; more extensive filtering than pre-war; longest nationwide internet shutdown in modern history ended as de facto CBM before deal announcement. RUBIO: "COULD TAKE A FEW DAYS" — 14-point MOU framework confirmed (60-day ceasefire + Phase 2 nuclear negotiations); Doha talks Day 3+ (Ghalibaf + Araghchi + Hemmati). IRAN CALLS US STRIKES "GROSS VIOLATION" — standard Path C; no kinetic follow-through. BRENT $99.18 (−0.41%) — below $100 third consecutive session. VIX 17.01, DXY 99.10, Gold ~$4,493. CNBC economists: post-deal inflation "wider, deeper, more persistent." No proxy attacks confirmed. | S2 ↑53% (+1pp), S3 ↓28% (−1pp), S1/S4/S5 → | $99.18 (−0.41%; below $100 day 3; deal pricing dominant) | 17.01 (⚠️ EXTREME MISPRICE if deal collapses) |
 | May 26 | US SELF-DEFENSE STRIKES: CENTCOM hit Iranian missile launch sites + mine-laying boats near Bandar Abbas; 4 IRGC killed. IRGC CLAIMS MQ-9 DOWNED + F-35/RQ-4 FIRED UPON (CENTCOM did not confirm — Path C information operation). DOHA DELEGATION: Ghalibaf + Araghchi + Hemmati ALL in Qatar simultaneously — most advanced diplomatic deployment of conflict; all Phase 1 dimensions being negotiated. Munir told Beijing "close to being reached." TRUMP "PROCEEDING NICELY" + ABRAHAM ACCORDS DEMAND: demanded Saudi/Qatar/Pakistan/Turkey/Egypt/Jordan join "en masse"; leaders "stunned"; Pakistan immediately rejected; Saudis require Palestinian statehood roadmap. RUBIO: Strait "will reopen" + Phase 2 is "time-limited nuclear negotiation." BRENT $98.11 (+0.89%, market reopen after Memorial Day) — deal pricing dominant over kinetic activity. VIX ~16.59–16.70. Gold ~$4,529. Internet blackout Day 88 (2,100+ hours). | S2 ↑52% (+1pp), S3 ↓29% (−1pp), S1/S4/S5 → | $98.11 (+0.89%, market reopen; deal pricing dominant over kinetic activity) | ~16.59–16.70 (⚠️ EXTREME MISPRICE) |
@@ -145,43 +147,42 @@ The week that ran from peak strike-preparation to peak deal-proximity signals. M
 
 ---
 
-## Yesterday — Full Detail (May 28, Day 90)
+## Yesterday — Full Detail (May 29, Day 91)
 
-**Overall situation:** Day 90 / Week 13. Two developments define today's landscape: Iran's senior Doha delegation — Ghalibaf, Araghchi, and Hemmati — departed Qatar without signing any agreement, ending the most advanced diplomatic engagement of the conflict without a document; and Iran's state television on May 27 leaked what it called an "unofficial draft framework" claiming Hormuz would be restored within one month and the US naval blockade would be lifted, terms the White House immediately denied. These two events together — a departure without signature and a narrative-seeding leak — are characteristic of Iran's dual-track architecture. Brent fell below $95 intraday on the state TV report before recovering to approximately $96/bbl. The structural block is now explicitly the $24 billion frozen assets sequencing dispute: Iran demands $12 billion at MOU signing plus $12 billion during the subsequent 60-day window; the US insists assets are released only after Hormuz physically reopens and is certified. Trump at a May 27 Cabinet meeting said he "won't rush" — extending the timeline, not compressing it. No follow-on round is scheduled as of May 28.
+**Overall situation:** Day 91 / Week 13. The conflict entered the most consequential 24–72 hours since it began: US and Iranian negotiators reached a draft 60-day ceasefire extension and gradual synchronized Hormuz reopening agreement, but both principals — Trump and Supreme Leader Mojtaba Khamenei — have not yet given final approval. Vance told reporters the president "will be in a position where he can endorse the agreement, but obviously that's still TBD." The VIX fell to 15.74 — the lowest reading of the conflict — confirming markets are pricing near-term deal completion as the dominant scenario. Simultaneously, the IRGC fired warning shots at four vessels attempting to pass Hormuz "without prior coordination," stopping two and turning back two, demonstrating that Iran's military apparatus is enforcing its claimed maritime regime right up to the principal-approval window. US Treasury Secretary Bessent sanctioned Iran's Persian Gulf Strait Authority ("a joke"), warned Oman explicitly against toll facilitation, and Oman confirmed compliance — effectively dismantling the Iran-Oman Strait co-management model before any deal is signed.
 
 **Scenario probabilities:**
 | Scenario | Prob | Change |
 |----------|------|--------|
-| S1: Limited/air campaign baseline | 11% | → unchanged |
-| S2: Partial Hormuz disruption (ACTIVE) | 51% | ↓ from 53% (−2pp) |
-| S3: Regional war / full proxy activation | 30% | ↑ from 28% (+2pp) |
+| S1: Limited/air campaign baseline | 10% | ↓ from 11% (−1pp) |
+| S2: Partial Hormuz disruption (ACTIVE) | 54% | ↑ from 51% (+3pp) |
+| S3: Regional war / full proxy activation | 27% | ↓ from 30% (−3pp) |
 | S4: Nuclear dimension | 8% | → unchanged |
 | S5: Great power entanglement | 27% | → unchanged |
 
 **Key indicators:**
 | Indicator | Value | Alert |
 |-----------|-------|-------|
-| Brent crude | ~$96/bbl (May 28; intraday dip below $95 on Iran state TV report; partial recovery; 4th+ consecutive below $100) | 🟡 ELEVATED (deal proximity still partially priced) |
-| WTI crude | ~$89–92/bbl (estimated from Brent spread) | 🟡 ELEVATED |
-| US gas price | ~$4.56/gal (AAA; highest since 2022; no structural relief until mine-clearing certified) | 🔴 EXTREME |
-| Hormuz transits | ~2–4 vessels; near-zero commercial; "Persian Gulf Strait Authority" standing; no next round scheduled | 🔴 EXTREME |
+| Brent crude | ~$97/bbl (May 29; slight recovery; tentative deal pricing dominant; collapse = sharp reversal to $110+) | 🟡 ELEVATED (deal proximity; collapse risk tail) |
+| WTI crude | ~$89–90/bbl (estimated from Brent spread) | 🟡 ELEVATED |
+| US gas price | ~$4.56/gal (AAA; highest since 2022; mine-clearing 6–10 weeks post-signing minimum) | 🔴 EXTREME |
+| Hormuz transits | ~2–4 vessels; IRGC fired warning shots at 4 vessels May 28–29; PGSA sanctioned by US Treasury | 🔴 EXTREME |
 | War-risk insurance | ~8–10× pre-war; JWC full Persian Gulf designation; normalization lags political announcement 6–10 weeks | 🔴 EXTREME |
-| VIX | 16.74 (+2.76%, May 28; slight uptick on Doha departure) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE if deal collapses) |
-| USD DXY | 99.30 (+0.10%, May 28; slight flight-to-safety) | 🟡 ELEVATED |
-| Gold | ~$4,404 (May 28; −~2%; lowest in ~2 months; deal proximity still partially priced) | 🔴 HIGH |
+| VIX | 15.74 (−3.38%, May 29; CONFLICT LOW; deal proximity dominant) | 🟡 ELEVATED (⚠️ EXTREME MISPRICE if deal collapses) |
+| USD DXY | 98.99 (−0.03%, May 29; slight softening on deal-proximity) | 🟡 ELEVATED |
+| Gold | ~$4,506–4,527 (May 29; +~1% recovering from May 28 $4,404 lows) | 🔴 HIGH |
 
 **Key developments:**
-- **IRAN STATE TV "DRAFT DEAL" LEAK — WHITE HOUSE DENIED**: Iran's state TV May 27 described "unofficial draft framework": Hormuz restored within one month, US naval blockade lifted, Iran-Oman joint Strait management. White House immediately denied. Caused largest intraday Brent sell-off since Project Freedom (below $95 before recovering to ~$96). Classic dual-audience information operation — moves energy markets while curating domestic narrative via partially-restored internet. (Bloomberg, Iran International, Business Standard — May 27, 2026)
-- **DOHA DELEGATION DEPARTS WITHOUT SIGNING — $24B SEQUENCING DEADLOCK**: Ghalibaf, Araghchi, and Hemmati returned to Tehran without signing any MOU. Central block: Iran demands $24B in frozen assets as precondition ($12B at signing + $12B during 60-day window); US insists assets transfer only after Hormuz physically reopens. No follow-on round scheduled. (House of Saud, The National, NBC News — May 26–28, 2026)
-- **TRUMP "WON'T RUSH" — BLOCKADE "IN FULL FORCE UNTIL SIGNED AND CERTIFIED"**: May 27 Cabinet meeting; "time is on our side." Posture shift from urgency (May 22 "borderline") to extended patience. (CNN, PBS, Bloomberg — May 27, 2026)
-- **IRAQ AL-WALEED → BANIYAS OVERLAND ROUTE CONFIRMED**: Iraqi crude now transiting via al-Waleed border crossing to Syria's Mediterranean port of Baniyas — first confirmed active Iraqi crude export bypass of Hormuz. Structural Gulf diversification independent of deal timeline.
+- **TENTATIVE 60-DAY DEAL REACHED — PRINCIPALS NOT YET APPROVED**: US and Iranian negotiators reached a draft agreement: 60-day ceasefire extension + gradual synchronized Hormuz reopening (Iran loosens grip, US pulls back blockade in parallel steps) + Phase 2 nuclear negotiations launch. Vance confirmed the president "will be in a position to endorse" but "that's still TBD." Both Trump and Khamenei have not approved. (Axios, CNN, ABC News — May 28, 2026)
+- **US TREASURY SANCTIONS IRAN'S PERSIAN GULF STRAIT AUTHORITY + WARNS OMAN**: Bessent sanctioned the PGSA directly ("it's a joke") and warned Oman that any actor facilitating Hormuz tolls will face US Treasury sanctions. Oman confirmed it has "no plans" to participate in Iran's tolling scheme — the Iran-Oman joint Strait management model is dismantled before deal signing. (Al Jazeera, The National, gCaptain — May 28, 2026)
+- **IRGC FIRES WARNING SHOTS AT 4 VESSELS**: Fired on vessels attempting Hormuz passage "without prior coordination." 2 stopped; 2 turned back. PressTV simultaneously claimed 26 vessels transited "safely" — ⚠️ unverified, same May 20 information operation pattern. Parallel IRGC enforcement of PGSA regime while diplomats negotiate its dismantlement = textbook Path C during deal-signing window. (Mehr News, CNN — May 28–29, 2026)
 
 **Watch:**
-- **Next negotiating round — venue and date**: No Round 5 scheduled. If no announcement within 3–5 days, S3 escalation risk increases materially.
-- **$24B sequencing bridge**: Watch for third-party escrow proposal (Qatar holds funds, releases on CENTCOM mine-clearing certification) — the most plausible structural bridge.
-- **IRGC Vahidi kinetic signal in post-Doha window**: With Araghchi diplomatic track temporarily de-activated, watch for mine-laying acceleration, vessel seizures, or proxy escalation.
-- **Iran state TV draft terms in formal US position**: Watch whether any leaked term (Iran-Oman joint management; UN Security Council ratification option) appears in subsequent US negotiating signals.
-- **House war powers mandatory floor vote (June)**: Four GOP crossovers confirmed; mandatory when Congress returns. Extended Doha failure makes this vote more consequential.
+- **Trump formal approval**: No public statement from Trump as of this update. Vance signal is positive but conditional. Watch for Truth Social post or press briefing.
+- **Khamenei approval**: More uncertain than Trump. IRGC Vahidi was not part of the negotiating delegation. Watch for any IRGC statement on the deal text.
+- **$24B sequencing in draft text**: Whether the Doha blocking issue was resolved or deferred in the draft is not publicly disclosed. Watch for any statement on sequencing terms.
+- **PGSA sanctions as pre-signing condition**: Watch whether Iran objects to the PGSA sanctions as a blocking condition before signing.
+- **House war powers mandatory floor vote (June)**: Deal before June vote = legislative pressure dissipates significantly.
 
 ---
 
