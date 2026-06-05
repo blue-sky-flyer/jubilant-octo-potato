@@ -4,6 +4,30 @@
 
 ---
 
+
+## KNOWN FACTUAL CORRECTIONS — Read before writing any section
+
+### Qatar LNG and force majeure
+QatarEnergy declared **force majeure on ALL LNG export agreements on March 29-30, 2026**. Qatar's full contracted LNG supply is offline. Do NOT write that "Qatar's Cape-route LNG fleet is functional" as if Qatar is actively exporting at scale — it is not. A small number of Qatari LNG tankers that were outside the Gulf at war outbreak may continue on spot/residual cargoes, but this is not meaningful export capacity. The primary Qatar LNG impact is LOSS of supply to Europe and Asia, not rerouting.
+
+### Three chokepoints — geography is critical
+These three chokepoints are **mutually exclusive routes**, not the same route:
+
+- **Hormuz** — controls exit from the Persian Gulf. Primary blockade. Everything inside the Gulf (Qatar LNG at Ras Laffan, Gulf crude) is blocked here first.
+- **Bab el-Mandeb** — controls entry to the Red Sea from the Arabian Sea, between Yemen and Djibouti. This is already Houthi-threatened. Activating it closes the Red Sea/Suez Canal route.
+- **Cape of Good Hope route** — goes around the southern tip of Africa, bypassing the Red Sea entirely. Ships take this route specifically to AVOID Bab el-Mandeb. Ships on Cape route do NOT pass through Bab el-Mandeb.
+
+**Critical rule:** Bab el-Mandeb and the Cape route are mutually exclusive alternatives. If a ship is on the Cape route, Bab el-Mandeb is irrelevant to it. Never write that Bab el-Mandeb activation "threatens" ships on the Cape route — it does not.
+
+**Never write:** "Bab el-Mandeb activation threatens Qatar's Cape-route LNG fleet" — this is geographically incoherent.
+
+**Correct framing for Bab el-Mandeb activation:** It would close the Red Sea/Suez route for ships coming from Asia and non-Gulf regions that are still using Suez, forcing another wave of vessels onto the longer Cape route, compounding global shipping costs and transit times. It does not affect ships already on Cape route.
+
+**Correct framing for Qatar LNG:** Qatar declared force majeure on all LNG contracts (March 29-30). Its contracted supply is offline. The European energy crisis impact is a SUPPLY LOSS, not a rerouting story.
+
+---
+
+
 ## Conflict Arc
 
 War began February 28, 2026 with coordinated US-Israeli airstrikes on Iran. Khamenei was killed in the initial strikes, disrupting nuclear command. The Strait of Hormuz closed almost immediately, driving Brent from ~$72 to $110+ within days. The conflict entered S2 (Partial Hormuz Disruption) as the active scenario by late March.
