@@ -1,1 +1,56 @@
-test
+# Iran War Economic Impact Framework
+*Last updated by daily agent: 2026-07-18*
+
+> **[Full reference — scenario probabilities, indicators, impact catalog, ETF positioning, historical log](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)**
+
+---
+
+## Daily Briefing — 2026-07-18
+
+**Overall situation:** Day 141 / Week 21. Two US service members were killed and one is missing after Iranian ballistic missiles struck Muwaffaq Salti Air Base in Jordan overnight — the first confirmed American combat deaths since March and the most politically forcing event of the war's second phase. Total US service member deaths in the war rises to 16. Iran simultaneously struck Kurdistan in Iraq, opening a new geographic front. CENTCOM launched its 7th consecutive night of strikes. An adviser to Iran's supreme leader warned that a few more days of US strikes would trigger "full-scale offensive operations." Brent at ~$87 — up 14% on the week, the sharpest weekly gain since the war began.
+
+**Key developments:**
+- **TWO US SERVICE MEMBERS KILLED, ONE MISSING AT MUWAFFAQ SALTI AIR BASE, JORDAN** ([CNN](https://www.cnn.com/2026/07/18/politics/iran-war-us-service-members-killed-jordan) / [Axios](https://www.axios.com/2026/07/18/iran-jordan-us-deaths-military-two-dead) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-18/us-military-says-two-service-members-killed-in-action-in-jordan), July 18): Iranian ballistic missiles and drones struck Muwaffaq Salti Air Base in Jordan, killing 2 US service members and leaving 1 missing in action; 4 additional troops were medically evacuated and have since been discharged. CENTCOM will withhold identities pending next-of-kin notification. This is the first US combat death since March and raises the war's total US fatality count to 16. Muwaffaq Salti hosts US troops and fighter jets actively involved in the Iran campaign — it is an operational base, not a logistics hub, which limits Iran's civilian-targeting counter-narrative.
+- **IRAN ADVISER THREATENS "FULL-SCALE OFFENSIVE OPERATIONS"** ([CBS News](https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz/) / [GlobalSecurity](https://www.globalsecurity.org/military/ops/iran-war-oprep.htm), July 18): An adviser to Iran's supreme leader stated: "If U.S. strikes continue for several more days, we will move into a phase of full-scale offensive operations." This is the first explicit Iranian threat to escalate from the current tit-for-tat exchange to a coordinated offensive campaign — a qualitatively different threat level that encompasses potential simultaneous strikes across all Gulf state bases, Hormuz mining, and attacks on Israel.
+- **IRAN STRIKES KURDISTAN REGION OF IRAQ — NEW GEOGRAPHIC FRONT** ([GlobalSecurity](https://www.globalsecurity.org/military/ops/iran-war-oprep.htm) / [CNN](https://www.cnn.com/2026/07/18/world/live-news/iran-war-trump), July 18): Iran killed at least 8 people in strikes on US-aligned Kurdish forces in Iraq. Kurdistan Region President Nechirvan Barzani condemned the strikes. This is the first confirmed Iranian strike on Iraqi Kurdistan in the war's second phase, expanding the active conflict zone to a 5th country (after Jordan, Kuwait, Bahrain, UAE/Oman). Iraq's federal government now faces pressure to formally protest Iranian violations of Iraqi sovereignty.
+- **BRENT AT ~$87 — UP 14% ON THE WEEK** ([NBC News](https://www.nbcnews.com/business/energy/oil-prices-us-iran-strikes-blockade-rcna587432) / [Al Jazeera](https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook), July 18): Brent extended gains above $87 — the sharpest weekly rise since the war began. The 14% weekly gain reflects cumulative pricing of: IRGC formal Hormuz closure, 7 nights of CENTCOM strikes, infrastructure targeting, UAE tanker strikes, and now US military deaths. The US death toll crossing 16 will add a political risk premium the market has not yet fully priced.
+- **CEASEFIRE TRACK DECLARED MORIBUND — MOU AT HALFWAY POINT WITH NO PROGRESS** ([Bloomberg](https://www.bloomberg.com/news/articles/2026-07-17/sixth-day-of-us-iran-counterattacks-puts-ceasefire-out-of-reach) / [CNN](https://edition.cnn.com/2026/07/17/world/live-news/iran-war-trump), July 17-18): July 17 marked the halfway point of the June 17 MOU's 60-day negotiation window. Iran's foreign ministry says it has "no current plans for negotiations." Regional diplomats describe the mood as pessimistic. UN Secretary-General Guterres called for "urgent resumption of negotiations." China and Pakistan issued a joint ceasefire call July 17 — the only major-power diplomatic initiative in 10 days.
+
+**On the Ground in Iran:** The 7th consecutive night of CENTCOM strikes, combined with the infrastructure campaign targeting Bandar Abbas bridges and power infrastructure, is creating documented civilian hardship in southern Iran. Iran's Energy Ministry is calling for power conservation in southern provinces. The adviser's "full-scale offensive operations" threat suggests internal pressure from hardliners to escalate rather than negotiate. ⚠️ Domestic protest data not verified for July 18; economic pressure is mounting.
+
+**Gulf States Adaptation:** The Jordan deaths change the political calculus for Gulf states hosting US forces: bases at Al Udeid (Qatar), Ali Al Salem (Kuwait), and 5th Fleet HQ (Bahrain) are all active targets. The calculus for each Gulf state is now whether continued US basing provides more security than it risks. No Gulf state has publicly asked the US to leave, but the private pressure will intensify. Saudi east-west pipeline and UAE Habshan-Fujairah pipeline remain operational; Hormuz at ~3 transits/day per yesterday's data.
+
+**Market Signals:** Brent ~$87 ([NBC News](https://www.nbcnews.com/business/energy/oil-prices-us-iran-strikes-blockade-rcna587432)) — the US troop deaths add a political escalation premium the current price doesn't fully reflect. If Trump responds with a major escalation package (consistent with his pattern after the March troop deaths), Brent could spike toward $95-100. Gold and VIX likely moving on the death toll news. War-risk insurance for Gulf corridor vessels at maximum: the IRGC has now demonstrated willingness to strike US military bases directly with ballistic missiles, not just commercial shipping.
+
+**Sovereign Debt Stress:** Kurdistan/Iraq strike adds a new dimension — Iraq's federal government faces pressure to formally protest Iranian strikes on Iraqi territory, which could draw Baghdad into the conflict orbit and threaten Iraq's ~4M bbl/day oil production. Egypt and Pakistan at maximum structural stress. Jordan faces direct kinetic exposure with US deaths on its soil.
+
+**Reconstruction Race:** The "full-scale offensive" threat, if executed, would generate a reconstruction bill orders of magnitude larger than the current campaign. China is watching carefully — a full-scale offensive phase followed by collapse would make Iran's reconstruction dependency on Beijing total and permanent. Wang Yi's June 22 pledge is currently the largest reconstruction commitment on the table.
+
+**Information Warfare:** The US troop deaths are a double-edged information warfare moment: Iran gains a "we can hurt the US military" narrative that plays well domestically and with Iran's resistance axis allies; but the US gains a "American blood has been spilled" domestic political mandate that historically forces escalation. Trump's response framing in the next 24 hours will define which narrative dominates. Iran's Kurdistan strikes risk alienating Iraq's Kurds, who are the US's most reliable regional partner — an own-goal if Baghdad-Washington relations are Iran's target.
+
+**Scenario Update:** The first US combat deaths since March, the "full-scale offensive" threat, and the Kurdistan front opening push S4 (Regional War) to dominant probability. Revised: S1 0% / S2 1% / S3 25% / S4 64% / S5 10%. S5 ticks up because "full-scale offensive operations" in Iran's doctrine includes Hezbollah activation, which in turn risks Israeli nuclear-threshold responses. Key next trigger: Trump's response announcement in the next 24 hours — either a major escalation package (forces S4) or a ceasefire overture (forces back to S3).
+
+**Strategic Playbook — What Could Happen Next:**
+*War-gaming only. Not yet in reporting. [Plausible] | [Speculative] | [High-Risk Bet]*
+
+**Iran — Unreported moves to watch for:**
+- **[Military]** Execute the threatened "full-scale offensive" against all Gulf state US bases simultaneously — a coordinated saturation attack designed to overwhelm US THAAD/Patriot defenses rather than the current piecemeal approach. — [Plausible, if "several more days" of strikes continue]
+- **[Diplomatic]** Privately signal to Qatar that the Muwaffaq Salti strike was targeting US aircraft specifically, not Jordanian personnel — offering Jordan a face-saving narrative that keeps Amman from formally joining the US coalition. — [Plausible]
+- **[Military]** Mine the Hormuz approach channels with bottom-laid influence mines deployed from IRGC fishing vessels — the most asymmetric escalation option, as US MCM vessels cannot clear mines faster than Iran can lay them. — [Speculative]
+
+**United States — Unreported moves to watch for:**
+- **[Political]** Trump announces a "major escalation package" within 24 hours of the death notification — consistent with his March response pattern when US troops were previously killed; likely includes strikes on IRGC leadership targets in Tehran. — [Plausible]
+- **[Military]** Deploy additional carrier strike group to the Persian Gulf — a third CSG would give CENTCOM saturation strike capability that could neutralize Iran's remaining missile stockpile in a single extended campaign. — [Plausible]
+- **[Diplomatic]** Request emergency UN Security Council meeting on Iranian attacks on US forces — building a legal record for Article 51 self-defense justification for any escalation against IRGC headquarters in Tehran. — [Plausible]
+
+**Gulf States — Unreported moves to watch for:**
+- **[Diplomatic]** Jordan formally requests Iran explains the Muwaffaq Salti strike via the Omani back-channel — Amman has been the quietest Gulf-adjacent state and may be the surprise diplomatic actor here given US deaths on its soil. — [Speculative]
+- **[Military]** Qatar privately signals to the US that continued basing at Al Udeid requires a ceasefire framework within 72 hours — Qatar has maximum leverage at exactly this moment and will not want to be seen as a passive target. — [Speculative]
+
+**China and Russia — Unreported moves to watch for:**
+- **[Diplomatic]** China escalates from joint statement to emergency UNSC session request — the US deaths give Beijing a window to reframe its ceasefire call as humanitarian intervention before Trump announces a retaliatory escalation. — [Plausible]
+- **[Financial]** Russian and Chinese state oil companies quietly pre-position long positions in Brent futures ahead of any Trump escalation announcement — exploiting the information asymmetry of knowing the US political escalation pressure timeline better than the market. — [Speculative]
+
+---
+
+*[Full reference — scenario probabilities, market indicators, ETF positioning, impact catalog →](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)*
