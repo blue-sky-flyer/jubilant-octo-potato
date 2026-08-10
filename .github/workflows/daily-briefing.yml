@@ -4,7 +4,13 @@ on:
   schedule:
     # 12:37 UTC daily (~5:37am PT) — offset a few minutes off :30 to avoid the cron rush
     - cron: "37 12 * * *"
-  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+  workflow_dispatch:      # manual trigger; optional per-run search-provider override
+    inputs:
+      provider:
+        description: "Search provider override: tavily or serper (blank = default)"
+        required: false
+        default: ""
+        type: string
 
 # Native GITHUB_TOKEN write access — no PAT, no deploy key, no plaintext secret
 permissions:
@@ -36,7 +42,7 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           SERPER_API_KEY:     ${{ secrets.SERPER_API_KEY }}
           TAVILY_API_KEY:     ${{ secrets.TAVILY_API_KEY }}
-          SEARCH_PROVIDER:    ${{ vars.SEARCH_PROVIDER || 'tavily' }}
+          SEARCH_PROVIDER:    ${{ inputs.provider || vars.SEARCH_PROVIDER || 'tavily' }}
         run: python scripts/generate_briefing.py
 
       - name: Commit & push
