@@ -95,6 +95,13 @@ SEARCH_QUERIES = [
     f"Israel Iran strike {MONTH_STR} 2026",
     f"Houthi Yemen missile attack Saudi Arabia Red Sea {TODAY_STR} 2026",
     f"Bab-el-Mandeb strait shipping tanker {MONTH_STR} 2026",
+    # --- siege / endurance data ---
+    f"global oil strategic petroleum reserve SPR OECD IEA stocks level days cover {MONTH_STR} 2026",
+    f"global oil supply demand gap consumption barrels per day shortfall {MONTH_STR} 2026",
+    f"Iran economic collapse inflation rial currency GDP capital flight {MONTH_STR} 2026",
+    f"Iran regime stability protests unrest IRGC succession {MONTH_STR} 2026",
+    f"Iran sabotage assassination cyberattack covert operation {MONTH_STR} 2026",
+    f"Israel Mossad Iran covert action unexplained explosion facility {MONTH_STR} 2026",
 ]
 
 
@@ -286,11 +293,17 @@ CORE_STRUCTURE = f"""# Iran War Economic Impact Framework
 
 **Market Signals:** [Brent, BDTI, gold, VIX, war-risk insurance. Flag prior-day closes.]
 
+**Strategic Reserve Countdown:** [The US endurance ceiling. Net daily drawdown from global strategic reserves = global consumption (~102-103 Mb/d) minus available production + shipments given Hormuz/Bab-el-Mandeb disruption. State current global strategic-reserve level and days-of-cover (US SPR + OECD/IEA stocks), the estimated NET daily drawdown (Mb/d), and a projected **Day 0** date or range when reserves hit a critical shortfall at the current rate. Show the one-line arithmetic and state your assumptions; flag confidence. Frame Day 0 as the maximum threshold of US strategic patience.]
+
 **Sovereign Debt Stress:** [Egypt, Pakistan, Jordan, Turkey. New IMF actions.]
+
+**Iranian State Disintegration Tracker:** [Iran's endurance ceiling. A deeper read on regime survival. Economic collapse indicators with figures (inflation %, rial exchange rate, GDP contraction, capital flight, food/fuel shortages, reserve depletion); political cohesion (protest intensity and geography, IRGC/Basij suppression bandwidth, leadership/succession fractures, elite defection signals). Assess the trajectory toward the state's "next place" — managed attrition vs. internal coup vs. popular collapse vs. territorial fragmentation — and estimated distance to a tipping point. Cite sources; flag what is unverified.]
 
 **Reconstruction Race:** [China/Russia positioning, Wang Yi pledges.]
 
 **Information Warfare:** [Narrative battle today; who is winning and why.]
+
+**Covert Actions Ledger:** [In a siege stalemate both sides act below the overt-war threshold. List each reported OR suspected covert action this cycle — sabotage, assassination, targeted killing, cyberattack, unattributed explosion/strike, infrastructure "accident," proxy action — each with the **likely perpetrator** (US / Israel / Iran / proxy / unknown) and an attribution-confidence tag (Confirmed / Likely / Suspected / Contested). Separate confirmed events from speculation, and note the reasoning behind each attribution. If nothing is reported today, say so explicitly.]
 
 **Scenario Update:** S1 X% / S2 X% / S3 X% / S4 X% / S5 X% - must sum to 100%. Active scenario + key thresholds.
 """
@@ -298,7 +311,19 @@ CORE_STRUCTURE = f"""# Iran War Economic Impact Framework
 CORE_PROMPT = f"""You are the daily agent for a professional Iran-war economic-impact
 newsletter. Write today's briefing ({TODAY_STR}) using ONLY the evidence pack below.
 
+FRAMING: The conflict is in a SIEGE / ATTRITION phase — a stalemate where each side tries to
+outlast the other. Frame the analysis around ENDURANCE thresholds: how long each side can hold.
+Three sections operationalize this and must carry real analytical depth (not boilerplate):
+Strategic Reserve Countdown (the US endurance ceiling), Iranian State Disintegration Tracker
+(Iran's endurance ceiling), and the Covert Actions Ledger (the below-threshold moves that
+define a siege). These three are the analytical core of the brief.
+
 HARD RULES:
+- Strategic Reserve Countdown: commit to a concrete Day-0 date or range with the one-line
+  arithmetic and stated assumptions. Do not hand-wave; if data is thin, give a best estimate
+  and label it low-confidence, then refine as evidence improves.
+- Covert Actions Ledger: attribute each item to a likely actor with a confidence tag; never
+  present speculation as confirmed.
 - Use only facts present in the evidence pack. Do NOT invent events, vessels, or figures.
 - Never contradict the KNOWN FACTUAL CORRECTIONS / HALLUCINATION GUARD in the context.
 - Every Key Development bullet must cite a real source URL from the evidence pack.
