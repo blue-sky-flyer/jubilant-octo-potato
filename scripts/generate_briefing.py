@@ -38,7 +38,7 @@ CORE_MODEL = "claude-sonnet-4-6"          # authoritative core-brief model
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
 OPENROUTER_MODELS = [
     ("DeepSeek-V3", "deepseek/deepseek-chat"),
-    ("Qwen",        "qwen/qwen-2.5-72b-instruct"),
+    ("Qwen",        "qwen/qwen3-next-80b-a3b-instruct"),
     ("Llama 3.3",   "meta-llama/llama-3.3-70b-instruct"),
 ]
 
