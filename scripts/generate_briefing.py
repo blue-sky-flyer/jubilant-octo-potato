@@ -60,6 +60,9 @@ ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY", "")
 GEMINI_API_KEY     = os.environ.get("GEMINI_API_KEY", "")
 OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
 SERPER_API_KEY     = os.environ.get("SERPER_API_KEY", "")
+TAVILY_API_KEY     = os.environ.get("TAVILY_API_KEY", "")
+# Which search backend to use: "tavily" (search+extract, one call) or "serper" (Google SERP + scrape)
+SEARCH_PROVIDER    = os.environ.get("SEARCH_PROVIDER", "tavily")
 
 TODAY = datetime.date.today()
 TODAY_STR = TODAY.isoformat()
@@ -144,7 +147,59 @@ def serper_scrape(url: str) -> str:
         return ""
 
 
+def tavily_search(query: str) -> list:
+    try:
+        r = requests.post(
+            "https://api.tavily.com/search",
+            headers={"Content-Type": "application/json"},
+            json={
+                "api_key": TAVILY_API_KEY,
+                "query": query,
+                "search_depth": "basic",
+                "max_results": 5,
+                "include_raw_content": True,
+            },
+            timeout=45,
+        )
+        r.raise_for_status()
+        data = r.json()
+        out = []
+        for item in data.get("results", []):
+            content = (item.get("raw_content") or item.get("content") or "")[:SCRAPE_CHARS]
+            out.append({
+                "title": item.get("title", ""),
+                "content": content,
+                "link": item.get("url", ""),
+            })
+        return out
+    except Exception as e:
+        log(f"Tavily search failed for {query!r}: {e}")
+        return []
+
+
+def build_pack_tavily() -> str:
+    log(f"running {len(SEARCH_QUERIES)} searches via Tavily ...")
+    blocks = []
+    for q in SEARCH_QUERIES:
+        results = tavily_search(q)
+        if not results:
+            continue
+        lines = [f"### Query: {q}"]
+        for res in results:
+            lines.append(f"- {res['title']}\n  URL: {res['link']}\n  {res['content']}")
+        blocks.append("\n".join(lines))
+    pack = "\n\n".join(blocks)
+    log(f"evidence pack (tavily): {len(pack)} chars")
+    return pack
+
+
 def build_evidence_pack() -> str:
+    if SEARCH_PROVIDER == "tavily":
+        return build_pack_tavily()
+    return build_pack_serper()
+
+
+def build_pack_serper() -> str:
     log(f"running {len(SEARCH_QUERIES)} searches via Serper ...")
     blocks = []
     scraped_urls = set()
@@ -342,8 +397,11 @@ def main() -> int:
     if not ANTHROPIC_API_KEY:
         log("FATAL: ANTHROPIC_API_KEY not set")
         return 1
-    if not SERPER_API_KEY:
+    if SEARCH_PROVIDER == "serper" and not SERPER_API_KEY:
         log("FATAL: SERPER_API_KEY not set")
+        return 1
+    if SEARCH_PROVIDER == "tavily" and not TAVILY_API_KEY:
+        log("FATAL: TAVILY_API_KEY not set")
         return 1
 
     context = read_context()
