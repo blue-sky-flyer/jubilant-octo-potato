@@ -36,6 +36,7 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           SERPER_API_KEY:     ${{ secrets.SERPER_API_KEY }}
           TAVILY_API_KEY:     ${{ secrets.TAVILY_API_KEY }}
+          SEARCH_PROVIDER:    ${{ vars.SEARCH_PROVIDER || 'tavily' }}
         run: python scripts/generate_briefing.py
 
       - name: Commit & push
