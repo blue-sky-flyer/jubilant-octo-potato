@@ -1,0 +1,50 @@
+name: Daily Iran-War Briefing
+
+on:
+  schedule:
+    # 12:37 UTC daily (~5:37am PT) — offset a few minutes off :30 to avoid the cron rush
+    - cron: "37 12 * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+# Native GITHUB_TOKEN write access — no PAT, no deploy key, no plaintext secret
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-briefing
+  cancel-in-progress: false
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Generate briefing
+        env:
+          ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY:     ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          SERPER_API_KEY:     ${{ secrets.SERPER_API_KEY }}
+        run: python scripts/generate_briefing.py
+
+      - name: Commit & push
+        run: |
+          git config user.name  "Claude Daily Agent"
+          git config user.email "agent@users.noreply.github.com"
+          git add iran-war-impact-framework.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Daily briefing $(date -u +%Y-%m-%d)"
+          git push
