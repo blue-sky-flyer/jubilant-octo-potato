@@ -37,6 +37,30 @@ All Houthi Red Sea ship sinkings, tanker attacks, and crew detentions from 2024�
 
 Houthi entry into THIS war (within the post-Versailles framework): confirmed March 28, 2026 only. Any Houthi Red Sea sinking/attack story without a clear 2026 URL date is a pre-war story. Trump "Finish the Job" Oval Office statement attributed to July 7, 2026 was also a hallucination with no verified 2026-dated source.
 
+### CENTCOM strike tempo (corrected 2026-08-12)
+The most recent official CENTCOM strike release is **July 22, 2026** (12 consecutive nights of strikes through that date). **No official release or dated independent source confirms any US strike on Iranian territory after July 22.** Aug 10 reporting (CNN; Haass) confirms the administration deliberately backed off strikes ("low-keying") in favor of economic pressure, citing depleted munitions stocks. **Do NOT write "rolling/nightly CENTCOM strikes" as ongoing** unless there is a dated CENTCOM release or two independent dated sources from the past 72 hours. A stale official release confirms activity only through its own date — never extrapolate it forward. Blockade enforcement (vessel redirections, firing on blockade-runners) is distinct from strikes on Iranian territory and remains active.
+
+### Iranian capability claims
+"Iran retains >75% of pre-war missile/drone capability" (CBS, Aug 12) is an **Iranian state claim, not independent confirmation** — always attribute it as such. Independent baseline: ISW May 2026 ~70% stockpiles; retention likely reflects pre-war inventory, not replenishment (launcher and production-infrastructure losses documented). Similarly, Trump's "Iran has difficulty paying its own troops" (Axios, Aug 10) is an unverified US-government claim — contested by state-media pay-raise reports. Attribute claims to their source; never promote either side's claims to established fact.
+
+---
+
+## EVIDENCE & BRIEFING FORMAT RULES (added 2026-08-12, owner directive)
+
+**Evidence rules — apply to every source, every run:**
+1. **No date, no use.** Any search result or document without a clear date/timestamp is ignored entirely. Do not cite it, do not let it inform scenario probabilities.
+2. **Official releases expire.** A government/military release confirms activity only through its release date. Presenting a weeks-old release as evidence of current operations is a factual error (see CENTCOM correction above).
+3. **Current kinetic claims need fresh sourcing.** Any claim that a kinetic action is happening "now"/"ongoing" requires a dated source from the past 72 hours. If only one source exists, flag it single-sourced; if confidence is questionable, find a second independent source or drop the claim.
+4. **Double-source anything contested.** If confidence is in question for any material fact, require two independent sources (independent = different originating reporter/organization, not two outlets syndicating the same wire).
+5. **Challenger disputes are action items.** When a cross-check model disputes a fact, next cycle you must either (a) confirm it with an additional independent source, or (b) remove it from the dataset as not factual. Note the resolution inline (e.g., "→ Adopted" / "→ Re-verified"). Never carry a challenged fact forward unresolved.
+6. **Attribute claims to claimants.** State-sourced figures (Iranian capability retention, US "troops unpaid," transit counts from either side) are claims, not facts — attribute them and, where possible, pair with an independent baseline.
+
+**Briefing format rules — the daily briefing in iran-war-impact-framework.md:**
+1. **Delta-only.** The briefing covers what changed in the last 24 hours. If a section has no material change, it appears as ONE bullet: name + "unchanged since [date]" + link to its full text in [iran-war-standing.md](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md).
+2. **Standing sections live in iran-war-standing.md** (Gulf States Adaptation, Strategic Reserve Countdown/Day 0, Disintegration Tracker, Sovereign Debt Stress, Reconstruction Race, Covert Actions Ledger, Red Sea baseline, On the Ground in Iran, US Military Posture & Munitions). When one materially changes: update it THERE, bump its "last materially changed" date, and summarize the delta in the briefing's "What changed" list. Never reprint a full standing section in the briefing.
+3. **Structure:** Overall situation (3-4 sentences) → What changed in the last 24 hours (numbered, dated, sourced) → Corrections (if any) → Market signals (tight bullets) → Scenario update (probabilities + what moved and why) → Standing sections (one bullet each) → Model cross-check.
+4. **Length target:** the briefing above the Model Cross-Check should stay under ~1,500 words. Repetition from prior newsletters is the primary failure mode this format exists to prevent.
+
 ---
 
 ## Conflict Arc

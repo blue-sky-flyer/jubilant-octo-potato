@@ -6,9 +6,12 @@ This folder contains a structured analytical framework for tracking and reasonin
 
 The framework was designed to be loaded into Claude and used as an interactive reference — ask any question by sector, geography, scenario, or indicator.
 
-## Primary file
+## Primary files
 
-- `iran-war-impact-framework.md` — the main framework document.
+- `iran-war-impact-framework.md` — the daily briefing (delta-only: what changed in the last 24 hours).
+- `iran-war-standing.md` — standing sections (Gulf adaptation, SPR Day 0, Disintegration Tracker, Covert Actions Ledger, etc.), each with a "last materially changed" date. The briefing links here instead of repeating them.
+- `iran-war-context.md` — rolling context for the daily agent: factual corrections, evidence/format rules, conflict arc, weekly summaries.
+- `iran-war-reference.md` — historical reference (scenario history, impact catalog, update log).
 
 Example prompts:
 - "What is the current scenario probability?"
@@ -25,14 +28,9 @@ Example prompts:
 - **Impact Catalog** — tiered impacts (T1: 0–3 months, T2: 3–12 months, T3: structural/long-run)
 - **Update Log** — bottom of file, one row per agent run
 
-## Current state as of last update (2026-03-26)
+## Current state
 
-- Active scenario: **S2 — Partial Hormuz Disruption (45% probability)**
-- Brent crude: ~$110/bbl (+53% since war start)
-- Strait of Hormuz tanker traffic: ~3/day vs. 100+ pre-war
-- US military campaign to reopen Hormuz ongoing (launched March 19)
-- Peace negotiations via intermediaries — outcome uncertain
-- Khamenei killed in initial strikes — disrupts Iranian nuclear command (lowers S4 risk)
+Always check the Daily Briefing (top of `iran-war-impact-framework.md`) and the Conflict Arc in `iran-war-context.md` on origin/main — the local copy goes stale between sessions. Do not rely on any snapshot written into this file.
 
 ## User context
 
