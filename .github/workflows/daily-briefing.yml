@@ -50,7 +50,7 @@ jobs:
         run: |
           git config user.name  "Claude Daily Agent"
           git config user.email "agent@users.noreply.github.com"
-          git add iran-war-impact-framework.md
+          git add iran-war-impact-framework.md iran-war-standing.md
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0

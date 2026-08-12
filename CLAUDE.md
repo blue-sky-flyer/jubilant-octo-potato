@@ -44,4 +44,4 @@ When a conversation about this framework identifies a factual correction or a si
 
 ---
 
-*Daily agent instructions are maintained in the remote trigger configuration, not here.*
+*The daily agent runs entirely via GitHub Actions (the remote trigger was deleted 2026-08-12): `.github/workflows/daily-briefing.yml` runs `scripts/generate_briefing.py` daily at 12:53 UTC (also manually via workflow_dispatch, with an optional search-provider override). The agent's instructions live in that script's `CORE_PROMPT`/`CORE_STRUCTURE` constants, plus the corrections and evidence/format rules at the top of `iran-war-context.md`, which the script loads every run. To change the agent's behavior, edit those.*

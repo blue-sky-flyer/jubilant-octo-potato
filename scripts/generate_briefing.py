@@ -11,8 +11,11 @@ Pipeline:
      evidence pack AND Claude's brief, and write a short "where I differ from
      Claude" section.
   5. Assemble core brief + dissent panel -> iran-war-impact-framework.md.
+     The core model also returns the updated standing-sections file
+     (iran-war-standing.md) after a delimiter; slow-moving sections live there
+     and the briefing links to them (delta-only newsletter format).
 
-The workflow then commits/pushes the file with the native GITHUB_TOKEN.
+The workflow then commits/pushes both files with the native GITHUB_TOKEN.
 
 Design notes:
   - Core brief (Claude) is the only hard-fail path. Search-scrape and every
@@ -46,8 +49,15 @@ WAR_START = datetime.date(2026, 2, 28)
 REPO_FILE = "iran-war-impact-framework.md"
 CONTEXT_FILE = "iran-war-context.md"
 REFERENCE_FILE = "iran-war-reference.md"
+STANDING_FILE = "iran-war-standing.md"
 REF_URL = ("https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/"
            "iran-war-reference.md")
+STANDING_URL = ("https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/"
+                "iran-war-standing.md")
+
+# Delimiter between the briefing and the updated standing-sections file in the
+# core model's single response. If absent, the old standing file is kept as-is.
+STANDING_DELIM = "===STANDING-FILE==="
 
 SCRAPE_TOP_N = 3        # scrape this many top links per query for full text
 SCRAPE_CHARS = 2200     # truncate each scraped article to this many chars
@@ -254,16 +264,27 @@ def tail(path: str, n: int) -> str:
         return ""
 
 
+def full(path: str) -> str:
+    try:
+        with open(path, encoding="utf-8") as f:
+            return f.read()
+    except Exception as e:
+        log(f"could not read {path}: {e}")
+        return ""
+
+
 def read_context() -> str:
     return (
-        "=== KNOWN FACTUAL CORRECTIONS + HALLUCINATION GUARD (do NOT contradict) ===\n"
+        "=== KNOWN FACTUAL CORRECTIONS + EVIDENCE/FORMAT RULES (do NOT contradict) ===\n"
         + head(CONTEXT_FILE, 80)
         + "\n\n=== RECENT DAILY LOG / LAST KNOWN STATE ===\n"
         + tail(CONTEXT_FILE, 80)
         + "\n\n=== SCENARIO PROBABILITIES + ACTIVE INDICATORS ===\n"
         + head(REFERENCE_FILE, 80)
-        + "\n\n=== YESTERDAY'S BRIEFING HEADLINE (do not repeat covered items) ===\n"
-        + head(REPO_FILE, 60)
+        + "\n\n=== YESTERDAY'S BRIEFING (do not repeat covered items) ===\n"
+        + head(REPO_FILE, 80)
+        + "\n\n=== CURRENT STANDING SECTIONS FILE (update only what changed) ===\n"
+        + full(STANDING_FILE)
     )
 
 
@@ -273,66 +294,66 @@ def read_context() -> str:
 CORE_STRUCTURE = f"""# Iran War Economic Impact Framework
 *Last updated by daily agent: {TODAY_STR}*
 
-> **[Full reference]({REF_URL})**
+> **[Standing sections]({STANDING_URL}) · [Full reference]({REF_URL})**
 
 ---
 
 ## Daily Briefing - {TODAY_STR}
 
-**Overall situation:** Day {DAY_N} / Week {WEEK_N}. [2-3 specific sentences.]
+**Overall situation:** Day {DAY_N} / Week {WEEK_N}. [3-4 specific sentences on the last 24 hours.]
 
-**Key developments:**
-- **[HEADLINE]** ([Source](URL), date): [Detail with names, figures, quotes.]
-[3-5 bullets, genuinely new today only.]
+**What changed in the last 24 hours:**
+1. **[Headline]** ([Source](URL), date): [Detail with names, figures, quotes. Only events dated within the last ~24-48h. Double-source where possible and say so.]
+[3-5 numbered items, genuinely new only.]
 
-**On the Ground in Iran:** [Protests, fuel crisis, IRGC posture. Flag uncertainty.]
+**Corrections:** [Only if a prior briefing stated something now known to be wrong: state the correction plainly. Omit the section if none.]
 
-**Red Sea / Bab-el-Mandeb:** [Houthi activity, named vessel attacks, Yanbu threat, Bab-el-Mandeb status. Flag if no new activity.]
+**Market signals ({TODAY_STR}):** [Tight bullets: Brent (+curve), gold, Hormuz transits, war-risk/insurance, SPR, VIX/equities. Flag prior-day closes and unconfirmed readings.]
 
-**Gulf States Adaptation:** [Saudi East-West pipeline, UAE Habshan-Fujairah, Fujairah/Kuwait status, Bahrain air defense.]
+**Scenario update:** S1 X% / S2 X% / S3 X% / S4 X% / S5 X% — must sum to 100%. [What moved, by how much, and why — one or two sentences per change.]
 
-**Market Signals:** [Brent, BDTI, gold, VIX, war-risk insurance. Flag prior-day closes.]
-
-**Strategic Reserve Countdown:** [The US endurance ceiling. Net daily drawdown from global strategic reserves = global consumption (~102-103 Mb/d) minus available production + shipments given Hormuz/Bab-el-Mandeb disruption. State current global strategic-reserve level and days-of-cover (US SPR + OECD/IEA stocks), the estimated NET daily drawdown (Mb/d), and a projected **Day 0** date or range when reserves hit a critical shortfall at the current rate. Show the one-line arithmetic and state your assumptions; flag confidence. Frame Day 0 as the maximum threshold of US strategic patience.]
-
-**Sovereign Debt Stress:** [Egypt, Pakistan, Jordan, Turkey. New IMF actions.]
-
-**Iranian State Disintegration Tracker:** [Iran's endurance ceiling. A deeper read on regime survival. Economic collapse indicators with figures (inflation %, rial exchange rate, GDP contraction, capital flight, food/fuel shortages, reserve depletion); political cohesion (protest intensity and geography, IRGC/Basij suppression bandwidth, leadership/succession fractures, elite defection signals). Assess the trajectory toward the state's "next place" — managed attrition vs. internal coup vs. popular collapse vs. territorial fragmentation — and estimated distance to a tipping point. Cite sources; flag what is unverified.]
-
-**Reconstruction Race:** [China/Russia positioning, Wang Yi pledges.]
-
-**Information Warfare:** [Narrative battle today; who is winning and why.]
-
-**Covert Actions Ledger:** [In a siege stalemate both sides act below the overt-war threshold. List each reported OR suspected covert action this cycle — sabotage, assassination, targeted killing, cyberattack, unattributed explosion/strike, infrastructure "accident," proxy action — each with the **likely perpetrator** (US / Israel / Iran / proxy / unknown) and an attribution-confidence tag (Confirmed / Likely / Suspected / Contested). Separate confirmed events from speculation, and note the reasoning behind each attribution. If nothing is reported today, say so explicitly.]
-
-**Scenario Update:** S1 X% / S2 X% / S3 X% / S4 X% / S5 X% - must sum to 100%. Active scenario + key thresholds.
+**Standing sections** *(full detail in [iran-war-standing.md]({STANDING_URL}); one bullet each)*:
+- **[Section name](link-to-anchor)** — [either "unchanged since [date]" or a ONE-LINE delta summary ending "— updated today".]
+[One bullet per standing section. Never reprint a standing section's body here.]
 """
 
 CORE_PROMPT = f"""You are the daily agent for a professional Iran-war economic-impact
 newsletter. Write today's briefing ({TODAY_STR}) using ONLY the evidence pack below.
 
-FRAMING: The conflict is in a SIEGE / ATTRITION phase — a stalemate where each side tries to
-outlast the other. Frame the analysis around ENDURANCE thresholds: how long each side can hold.
-Three sections operationalize this and must carry real analytical depth (not boilerplate):
-Strategic Reserve Countdown (the US endurance ceiling), Iranian State Disintegration Tracker
-(Iran's endurance ceiling), and the Covert Actions Ledger (the below-threshold moves that
-define a siege). These three are the analytical core of the brief.
+FRAMING: The conflict is in a SIEGE / ATTRITION phase. The briefing is DELTA-ONLY: it reports
+what changed in the last 24 hours. All slow-moving analysis (Gulf States Adaptation, Strategic
+Reserve Countdown/Day 0, Iranian State Disintegration Tracker, Sovereign Debt Stress,
+Reconstruction Race, Covert Actions Ledger, Red Sea baseline, On the Ground in Iran, US Military
+Posture & Munitions) lives in the STANDING SECTIONS FILE, which you maintain separately below.
+The reader saw yesterday's briefing — repetition is the primary failure mode to avoid.
+
+EVIDENCE RULES (also in the context block — these override everything else):
+- UNDATED SOURCES ARE IGNORED. If a search result has no date/timestamp, do not use it at all.
+- Official releases confirm activity only THROUGH their release date. Never present a stale
+  release (e.g., a weeks-old CENTCOM release) as evidence of current/ongoing operations.
+- Any claim that a kinetic action is "ongoing" needs a dated source from the past 72 hours.
+  Single-sourced material claims must be flagged single-sourced; if confidence is questionable,
+  find a second independent source in the pack or drop the claim.
+- Attribute state-sourced figures as claims ("Iran says", "Trump claims"), never as fact.
+- If yesterday's Model Cross-Check disputed a fact, resolve it today: re-verify it against the
+  pack (note "re-verified") or remove/correct it (note the correction in the Corrections block).
 
 HARD RULES:
-- Strategic Reserve Countdown: commit to a concrete Day-0 date or range with the one-line
-  arithmetic and stated assumptions. Do not hand-wave; if data is thin, give a best estimate
-  and label it low-confidence, then refine as evidence improves.
-- Covert Actions Ledger: attribute each item to a likely actor with a confidence tag; never
-  present speculation as confirmed.
 - Use only facts present in the evidence pack. Do NOT invent events, vessels, or figures.
-- Never contradict the KNOWN FACTUAL CORRECTIONS / HALLUCINATION GUARD in the context.
-- Every Key Development bullet must cite a real source URL from the evidence pack.
-- Do NOT reference the flagged pre-war/hallucinated events (M/V Magic Seas, M/V Eternity C, etc.).
+- Never contradict the KNOWN FACTUAL CORRECTIONS / EVIDENCE RULES in the context.
+- Every "What changed" item must cite a real source URL from the evidence pack.
 - Scenario probabilities must sum to exactly 100%.
-- Continue the analytical arc from the recent daily log; report only genuinely NEW developments.
-- Keep it tight and evidence-grounded. Match this exact structure and headers:
+- The briefing (everything above the Model Cross-Check) must stay under ~1,500 words.
+- Match this exact structure and headers:
 
 {CORE_STRUCTURE}
+
+STANDING SECTIONS FILE: After the briefing, output the line {STANDING_DELIM} and then the
+COMPLETE updated iran-war-standing.md. Start from the current version (provided in the context)
+and change ONLY sections with a material 24-hour change: update the section body and bump its
+"Last materially changed" date to {TODAY_STR}. Leave every other section byte-identical,
+including its date. Keep the header comment and Update protocol intact. If nothing changed
+anywhere, still output the delimiter followed by the file unchanged.
 
 === CONTEXT ===
 {{context}}
@@ -340,14 +361,15 @@ HARD RULES:
 === TODAY'S EVIDENCE PACK ===
 {{evidence}}
 
-Output ONLY the finished briefing markdown, starting with the H1 title. No preamble."""
+Output the finished briefing markdown starting with the H1 title, then {STANDING_DELIM},
+then the complete standing file. No other preamble or commentary."""
 
 
 def claude_core_brief(context: str, evidence: str) -> str:
     client = Anthropic(api_key=ANTHROPIC_API_KEY)
     msg = client.messages.create(
         model=CORE_MODEL,
-        max_tokens=8000,
+        max_tokens=16000,
         messages=[{
             "role": "user",
             "content": CORE_PROMPT.format(context=context, evidence=evidence),
@@ -436,10 +458,24 @@ def main() -> int:
         return 1
 
     log(f"writing core brief with {CORE_MODEL} ...")
-    core = claude_core_brief(context, evidence)
-    if not core.strip():
+    raw = claude_core_brief(context, evidence)
+    if not raw.strip():
         log("FATAL: empty core brief")
         return 1
+
+    # Split briefing from the updated standing-sections file. Standing update is
+    # best-effort: if the delimiter is missing or the payload looks truncated,
+    # keep the existing standing file untouched.
+    core, standing = raw, ""
+    if STANDING_DELIM in raw:
+        core, standing = raw.split(STANDING_DELIM, 1)
+        core, standing = core.strip(), standing.strip()
+    if standing.startswith("# Iran War") and len(standing) > 3000:
+        with open(STANDING_FILE, "w", encoding="utf-8") as f:
+            f.write(standing + "\n")
+        log(f"wrote {STANDING_FILE} ({len(standing)} chars)")
+    else:
+        log("standing file not updated this run (missing delimiter or payload too short)")
 
     log("gathering challenger cross-checks ...")
     sections = []
@@ -455,7 +491,8 @@ def main() -> int:
     for name, text in sections:
         dissent.append(f"### {name}\n{text}\n")
 
-    final = core.rstrip() + "\n" + "\n".join(dissent) + f"\n\n*[Full reference]({REF_URL})*\n"
+    final = (core.rstrip() + "\n" + "\n".join(dissent)
+             + f"\n\n*[Standing sections]({STANDING_URL}) · [Full reference]({REF_URL})*\n")
 
     with open(REPO_FILE, "w", encoding="utf-8") as f:
         f.write(final)
