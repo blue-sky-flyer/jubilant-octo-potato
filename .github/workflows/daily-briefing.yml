@@ -5,6 +5,10 @@ on:
     # 12:53 UTC = 5:53am PDT (Pacific). NOTE: GitHub cron is UTC and does NOT follow DST —
     # in PST (winter) this fires at 4:53am PT; change to "53 13 * * *" to keep 5:53am year-round.
     - cron: "53 12 * * *"
+    # Backup fires 3h later ONLY if the primary was dropped (GitHub cron is best-effort and
+    # occasionally skips — e.g. 2026-08-27). The dupcheck step below makes this a no-op
+    # whenever today's briefing already exists, so normal days still run exactly once.
+    - cron: "53 15 * * *"
   workflow_dispatch:      # manual trigger; optional per-run search-provider override
     inputs:
       provider:
@@ -28,15 +32,31 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Scheduled runs skip if today's briefing already exists (makes the backup cron —
+      # and any GitHub double-fire — idempotent). Manual dispatch always runs.
+      - name: Check for existing briefing (scheduled runs only)
+        id: dupcheck
+        if: github.event_name == 'schedule'
+        run: |
+          if grep -q "## Daily Briefing - $(date -u +%Y-%m-%d)" iran-war-impact-framework.md; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Briefing for $(date -u +%Y-%m-%d) already exists — skipping duplicate run."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Set up Python
+        if: steps.dupcheck.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install dependencies
+        if: steps.dupcheck.outputs.skip != 'true'
         run: pip install -r scripts/requirements.txt
 
       - name: Generate briefing
+        if: steps.dupcheck.outputs.skip != 'true'
         env:
           ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY:     ${{ secrets.GEMINI_API_KEY }}
@@ -47,6 +67,7 @@ jobs:
         run: python scripts/generate_briefing.py
 
       - name: Commit & push
+        if: steps.dupcheck.outputs.skip != 'true'
         run: |
           git config user.name  "Claude Daily Agent"
           git config user.email "agent@users.noreply.github.com"
