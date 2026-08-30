@@ -85,4 +85,7 @@ jobs:
             exit 0
           fi
           git commit -m "Daily briefing $(date -u +%Y-%m-%d)"
+          # Rebase onto anything pushed to main while this run was generating
+          # (a concurrent push otherwise rejects ours and strands the briefing).
+          git pull --rebase origin main
           git push
