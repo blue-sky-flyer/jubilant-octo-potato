@@ -2,13 +2,14 @@ name: Daily Iran-War Briefing
 
 on:
   schedule:
-    # 12:53 UTC = 5:53am PDT (Pacific). NOTE: GitHub cron is UTC and does NOT follow DST —
-    # in PST (winter) this fires at 4:53am PT; change to "53 13 * * *" to keep 5:53am year-round.
-    - cron: "53 12 * * *"
-    # Backup fires 3h later ONLY if the primary was dropped (GitHub cron is best-effort and
-    # occasionally skips — e.g. 2026-08-27). The dupcheck step below makes this a no-op
-    # whenever today's briefing already exists, so normal days still run exactly once.
-    - cron: "53 15 * * *"
+    # GitHub cron proved unreliable for this repo: fires dropped entirely (Aug 27, Aug 30)
+    # and delayed 7-11 hours (Aug 28-29), including one that slipped past UTC midnight and
+    # generated the next day's briefing at 00:08 UTC. Strategy: fire HOURLY and let the
+    # dupcheck gate below decide. Exactly one real run per day results:
+    #   - fires before 12:00 UTC skip (too early — that's the midnight-slip guard)
+    #   - the first fire delivered at/after 12:53 UTC generates the briefing
+    #   - every later fire skips because today's briefing exists (7-second no-op runs)
+    - cron: "53 * * * *"
   workflow_dispatch:      # manual trigger; optional per-run search-provider override
     inputs:
       provider:
@@ -32,15 +33,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Scheduled runs skip if today's briefing already exists (makes the backup cron —
-      # and any GitHub double-fire — idempotent). Manual dispatch always runs.
-      - name: Check for existing briefing (scheduled runs only)
+      # Scheduled runs generate at most one briefing per day, never before 12:00 UTC.
+      # (Hour gate prevents a delayed fire slipping past UTC midnight from generating the
+      # next day's briefing with stale evening evidence — happened Aug 29 at 00:08 UTC.)
+      # Manual dispatch always runs.
+      - name: Check whether this scheduled fire should run
         id: dupcheck
         if: github.event_name == 'schedule'
         run: |
-          if grep -q "## Daily Briefing - $(date -u +%Y-%m-%d)" iran-war-impact-framework.md; then
+          TODAY="$(date -u +%Y-%m-%d)"
+          HOUR="$(date -u +%H)"
+          if [ "$HOUR" -lt 12 ]; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
-            echo "Briefing for $(date -u +%Y-%m-%d) already exists — skipping duplicate run."
+            echo "Before 12:00 UTC ($HOUR:xx) — outside the briefing window, skipping."
+          elif grep -q "## Daily Briefing - $TODAY" iran-war-impact-framework.md; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Briefing for $TODAY already exists — skipping duplicate run."
           else
             echo "skip=false" >> "$GITHUB_OUTPUT"
           fi
