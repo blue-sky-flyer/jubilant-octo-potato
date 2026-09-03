@@ -2,12 +2,15 @@ name: Daily Iran-War Briefing
 
 on:
   schedule:
-    # GitHub cron proved unreliable for this repo: fires dropped entirely (Aug 27, Aug 30)
-    # and delayed 7-11 hours (Aug 28-29), including one that slipped past UTC midnight and
-    # generated the next day's briefing at 00:08 UTC. Strategy: fire HOURLY and let the
-    # dupcheck gate below decide. Exactly one real run per day results:
-    #   - fires before 12:00 UTC skip (too early — that's the midnight-slip guard)
-    #   - the first fire delivered at/after 12:53 UTC generates the briefing
+    # GitHub's scheduler delivers only ~4-7 of these 24 hourly fires per day, in sweeps
+    # every 2-5 hours (observed Aug 27 - Sep 2; scheduler-side, unacknowledged by GitHub).
+    # Strategy: fire HOURLY and let the dupcheck gate below decide. Exactly one real run
+    # per day results:
+    #   - fires before 03:00 UTC skip (guards against a sweep just after UTC midnight
+    #     generating the briefing at ~5pm PT the prior evening)
+    #   - the first fire delivered at/after 03:00 UTC generates the briefing — observed
+    #     sweeps put this at ~05:00-08:00 UTC, i.e. complete by ~10pm-1am PT, hours
+    #     before the 6am PT read deadline; later sweeps are automatic fallbacks
     #   - every later fire skips because today's briefing exists (7-second no-op runs)
     - cron: "53 * * * *"
   workflow_dispatch:      # manual trigger; optional per-run search-provider override
@@ -33,19 +36,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Scheduled runs generate at most one briefing per day, never before 12:00 UTC.
-      # (Hour gate prevents a delayed fire slipping past UTC midnight from generating the
-      # next day's briefing with stale evening evidence — happened Aug 29 at 00:08 UTC.)
-      # Manual dispatch always runs.
+      # Scheduled runs generate at most one briefing per day, never before 03:00 UTC
+      # (see schedule comment above). Manual dispatch always runs.
       - name: Check whether this scheduled fire should run
         id: dupcheck
         if: github.event_name == 'schedule'
         run: |
           TODAY="$(date -u +%Y-%m-%d)"
           HOUR="$(date -u +%H)"
-          if [ "$HOUR" -lt 12 ]; then
+          if [ "$HOUR" -lt 03 ]; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
-            echo "Before 12:00 UTC ($HOUR:xx) — outside the briefing window, skipping."
+            echo "Before 03:00 UTC ($HOUR:xx) — outside the briefing window, skipping."
           elif grep -q "## Daily Briefing - $TODAY" iran-war-impact-framework.md; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
             echo "Briefing for $TODAY already exists — skipping duplicate run."
