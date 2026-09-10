@@ -2,16 +2,13 @@ name: Daily Iran-War Briefing
 
 on:
   schedule:
-    # GitHub's scheduler delivers only ~4-7 of these 24 hourly fires per day, in sweeps
-    # every 2-5 hours (observed Aug 27 - Sep 2; scheduler-side, unacknowledged by GitHub).
-    # Strategy: fire HOURLY and let the dupcheck gate below decide. Exactly one real run
-    # per day results:
-    #   - fires before 03:00 UTC skip (guards against a sweep just after UTC midnight
-    #     generating the briefing at ~5pm PT the prior evening)
-    #   - the first fire delivered at/after 03:00 UTC generates the briefing — observed
-    #     sweeps put this at ~05:00-08:00 UTC, i.e. complete by ~10pm-1am PT, hours
-    #     before the 6am PT read deadline; later sweeps are automatic fallbacks
-    #   - every later fire skips because today's briefing exists (7-second no-op runs)
+    # GitHub's scheduler delivers only ~6 of these 24 hourly fires per day, in 2-5h
+    # sweeps (degraded since Aug 27; scheduler-side, unacknowledged by GitHub). Strategy:
+    # fire HOURLY; the gate step turns the first fire in the 06:00-11:50 UTC window into
+    # a HOLD run that sleeps until 11:50 UTC and then generates, so the briefing lands
+    # ~12:00 UTC (5:00am PDT / 4:00am PST) — fresh, and ahead of the 6am PT read
+    # deadline. Every one of the 10 days before this design shipped had at least one
+    # fire in that window. See the gate step for the full policy.
     - cron: "53 * * * *"
   workflow_dispatch:      # manual trigger; optional per-run search-provider override
     inputs:
@@ -36,23 +33,48 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Scheduled runs generate at most one briefing per day, never before 03:00 UTC
-      # (see schedule comment above). Manual dispatch always runs.
-      - name: Check whether this scheduled fire should run
+      # Scheduled-fire policy (one briefing/day, landing just before 6am PT):
+      #   - today's briefing already exists  -> skip (no-op run)
+      #   - fire before 06:00 UTC            -> skip (generating here made the newsletter
+      #     stale — it must land NEAR the read deadline, not the prior evening PT)
+      #   - fire in 06:00-11:49 UTC          -> HOLD: sleep until 11:50 UTC (capped at
+      #     340 min, inside the 6h job limit), then generate; completes ~12:00 UTC
+      #   - fire at/after 11:50 UTC          -> generate immediately (fallback in case
+      #     the 06:00-11:50 window got no fire — never observed, but cron is cron)
+      # A holding run occupies the concurrency group, so later fires queue briefly and
+      # then no-op. A manual dispatch queued behind a holding run waits for it — cancel
+      # the holding run in the Actions UI first if you need an immediate manual regen.
+      - name: Gate scheduled fires / hold until the 11:50 UTC window
         id: dupcheck
         if: github.event_name == 'schedule'
         run: |
           TODAY="$(date -u +%Y-%m-%d)"
-          HOUR="$(date -u +%H)"
-          if [ "$HOUR" -lt 03 ]; then
+          NOW="$(date -u +%s)"
+          WINDOW_OPEN="$(date -u -d "$TODAY 06:00" +%s)"
+          TARGET="$(date -u -d "$TODAY 11:50" +%s)"
+          if grep -q "## Daily Briefing - $TODAY" iran-war-impact-framework.md; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
-            echo "Before 03:00 UTC ($HOUR:xx) — outside the briefing window, skipping."
-          elif grep -q "## Daily Briefing - $TODAY" iran-war-impact-framework.md; then
-            echo "skip=true" >> "$GITHUB_OUTPUT"
-            echo "Briefing for $TODAY already exists — skipping duplicate run."
-          else
-            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "Briefing for $TODAY already exists — skipping."
+            exit 0
           fi
+          if [ "$NOW" -lt "$WINDOW_OPEN" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Before 06:00 UTC — too early to generate; a later fire will claim the slot."
+            exit 0
+          fi
+          if [ "$NOW" -lt "$TARGET" ]; then
+            WAIT=$(( TARGET - NOW ))
+            [ "$WAIT" -gt 20400 ] && WAIT=20400
+            echo "Holding $(( WAIT / 60 )) min until ~11:50 UTC so the briefing lands just before 6am PT."
+            sleep "$WAIT"
+            git fetch --quiet origin main
+            if git show origin/main:iran-war-impact-framework.md | grep -q "## Daily Briefing - $TODAY"; then
+              echo "skip=true" >> "$GITHUB_OUTPUT"
+              echo "Briefing appeared while holding (manual dispatch?) — skipping."
+              exit 0
+            fi
+          fi
+          echo "skip=false" >> "$GITHUB_OUTPUT"
 
       - name: Set up Python
         if: steps.dupcheck.outputs.skip != 'true'
