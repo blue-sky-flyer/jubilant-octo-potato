@@ -6,96 +6,120 @@
 ---
 
 ## US Military Posture & Munitions
-*Last materially changed: 2026-09-10 (CENTCOM strikes Sirik/Minab County/Qeshm Island Sep 9–10 per Iranian state media — ⚠️ CENTCOM unconfirmed; Iran fires on 10 vessels near Hormuz — 1 seafarer killed, 1 missing; IRGC extends maritime restricted area from Chabahar into Gulf of Oman and Arabian Sea; Trump signals war "ends immediately after midterms"; Brent >$100)*
+*Last materially changed: 2026-09-11 (IRGC strikes US Saildrone-type unmanned vessel in Hormuz Sep 11 — ⚠️ CENTCOM unconfirmed; UKMTO: two vessels hit off Oman Sep 11; CENTCOM Commander Admiral Brad Cooper arrives Saudi Arabia Sep 11; MBS-Trump call Sep 11; Brent $109.09; White House models war extending to 2029)*
 
-- **CENTCOM strike status: ACTIVE — new package Sep 9–10 (⚠️ Iranian state media only).** Iranian state media report projectiles struck Sirik, Minab County, and Qeshm Island, with multiple explosions across the coastal region ([Al Jazeera liveblog](https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles), Sep 10). No CENTCOM official release confirming this package is in the evidence pack. ⚠️ Per evidence rules: kinetic claim flagged single-sourced via Iranian state media. The pattern (Sirik/Qeshm = established CENTCOM target set from Sep 1–2 and Jul packages) is consistent with an ongoing CENTCOM strike cycle. Confidence: probable but not confirmed.
-- **Iran fires on 10 vessels — largest maritime escalation by vessel count (Sep 9):** Iran says it attacked 10 ships near the Strait of Hormuz after CENTCOM destroyed five Iranian tankers Sep 8 ([Pajhwok Afghan News](https://pajhwok.com/2026/09/10/us-iran-exchange-attacks-on-ships-near-strait-of-hormuz), Sep 10; [Al Jazeera video](https://www.youtube.com/watch?v=wUjXGkhwmms), Sep 9 — double-sourced). At least one seafarer killed; one reported missing. This is the largest single-session Iranian maritime attack by vessel count of the conflict. ⚠️ Vessel names in Iranian claim not independently confirmed by CENTCOM.
-- **IRGC extended maritime restricted area — Chabahar to Arabian Sea (Sep 9):** IRGC announced plans for a "maritime restricted area" extending from Chabahar into the Gulf of Oman and the Arabian Sea ([Al Jazeera video Sep 9](https://www.youtube.com/watch?v=wUjXGkhwmms)). This materially expands the enforcement claim beyond the prior Rezaei full-Gulf exclusion zone (Sep 8), extending into open-ocean waters. Any vessel in the Gulf of Oman or western Arabian Sea is now within the declared zone. Practical enforcement capability at this range is uncertain but war-risk implications are immediate.
-- **Prior CENTCOM tanker package (Sep 8, carried):** CENTCOM confirmed it struck five Iranian oil tankers Sep 8 — M/T Derya, M/T Horizon 1, M/T Kaviz, M/T Charminar, and M/T Riesco — near Kharg Island and in the Gulf of Oman, after Iran launched ballistic missiles at a US warship twice in two days ([Al Jazeera](https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base), Sep 9; X/marketsday Sep 9 — double-sourced). Secretary Rubio warned Iran "would continue to lose oil tankers if it attacks US naval vessels." Largest single-day tanker-destruction action of the conflict prior to Sep 9 exchange.
-- **Prior CENTCOM tanker package (Sep 5, carried):** CENTCOM confirmed strikes on three Iranian crude oil tankers: M/T Downy (IMO 9218480), M/T Stark 1 (IMO 9171450), and M/T Kylo/Noxen (UANI Sep 8). Cumulative tanker total: 8 Iranian tankers struck/sunk Sep 5–8 before the Sep 9 Iranian 10-vessel retaliation.
-- **Trump midterm-deadline framing (Sep 10):** Trump stated the war "will end immediately after the US November midterm elections" and predicted oil prices will decline, while keeping negotiations "possible" ([Al Jazeera liveblog Sep 10](https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles)). This is the first explicit domestic-political-calendar framing of the conflict's endpoint. Analytically: implies CENTCOM siege operations continue through ~Nov 3 without a deal, validating the mid-Oct–Feb 2027 primary kinetic window projection.
-- **IRGC Al Azraq retaliation — Jordan (Sep 9, carried):** Iran fired 20 ballistic missiles at US forces at Al Azraq base in Jordan; 18 intercepted. No confirmed US casualties.
-- **Hormuz commodity transits — single digits (Al Jazeera Sep 9 video):** Traffic confirmed fallen "from as many as 100 to 140 vessels a day to single digits." No VLCC exit since Sep 3. Iran 10-vessel attack Sep 9 will suppress further.
-- **Rezaei "maritime exclusion zone" — full Persian Gulf (Reuters Sep 8; Al Jazeera Sep 8 — double-sourced, carried):** Now superseded/expanded by the Sep 9 IRGC extended restricted area to Chabahar/Gulf of Oman/Arabian Sea.
-- **UKMTO: 27 projectile strike incidents since July 6 (Reuters Sep 7, carried):** Predates the Sep 8 five-tanker and Sep 9 ten-vessel packages.
-- **US blockade enforcement — 94 commercial vessels redirected as of Sep 7 (UANI Sep 8):** 3 disabled, 2 boarded.
-- **Straits.live Sep 7 data (carried):** Crisis Pressure 90/100; Escalation Forecast 53; reopening odds <1% by Sep 15; US pump model $4.18/gal; $4.82/gal on full closure.
-- **VP Vance rules out talks — Sep 4 (carried):** Formally ruled out unless Tehran halts commercial shipping attacks. Trump's Sep 10 "negotiations remain possible" statement softens this marginally.
-- **Munitions (carried):** ~2,080 Tomahawks expended through Jul 22; subsequent packages through Sep 10 series. Key interceptors low (CNN Aug 4); UAE/Kuwait ~75% Patriot spent; NATO stocks "beyond critical" (⚠️ single-sourced Aug 28).
+- **CENTCOM strike status: ACTIVE (Sep 9–10 package per Iranian state media — ⚠️ CENTCOM unconfirmed, carried from Sep 10).** Iranian state media reported projectiles struck Sirik, Minab County, and Qeshm Island Sep 9–10 ([Al Jazeera liveblog Sep 10](https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles)). No CENTCOM official release in pack. Confidence: probable, consistent with established CENTCOM target set.
+
+- **IRGC strikes US Saildrone-type vessel in Hormuz — Sep 11 (⚠️ CENTCOM unconfirmed):** The IRGC navy announced it struck a US "Saildrone-type" unmanned vessel in the Strait of Hormuz, claiming it was "thwarting its aggressive mission" ([Al Jazeera liveblog Sep 11](https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit)). UKMTO separately confirmed receiving a report that projectiles hit two vessels off the coast of Oman in the same window. ⚠️ CENTCOM has not confirmed the Saildrone strike or Oman vessel strikes in today's pack. Single-sourced at Sep 11 level. This is the first Sep 11-dated kinetic action in the evidence pack.
+
+- **CENTCOM Commander Cooper arrives Saudi Arabia — Sep 11:** Admiral Brad Cooper, CENTCOM commander, arrived in Saudi Arabia Sep 11 ([SAMAA TV Sep 11](https://www.youtube.com/watch?v=Y1KJ-rTQ7B0)). ⚠️ Single-sourced. Highest-level US military visit to Saudi Arabia of the siege phase; signals intensified security coordination at the moment of peak Brent pricing and Houthi escalation. MBS separately spoke with Trump Sep 11 to discuss regional situation.
+
+- **White House models war extending to 2029:** Top White House advisers reportedly discussed with President Trump "the possibility that the Iran war could drag on past Inauguration Day in January 2029" ([TradingEconomics Sep 10](https://tradingeconomics.com/commodity/brent-crude-oil)). This materially revises the analytical planning horizon beyond Trump's own Sep 10 "midterm end" public statement — implies the administration is modeling a prolonged siege, not a near-term decisive outcome. Interpretive implication: Trump's midterm-deadline public framing may be domestic political signaling rather than operational planning.
+
+- **Prior CENTCOM tanker package (Sep 8, carried):** CENTCOM confirmed it struck five Iranian oil tankers Sep 8 — M/T Derya, M/T Horizon 1, M/T Kaviz, M/T Charminar, and M/T Riesco — near Kharg Island and in the Gulf of Oman, after Iran launched ballistic missiles at a US warship twice in two days ([Al Jazeera Sep 9](https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base); X/marketsday Sep 9 — double-sourced). Secretary Rubio warned Iran "would continue to lose oil tankers if it attacks US naval vessels."
+
+- **Prior CENTCOM tanker package (Sep 5, carried):** CENTCOM confirmed strikes on three Iranian crude oil tankers: M/T Downy (IMO 9218480), M/T Stark 1 (IMO 9171450), and M/T Kylo/Noxen (UANI Sep 8). Cumulative tanker total Sep 5–8: 8 Iranian tankers struck/sunk before the Sep 9 Iran 10-vessel retaliation.
+
+- **Iran fires on 10 vessels — largest maritime escalation by vessel count (Sep 9, carried):** Iran says it attacked 10 ships near Hormuz after CENTCOM destroyed five Iranian tankers Sep 8 ([Pajhwok Sep 10](https://pajhwok.com/2026/09/10/us-iran-exchange-attacks-on-ships-near-strait-of-hormuz); [Al Jazeera Sep 9](https://www.youtube.com/watch?v=wUjXGkhwmms) — double-sourced). At least 1 seafarer killed; 1 missing. ⚠️ Vessel names in Iranian claim not independently confirmed by CENTCOM.
+
+- **IRGC extended maritime restricted area — Chabahar to Arabian Sea (Sep 9, carried):** IRGC announced a "maritime restricted area" from Chabahar into the Gulf of Oman and Arabian Sea ([Al Jazeera Sep 9](https://www.youtube.com/watch?v=wUjXGkhwmms)). Extends enforcement claim beyond prior Rezaei full-Gulf exclusion zone. Practical enforcement at Arabian Sea range uncertain; war-risk implications immediate.
+
+- **Hormuz commodity transits: 6 vessels Sep 8; 10-day avg ~12/day:** Down from nine the prior day; 10-day average ~12 vessels/day vs. pre-war ~125/day ([Lech Alex Bajan/Facebook Sep 9](https://www.facebook.com/lech.bajan/posts/as-of-september-9-2026-the-number-of-ships-transiting-the-strait-of-hormuz-has-d/10164418594379618) — ⚠️ single-sourced, citing Kpler). Al Jazeera Sep 9 video confirms traffic fallen "to single digits." IRGC Saildrone attack Sep 11 will suppress further.
+
+- **Trump midterm-deadline framing (Sep 10, carried) — revised by 2029 planning horizon:** Trump's Sep 10 "war ends after midterms" statement now contextualized by White House 2029-horizon planning discussion (TradingEconomics Sep 10). The midterm framing may be political signaling rather than operational planning.
+
+- **IRGC Al Azraq retaliation — Jordan (Sep 9, carried):** Iran fired 20 ballistic missiles at Al Azraq base; 18 intercepted. No confirmed US casualties.
+
+- **Rezaei full-Gulf exclusion zone (Reuters Sep 8; Al Jazeera Sep 8 — double-sourced, carried):** Superseded/expanded by Sep 9 IRGC restricted area to Arabian Sea.
+
+- **US blockade enforcement — 94 commercial vessels redirected as of Sep 7 (UANI Sep 10):** 3 disabled, 2 boarded.
+
+- **VP Vance rules out talks — Sep 4 (carried):** Formally ruled out unless Tehran halts commercial shipping attacks. Trump's Sep 10 "negotiations remain possible" softens this marginally.
+
+- **Energy Secretary Wright — Sep 7 (carried):** Navy "will defend Hormuz until Iran backs down"; conflict is a "losing game" for Iran; traffic averaging ~9M bbl/day through the strait (Bloomberg Sep 7).
+
+- **Goldman Sachs — Sep 7 (carried):** Oil could reach $120/bbl if attacks on Middle East shipping intensify. OPEC+ keeping output quotas unchanged.
+
+- **Munitions (carried):** ~2,080 Tomahawks expended through Jul 22; subsequent packages through Sep 11 series. Key interceptors low (CNN Aug 4); UAE/Kuwait ~75% Patriot spent; NATO stocks "beyond critical" (⚠️ single-sourced Aug 28).
+
 - **Carrier posture:** Three-CSG minimum maintained; Boxer ARG/11th MEU in theater.
-- **EIA STEO Sep 9 (released):** Released Sep 9 per schedule. Results not confirmed in today's evidence pack. Prior Aug 11 baseline: $87/bbl — Brent now >$100. Sep 9 data will include updated SPR level.
-- **Kinetic-window projection (structural analysis Aug 10; updated Sep 10):** Primary window mid-Oct 2026 – Feb 2027. Trump's explicit "midterm end" framing (Sep 10) validates the post-Nov 3 political gate as a structural feature, not just an analytical projection. The Iran 10-vessel attack and IRGC Arabian Sea extension are compressing the exchange-ratio dynamics faster than the mid-Oct start of the primary window — watch for whether CENTCOM escalates the tanker-war doctrine into the Arabian Sea now that Iran has declared it a restricted zone. Precursor watch: novel munition types in strike reporting; B-2/B-52 rotations to Diego Garcia; THAAD redeployment into theater.
+
+- **Kinetic-window projection (structural analysis Aug 10; updated Sep 11):** Primary window mid-Oct 2026 – Feb 2027. White House 2029-horizon planning (Sep 10) indicates the administration is modeling beyond the primary window — the siege strategy may be intended to extend rather than culminate before the midterms. The rolling-attrition model (Saildrone strikes, tanker destruction, blockade enforcement) is consistent with the new-entrant/affordable-mass kinetic architecture analyzed Aug 10. Precursor watch: novel munition types in strike reporting; B-2/B-52 rotations to Diego Garcia; THAAD redeployment into theater.
 
 ---
 
 ## Strategic Reserve Countdown — US Endurance Ceiling (Day 0)
-*Last materially changed: 2026-09-10 (Brent crossed $100/bbl Sep 9–10 — highest since July; EIA STEO Sep 9 released but results not confirmed in today's pack; SPR 286.6M bbl last confirmed w/e Aug 28)*
+*Last materially changed: 2026-09-11 (Brent $109.09 Sep 10 — highest since May 19; Saudi crude production −1.9M bpd in August; Goldman $120 scenario; EIA STEO Sep 9 released — results not yet confirmed in pack; SPR 286.6M bbl last confirmed w/e Aug 28)*
 
-**One-line arithmetic (updated Sep 10):** SPR **286.6M bbl** (EIA w/e Aug 28, GEF updated Sep 7) minus political floor ~200M bbl = ~86.6M bbl usable buffer. At the **3.7M bbl weekly draw** rate, the political floor arrives in approximately **~23 weeks → Day 0 approximately early-to-mid February 2027**. The two-week draw from w/e Aug 14 to w/e Aug 28 (289.7M → 286.6M bbl = ~3.1M bbl/week over that specific two-week window) implies the draw rate may be moderating from the prior 4.5M bbl/week pace. At a 3.1M bbl/week pace, Day 0 would arrive ~early March 2027. **Operative range remains early January – early March 2027** depending on draw rate. *(Low-to-moderate confidence on precise timing.)*
+**One-line arithmetic (updated Sep 11):** SPR **286.6M bbl** (EIA w/e Aug 28, GEF Sep 10) minus political floor ~200M bbl = ~86.6M bbl usable buffer. At the **3.7M bbl weekly draw** rate, political floor arrives approximately **~23 weeks → Day 0 approximately early-to-mid February 2027**. At a 3.1M bbl/week pace (two-week trend Aug 14–28), Day 0 slides to ~early March 2027. **Operative range: early January – early March 2027.** *(Low-to-moderate confidence on precise timing.)*
 
-**Sep 10 update — Brent >$100 and STEO released:** Brent crossing $100 on Sep 9–10 ([Pajhwok Sep 10](https://pajhwok.com/2026/09/10/us-iran-exchange-attacks-on-ships-near-strait-of-hormuz); [Al Jazeera Sep 9](https://www.youtube.com/watch?v=wUjXGkhwmms)) means SPR releases — if maintained at current volume — are now somewhat more price-effective per barrel (higher market price = more consumer relief per barrel released). However, if the Iran 10-vessel attack and IRGC Arabian Sea extension prompt an accelerated draw to counter >$100 oil, the Day 0 clock compresses. EIA STEO released Sep 9; the Sep 9 STEO SPR datapoint will be the next confirmed level. Results not available in today's evidence pack.
+**Sep 11 update — Brent $109, Saudi production drop, Goldman $120 scenario:**
+- **Brent $109.09 (Sep 10):** Highest since May 19. SPR releases at this price level generate more per-barrel consumer relief but if the Iran 10-vessel attack, IRGC Saildrone, and Houthi Mocha seizure prompt an accelerated draw to counter $109+ oil, the Day 0 clock compresses.
+- **Saudi crude production −1.9M bpd in August (TradingEconomics Sep 10):** Sharpest monthly drop of the conflict. Saudi Arabia's export constraint compounds the global supply shortfall beyond Hormuz-only arithmetic.
+- **Goldman Sachs $120 scenario (Bloomberg Sep 7):** Conditioned on intensifying Middle East shipping attacks. Sep 11 developments (IRGC Saildrone, two Oman vessel strikes, Houthi Mocha) advance this scenario materially.
+- **White House 2029-horizon (Sep 10):** If the administration is modeling a war through 2029, SPR Day 0 (~early 2027) becomes a hard constraint forcing either (a) a deal before that date, (b) congressional emergency authorization for below-floor drawdowns, or (c) accelerated domestic production policy. The Day 0 clock is now the binding US domestic constraint that rivals the midterm as a political forcing function.
 
-**Trump midterm framing (Sep 10):** Trump's signal that the war ends "immediately after the midterms" implies SPR draw continues through at least Nov 3 (~54 days from Sep 10). At 3.1–3.7M bbl/week, that consumes an additional 24–29M bbl → SPR would be approximately 257–263M bbl at midterm date, still above the ~200M bbl political floor but meaningfully below current levels.
+**Trump midterm framing revision:** Trump's Sep 10 "midterm end" framing revised by 2029-horizon planning — SPR arithmetic now points to early 2027 as the operational constraint regardless of election-cycle signaling.
 
 **Prior data points (carried):**
-- Commercial crude BUILD of 17.422M bbl (GEF Aug 27) — demand-destruction signal; does not alter strategic draw trajectory.
-- Salt cavern structural risk (Fortune Aug 17): drawdown threatens physical damage to 60 underground caverns; DOE safe operating minimum ~70M bbl (⚠️ treat as directionally confirmed).
+- Commercial crude BUILD of 17.422M bbl (GEF Sep 10, w/e Aug 28) — demand-destruction signal; does not alter strategic draw trajectory.
+- Salt cavern structural risk (Fortune Aug 17): drawdown threatens physical damage to 60 underground caverns; DOE safe operating minimum ~70M bbl (⚠️ directionally confirmed).
 - IEA August OMR: 2026 demand −1.6 mb/d; global supply 101.5 mb/d in July, 6.3 mb/d below year-ago; 8.3 mb/d Gulf output still shut in; full-year supply shortfall 4.3 mb/d. 290M bbl released by IEA members since Mar 11.
 - OPEC August report: global oil demand growth 600K bpd in 2026 (−25% vs July forecast).
-- EIA STEO Aug 11: full-year 2026 Brent $87/bbl — materially exceeded at >$100 Sep 10.
+- EIA STEO Aug 11: full-year 2026 Brent $87/bbl — materially exceeded at $109.09 Sep 10.
+- EIA STEO Sep 9 released: results not confirmed in today's pack. Next SPR datapoint will come from this release.
 
 ---
 
 ## Iranian State Disintegration Tracker — Iran's Endurance Ceiling
-*Last materially changed: 2026-09-10 (Iran fires on 10 vessels near Hormuz — 1 killed, 1 missing — largest maritime escalation by vessel count; IAEA refers nuclear case to UN Security Council; Iran signals "readiness for dialogue with regional nations" — softest diplomatic framing in weeks; IRGC extends restricted area to Arabian Sea)*
+*Last materially changed: 2026-09-11 (IRGC strikes US Saildrone in Hormuz Sep 11; IAEA noncompliance resolution Sep 9 now double-sourced via IAEA.org; White House 2029-horizon implies Iran enduring longer than expected; Brent $109 = continued export-revenue deprivation on stranded fleet)*
 
 **Economic (confirmed, carried):** IMF −5.4% GDP projection 2026; war damage ~$270B (~90% pre-war GDP); inflation 88.6%+ (rural >100%); rial ~2M/USD (RFE/RL Aug 25); $27B capital flight 2025; autos −47%, petrochemicals −17%; approved foreign investment −80%; 20M+ bbl stranded afloat; China imports halved to 654K bpd (June); TGL revoked; dark-fleet channel only. Unemployment 9.1% (from 7.3%), 450,000 jobs lost.
 
-**Sep 10 UPDATE — Iran fires on 10 vessels; IAEA UNSC referral; diplomatic softening:**
+**Sep 11 UPDATE — Saildrone attack; IAEA resolution confirmed; 2029-horizon implications:**
 
-- **Iran fires on 10 vessels — largest maritime escalation by vessel count (Sep 9–10):** Iran claims it attacked 10 ships near Hormuz ([Pajhwok Sep 10](https://pajhwok.com/2026/09/10/us-iran-exchange-attacks-on-ships-near-strait-of-hormuz); [Al Jazeera Sep 9](https://www.youtube.com/watch?v=wUjXGkhwmms) — double-sourced). At least 1 seafarer killed; 1 missing. For Iranian domestic audiences, this is framed as proportionate retaliation for the five-tanker CENTCOM action Sep 8. For external observers, it establishes Iran's willingness to target non-Iranian commercial vessels in direct response to tanker destruction — a qualitative escalation of the maritime doctrine.
+- **IRGC strikes US Saildrone Sep 11:** For Iranian domestic audiences, striking a US unmanned asset in Hormuz is framed as "thwarting aggressive surveillance" — consistent with the IRGC's standing narrative of protecting sovereign waters. The Saildrone claim maintains the IRGC's domestic-legitimacy posture without risking the casualty-threshold escalation that a manned US vessel attack would trigger. Demonstrates retention of maritime interdiction capability even after CENTCOM destroyed 8+ Iranian tankers Sep 5–8.
 
-- **IAEA refers Iran's nuclear case to UN Security Council (Sep 10):** Mezha.net (Sep 10, 07:33) reports the IAEA Board of Governors referred Iran's nuclear case to the UNSC. Russia and China can veto any UNSC resolution. This is the highest-severity formal escalation of the nuclear track since the war began — moving from the Sep 1 "proliferation concern" designation to UNSC referral within 10 days. Practical enforcement effect is limited by veto, but the referral deepens Iran's international isolation and provides legal/political architecture for future action. ⚠️ Single-sourced (Mezha.net Sep 10); IAEA Board convening confirmed independently (IAEA video Sep 7). S4 watch elevated but held at 15%.
+- **IAEA noncompliance resolution Sep 9 — now double-sourced:** The IAEA.org chronology (confirmed in today's evidence pack) shows: Sep 7 — IAEA DG Grossi briefed Board; Sep 9 — Board adopted resolution urging Iran to cooperate ([IAEA.org](http://www.iaea.org/newscenter/focus/iran/chronology-of-key-events)). The Al Jazeera Sep 10 explainer separately confirms the Board referred the matter to the UN Security Council. Both the resolution and UNSC referral are now double-sourced and confirmed. Russia and China can veto any UNSC enforcement resolution. Iran's stated position: US attacks have made site access "unsafe." The IAEA has gone more than a year without inspecting key sites (Al Jazeera Sep 10).
 
-- **Iran signals "readiness for dialogue with regional nations" (Sep 10):** The Al Jazeera liveblog (Sep 10) notes Tehran "says ready for dialogue with nations in the region to foster mutual trust, achieve sustainable security, and promote economic progress." This is the softest diplomatic formulation from Tehran in weeks — notably directed at "regional nations" (not the US), consistent with an attempt to separate Gulf states from the US-led coalition rather than a direct offer of US talks. Pragmatist track (Pezeshkian/Araghchi) may be reasserting itself in the framing, though the IRGC 10-vessel attack the same day demonstrates hardliner dominance in kinetic decisions.
+- **White House 2029-horizon — endurance implications:** If the US is planning for a war through January 2029, Iran's endurance ceiling (tipping point Q1–Q2 2027, operative baseline re-verified Aug 29) is being tested against a longer US commitment than previously priced. The 2027 tipping point remains operative: Iran's economic deterioration trajectory (inflation, currency, stranded oil, fuel shortages) does not significantly change based on US planning horizons. But the 2029-horizon implies the US is prepared to absorb the SPR constraint and political costs through at least the 2027 tipping point, which is a meaningful strategic signal.
 
-- **IRGC extended maritime restricted area to Arabian Sea:** Announced Sep 9 (Al Jazeera Sep 9 video). Extends Iranian enforcement claim into open ocean. Domestic framing: Iran is "expanding the fight" rather than conceding. Operationally: enforcement capability at Arabian Sea range is uncertain.
+- **Fuel prices rising — domestic pressure (Al Jazeera Sep 8, carried):** Government urging citizens to cut fuel use. ISW Aug 27 fuel-crisis baseline confirmed: long lines at gas stations; regime considering price hikes.
 
-**Fleet attrition (carried from Sep 9):** Eight Iranian tankers struck/sunk Sep 5–8 before the Sep 9 10-vessel exchange. Iran's 10-vessel attack may represent a shift to targeting commercial operators broadly rather than exclusively US-linked vessels — watch CENTCOM response framing to determine whether the doctrine escalates further.
+**Hardliner veto confirmed durable — ISW Aug 27 (carried):** "Anti-concessions stance vis-à-vis the United States despite compounding US economic pressure and a worsening domestic fuel crisis." IRGC Saildrone attack Sep 11 confirms continued hardliner kinetic decision-making.
 
-**Fuel prices rising — domestic pressure (Al Jazeera Sep 8, carried):** Government urging citizens to cut fuel use. ISW Aug 27 fuel-crisis baseline: long lines at gas stations, regime considering price hikes.
+**Fleet attrition (carried from Sep 10):** Eight Iranian tankers struck/sunk Sep 5–8 before Iran's Sep 9 10-vessel response. Iran's maritime offensive capacity is shifting toward unmanned/asymmetric platforms (Saildrone targeting) as tanker fleet is attrited.
 
-**Hardliner veto confirmed durable — ISW Aug 27 (carried):** "Anti-concessions stance vis-à-vis the United States despite compounding US economic pressure and a worsening domestic fuel crisis." The simultaneous 10-vessel attack and "regional dialogue" signal on Sep 10 illustrates the bifurcated Iranian response structure — IRGC kinetic escalation + pragmatist diplomatic softening operating in parallel.
+**IAEA Sep 9 resolution and UNSC referral (now double-sourced, updated):** Board resolution adopted Sep 9 (IAEA.org confirmed); UNSC referral confirmed (Al Jazeera Sep 10). Russia/China veto blocks enforcement but deepens Iran's international isolation.
 
-**IAEA Sep 1 quarterly — proliferation concern (carried):** Isfahan flagged; now escalated to UNSC referral (Sep 10).
+**Military reconstitution:** Iran **claims** >75% of pre-war missile/drone capability retained (CBS citing Iranian state sources, Aug 12 — **Iranian claim, not independent confirmation**). Saildrone attack Sep 11 and 10-vessel maritime attack Sep 9 demonstrate retained multi-domain offensive capability.
 
-**Military reconstitution:** Iran **claims** >75% of pre-war missile/drone capability retained (CBS citing Iranian state sources, Aug 12 — **Iranian claim, not independent confirmation**). The 20-missile Al Azraq salvo (Sep 9) and 10-vessel maritime attack (Sep 9) together demonstrate retained multi-domain offensive capability.
-
-**Trajectory:** Tipping point Q1–Q2 2027 (operative baseline, re-verified Aug 29). Eight tankers struck/sunk Sep 5–8 + IAEA UNSC referral + Brent >$100 compounding import costs all press toward the lower end of the range. The "regional dialogue" signal from Tehran is the first pragmatist opening in this phase — watch whether it leads to any Gulf-state intermediary contact.
+**Trajectory:** Tipping point Q1–Q2 2027 (operative baseline, re-verified Aug 29). Brent $109 + continued tanker attrition + IAEA UNSC referral + fuel shortages all press toward the lower end of the range. White House 2029-horizon implies the US intends to maintain siege pressure through the tipping point — the question becomes whether Iran fractures internally (disintegration path) or the SPR constraint forces a US deal before that point (~early 2027).
 
 ---
 
 ## Red Sea / Bab el-Mandeb — Baseline
-*Last materially changed: 2026-09-10 (Houthi offensive threatening Perim Island — Mezha.net Sep 10, ⚠️ single-sourced; if confirmed, direct interdiction capability at Bab el-Mandeb entrance; Bab el-Mandeb week of Sep 7 Polymarket: 170–189 ships at 35%)*
+*Last materially changed: 2026-09-11 (Houthis seize Mocha Sep 11 — SAMAA Sep 11, ⚠️ single-sourced; combined with Perim Island threat from Sep 10 ⚠️, Houthis threatening both mainland coast and island flanks of Bab el-Mandeb for first time; Saudi crude production −1.9M bpd August)*
 
-**Sep 10 UPDATE — Houthi Perim Island offensive:**
-- **Houthi offensive threatening Perim Island (Mezha.net Sep 10, 07:31 — ⚠️ single-sourced):** Mezha.net reports a Houthi offensive threatening Perim Island and Red Sea shipping. Perim Island sits at the mouth of the Bab el-Mandeb strait (between Yemen and Djibouti), approximately 3 km wide at the narrowest point adjacent to the island. A Houthi presence on or threatening Perim Island would provide direct interdiction capability over the full breadth of the strait — qualitatively different from the prior Houthi missile/drone campaign, which targeted vessels in transit rather than controlling the physical chokepoint. ⚠️ Single-sourced; confidence moderate. Watch for corroboration from UKMTO, Lloyd's List, or CENTCOM.
-- **Bab el-Mandeb geographic rule (unchanged):** Bab el-Mandeb and Hormuz are mutually exclusive routing alternatives. Houthi Perim Island pressure would close the Red Sea/Suez route for vessels currently using it, forcing another wave onto the Cape route — compounding global shipping costs independent of Hormuz dynamics. Vessels already on the Cape route are unaffected.
+**Sep 11 UPDATE — Houthi Mocha seizure:**
+- **Houthi seizure of Mocha (SAMAA TV Sep 11 — ⚠️ single-sourced):** Houthi forces seized the Red Sea port city of Mocha (al-Makha) as part of a drive to take control of the Red Sea coast ([SAMAA TV Sep 11](https://www.youtube.com/watch?v=Y1KJ-rTQ7B0)). Mocha sits on the Yemeni mainland coast at the northern approach to the Bab el-Mandeb strait. Its seizure gives Houthis a fortified shore-based position for missile and drone launches toward the strait and Red Sea shipping lanes — qualitatively different from the prior campaign of strikes launched from inland positions. ⚠️ Single-sourced at Sep 11; watch for UKMTO, Saudi coalition, or ACLED corroboration.
+- **Geographic note:** Mocha seizure is a mainland-coast development. Combined with the Sep 10 Perim Island offensive report (⚠️ single-sourced, Mezha.net Sep 10), Houthis would be threatening both the Yemeni mainland flank and the island flanking the strait — a dual-bank chokepoint-control configuration not previously documented in this conflict.
+- **Bab el-Mandeb geographic rule (unchanged):** Bab el-Mandeb and Hormuz are mutually exclusive routing alternatives. Houthi Mocha seizure would close the Red Sea/Suez route for vessels currently using it, forcing another wave onto the Cape route — compounding global shipping costs independent of Hormuz dynamics. Vessels already on the Cape route are unaffected.
 
-**Prior Sep 9 UPDATE (carried):**
-- **73 injured in Saudi Arabia (Reuters Sep 8; Saudi coalition — double-sourced):** Houthi attacks on Abha, Khamis Mushait, Jazan, Najran.
-- **Jazan refinery claim — partially corroborated:** AFP/ABS-CBN Sep 8 confirm "worst attack in years" on Saudi oil sites. ⚠️ Aramco infrastructure damage extent still unconfirmed by Aramco. Houthi "400,000-barrel-a-day Jazan refinery" claim remains ⚠️ proxy claim.
-- **Saudi coalition vows response (Reuters Sep 8; AFP Sep 8 — double-sourced).**
+**Prior Sep 10 UPDATE (carried):**
+- **Houthi offensive threatening Perim Island (Mezha.net Sep 10, 07:31 — ⚠️ single-sourced):** Perim Island sits at the mouth of the Bab el-Mandeb. A Houthi presence would provide direct interdiction capability over the full breadth of the strait. Watch for corroboration from UKMTO, Lloyd's List, or CENTCOM.
 
 **Prior transit data (carried):**
 - Bab el-Mandeb: 302 transits wk Aug 17–23; 202 traceable wk Aug 24–30 (Lloyd's List Sep 3).
 - TankerMap Sep 3: 5 vessels in zone, 3.0 seven-day avg/day, −32% vs. prior week.
 - Suez Canal: 290 ships wk Aug 24–30, +30% YoY, −36% vs. normal (Lloyd's List Sep 3).
 - Polymarket Sep 7–13 week: 170–189 ships at 35%; <170 at 8%; 190–209 at 28%.
-- Hormuz: single digits (Al Jazeera Sep 9 video).
-- UANI Sep 8: 94 vessels redirected by US blockade enforcement.
+- Hormuz: 6 vessels Sep 8 (10-day avg ~12/day).
+- UANI Sep 10: 94 vessels redirected by US blockade enforcement.
 
-**Houthis cut off from Iranian resupply since ~Jul 4 (Stimson, carried):** Operating on pre-existing stockpiles. The Perim Island offensive, if real, would be conducted with existing inventory — no new Iranian resupply confirmed.
+**Saudi Arabia crude production −1.9M bpd in August (TradingEconomics Sep 10):** Combined with Houthi Red Sea pressure, Saudi export capacity is at its lowest of the conflict. Houthi Mocha seizure compounds Red Sea export risk directly.
+
+**Houthis cut off from Iranian resupply since ~Jul 4 (Stimson, carried):** Operating on pre-existing stockpiles. Mocha seizure and Perim Island offensive, if real, conducted with existing inventory — no new Iranian resupply confirmed.
 
 **Houthi Bab el-Mandeb toll scheme — Chinese vessels exempted (UANI Aug 28, ⚠️ single-sourced, carried).**
 
@@ -107,25 +131,25 @@
 
 **ACLED Aug 19 assessment (carried):** Houthis conducting "aerial campaign against Saudi Arabia's oil facilities and tankers." Unlikely to cease without Saudi concession.
 
-**Geography rule (unchanged):** Cape route does not pass through Bab el-Mandeb. War-risk ~0.75% hull for Red Sea.
+**Geography rule (unchanged):** Cape route does not pass through Bab el-Mandeb. War-risk ~0.75% hull for Red Sea (pre-Mocha baseline; upward revision warranted on confirmation).
 
 ---
 
 ## Gulf States Adaptation
-*Last materially changed: 2026-09-10 (IRGC maritime restricted area extends to Chabahar/Gulf of Oman/Arabian Sea — affects all Gulf-state coastal waters; Brent >$100 Sep 10 highest since July; Trump midterm-deadline framing shifts Gulf-state planning horizon; Houthi Perim Island offensive ⚠️ threatening Bab el-Mandeb)*
+*Last materially changed: 2026-09-11 (MBS-Trump call Sep 11; CENTCOM Commander Cooper arrives Saudi Arabia Sep 11; Brent $109.09 Sep 10 — highest since May 19; Houthi Mocha seizure ⚠️ threatening Red Sea coast; White House 2029-horizon shifts Gulf planning calendar; Saudi crude production −1.9M bpd August)*
 
-**Sep 10 UPDATE — Arabian Sea extension; Brent >$100; Trump midterm signal:**
-- **IRGC Arabian Sea extension — Gulf-state implications (Sep 9):** The IRGC extended restricted area covering Chabahar → Gulf of Oman → Arabian Sea ([Al Jazeera Sep 9 video](https://www.youtube.com/watch?v=wUjXGkhwmms)) means Saudi, UAE, Omani, and Kuwaiti coastal and export waters are now within the declared Iranian enforcement zone. UAE's Fujairah terminal — the primary Hormuz-bypass export hub — sits on the Gulf of Oman and is now explicitly within the declared restricted area. This is a direct threat to the UAE's bypass-pipeline strategy (West-East Pipeline 2, Guardian May 15 — accelerated to 2027).
-- **Brent >$100 (Sep 9–10):** While Gulf oil producers benefit from higher prices on exported volumes, the operational disruption, war-risk insurance costs, and security expenditures compound. Saudi Arabia's Red Sea export routes face simultaneous Houthi pressure. UAE's Fujairah exports face the Arabian Sea restricted area. Both Hormuz-bypass routes are now under direct Iranian threat framing.
-- **Trump midterm-deadline framing (Sep 10):** Trump's signal that the war ends "after the midterms" gives Gulf states a ~54-day planning horizon for continued siege. For Gulf states, this implies: (1) no US-Iran diplomatic resolution before Nov 3; (2) continued CENTCOM tanker-war doctrine; (3) continued SPR draw reducing US emergency buffer. Gulf states must plan for sustained >$100 oil, continued insurance market dysfunction, and potential IRGC enforcement in the Arabian Sea through at least early November.
-- **Iran "regional dialogue" signal (Sep 10):** Tehran's call for dialogue with "regional nations" may be directed at Gulf states specifically — an attempt to drive a wedge between GCC members and the US-led coalition. Watch for any Gulf-state response to this framing.
+**Sep 11 UPDATE — Cooper visit; MBS-Trump call; $109 Brent; Mocha seizure:**
+- **CENTCOM Commander Cooper in Saudi Arabia — Sep 11 (⚠️ single-sourced):** Admiral Brad Cooper's arrival signals the highest-level US military engagement with Saudi Arabia of the siege phase. Timing: immediately after Saudi crude production −1.9M bpd in August, Houthi attacks on Saudi energy facilities (worst in years per AFP Sep 8), and Brent reaching $109. The visit likely covers: (a) Saudi air-defense reinforcement (UAE/Kuwait ~75% Patriot spent); (b) Red Sea security coordination given Mocha seizure; (c) SPR coordination as Saudi-route constraints compound US reserve depletion.
+- **MBS-Trump call Sep 11 (⚠️ single-sourced):** Saudi-US engagement at political and military levels simultaneously. Content not confirmed beyond "discussing the latest situation in the region."
+- **Brent $109.09 — highest since May 19 (Sep 10):** Gulf oil producers benefit from higher prices on exported volumes but face compounding operational constraints: Saudi export volumes constrained (−1.9M bpd August); UAE Fujairah exports within IRGC Arabian Sea restricted area; Red Sea routes facing Houthi escalation. The net revenue benefit at $109 is partially offset by insurance costs and route disruption.
+- **Houthi Mocha seizure (⚠️ Sep 11, single-sourced):** If confirmed, directly threatens Saudi Red Sea export routes from a forward Houthi position on the mainland coast at the mouth of Bab el-Mandeb. Saudi Arabia's Red Sea export diversification strategy (rerouting to Persian Gulf terminals) faces the simultaneous constraint of Hormuz-area risk. Both bypass corridors are now under threat.
+- **White House 2029-horizon:** Implies Gulf states must plan for sustained US military presence and Iranian siege through at least early 2027 (SPR constraint) and potentially beyond. For Gulf states: continued insurance market dysfunction, Hormuz suppression, and Houthi Red Sea pressure through a multi-year horizon.
 
-**Prior Sep 9 UPDATE (carried):**
-- Jordan Al Azraq — 20 IRGC missiles; 18 intercepted (Al Jazeera Sep 9).
-- Saudi Arabia "worst attack in years" per AFP Sep 8 (double-sourced).
-- Rubio warns Iran of continued tanker losses (Al Jazeera Sep 9).
+**Prior Sep 10 UPDATE (carried):**
+- IRGC Arabian Sea extension — Gulf-state implications (Sep 9): UAE's Fujairah terminal within declared restricted area.
+- Iran "regional dialogue" signal (Sep 10): directed at Gulf states; watch for GCC response.
+- Jordan Al Azraq — 20 IRGC missiles; 18 intercepted (Sep 9).
 - Qatar "industrial catastrophe" warning (Al Jazeera Sep 8 liveblog).
-- Rezaei full-Gulf exclusion zone (Reuters Sep 8; Al Jazeera Sep 8 — double-sourced; now superseded by Arabian Sea extension).
 
 **EU formally joins US-led Iran sanctions campaign — Sep 4–5 (TradingEconomics Sep 5 — ⚠️ single-sourced, carried).**
 
@@ -141,20 +165,20 @@
 
 **Goldman Sachs: Persian Gulf oil exports 15–16 mb/d — Aug 29 (carried, ⚠️ secondary source).**
 
-**UAE West-East Pipeline 2 — accelerated to 2027 (May 15–17, carried; Reuters May 15 confirmed):** ADCOP existing capacity 1.8M bbl/day; West-East 1 expansion to 3.6M bbl/day by 2027. UAE and Saudi Arabia remain the only Gulf producers with Hormuz-bypass pipeline export routes. UAE's Fujairah terminal now within IRGC declared restricted area — strategic significance elevated.
+**UAE West-East Pipeline 2 — accelerated to 2027 (Reuters May 15 — confirmed, carried):** ADCOP existing capacity 1.8M bbl/day. UAE Fujairah terminal now within IRGC declared restricted area — strategic significance elevated.
 
 **Pakistan fully transitioned from mediator to Mecca Pact signatory (Aug 7, carried).**
 
-**Xi Jinping Washington visit Sep 24 — constrains near-term US-China confrontation (Sanger/CNN Sep 5 — ⚠️ single-sourced; 14 days from Sep 10; carried).**
+**Xi Jinping Washington visit Sep 24 — constrains near-term US-China confrontation (Sanger/CNN Sep 5 — ⚠️ single-sourced; 13 days from Sep 11; carried).**
 
 ---
 
 ## Sovereign Debt Stress
-*Last materially changed: 2026-09-10 (Brent >$100 Sep 10 — most acute energy-import cost pressure of the conflict; Nov–Dec cliff now ~45 days to onset; IAEA UNSC referral deepens Iran isolation but indirectly raises correspondent-banking stress for EM intermediaries)*
+*Last materially changed: 2026-09-11 (Brent $109.09 Sep 10 — most acute energy-import cost of the conflict; Nov–Dec cliff now ~44 days to onset; White House 2029-horizon eliminates near-term price-relief pathway; Saudi crude production −1.9M bpd compounds global supply constraint)*
 
-Egypt-Pakistan ~$5.1B combined maturity cliff (Nov–Dec 2026) is the most acute EM window — now approximately **45 days** to the onset of the Nov–Dec window with no confirmed resolution mechanism.
+Egypt-Pakistan ~$5.1B combined maturity cliff (Nov–Dec 2026) is the most acute EM window — now approximately **44 days** to the onset of the Nov–Dec window with no confirmed resolution mechanism.
 
-**Sep 10 compound stress:** **Brent >$100/bbl** (Sep 9–10, [Pajhwok Sep 10](https://pajhwok.com/2026/09/10/us-iran-exchange-attacks-on-ships-near-strait-of-hormuz); [Al Jazeera Sep 9](https://www.youtube.com/watch?v=wUjXGkhwmms)) is the most acute energy-import cost pressure of the conflict — every dollar above $87 (the Aug 11 STEO baseline) is incremental fiscal compression on Egypt and Pakistan. **Iran 10-vessel attack and Hormuz single-digit transits** sustain upward price pressure. **IAEA UNSC referral** (Mezha.net Sep 10) deepens Iran's financial isolation and raises correspondent-banking stress risk for EM countries with Iran-linked trade exposures. **Trump midterm-deadline framing** removes any near-term price-relief pathway through at least Nov 3. DXY sustained above 101 + Brent >$100 + sustained high yields = most severe triple-vector compression on Egypt and Pakistan of the entire conflict.
+**Sep 11 compound stress:** **Brent $109.09/bbl** (TradingEconomics Sep 10) is the highest energy-import cost of the entire conflict — every dollar above $87 (the Aug 11 STEO baseline) is incremental fiscal compression on Egypt and Pakistan. **Saudi crude production −1.9M bpd in August** further constricts global supply and sustains price pressure. **White House 2029-horizon** eliminates any near-term price-relief pathway — if the US is planning a multi-year siege, Brent remains structurally elevated through the Nov–Dec maturity cliff. **DXY sustained above 101** + **Brent $109** + **sustained high yields** = the most severe triple-vector compression on Egypt and Pakistan of the entire conflict.
 
 **Prior stress context (carried):**
 - EMEA-EMANES September 2026 policy paper corroborates Egypt-Pakistan financial transmission vulnerability (⚠️ quantitative figures not extractable from PDF excerpt).
@@ -168,27 +192,28 @@ Egypt-Pakistan ~$5.1B combined maturity cliff (Nov–Dec 2026) is the most acute
 ---
 
 ## Reconstruction Race (China/Russia)
-*Last materially changed: 2026-09-10 (IAEA UNSC referral with Russia/China veto in place — most direct great-power alignment signal of nuclear track; Xi Washington visit Sep 24 now 14 days; Iran 10-vessel attack intelligence value for Chinese satellite kill-chain and Russian targeting systems)*
+*Last materially changed: 2026-09-11 (White House 2029-horizon planning compounds Russian budget windfall at $109 Brent; Xi Washington visit Sep 24 now 13 days; IAEA UNSC referral with Russia/China veto — double-sourced and confirmed; IRGC Saildrone attack intelligence value)*
 
-**Sep 10 UPDATE — IAEA UNSC referral; Russia/China veto architecture:**
-- **IAEA UNSC referral — Russia/China veto (Sep 10):** Mezha.net (Sep 10) reports IAEA referred Iran's nuclear case to the UNSC, with Russia and China in position to veto action. This is the most direct great-power alignment signal of the nuclear track: Russia and China will veto any enforcement resolution, effectively shielding Iran from UNSC consequences while the US and allies absorb the political cost of the referral. For the reconstruction-race dynamic: China and Russia's ability to block UNSC action increases their leverage as post-conflict economic partners — Iran has no reason to negotiate with Western-aligned actors if the East-aligned veto architecture holds.
-- **Iran 10-vessel attack — intelligence value (Sep 9–10):** Iran's maritime attack on 10 vessels, CENTCOM strikes on Sirik/Qeshm, and Jordan air-defense intercept performance (18/20) provide real-time exchange data to Chinese satellite kill-chain and Russian targeting intelligence — consistent with the combat-as-laboratory framework. Each exchange cycle transfers tactical signatures to Beijing and Moscow.
-- **Xi Washington visit Sep 24 (14 days):** Continues to suppress near-term Chinese state-bank sanction risk (S5 activation trigger). After Sep 24, the constraint lifts. Named institution under Operation Economic Outcast still unconfirmed — less likely before Sep 24.
+**Sep 11 UPDATE — 2029-horizon; $109 Brent; IAEA resolution confirmed:**
+- **White House 2029-horizon — Russian windfall extension:** If the US is planning for a war through January 2029, Russian budget alignment with prolonged conflict extends significantly. Brent $109.09 (Sep 10) is well above Russia's ~$60–70/bbl budget breakeven — each additional month of conflict at $100+ is direct Russian fiscal benefit. Russia's strategic incentive to sustain the conflict (without direct participation) is at its peak.
+- **IAEA noncompliance resolution Sep 9 — Russia/China veto confirmed (double-sourced):** IAEA.org chronology (confirmed in today's pack) shows the Board adopted the resolution Sep 9. Al Jazeera Sep 10 confirms UNSC referral with Russia/China veto architecture. Russia and China will block enforcement, shielding Iran from UNSC consequences while accumulating post-conflict economic leverage.
+- **IRGC Saildrone attack Sep 11 — intelligence value:** The Sep 11 Saildrone targeting demonstrates IRGC's unmanned surface vessel interdiction capability. Chinese satellite kill-chain and Russian targeting intelligence receive real-time performance data on US USV deployment patterns in Hormuz — consistent with the combat-as-laboratory framework.
+- **Xi Washington visit Sep 24 (13 days):** Continues to suppress near-term Chinese state-bank sanction risk (S5 activation trigger). After Sep 24, this constraint lifts.
 
 **Prior entries (carried):**
 - OFAC-sanctioned LPG tanker dark routing to China (Windward Sep 3): Guinea-flagged, OFAC-sanctioned, AIS-dark 14 days, China-bound.
 - Russia drone component transfers — confirmed through July 2026 (ISW Aug 18); "enhanced versions" of Shahed drones.
 - China BeiDou + Russian satellite targeting data confirmed (Jun 30).
 - Chabahar windfall (Jul 9): US strikes on Chabahar damaged India's BRI-bypass corridor — collateral strategic windfall for China's Gwadar alternative.
-- Power of Siberia 2: accelerated; Russian budget windfall at Brent >$100 (Sep 10) — Russia's fiscal alignment with prolonged conflict at its highest-benefit point of the conflict.
+- Power of Siberia 2: accelerated; Russian budget windfall at Brent $109 (Sep 10) — highest-benefit point of the conflict.
 - Russia-China formally aligned in rejecting US sanctions legitimacy (Aug 26).
 - EU formally joining US-led sanctions campaign (TradingEconomics Sep 5 — ⚠️ single-sourced): reduces intermediary pool, increases China/Russia relative value as economic lifelines.
-- Rezaei excluded Chinese shipping companies from exclusion zone per Houthi maritime exemption model (UANI Aug 28 — ⚠️ single-sourced). IRGC Arabian Sea extension — watch for whether Chinese vessels are similarly exempted.
+- Rezaei excluded Chinese shipping companies from exclusion zone per Houthi maritime exemption model (UANI Aug 28 — ⚠️ single-sourced). Watch for whether IRGC Arabian Sea restricted area similarly exempts Chinese vessels.
 
 ---
 
 ## Covert Actions Ledger — Cumulative
-*Last materially changed: 2026-08-27 (ISW Aug 26 offensive doctrine includes preemptive strike authorization; no new confirmed covert events in Sep 10 pack)*
+*Last materially changed: 2026-08-27 (ISW Aug 26 offensive doctrine includes preemptive strike authorization; no new confirmed covert events in Sep 11 pack)*
 
 **Active covert ledger (cumulative, confirmed through Aug 27):**
 
@@ -199,28 +224,25 @@ Egypt-Pakistan ~$5.1B combined maturity cliff (Nov–Dec 2026) is the most acute
 - **Mine-laying as covert/semi-covert operation (Sep 3 — ⚠️ state claim, unconfirmed):** If confirmed, IRGC overnight mine-laying in Hormuz southern routes qualifies as covert/semi-covert.
 - **OFAC-sanctioned LPG tanker dark routing (Windward Sep 3):** Guinea-flagged, OFAC-sanctioned, five prior vessel names, AIS-dark 14 days, transiting outbound loaded from Assaluyeh to China-bound undisclosed destination.
 - **SIDR/SENEGAL PROSPERITY perpetrator still designated "unknown projectiles" (Windward Sep 2):** Attribution watch item.
-- **No new confirmed covert events in Sep 10 pack beyond the above.**
+- **No new confirmed covert events in Sep 11 pack beyond the above.**
 
 ---
 
 ## On the Ground in Iran
-*Last materially changed: 2026-09-10 (Iran fires on 10 vessels — largest maritime escalation by vessel count; IAEA nuclear case referred to UNSC; Tehran signals "readiness for dialogue with regional nations" — softest diplomatic framing in weeks; IRGC extends restricted area to Arabian Sea — domestic framing as "expanding the fight")*
+*Last materially changed: 2026-09-11 (IRGC strikes US Saildrone in Hormuz Sep 11 — domestic framing: "thwarting aggressive surveillance"; White House 2029-horizon implies siege longer than Iranian population expects; IAEA noncompliance resolution Sep 9 now double-sourced and confirmed)*
 
-**Sep 10 UPDATE — 10-vessel attack; UNSC referral; diplomatic softening:**
+**Sep 11 UPDATE — Saildrone attack; 2029-horizon; IAEA confirmed:**
 
-- **Iran fires on 10 vessels — domestic framing (Sep 9–10):** For Iranian domestic audiences, the 10-vessel attack is framed as proportionate retaliation for the CENTCOM five-tanker destruction Sep 8. State media messaging: Iran is "fighting back" at scale, demonstrating that every CENTCOM tanker strike generates a larger Iranian response. At least 1 seafarer killed; 1 missing ([Pajhwok Sep 10](https://pajhwok.com/2026/09/10/us-iran-exchange-attacks-on-ships-near-strait-of-hormuz)). The escalating vessel-count dynamic (US: 3 → 5; Iran: 20 missiles → 10 vessels) reinforces the domestic narrative of proportionate response, even as the exchange ratio in economic terms favors the US (tankers destroyed vs. missiles intercepted).
+- **IRGC strikes US Saildrone Sep 11 — domestic framing:** State media frames the Saildrone strike as "thwarting aggressive US surveillance in Iranian territorial waters" ([Al Jazeera liveblog Sep 11](https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit)). The framing of targeting an unmanned vessel — as opposed to a manned US warship — allows the IRGC to claim offensive action without triggering US casualty-threshold escalation. Domestically: demonstrates continued Iranian maritime capability and assertiveness after CENTCOM destroyed 8+ Iranian tankers. No Iranian casualties involved, making it a low-cost domestic-legitimacy action.
 
-- **IAEA UNSC referral — domestic isolation dynamic (Sep 10):** The UNSC referral (Mezha.net Sep 10) deepens Iran's international isolation. Iranian state media is likely to frame this as US/Western political manipulation given Russia/China veto. The referral provides no immediate enforcement mechanism but contributes to the siege atmosphere. Pragmatist track (Araghchi/Pezeshkian) faces additional pressure from the referral — harder to argue for negotiations when the nuclear file is being escalated to UNSC.
+- **White House 2029-horizon — domestic implications:** If Trump's administration is planning for a war through January 2029, the Iranian population faces a siege longer than any current domestic political timeline. The hardliner-pragmatist bifurcation (IRGC kinetic escalation vs. Araghchi/Pezeshkian diplomatic signaling) is operating against a US timeline that extends well beyond Iran's economic tipping point (Q1–Q2 2027). The question of whether the population reaches its limit before the tipping point becomes more acute.
 
-- **Tehran "readiness for dialogue with regional nations" (Sep 10):** Al Jazeera liveblog (Sep 10): Iran "says ready for dialogue with nations in the region to foster mutual trust, achieve sustainable security, and promote economic progress." This is directed at Gulf states, not the US — consistent with an Iranian attempt to separate GCC members from the US coalition. The simultaneous 10-vessel IRGC attack demonstrates that the pragmatist diplomatic signal and IRGC kinetic escalation are operating in parallel, not in conflict. Domestic framing: regime is "open to peace" while "defending itself" — a standard dual-track legitimacy narrative.
+- **IAEA noncompliance resolution Sep 9 — domestic isolation (double-sourced, confirmed):** IAEA.org confirms the Sep 9 Board resolution. Iranian state media framing: US/Western political manipulation, with Russia/China veto as proof of "biased Western institutions." The referral provides no immediate enforcement but contributes to the siege atmosphere and constrains pragmatist diplomats who might argue for nuclear flexibility.
 
-- **IRGC Arabian Sea extended restricted area — domestic framing:** Announced Sep 9 (Al Jazeera Sep 9 video). Domestically: Iran is "expanding its defense perimeter" and asserting sovereignty beyond the Gulf. The Chabahar → Gulf of Oman → Arabian Sea extension puts Iran's own deep-water port (Chabahar, already struck by CENTCOM Jul 9) at the center of the declared zone — a territorial assertion that reinforces the domestic "defending sovereign territory" narrative.
+- **Fuel prices rising (Al Jazeera Sep 8, carried):** Government urging cutbacks. ISW Aug 27 fuel-crisis baseline confirmed: long lines; regime considering price hikes.
 
-**Sep 8 UPDATE (carried):**
-- Fuel prices rising — government urges cutbacks (Al Jazeera Sep 8). ISW Aug 27 fuel-crisis baseline confirmed: long lines at gas stations; regime considering price hikes.
+**Hardliner veto confirmed durable — ISW Aug 27 (carried):** "Anti-concessions stance durable." Sep 11 Saildrone attack = continued IRGC kinetic escalation alongside any diplomatic signaling.
 
-**Hardliner veto confirmed durable — ISW Aug 27 (carried):** "Anti-concessions stance durable." Sep 10 pattern: IRGC kinetic escalation (10-vessel attack) + pragmatist diplomatic signal ("regional dialogue") = bifurcated response structure, hardliner dominance in kinetic decisions.
+**IAEA Sep 9 resolution and UNSC referral (now double-sourced, confirmed):** Board resolution adopted Sep 9 (IAEA.org); UNSC referral confirmed (Al Jazeera Sep 10).
 
-**IAEA Sep 1 quarterly — proliferation concern (carried):** Now escalated to UNSC referral (Sep 10).
-
-**Trajectory:** Tipping point Q1–Q2 2027 (operative baseline, re-verified Aug 29). The "regional dialogue" signal is the first pragmatist opening of this attrition phase. If it leads to any Gulf-state intermediary contact, it could modestly compress the timeline toward earlier resolution. If suppressed by hardliners (consistent with prior pattern), the disintegration clock continues on the Q1–Q2 2027 trajectory. Brent >$100 + 8+ tankers destroyed + UNSC referral all press toward the lower end of the range.
+**Trajectory:** Tipping point Q1–Q2 2027 (operative baseline, re-verified Aug 29). White House 2029-horizon implies the US intends to maintain siege pressure through and beyond the tipping point. Brent $109 + continued tanker attrition + IAEA UNSC referral + fuel shortages all press toward the lower end of the Q1–Q2 2027 range. The disintegration clock and the SPR Day 0 clock (~early 2027) are now converging on the same forcing-function window.
