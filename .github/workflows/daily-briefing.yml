@@ -1,22 +1,26 @@
 name: Daily Iran-War Briefing
 
 on:
-  schedule:
-    # GitHub's scheduler delivers only ~6 of these 24 hourly fires per day, in 2-5h
-    # sweeps (degraded since Aug 27; scheduler-side, unacknowledged by GitHub). Strategy:
-    # fire HOURLY; the gate step turns the first fire in the 06:00-11:50 UTC window into
-    # a HOLD run that sleeps until 11:50 UTC and then generates, so the briefing lands
-    # ~12:00 UTC (5:00am PDT / 4:00am PST) — fresh, and ahead of the 6am PT read
-    # deadline. Every one of the 10 days before this design shipped had at least one
-    # fire in that window. See the gate step for the full policy.
-    - cron: "53 * * * *"
-  workflow_dispatch:      # manual trigger; optional per-run search-provider override
+  # PRIMARY trigger: an external pinger (cron-job.org) POSTs to the workflow_dispatch
+  # endpoint at 11:50 UTC daily. workflow_dispatch events run immediately; only
+  # GitHub's `schedule` events are throttled/dropped (degraded since Aug 27, 2026).
+  workflow_dispatch:
     inputs:
       provider:
         description: "Search provider override: tavily or serper (blank = default)"
         required: false
         default: ""
         type: string
+      force:
+        description: "Regenerate even if today's briefing already exists"
+        required: false
+        default: false
+        type: boolean
+  # FALLBACK trigger: hourly cron. Every fire is a no-op unless it is at/after 12:00 UTC
+  # AND today's briefing is still missing (i.e. the external pinger failed). GitHub
+  # delivers only ~6 of these per day; each no-op costs a few seconds of runner time.
+  schedule:
+    - cron: "53 * * * *"
 
 # Native GITHUB_TOKEN write access — no PAT, no deploy key, no plaintext secret
 permissions:
@@ -32,62 +36,53 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Check out the CURRENT tip of main, not the SHA pinned when the event was
+          # queued. A run that waited in the concurrency queue behind another run
+          # otherwise sees a stale file, misses today's briefing, and regenerates it
+          # (happened 2026-09-11: double generation + rebase conflict on push).
+          ref: main
 
-      # Scheduled-fire policy (one briefing/day, landing just before 6am PT):
-      #   - today's briefing already exists  -> skip (no-op run)
-      #   - fire before 06:00 UTC            -> skip (generating here made the newsletter
-      #     stale — it must land NEAR the read deadline, not the prior evening PT)
-      #   - fire in 06:00-11:49 UTC          -> HOLD: sleep until 11:50 UTC (capped at
-      #     340 min, inside the 6h job limit), then generate; completes ~12:00 UTC
-      #   - fire at/after 11:50 UTC          -> generate immediately (fallback in case
-      #     the 06:00-11:50 window got no fire — never observed, but cron is cron)
-      # A holding run occupies the concurrency group, so later fires queue briefly and
-      # then no-op. A manual dispatch queued behind a holding run waits for it — cancel
-      # the holding run in the Actions UI first if you need an immediate manual regen.
-      - name: Gate scheduled fires / hold until the 11:50 UTC window
-        id: dupcheck
-        if: github.event_name == 'schedule'
+      # One briefing per day:
+      #   - today's briefing already exists -> skip (manual dispatch with force=true overrides)
+      #   - scheduled fire before 12:00 UTC -> skip (fallback only; the pinger owns 11:50)
+      #   - otherwise                       -> generate
+      - name: Gate
+        id: gate
+        env:
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force == true }}
         run: |
           TODAY="$(date -u +%Y-%m-%d)"
-          NOW="$(date -u +%s)"
-          WINDOW_OPEN="$(date -u -d "$TODAY 06:00" +%s)"
-          TARGET="$(date -u -d "$TODAY 11:50" +%s)"
+          HOUR="$(date -u +%H)"
+          if [ "$FORCE" = "true" ]; then
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "force=true — regenerating regardless of existing briefing."
+            exit 0
+          fi
           if grep -q "## Daily Briefing - $TODAY" iran-war-impact-framework.md; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
             echo "Briefing for $TODAY already exists — skipping."
             exit 0
           fi
-          if [ "$NOW" -lt "$WINDOW_OPEN" ]; then
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$HOUR" -lt 12 ]; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
-            echo "Before 06:00 UTC — too early to generate; a later fire will claim the slot."
+            echo "Scheduled fallback fire before 12:00 UTC ($HOUR:xx) — skipping."
             exit 0
-          fi
-          if [ "$NOW" -lt "$TARGET" ]; then
-            WAIT=$(( TARGET - NOW ))
-            [ "$WAIT" -gt 20400 ] && WAIT=20400
-            echo "Holding $(( WAIT / 60 )) min until ~11:50 UTC so the briefing lands just before 6am PT."
-            sleep "$WAIT"
-            git fetch --quiet origin main
-            if git show origin/main:iran-war-impact-framework.md | grep -q "## Daily Briefing - $TODAY"; then
-              echo "skip=true" >> "$GITHUB_OUTPUT"
-              echo "Briefing appeared while holding (manual dispatch?) — skipping."
-              exit 0
-            fi
           fi
           echo "skip=false" >> "$GITHUB_OUTPUT"
 
       - name: Set up Python
-        if: steps.dupcheck.outputs.skip != 'true'
+        if: steps.gate.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install dependencies
-        if: steps.dupcheck.outputs.skip != 'true'
+        if: steps.gate.outputs.skip != 'true'
         run: pip install -r scripts/requirements.txt
 
       - name: Generate briefing
-        if: steps.dupcheck.outputs.skip != 'true'
+        if: steps.gate.outputs.skip != 'true'
         env:
           ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY:     ${{ secrets.GEMINI_API_KEY }}
@@ -98,7 +93,7 @@ jobs:
         run: python scripts/generate_briefing.py
 
       - name: Commit & push
-        if: steps.dupcheck.outputs.skip != 'true'
+        if: steps.gate.outputs.skip != 'true'
         run: |
           git config user.name  "Claude Daily Agent"
           git config user.email "agent@users.noreply.github.com"
