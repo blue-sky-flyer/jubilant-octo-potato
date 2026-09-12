@@ -85,7 +85,20 @@ jobs:
         run: |
           git config user.name  "Claude Daily Agent"
           git config user.email "agent@users.noreply.github.com"
-          git add iran-war-impact-framework.md iran-war-standing.md
+          # Health beacon for pp_ops_monitor: a fresh timestamp each successful run.
+          # Since this workflow is externally triggered (no cron the monitor can read),
+          # the beacon is how a dead pinger surfaces — if no run refreshes it within
+          # expected_max_age_hours, the morning digest flags it stale.
+          mkdir -p health
+          cat > health/status.json <<JSON
+          {
+            "status": "ok",
+            "generated_at": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
+            "summary": "Daily Iran-War briefing for $(date -u +%Y-%m-%d) generated and committed.",
+            "expected_max_age_hours": 30
+          }
+          JSON
+          git add iran-war-impact-framework.md iran-war-standing.md health/status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
