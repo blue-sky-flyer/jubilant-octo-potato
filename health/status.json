@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-09-12T22:05:00Z",
-  "summary": "Initial beacon — daily Iran-War briefing pipeline (externally triggered at 11:50 UTC). Refreshed by each successful run.",
+  "generated_at": "2026-09-12T23:34:42Z",
+  "summary": "Daily Iran-War briefing for 2026-09-12 generated and committed.",
   "expected_max_age_hours": 30
 }
