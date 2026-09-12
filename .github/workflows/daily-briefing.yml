@@ -1,9 +1,11 @@
 name: Daily Iran-War Briefing
 
 on:
-  # PRIMARY trigger: an external pinger (cron-job.org) POSTs to the workflow_dispatch
-  # endpoint at 11:50 UTC daily. workflow_dispatch events run immediately; only
-  # GitHub's `schedule` events are throttled/dropped (degraded since Aug 27, 2026).
+  # Sole trigger: an external pinger (cron-job.org) POSTs to the workflow_dispatch
+  # endpoint at 11:50 UTC daily. workflow_dispatch events run immediately; GitHub's
+  # own `schedule` events were throttled/dropped for this repo (Aug 27 - Sep 12, 2026)
+  # and the schedule trigger was removed 2026-09-12. Manual runs from the Actions tab
+  # use the same path.
   workflow_dispatch:
     inputs:
       provider:
@@ -16,12 +18,6 @@ on:
         required: false
         default: false
         type: boolean
-  # FALLBACK trigger: hourly cron. Every fire is a no-op unless it is at/after 12:00 UTC
-  # AND today's briefing is still missing (i.e. the external pinger failed). GitHub
-  # delivers only ~6 of these per day; each no-op costs a few seconds of runner time.
-  schedule:
-    - cron: "53 * * * *"
-
 # Native GITHUB_TOKEN write access — no PAT, no deploy key, no plaintext secret
 permissions:
   contents: write
@@ -43,17 +39,14 @@ jobs:
           # (happened 2026-09-11: double generation + rebase conflict on push).
           ref: main
 
-      # One briefing per day:
-      #   - today's briefing already exists -> skip (manual dispatch with force=true overrides)
-      #   - scheduled fire before 12:00 UTC -> skip (fallback only; the pinger owns 11:50)
-      #   - otherwise                       -> generate
+      # One briefing per day: skip if today's already exists (force=true overrides,
+      # e.g. a deliberate regen from the Actions tab or a repeat ping).
       - name: Gate
         id: gate
         env:
-          FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force == true }}
+          FORCE: ${{ inputs.force == true }}
         run: |
           TODAY="$(date -u +%Y-%m-%d)"
-          HOUR="$(date -u +%H)"
           if [ "$FORCE" = "true" ]; then
             echo "skip=false" >> "$GITHUB_OUTPUT"
             echo "force=true — regenerating regardless of existing briefing."
@@ -62,11 +55,6 @@ jobs:
           if grep -q "## Daily Briefing - $TODAY" iran-war-impact-framework.md; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
             echo "Briefing for $TODAY already exists — skipping."
-            exit 0
-          fi
-          if [ "${{ github.event_name }}" = "schedule" ] && [ "$HOUR" -lt 12 ]; then
-            echo "skip=true" >> "$GITHUB_OUTPUT"
-            echo "Scheduled fallback fire before 12:00 UTC ($HOUR:xx) — skipping."
             exit 0
           fi
           echo "skip=false" >> "$GITHUB_OUTPUT"
