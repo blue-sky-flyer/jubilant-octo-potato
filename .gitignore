@@ -1,0 +1,4 @@
+
+# secrets never belong here
+*api_key*
+.env
