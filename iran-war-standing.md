@@ -6,21 +6,25 @@
 ---
 
 ## US Military Posture & Munitions
-*Last materially changed: 2026-09-17 (Trump claims direct US-Iran talks and war "hopefully toward the end" — Al Jazeera Sep 17, unconfirmed by Iran; ISW Sep 15 confirms China supplied Iran with air defense equipment via barter deal; Iran-Oman signing correction adopted — did not occur Sep 14)*
+*Last materially changed: 2026-09-18 (Trump tells Axios he is weighing "big decision" on whether to "annihilate" Iran — Al Jazeera Sep 18, single-sourced; IRGC strikes Togo-flagged tanker for "illegal passage" — Al Jazeera Sep 18, single-sourced, CENTCOM unconfirmed; Hormuz at 8 vessels / 9% of typical per PortWatch Sep 13 via Straits.live Sep 16)*
 
-- **Trump claims direct US-Iran talks; "hopefully toward the end" (Sep 17, new — ⚠️ single-sourced; unconfirmed by Iran):** Trump told reporters the US is "hopefully toward the end" of the war and has spoken with Tehran "directly" ([Al Jazeera liveblog Sep 17](https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks)). No Iranian principal has confirmed a direct channel. Rezaei's Sep 15 "no talks with the US until demands met" remains the last confirmed Iranian SNSC position. Trump's statement is attributed as a claim per evidence rules. It is the first US framing of an end-state with a claimed communication channel since the MOU collapsed. S2 moves modestly to 4% on this signal; full S2 reactivation requires Iranian confirmation.
+- **Trump weighs "big decision" on whether to "annihilate" Iran — "anything could happen" (Sep 18, new — ⚠️ single-sourced; Axios cited as origin via Al Jazeera liveblog):** Trump told Axios he is nearing a major choice on whether to "annihilate" his Iranian foes and that "anything could happen" as he weighs his next move ([Al Jazeera liveblog Sep 18](https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz)). This is a qualitative escalation from Sep 17's "hopefully toward the end" framing and the most aggressive US public threat language of the conflict. Attributed as Trump claim per evidence rules. **Structural implication:** The 24-hour oscillation between "end of war / direct talks" (Sep 17) and "annihilate / anything could happen" (Sep 18) is consistent with deliberate coercive ambiguity — the Quincy Institute Sep 15 analysis notes Trump has referenced a post-midterm timeline, suggesting the rhetorical cycle is calibrated to maximize pressure while preserving a political exit ramp. The kinetic-window structural analysis (mid-Oct 2026 – Feb 2027 primary window) is reinforced by this framing.
 
-- **CENTCOM spokesman monitors Yemen-Saudi conflict (Sep 17, new):** US CENTCOM spokesman Tim Hawkins confirmed the US is "closely monitoring" the conflict between Houthi forces and the Saudi-backed government in Yemen while offering on-the-ground support to Saudi partners ([Al Jazeera liveblog Sep 17](https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks)). This is the most current CENTCOM statement in the pack regarding Yemen.
+- **IRGC strikes Togo-flagged tanker in Hormuz for "illegal passage" (Sep 18, new — ⚠️ single-sourced IRGC claim via Al Jazeera; CENTCOM unconfirmed):** The IRGC announced it struck a Togo-flagged tanker attempting an "illegal passage" through the Strait of Hormuz ([Al Jazeera liveblog Sep 18](https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz)). No vessel name, casualty count, or damage assessment is confirmed in the pack. The PGSA "illegal passage" framing is consistent with established enforcement doctrine. CENTCOM has not confirmed or denied. Confidence: probable; carried as single-sourced IRGC claim pending CENTCOM statement.
 
-- **China supplies Iran with air defense equipment — ISW Sep 15 (new, ⚠️ single-sourced via Daniele Ferrari/ISW Sep 15):** ISW's Sep 15 China-Taiwan Update reports China supplied Iran with air defense equipment through a barter-like deal despite sanctions ([ISW China-Taiwan Update Sep 15](https://isw.pub/ChinaTaiwanUpdate091526)). ISW assesses China is testing defense components in real-world settings via Iran and Russia simultaneously. **Structural implication:** Chinese heavy SAM deliveries to Iran compress the US kinetic-action window — per the structural analysis in this file, strike-before-integration logic means the mid-Oct 2026 – Feb 2027 kinetic window is now under time pressure from the Chinese air-defense integration timeline. This is the most direct Chinese military-material transfer to Iran confirmed in the current conflict.
+- **Hormuz transit: 8 vessels Sep 13 / 9% of pre-crisis / war-risk 40× normal / Crisis Pressure 90 (extreme) (Sep 18, updated from Straits.live Sep 16 2250Z):** IMF PortWatch's Sep 13 reading (most recent published day per Straits.live) records 8 commercial vessels transiting vs. a typical 85/day — 9% of pre-crisis volume ([Straits.live, updated Sep 16 2250Z](https://straits.live)). War-risk insurance premiums at 40× pre-crisis. Crisis Pressure index 90/100 (extreme). Escalation Forecast 58/100 (+1 in 24h, elevated). This is the most acute transit-suppression reading confirmed in the evidence pack and supersedes the prior "4 vessels Monday" Kpler reading as the freshest PortWatch data. Note: 40× pre-crisis (~0.125% baseline) implies ~5% hull value — consistent with but slightly below Breakwave Sep 8's 7.5%–12.5% range; both carried.
 
-- **Iran-Oman route agreement: signing did not occur Sep 14 (correction adopted Sep 17):** Pezeshkian's BRICS announcement (Sep 12) targeted a Sep 14 "Monday" signing in Muscat. That date passed without a confirmed signing. No new date is confirmed in the Sep 17 pack. The framework is announced but unsigned. "Imminent" characterization withdrawn. The route agreement remains the pragmatist track's most operationally specific action, but its status is weakened by the missed signing date.
+- **Trump claims direct US-Iran talks; "hopefully toward the end" (Sep 17, carried — ⚠️ single-sourced; unconfirmed by Iran; partially contradicted by Sep 18 "annihilate" framing):** Trump told reporters Sep 17 the US is "hopefully toward the end" of the war and has spoken with Tehran "directly" ([Al Jazeera liveblog Sep 17](https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks)). No Iranian principal has confirmed a direct channel. The Sep 18 "annihilate" statement introduced coercive ambiguity within 24 hours. The diplomatic signal is real but its durability is now in question. Rezaei's "no talks with the US until demands met" remains the last confirmed Iranian SNSC position.
 
-- **Blockade enforcement updated: 101 commercial vessels redirected as of Sep 13 (UANI Sep 14, carried):** UANI's Sep 14 shipping update confirms 101 commercial vessels redirected, 3 disabled, 2 boarded, 50+ humanitarian allowed ([UANI Sep 14](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-september-14-2026)).
+- **CENTCOM spokesman monitors Yemen-Saudi conflict (Sep 17, carried):** US CENTCOM spokesman Tim Hawkins confirmed the US is "closely monitoring" the Yemen-Saudi conflict while offering on-the-ground support to Saudi partners ([Al Jazeera liveblog Sep 17](https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks)).
 
-- **Hormuz commercial traffic: most recent reading 4 vessels Monday (Kpler/TradingEconomics Sep 15, carried):** No Sep 17 update in pack. Iran-Oman signing did not occur; no transit normalization implied. Structural near-zero continues.
+- **China supplies Iran with air defense equipment — ISW Sep 15 (carried, ⚠️ single-sourced via Daniele Ferrari/ISW Sep 15):** ISW's Sep 15 China-Taiwan Update reports China supplied Iran with air defense equipment through a barter-like deal despite sanctions ([ISW China-Taiwan Update Sep 15](https://isw.pub/ChinaTaiwanUpdate091526)). **Structural implication:** Chinese heavy SAM deliveries to Iran compress the US kinetic-action window. The mid-Oct 2026 – Feb 2027 primary kinetic window is under time pressure from Chinese air-defense integration timeline.
 
-- **CENTCOM strike status: ACTIVE (Sep 9–10 package per Iranian state media — ⚠️ CENTCOM unconfirmed, carried from Sep 10).** Iranian state media reported projectiles struck Sirik, Minab County, and Qeshm Island Sep 9–10 ([Al Jazeera liveblog Sep 10](https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles)). No CENTCOM official release in pack through Sep 17. Confidence: probable, consistent with established CENTCOM target set.
+- **Iran-Oman route agreement: signing did not occur Sep 14 (correction adopted Sep 17, carried):** The Sep 14 "Monday" signing in Muscat announced by Pezeshkian at BRICS (Sep 12) did not occur. No new date confirmed. Framework announced but unsigned; "imminent" characterization withdrawn.
+
+- **Blockade enforcement: 101 commercial vessels redirected as of Sep 13 (UANI Sep 14, carried):** UANI's Sep 14 shipping update confirms 101 commercial vessels redirected, 3 disabled, 2 boarded, 50+ humanitarian allowed ([UANI Sep 14](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-september-14-2026)).
+
+- **CENTCOM strike status: ACTIVE (Sep 9–10 package per Iranian state media — ⚠️ CENTCOM unconfirmed, carried from Sep 10):** Iranian state media reported projectiles struck Sirik, Minab County, and Qeshm Island Sep 9–10 ([Al Jazeera liveblog Sep 10](https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles)). No CENTCOM official release in pack through Sep 18. Confidence: probable, consistent with established CENTCOM target set.
 
 - **IRGC strikes US Saildrone-type vessel in Hormuz — Sep 11 (⚠️ CENTCOM unconfirmed, carried):** IRGC navy announced strike on US unmanned vessel; UKMTO confirmed two vessels hit off Oman ([Al Jazeera liveblog Sep 11](https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit)). ⚠️ CENTCOM unconfirmed. Carried as probable.
 
@@ -36,7 +40,7 @@
 
 - **IEA Sep OMR — 2026 supply gap 5.7 mb/d; Saudi output 30-year low (carried from Sep 16):** Global supply shortfall 5.7 mb/d; Saudi output 6 mb/d (30-year low); global stocks −3.1 mb/d in August ([Reuters Sep 11](https://www.reuters.com/business/energy/global-2026-oil-supply-gap-deepen-delayed-return-normal-gulf-flows-iea-says-2026-09-11)).
 
-- **War-risk premiums: Hormuz 7.5%–12.5% hull value per transit (carried from Sep 14):** Breakwave Sep 8 — single-sourced. VLCC charter rates above $1M/day per Baltic Exchange (Mercogliano Sep 13 — ⚠️ single-sourced). Brent pullback to $104.74 may modestly reduce premium trajectory.
+- **War-risk premiums: 40× pre-crisis per Straits.live (Sep 16); 7.5%–12.5% hull value per transit (Breakwave Sep 8, carried):** Both readings carried; Breakwave is the more conservative (higher) estimate. VLCC charter rates above $1M/day per Baltic Exchange (Mercogliano Sep 13 — ⚠️ single-sourced).
 
 - **Prior CENTCOM tanker packages (Sep 5, Sep 8, carried):** Sep 8: five Iranian tankers struck near Kharg Island and Gulf of Oman ([Al Jazeera Sep 9](https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base); [UANI Sep 14](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-september-14-2026) — double-sourced). Sep 5: three Iranian tankers struck ([Politico Sep 5](https://www.politico.com/news/2026/09/05/centcom-announces-strikes-on-three-iranian-oil-tankers-01066475)). Cumulative Sep 5–8: 8 Iranian tankers struck/sunk.
 
@@ -44,82 +48,93 @@
 
 - **IRGC extended maritime restricted area — Chabahar to Arabian Sea (Sep 9, carried):** IRGC announced "maritime restricted area" from Chabahar into Gulf of Oman and Arabian Sea.
 
-- **White House models war extending to 2029 (Sep 10, carried):** Top White House advisers discussed possibility of war extending past Jan 2029 ([TradingEconomics Sep 10](https://tradingeconomics.com/commodity/brent-crude-oil)). Trump's Sep 17 "end of war" claim is in direct tension with this reporting.
+- **White House models war extending to 2029 (Sep 10, carried):** Top White House advisers discussed possibility of war extending past Jan 2029 ([TradingEconomics Sep 10](https://tradingeconomics.com/commodity/brent-crude-oil)). Trump's Sep 18 "annihilate / big decision" framing is in tension with both this reporting and his Sep 17 "end of war" claim — consistent with deliberate ambiguity strategy.
 
 - **VP Vance rules out talks — Sep 4 (carried):** Formally ruled out unless Tehran halts commercial shipping attacks.
 
-- **Goldman Sachs — Sep 7 (carried):** Oil could reach $120/bbl if attacks on Middle East shipping intensify. At Brent $104.74, ~15% away.
+- **Goldman Sachs — Sep 7 (carried):** Oil could reach $120/bbl if attacks on Middle East shipping intensify. At Brent $103.46, ~16% away.
 
 - **Munitions (carried):** ~2,080 Tomahawks expended through Jul 22; subsequent packages through Sep 11 series. Key interceptors low (CNN Aug 4); UAE/Kuwait ~75% Patriot spent; NATO stocks "beyond critical" (⚠️ single-sourced Aug 28).
 
 - **Carrier posture:** Three-CSG minimum maintained; Boxer ARG/11th MEU in theater.
 
-- **Kinetic-window projection (structural analysis Aug 10; updated Sep 17):** Primary window mid-Oct 2026 – Feb 2027. **New compressor:** ISW Sep 15 confirms Chinese air defense equipment delivered to Iran — consistent with the structural analysis that Chinese HQ-9/HQ-16-class SAM arrivals compress the US decision timeline. If Chinese SAM integration into Iranian air defenses proceeds on a ~2-quarter timeline, the cheap-strike window closes by Q2 2027, reinforcing the urgency of the mid-Oct 2026 – Feb 2027 primary window. Trump's "end of war" claim (Sep 17) introduces a non-zero probability that the kinetic window is bypassed by a diplomatic channel — but this requires Iranian confirmation to affect scenario probabilities materially.
+- **Kinetic-window projection (structural analysis Aug 10; updated Sep 18):** Primary window mid-Oct 2026 – Feb 2027. Trump's Sep 18 "annihilate / big decision" statement is the most direct presidential framing of imminent major kinetic action and is consistent with the primary window opening within ~4 weeks. Compressors: (1) ISW Sep 15 Chinese air defense deliveries to Iran; (2) SPR Day 0 clock (early Jan – early Mar 2027); (3) midterm gate Nov 3. Trump's coercive ambiguity cycle (Sep 17 diplomatic, Sep 18 kinetic) suggests a decision point is approaching but not yet made.
 
 ---
 
 ## Strategic Reserve Countdown — US Endurance Ceiling (Day 0)
 *Last materially changed: 2026-09-16 (IEA Sep OMR: global stocks fell 3.1 mb/d in August; Saudi output at 30-year low; 5.7 mb/d supply gap; Brent $108.38 four-month high; no new EIA weekly print in pack)*
 
-**One-line arithmetic (updated Sep 16, carried Sep 17):** SPR **286.6M bbl** (EIA w/e Aug 28, GEF Sep 10) minus political floor ~200M bbl = ~86.6M bbl usable buffer. At the **3.7M bbl weekly draw** rate, political floor arrives approximately **~23 weeks → Day 0 approximately early-to-mid February 2027**. **Operative range: early January – early March 2027.** *(Low-to-moderate confidence on precise timing.)*
+**One-line arithmetic (updated Sep 16, carried Sep 18):** SPR **286.6M bbl** (EIA w/e Aug 28, GEF Sep 10) minus political floor ~200M bbl = ~86.6M bbl usable buffer. At the **3.7M bbl weekly draw** rate, political floor arrives approximately **~23 weeks → Day 0 approximately early-to-mid February 2027**. **Operative range: early January – early March 2027.** *(Low-to-moderate confidence on precise timing.)*
 
-**Sep 17 note:** No new EIA weekly print in today's pack. Brent pullback to ~$104.74 (Sep 17) modestly reduces the import-bill pressure driving SPR draw, but does not alter the Day 0 arithmetic materially. Trump's "end of war" claim (Sep 17) is the nearest-term variable that could alter the draw trajectory — but only on Iranian confirmation of a genuine channel, which is not yet present. All prior IEA Sep OMR data carried unchanged from Sep 16.
+**Sep 18 note:** No new EIA weekly print in today's pack. Brent $103.46 (Sep 18, Convex) — down 0.95% from yesterday but Trump's "annihilate" framing re-introduces upside Brent risk relative to the Sep 17 diplomatic pullback. Trump's Sep 18 escalation language, if it precedes a kinetic package, would accelerate the SPR draw trajectory and compress the Day 0 clock. All prior IEA Sep OMR data carried unchanged from Sep 16.
 
 **Prior data points (carried from Sep 16):**
 - IEA Sep OMR: 5.7 mb/d supply gap (2026); Saudi output 6 mb/d (30-year low); global stocks −3.1 mb/d in August. Supersedes August OMR.
 - SPR salt cavern structural risk (Fortune Aug 17): safe operating minimum ~70M bbl (⚠️ directionally confirmed).
 - EIA raises 2027 US crude production forecast to 14.3 mb/d — 2027 relief, no 2026 impact.
 - Commercial crude BUILD of 17.422M bbl (GEF Sep 10, w/e Aug 28) — demand-destruction signal; does not alter strategic draw trajectory.
-- Hormuz talks postponed Sep 14; Iran-Oman route agreement announced but signing did not occur Sep 14 (corrected Sep 17); no new date confirmed.
+- Hormuz transit at 8 vessels / 9% of typical (PortWatch Sep 13 via Straits.live Sep 16) — most acute suppression reading; no transit normalization implied.
+- Iran-Oman route agreement announced but signing did not occur Sep 14 (corrected Sep 17); no new date confirmed.
 
 ---
 
 ## Iranian State Disintegration Tracker — Iran's Endurance Ceiling
-*Last materially changed: 2026-09-17 (Iran-Oman signing correction adopted — did not occur Sep 14, no new date confirmed; Trump "direct talks" claim unconfirmed by Iran; pragmatist track: framework announced but unsigned)*
+*Last materially changed: 2026-09-18 (Trump "annihilate" framing Sep 18 re-escalates US posture; IRGC Togo-flagged tanker enforcement Sep 18 confirms hardliner-track kinetic continuity; no Iranian principal statement confirming "direct talks" in Sep 18 pack)*
 
 **Economic (confirmed, carried):** IMF −5.4% GDP projection 2026; war damage ~$270B (~90% pre-war GDP); inflation 88.6%+ (rural >100%); rial ~2M/USD (RFE/RL Aug 25); $27B capital flight 2025; autos −47%, petrochemicals −17%; approved foreign investment −80%; 20M+ bbl stranded afloat; China imports halved to 654K bpd (June); TGL revoked; dark-fleet channel only. Unemployment 9.1% (from 7.3%), 450,000 jobs lost.
 
-**Sep 17 UPDATE — Iran-Oman signing correction; Trump "direct talks" claim unconfirmed:**
+**Sep 18 UPDATE — IRGC enforcement confirms hardliner track; Trump "annihilate" re-escalates:**
 
-- **Iran-Oman Hormuz route agreement: signing did not occur Sep 14 (corrected Sep 17):** Pezeshkian's BRICS announcement (Sep 12) targeted a Sep 14 signing in Muscat. That date passed without a confirmed signing. No new date is confirmed in the Sep 17 pack. The framework is announced but unsigned. The pragmatist track remains active at the presidential level — Pezeshkian's announcement and the Omani vehicle are real — but the missed signing date weakens the near-term credibility of the framework. The blockade-lift precondition (Hormuz reopening contingent on US ending the blockade) remains unmet. The IMO submission framing (the most structurally significant aspect of Pezeshkian's statement) has not been superseded.
+- **IRGC Togo-flagged tanker enforcement (Sep 18, new — ⚠️ single-sourced):** The IRGC's strike on a Togo-flagged tanker for "illegal passage" (Al Jazeera Sep 18) confirms the hardliner track's kinetic enforcement continues without regard to the Sep 17 diplomatic signal from Trump. The PGSA enforcement doctrine is intact and operational. This undercuts any reading of Sep 17's "direct talks" claim as a bilateral stand-down — the IRGC has not received or chosen not to follow any such instruction.
 
-- **Trump "direct talks" claim — unconfirmed by Iran (Sep 17, new):** Trump told reporters he has spoken with Tehran "directly" ([Al Jazeera Sep 17](https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks)). No Iranian principal has confirmed a direct channel. Rezaei's "no talks with the US until demands met" (Sep 15) is the last confirmed SNSC position. The dual-track bifurcation therefore continues: if Trump's "direct talks" claim is accurate, it may reflect a channel through the pragmatist track (Pezeshkian/Araghchi) that has not been publicly acknowledged by Iran. If it is aspirational framing, it changes nothing structurally. Attribution: Trump claim — not confirmed fact.
+- **Trump "annihilate" framing — pressure context updated (Sep 18, new):** Trump's Axios statement weighing whether to "annihilate" Iran (Sep 18) re-intensifies the coercive pressure environment on Iranian decision-makers. For the disintegration tracker, this is relevant in two ways: (1) it raises the probability of a new kinetic package that would directly accelerate the economic tipping-point clock; (2) it may strengthen hardliner arguments within the IRGC troika against any pragmatist-track engagement. The dual-track bifurcation remains, but the hardliner track has been reinforced by both Trump's language and the IRGC's same-day tanker strike.
 
-- **Dual-track bifurcation status (Sep 17, updated):** Pragmatist track weakened (signed agreement missed) but structurally present (framework announced, Oman as vehicle, IMO submission planned). Hardliner track (Rezaei SNSC veto) unchanged. Trump "direct talks" claim introduces a third possibility: a covert channel not yet publicly acknowledged by either side.
+- **Iran-Oman route agreement: signing did not occur Sep 14 (correction adopted Sep 17, carried):** Framework announced but unsigned. No new date confirmed. Pragmatist track weakened but structurally present.
+
+- **Trump "direct talks" claim — still unconfirmed by Iran (Sep 17 claim, carried into Sep 18):** No Iranian principal has confirmed a direct channel in the Sep 18 pack. Rezaei's "no talks with the US until demands met" remains the last confirmed SNSC position.
+
+- **Dual-track bifurcation status (Sep 18, updated):** Hardliner track reinforced (IRGC tanker enforcement Sep 18; Rezaei SNSC veto unchanged). Pragmatist track structurally present but weakened (unsigned Oman framework; Trump "annihilate" framing makes publicly acknowledged engagement politically harder for Pezeshkian). Trump's "direct talks" claim (Sep 17) now sits in a 24-hour contradiction with "annihilate" (Sep 18) — the ambiguity may be deliberate.
 
 **IAEA Sep 9 resolution and UNSC referral (confirmed, carried):** Board resolution adopted Sep 9; UNSC referral confirmed. Russia/China veto blocks enforcement.
 
 **Military reconstitution:** Iran **claims** >75% of pre-war missile/drone capability retained (CBS, Aug 12 — **Iranian claim, not independent confirmation**). Chinese air defense equipment delivered (ISW Sep 15 — compresses US kinetic window). IRGC-guided proxy network operational in Yemen, Iraq, and Red Sea simultaneously.
 
-**Fleet attrition (carried):** Eight Iranian tankers struck/sunk Sep 5–8. Dark-fleet channel only for oil exports.
+**Fleet attrition (carried):** Eight Iranian tankers struck/sunk Sep 5–8. Dark-fleet channel only for oil exports. Togo-flagged tanker struck Sep 18 (IRGC claim — this is a commercial vessel, not Iranian-flagged).
 
-**Trajectory:** Tipping point Q1–Q2 2027 (operative baseline). The missed Iran-Oman signing weakens but does not eliminate the pragmatist track. Trump's "end of war" signal, if confirmed by Iran, could materially alter the tipping-point clock. Chinese air defense deliveries compress the US kinetic window, maintaining pressure on the timeline from the other direction. No change to the Q1–Q2 2027 baseline.
+**Trajectory:** Tipping point Q1–Q2 2027 (operative baseline). Trump's "annihilate" framing (Sep 18) and the IRGC's same-day tanker strike confirm the siege is accelerating rather than resolving. The pragmatist track is structurally present but increasingly squeezed between hardliner institutional control and Trump's oscillating coercive signals. No change to the Q1–Q2 2027 baseline absent a confirmed bilateral channel.
 
 ---
 
 ## Red Sea / Bab el-Mandeb — Baseline
-*Last materially changed: 2026-09-17 (Houthis claim downed Saudi F-15 over Marib — CNN Sep 17, unverified; Saudi silence; structural near-zero for commercial shipping continues)*
+*Last materially changed: 2026-09-18 (IDF Chief of Staff Zamir warns Hezbollah will not be allowed to rebuild in southern Lebanon — ILTV Sep 17; Saudi coalition intercepts Houthi drone south of Mecca — Reuters Sep 16; structural near-zero for commercial shipping unchanged)*
 
-**Sep 17 UPDATE — Houthi claimed F-15 shootdown; Saudi silence:**
+**Sep 18 UPDATE — IDF Lebanon warning; Mecca drone intercept:**
 
-- **Houthis claim downed Saudi F-15SA over Marib Governorate (Sep 17, new — ⚠️ single-sourced; CNN cannot verify footage; Saudi Arabia has not confirmed):** Houthi rebels released video claiming to show a Saudi F-15SA (tail number 5539) shot down using a "locally manufactured surface-to-air missile" over Marib Governorate ([CNN Sep 17](https://www.cnn.com/2026/09/17/middleeast/houthi-saudi-f15-shootdown-intl-hnk-ml)). CNN military analyst Cedric Leighton said tail markings are "consistent" with Saudi F-15SA aircraft. Saudi Arabia has not commented. CNN has not been able to verify or geolocate the footage. If confirmed, this would be the most significant Houthi air-defense success of the conflict and directly relevant to Saudi Arabia's air campaign capacity over Yemen.
+- **IDF Chief of Staff Zamir: Hezbollah "will not be allowed to rebuild" in southern Lebanon (Sep 17, new — ⚠️ single-sourced ILTV Israel News Sep 17):** IDF Chief of Staff Lt. Gen. Eyal Zamir stated Sep 17 that Hezbollah will not be permitted to rebuild its forces in southern Lebanon, with Israel's northern front "remaining on high alert" ([ILTV Israel News Sep 17](https://www.youtube.com/watch?v=IE6CJVComNU)). No new kinetic exchange confirmed in pack. The Zamir statement confirms Israel views the Lebanon front as unresolved and is actively enforcing its post-ceasefire red lines — consistent with the "IDF Litani window" structural analysis in the standing file.
 
-- **Structural near-zero for commercial shipping: unchanged (Sep 17):** Houthis control entire Yemen Red Sea coastline including Mocha and Perim/Mayyun Island (confirmed DW Sep 14, Al Jazeera Sep 13). Full territorial control of the Bab el-Mandeb approach. No new commercial transit data for Sep 17 in pack.
+- **Saudi coalition intercepts Houthi drone south of Mecca (Reuters Sep 16 — double-sourced: Reuters Sep 16 + Saudi coalition statement):** Saudi Arabia's air defences destroyed a Houthi drone south of Mecca before it entered prohibited airspace over the holy city ([Reuters Sep 16](https://www.reuters.com/world/middle-east/saudi-coalition-says-houthi-drone-destroyed-near-mecca-2026-09-16)). Saudi coalition spokesperson Turki al-Malki described it as "the second Houthi attempt to target Mecca" (after a 2017 ballistic missile). Mecca's security is a "red line," al-Malki said. Houthi officials denied targeting Mecca. **Structural implication:** A confirmed Houthi strike on Mecca itself would be the most escalatory single Houthi action of the conflict and would force Saudi Arabia's hand on direct military response.
+
+- **Houthis claim downed Saudi F-15SA over Marib (Sep 17, carried — ⚠️ single-sourced CNN Sep 17; Saudi silence; unverified footage):** Houthi video claims Saudi F-15SA (tail 5539) shot down over Marib. CNN cannot verify or geolocate footage. Saudi Arabia has not commented. Carried as unverified claim.
+
+- **Structural near-zero for commercial shipping: unchanged (Sep 18):** Houthis control entire Yemen Red Sea coastline including Mocha and Perim/Mayyun Island (confirmed DW Sep 14, Al Jazeera Sep 13). Full territorial control of the Bab el-Mandeb approach. No new commercial transit data for Sep 18 in pack.
 
 *(Full detail at last materially changed dates for prior items: Saudi-led coalition 54 Yemen raids Sep 15; Houthi three-city Saudi strike Sep 15 (Khamis Mushait, Abha, Taif — 13 civilians wounded); Saudi East-West pipeline shutdown continuing with Yanbu loadings suspended — TradingEconomics Sep 15.)*
 
 ---
 
 ## Gulf States Adaptation
-*Last materially changed: 2026-09-17 (Saudi reportedly offering more oil; Brent pulls back ~3.23% to ~$104.74 on Trump "end of war" signal + Saudi offer; Houthi claimed F-15 shootdown unverified)*
+*Last materially changed: 2026-09-18 (Brent $103.46 Sep 18, Convex, −0.95%; Trump "annihilate" framing partially offsets Sep 17 diplomatic pullback; IRGC Togo-flagged tanker strike Sep 18 adds incremental Gulf shipping pressure)*
 
-**Sep 17 UPDATE — Saudi crude offer; Brent correction:**
+**Sep 18 UPDATE — Brent correction continues; Trump "annihilate" re-introduces upside risk:**
 
-- **Saudi Arabia reportedly offering more oil; Brent falls ~3.23% to ~$104.74 (Sep 17, new — ⚠️ single-sourced SAMAA TV Sep 17 for Saudi offer; Convex market feeds for Brent):** SAMAA TV's Sep 17 headline attributes the fall in global crude prices to Saudi Arabia offering more oil ([SAMAA TV Sep 17](https://www.youtube.com/watch?v=QZr9Sik_itg)). Convex market feeds show Brent at approximately $104.74 intraday Sep 17, down 3.23% from the prior session ([Convex Sep 17](https://convextrade.com/today/brent-crude-oil-price)). No barrel-volume figure confirmed. The Trump "end of war" signal (Al Jazeera Sep 17) is the concurrent diplomatic driver. The combined effect is a correction from the four-month high of $108.38 (Sep 15), but within the sustained rally (+14.32% over 30 days).
+- **Brent $103.46 (Sep 18, Convex, −0.95% from Sep 17's ~$104.74):** The Sep 17 diplomatic pullback continues into Sep 18 even as Trump's "annihilate" language introduces upside repricing risk ([Convex Sep 18](https://convextrade.com/today/brent-crude-oil-price)). 1-month: +13.05% from $91.52. 1-week: −2.52%. The correction from Sep 15's four-month high of $108.38 is now ~4.6%, but remains within the sustained rally. Saudi crude offers (SAMAA TV Sep 17) are a concurrent supply-side suppressor. Trump's "annihilate" framing, if it precedes a kinetic package, reprices Brent back toward $108–115.
 
-- **Houthi claimed F-15 shootdown — Saudi air campaign risk (Sep 17, new — ⚠️ unverified):** If confirmed, a successful Houthi shootdown of a Saudi F-15SA would elevate the risk to Saudi air campaign operations over Yemen and potentially reduce Saudi air defense capacity, creating a feedback loop on Saudi energy infrastructure vulnerability. Saudi silence is itself a signal — neither confirming nor denying. Watch for: Saudi Air Force operational tempo changes; any CENTCOM statement on Saudi aviation losses; any Saudi official acknowledgment.
+- **IRGC Togo-flagged tanker strike (Sep 18, new — ⚠️ single-sourced):** The IRGC tanker enforcement action Sep 18 adds incremental pressure on Gulf shipping confidence and Brent war risk premium. No confirmed damage assessment in pack.
 
-- **Saudi all-three-export-pathway blockage: deepest sustained impairment continues (Sep 17, carried):** (1) Hormuz: ~4 vessels Monday (Kpler Sep 15 — most recent); (2) Bab el-Mandeb: structural near-zero, Houthis controlling entire Red Sea coastline; (3) East-West pipeline to Yanbu: shutdown continuing, Yanbu loadings suspended, European delivery cancellations confirmed (Sep 15). Saudi Arabia's only remaining meaningful export path is Suez Canal routing.
+- **Saudi all-three-export-pathway blockage: deepest sustained impairment continues (Sep 18, carried):** (1) Hormuz: 8 vessels / 9% of typical (PortWatch Sep 13); (2) Bab el-Mandeb: structural near-zero, Houthis controlling entire Red Sea coastline; (3) East-West pipeline to Yanbu: shutdown continuing, Yanbu loadings suspended, European delivery cancellations confirmed (Sep 15). Saudi Arabia's only remaining meaningful export path is Suez Canal routing.
+
+- **Mecca drone intercept (Reuters Sep 16, carried from Red Sea section):** Saudi coalition intercepts Houthi drone south of Mecca — "second attempt" per coalition. Mecca security is a Saudi red line; confirmed breach would force direct Saudi military escalation.
 
 **Prior Sep 11-16 updates (carried):**
 - Brent $108.38 four-month high Sep 15 (MarketWatch); Saudi delivery cancellations to European customers confirmed (TradingEconomics Sep 15).
@@ -134,19 +149,19 @@
 - Bahrain air-defense activation — Sep 2 (AP, confirmed, carried).
 - UAE West-East Pipeline 2 — accelerated to 2027 (Reuters May 15 — confirmed, carried): ADCOP existing capacity 1.8M bbl/day. New pipeline targets 5M bpd by 2027.
 - Pakistan fully transitioned from mediator to Mecca Pact signatory (Aug 7, carried).
-- Xi Jinping Washington visit Sep 24 — constrains near-term US-China confrontation (7 days from Sep 17).
+- Xi Jinping Washington visit Sep 24 — constrains near-term US-China confrontation (6 days from Sep 18).
 
 ---
 
 ## Sovereign Debt Stress
-*Last materially changed: 2026-09-17 (Brent pullback to ~$104.74 modestly reduces import-bill pressure; Nov–Dec cliff now ~35 days to onset; no new IMF/Egypt/Pakistan data in pack)*
+*Last materially changed: 2026-09-18 (Brent $103.46 Sep 18; Nov–Dec cliff now ~34 days to onset; Trump "annihilate" re-escalation re-introduces upside Brent risk vs. yesterday's pullback)*
 
-Egypt-Pakistan ~$5.1B combined maturity cliff (Nov–Dec 2026) is the most acute EM window — now approximately **35 days** to the onset of the Nov–Dec window.
+Egypt-Pakistan ~$5.1B combined maturity cliff (Nov–Dec 2026) is the most acute EM window — now approximately **34 days** to the onset of the Nov–Dec window.
 
-**Sep 17 note:** Brent ~$104.74 (Sep 17) — down ~3.23% from the four-month high of $108.38 (Sep 15). Modestly reduces import-bill pressure for Egypt and Pakistan relative to yesterday, but remains approximately 75% above pre-war levels. Trump's "end of war" claim (Sep 17), if confirmed by Iran, would be the most significant near-term Brent-relief variable identified since Versailles — but at this stage it is unconfirmed and unpriced beyond the day's correction. Rezaei's "no talks" SNSC veto remains the last confirmed Iranian institutional position. No new IMF/Egypt/Pakistan data in today's pack. The cliff at ~35 days approaches without a confirmed counterweight.
+**Sep 18 note:** Brent $103.46 (Sep 18, Convex) — down 0.95% from Sep 17's $104.74. The continued correction marginally reduces import-bill pressure for Egypt and Pakistan relative to the Sep 15 four-month high of $108.38. However, Trump's "annihilate" statement (Sep 18) and the IRGC Togo-flagged tanker strike re-introduce upside Brent risk — a kinetic package would reverse the correction. The cliff at ~34 days continues to approach without a confirmed bilateral channel or IMF relief mechanism. No new IMF/Egypt/Pakistan data in today's pack.
 
-**Prior compound stress context (carried from Sep 16, updated Sep 17):**
-- No relief variable confirmed: Trump "direct talks" claim unconfirmed by Iran; Iran-Oman signing did not occur Sep 14 (corrected); no rescheduled GCC-Iran meeting date.
+**Prior compound stress context (carried from Sep 17, updated Sep 18):**
+- No relief variable confirmed: Trump "direct talks" claim (Sep 17) unconfirmed by Iran; Iran-Oman signing did not occur Sep 14 (corrected); no rescheduled GCC-Iran meeting date; Trump "annihilate" framing (Sep 18) re-escalates rather than de-escalates.
 - 10-year Treasury yield hitting 5% (MarketWatch Sep 15 headline in pack) — structurally elevated.
 - FOMC hawkish dot median 3.8% end-2026 compounds EM debt-service stress.
 - DXY above 100 — dollar strength compounding EM dollar-denominated energy cost.
@@ -162,34 +177,40 @@ Egypt-Pakistan ~$5.1B combined maturity cliff (Nov–Dec 2026) is the most acute
 ## Reconstruction Race (China/Russia)
 *Last materially changed: 2026-09-17 (ISW Sep 15 confirms China supplied Iran with air defense equipment via barter deal — most direct Chinese military-material transfer confirmed of conflict; Xi Washington visit Sep 24 now 7 days)*
 
-**Sep 17 UPDATE — Chinese air defense barter deal confirmed:**
+**Sep 18 note:** No new China/Russia direct-engagement data in Sep 18 pack. Xi Washington visit Sep 24 now 6 days — continues to constrain near-term US-China confrontation. Trump's "annihilate" framing (Sep 18) raises the question of whether the Xi visit survives a US kinetic package — a kinetic action before Sep 24 would force Xi to cancel or attend under acute duress. All Sep 17 material carried unchanged.
 
-- **China supplies Iran with air defense equipment — ISW Sep 15 (new, ⚠️ single-sourced):** ISW's Sep 15 China-Taiwan Update reports China supplied Iran with air defense equipment through a barter-like deal despite sanctions, likely to test PRC defense components in real-world settings ([ISW China-Taiwan Update Sep 15](https://isw.pub/ChinaTaiwanUpdate091526)). This is the most direct Chinese military-material transfer to Iran confirmed in the current conflict. Prior confirmed transfers: BeiDou satellite access (Jun 30), Russian targeting data (Jun 30), Russian drone components (ISW Aug 18). The air defense equipment transfer is qualitatively different — it is a defensive capability that, if integrated, closes the cheap-strike window for CENTCOM. **Strategic implication:** China is simultaneously testing its air defense systems in a real combat environment (information value to Beijing) and degrading US strike effectiveness against Iran (strategic value to Tehran). The Xi Washington visit Sep 24 (7 days) constrains near-term US response to this confirmation.
+**Sep 17 UPDATE — Chinese air defense barter deal confirmed (carried):**
 
-- **Brent ~$104.74 (Sep 17) — Russian fiscal windfall continues (directional update):** Even at $104.74, Brent remains well above the ~$60–70/bbl Russian budget breakeven. Russian fiscal windfall from elevated oil prices continues. IEA 5.7 mb/d supply gap extends the duration of elevated prices beneficial to Moscow.
+- **China supplies Iran with air defense equipment — ISW Sep 15 (⚠️ single-sourced):** ISW's Sep 15 China-Taiwan Update reports China supplied Iran with air defense equipment through a barter-like deal despite sanctions ([ISW China-Taiwan Update Sep 15](https://isw.pub/ChinaTaiwanUpdate091526)). China is testing defense components in real-world settings. **Strategic implication:** Closes the cheap-strike window for CENTCOM on a ~2-quarter integration timeline. If Chinese SAM integration into Iranian air defenses proceeds, the cheap-strike window closes by ~Q2 2027.
 
-**Structural facts (carried):** Russia drone component transfers confirmed through July 2026 (ISW Aug 18). China BeiDou + Russian satellite targeting data confirmed (Jun 30). Power of Siberia 2 accelerated. Chabahar strikes (Jul 9) created indirect China BRI windfall. EIA 2027 US crude production raise = extended Russian windfall window. Xi Washington visit Sep 24 (7 days) — constrains near-term US-China confrontation.
+- **Brent ~$103.46 (Sep 18) — Russian fiscal windfall continues:** Even at $103.46, Brent remains well above the ~$60–70/bbl Russian budget breakeven.
+
+**Structural facts (carried):** Russia drone component transfers confirmed through July 2026 (ISW Aug 18). China BeiDou + Russian satellite targeting data confirmed (Jun 30). Power of Siberia 2 accelerated. Chabahar strikes (Jul 9) created indirect China BRI windfall. EIA 2027 US crude production raise = extended Russian windfall window. Xi Washington visit Sep 24 (6 days) — constrains near-term US-China confrontation.
 
 ---
 
 ## Covert Actions Ledger — Cumulative
-*Last materially changed: 2026-08-27 (ISW Aug 26 offensive doctrine includes preemptive strike authorization; no new confirmed covert events in Sep 17 pack)*
+*Last materially changed: 2026-08-27 (ISW Aug 26 offensive doctrine includes preemptive strike authorization; no new confirmed covert events in Sep 18 pack)*
 
-*(No change — full detail at last materially changed date. No new confirmed covert events in today's evidence pack. ISW Sep 15 Chinese air defense barter deal is in Reconstruction Race section, not covert actions, as it is a confirmed state-to-state transfer rather than a deniable operation.)*
+*(No change — full detail at last materially changed date. No new confirmed covert events in today's evidence pack. IRGC Togo-flagged tanker strike Sep 18 is a declared kinetic action, not a covert operation. Trump "annihilate" framing is overt threat signaling.)*
 
 ---
 
 ## On the Ground in Iran
-*Last materially changed: 2026-09-17 (Iran-Oman signing correction adopted — did not occur Sep 14; Trump "direct talks" claim unconfirmed by any Iranian principal; pragmatist track: framework announced but unsigned, no new date; dual-track bifurcation continues)*
+*Last materially changed: 2026-09-18 (IRGC Togo-flagged tanker enforcement Sep 18 confirms hardliner-track kinetic continuity despite Sep 17 diplomatic signal; no Iranian principal statement confirming "direct talks" in Sep 18 pack; Trump "annihilate" framing re-intensifies coercive pressure)*
 
-**Sep 17 UPDATE — Signing correction; Trump "direct talks" unconfirmed:**
+**Sep 18 UPDATE — IRGC enforcement confirms hardliner track:**
 
-- **Iran-Oman route agreement: pragmatist track weakened but structurally present (Sep 17, corrected):** The Sep 14 "Monday" signing in Muscat announced by Pezeshkian at BRICS (Sep 12) did not occur. No new date is confirmed. The framework — a shared Hormuz route, Omani diplomatic vehicle, IMO submission framing — remains the pragmatist track's most concrete action since the MOU collapsed. The missed signing date weakens near-term credibility but does not eliminate the framework. The blockade-lift precondition (Hormuz full reopening requires US ending the blockade) remains unmet by Washington.
+- **IRGC Togo-flagged tanker strike (Sep 18, new — ⚠️ single-sourced):** The IRGC's strike on a Togo-flagged tanker for "illegal passage" (Al Jazeera Sep 18) on the same day as Trump's "annihilate" statement is structurally significant: it confirms the IRGC hardliner track is not pausing enforcement in response to Trump's Sep 17 diplomatic signal. The PGSA enforcement doctrine continues regardless of US diplomatic framing.
 
-- **Trump "direct talks" claim — Iranian response absent (Sep 17, new):** Trump's statement that he has spoken with Tehran "directly" ([Al Jazeera Sep 17](https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks)) has not been confirmed or denied by any Iranian principal in today's pack. If the channel is real, it most likely runs through the pragmatist track (Pezeshkian/Araghchi), potentially via Oman, without SNSC authorization (Rezaei's veto). If confirmed by Iran, it would represent a structural change in the diplomatic landscape — the most significant since Versailles. If denied or ignored by Tehran, it confirms the siege phase continues unchanged.
+- **Trump "direct talks" claim — Iranian response absent (Sep 17 claim, Sep 18 update):** No Iranian principal has confirmed or denied Trump's "direct talks" claim in the Sep 18 pack. The IRGC's tanker strike is the closest thing to an Iranian institutional response — and it is kinetic, not diplomatic.
 
-- **Hardliner track: Rezaei SNSC veto unchanged (carried from Sep 15):** Rezaei's "no talks with the US until demands met" (Al Jazeera liveblog Sep 15) remains the last confirmed SNSC-level institutional position. The IRGC troika (Vahidi, Zolghadr, Rezaei) controls all institutional levers.
+- **Trump "annihilate" framing — domestic pressure implications (Sep 18, new):** For on-the-ground Iran, Trump's "annihilate" language increases the political cost for any Iranian principal publicly engaging in negotiations. The pragmatist track (Pezeshkian/Araghchi/Oman vehicle) becomes harder to sustain publicly when the US president is simultaneously threatening national annihilation and claiming "direct talks."
 
-- **Domestic economic pressure (continuing, carried):** Inflation 88.6%+ (WWII-era high). Rial ~2M/USD. 20M+ barrels afloat with no buyers. Eight tankers struck/sunk Sep 5–8. Dark-fleet only channel. FDD estimates blockade costs Iran ~$435M/day. The pressure motivating the pragmatist track continues to intensify.
+- **Iran-Oman route agreement: pragmatist track weakened but structurally present (Sep 18, carried from Sep 17):** The Sep 14 "Monday" signing in Muscat did not occur. No new date confirmed. The framework — shared Hormuz route, Omani diplomatic vehicle, IMO submission framing — remains the pragmatist track's most concrete action since the MOU collapsed.
 
-- **Dual-track resolution candidates (Sep 17, updated):** (1) Trump "direct talks" confirmed by Iran — would be the nearest-term resolution candidate; (2) Iran-Oman route framework implemented with IMO recognition — partial Hormuz reopening without full blockade lift; (3) SPR political floor forcing US resolution (Apr–May 2027); (4) Iranian disintegration tipping point (Q1–Q2 2027); (5) US kinetic escalation changing IRGC cost-benefit (mid-Oct 2026 – Feb 2027 primary window, now compressed by Chinese air defense deliveries). Option 1 is the newest candidate; it requires Iranian confirmation to be meaningful.
+- **Hardliner track: Rezaei SNSC veto unchanged (carried from Sep 15):** Rezaei's "no talks with the US until demands met" remains the last confirmed SNSC-level institutional position. The IRGC troika (Vahidi, Zolghadr, Rezaei) controls all institutional levers.
+
+- **Domestic economic pressure (continuing, carried):** Inflation 88.6%+ (WWII-era high). Rial ~2M/USD. 20M+ barrels afloat with no buyers. Eight tankers struck/sunk Sep 5–8. Dark-fleet only channel. FDD estimates blockade costs Iran ~$435M/day. Hormuz at 8 vessels / 9% of typical (PortWatch Sep 13). The economic pressure motivating the pragmatist track continues to intensify.
+
+- **Dual-track resolution candidates (Sep 18, updated):** (1) Trump "direct talks" confirmed by Iran — nearest-term resolution candidate, still unconfirmed; (2) Iran-Oman route framework implemented with IMO recognition — partial Hormuz reopening, unsigned; (3) SPR political floor forcing US resolution (Apr–May 2027); (4) Iranian disintegration tipping point (Q1–Q2 2027); (5) US kinetic escalation (mid-Oct 2026 – Feb 2027 primary window, Trump "annihilate" Sep 18 consistent with window opening). Option 5 has been reinforced by today's Trump statement.
