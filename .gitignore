@@ -2,3 +2,5 @@
 # secrets never belong here
 *api_key*
 .env
+__pycache__/
+*.pyc
