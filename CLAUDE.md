@@ -12,6 +12,8 @@ The framework was designed to be loaded into Claude and used as an interactive r
 - `iran-war-standing.md` — standing sections (Gulf adaptation, SPR Day 0, Disintegration Tracker, Covert Actions Ledger, etc.), each with a "last materially changed" date. The briefing links here instead of repeating them.
 - `iran-war-context.md` — rolling context for the daily agent: factual corrections, evidence/format rules, conflict arc, weekly summaries.
 - `iran-war-reference.md` — historical reference (scenario history, impact catalog, update log).
+- `iran-war-questions.md` — the owner's open analytical questions (the agenda). The agent updates each question's current read, evidence log and what-would-change-it every run; only the owner adds or retires questions.
+- `data/signals/<date>.json` — structured signals collected each run by `scripts/signals.py` (PortWatch chokepoints and ports with 2025 baselines, rial/Tether/gold, Iran internet connectivity, Israel Home Front alerts, airspace snapshot, FIRMS thermal anomalies). A time series accumulates in git.
 
 Example prompts:
 - "What is the current scenario probability?"
@@ -22,7 +24,7 @@ Example prompts:
 
 ## Framework structure
 
-- **Daily Briefing** — top of the file, updated by the daily agent each morning
+- **Daily Briefing** — top of the file, updated by the daily agent each morning. Written for a reader who has already read ISW and the wires: it leads with the two or three open questions where the read moved (data, confidence, what would change it), then headlines as links only, then market and flow readings, scenario update, and standing-section deltas. Under ~900 words.
 - **Background** — timeline of key events since Feb 28
 - **Scenario Ladder** — 5 escalation scenarios (S1–S5) with probabilities and trigger events
 - **Impact Catalog** — tiered impacts (T1: 0–3 months, T2: 3–12 months, T3: structural/long-run)
@@ -44,4 +46,4 @@ When a conversation about this framework identifies a factual correction or a si
 
 ---
 
-*The daily agent runs entirely via GitHub Actions (remote trigger deleted 2026-08-12). `.github/workflows/daily-briefing.yml` runs `scripts/generate_briefing.py` once a day. Primary trigger: an external cron-job.org job POSTs to the `workflow_dispatch` endpoint at 11:50 UTC (workflow_dispatch runs immediately; GitHub's own `schedule` events are throttled/dropped for this repo since 2026-08-27). There is no GitHub `schedule` trigger (removed 2026-09-12); if cron-job.org fails, run the workflow manually from the Actions tab. Manual `workflow_dispatch` takes an optional search-provider override and a `force` flag to regenerate an existing day. The hold-run design (2026-09-10/11) was retired 2026-09-12: it parked a runner asleep for ~5h/day and double-generated. The agent's instructions live in the script's `CORE_PROMPT`/`CORE_STRUCTURE` constants, plus the corrections and evidence/format rules at the top of `iran-war-context.md`, loaded every run. Pipeline status and history: `STATE.md`.*
+*The daily agent runs entirely via GitHub Actions (remote trigger deleted 2026-08-12). `.github/workflows/daily-briefing.yml` runs `scripts/generate_briefing.py` once a day, triggered by a cron-job.org POST to the `workflow_dispatch` endpoint at 11:50 UTC (managed with `scripts/cronjob.py`; API key at `~/.config/cron-job-org/api_key`). There is no GitHub `schedule` trigger. Manual `workflow_dispatch` takes a search-provider override and a `force` flag. Pipeline (redesigned 2026-09-19): signals → query planning (Claude Sonnet 5 reads the question ledger and signals, writes ~24 targeted queries) → Tavily news search → Claude Opus 5 analyses and writes the briefing, the updated standing file and the updated question ledger in one response → challenger cross-check → commit. The agent's instructions live in the script's `CORE_PROMPT`/`CORE_STRUCTURE`/`PLAN_PROMPT` constants, plus the corrections and evidence/format rules at the top of `iran-war-context.md`, loaded every run. To change what the briefing investigates, edit `iran-war-questions.md`. Optional secret `FIRMS_MAP_KEY` (free NASA key) enables thermal-anomaly collection. Pipeline status and history: `STATE.md`.*

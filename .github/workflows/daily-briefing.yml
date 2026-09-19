@@ -78,6 +78,7 @@ jobs:
           SERPER_API_KEY:     ${{ secrets.SERPER_API_KEY }}
           TAVILY_API_KEY:     ${{ secrets.TAVILY_API_KEY }}
           SEARCH_PROVIDER:    ${{ inputs.provider || vars.SEARCH_PROVIDER || 'tavily' }}
+          FIRMS_MAP_KEY:      ${{ secrets.FIRMS_MAP_KEY }}
         run: python scripts/generate_briefing.py
 
       - name: Commit & push
@@ -98,7 +99,7 @@ jobs:
             "expected_max_age_hours": 30
           }
           JSON
-          git add iran-war-impact-framework.md iran-war-standing.md health/status.json
+          git add iran-war-impact-framework.md iran-war-standing.md iran-war-questions.md data/signals health/status.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
