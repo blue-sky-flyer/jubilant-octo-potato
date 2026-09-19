@@ -81,11 +81,26 @@ def pw_query(layer, where, fields, order=None, extra=None):
     return rows
 
 
-def week_windows():
-    """Latest 7 available days (PortWatch lags ~5 days), the 7 before, and the
-    same calendar week in 2025."""
-    end = TODAY - datetime.timedelta(days=4)
-    w1 = (end - datetime.timedelta(days=6), end)
+_LATEST = {}
+
+
+def latest_available(layer, where):
+    """Newest date with data in a PortWatch layer (PortWatch lags 4-6 days and the
+    last day or two can be partially reported, so anchor on the latest date that
+    has data and drop it if it looks thin)."""
+    if layer in _LATEST:
+        return _LATEST[layer]
+    rows = pw_query(layer, where, ["date"], "date DESC", {"resultRecordCount": 400})
+    dates = sorted({d(r["date"]) for r in rows}, reverse=True)
+    latest = dates[0] if dates else TODAY - datetime.timedelta(days=6)
+    _LATEST[layer] = latest
+    return latest
+
+
+def week_windows(latest):
+    """Seven full days ending on `latest`, the seven before, and the same
+    calendar week in 2025."""
+    w1 = (latest - datetime.timedelta(days=6), latest)
     w0 = (w1[0] - datetime.timedelta(days=7), w1[0] - datetime.timedelta(days=1))
     ly = (w1[0].replace(year=w1[0].year - 1), w1[1].replace(year=w1[1].year - 1))
     return w1, w0, ly
@@ -98,7 +113,9 @@ def pct(a, b):
 
 
 def portwatch_chokepoints():
-    w1, w0, ly = week_windows()
+    latest = latest_available("Daily_Chokepoints_Data",
+                              f"portname='Strait of Hormuz' AND date >= DATE '{TODAY - datetime.timedelta(days=14)}'")
+    w1, w0, ly = week_windows(latest)
     where = ("portname IN ({}) AND (date BETWEEN DATE '{}' AND DATE '{}' "
              "OR date BETWEEN DATE '{}' AND DATE '{}')").format(
         ",".join(f"'{c}'" for c in CHOKEPOINTS), w0[0], w1[1], ly[0], ly[1])
@@ -135,7 +152,12 @@ def portwatch_chokepoints():
 
 
 def portwatch_ports():
-    w1, w0, ly = week_windows()
+    # Port data trails a day behind the chokepoint series and the newest day is
+    # often thin; anchor one day earlier than the chokepoint anchor.
+    latest = latest_available("Daily_Chokepoints_Data",
+                              f"portname='Strait of Hormuz' AND date >= DATE '{TODAY - datetime.timedelta(days=14)}'")
+    latest = latest - datetime.timedelta(days=2)
+    w1, w0, ly = week_windows(latest)
     # Iran ports by ISO3 + the named ports elsewhere
     named = {pid for g in PORT_GROUPS.values() for pid in g}
     where = ("(ISO3='IRN' OR portid IN ({})) AND (date BETWEEN DATE '{}' AND DATE '{}' "
@@ -161,7 +183,7 @@ def portwatch_ports():
     for gname, ports in groups.items():
         if not ports:
             continue
-        lines.append(f"- **{gname}** (7-day sums, latest week vs prior week vs same week 2025; kt = thousand tonnes est.):")
+        lines.append(f"- **{gname}** (7-day sums for {w1[0]}..{w1[1]} vs prior 7 days vs same week 2025; kt = thousand tonnes est.):")
         out[gname] = {}
         for pid, label in ports.items():
             r = [x for x in rows if x["portid"] == pid]
