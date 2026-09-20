@@ -1,0 +1,927 @@
+{
+ "date": "2026-09-20",
+ "generated_at": "2026-09-20T04:59:08.849122+00:00",
+ "portwatch_chokepoints": {
+  "Strait of Hormuz": {
+   "latest_day": {
+    "date": "2026-09-13",
+    "portname": "Strait of Hormuz",
+    "n_total": 8,
+    "n_tanker": 1,
+    "n_container": 2,
+    "n_dry_bulk": 2,
+    "capacity_tanker": 0
+   },
+   "week": {
+    "days": 7,
+    "total_pd": 5.285714285714286,
+    "tanker_pd": 1.4285714285714286,
+    "container_pd": 0.2857142857142857,
+    "tanker_dwt_pd": 13019.0
+   },
+   "prior_week": {
+    "days": 7,
+    "total_pd": 3.142857142857143,
+    "tanker_pd": 0.8571428571428571,
+    "container_pd": 0.42857142857142855,
+    "tanker_dwt_pd": 23528.0
+   },
+   "same_week_2025": {
+    "days": 7,
+    "total_pd": 80.28571428571429,
+    "tanker_pd": 43.714285714285715,
+    "container_pd": 16.428571428571427,
+    "tanker_dwt_pd": 1985989.5714285714
+   },
+   "daily": [
+    {
+     "date": "2026-09-07",
+     "n_total": 5,
+     "n_tanker": 2,
+     "capacity_tanker": 4758
+    },
+    {
+     "date": "2026-09-08",
+     "n_total": 6,
+     "n_tanker": 2,
+     "capacity_tanker": 0
+    },
+    {
+     "date": "2026-09-09",
+     "n_total": 3,
+     "n_tanker": 0,
+     "capacity_tanker": 0
+    },
+    {
+     "date": "2026-09-10",
+     "n_total": 5,
+     "n_tanker": 1,
+     "capacity_tanker": 0
+    },
+    {
+     "date": "2026-09-11",
+     "n_total": 8,
+     "n_tanker": 3,
+     "capacity_tanker": 81604
+    },
+    {
+     "date": "2026-09-12",
+     "n_total": 2,
+     "n_tanker": 1,
+     "capacity_tanker": 4771
+    },
+    {
+     "date": "2026-09-13",
+     "n_total": 8,
+     "n_tanker": 1,
+     "capacity_tanker": 0
+    }
+   ]
+  },
+  "Bab el-Mandeb Strait": {
+   "latest_day": {
+    "date": "2026-09-13",
+    "portname": "Bab el-Mandeb Strait",
+    "n_total": 31,
+    "n_tanker": 9,
+    "n_container": 9,
+    "n_dry_bulk": 9,
+    "capacity_tanker": 408090
+   },
+   "week": {
+    "days": 7,
+    "total_pd": 27.285714285714285,
+    "tanker_pd": 8.142857142857142,
+    "container_pd": 5.857142857142857,
+    "tanker_dwt_pd": 438217.71428571426
+   },
+   "prior_week": {
+    "days": 7,
+    "total_pd": 25.428571428571427,
+    "tanker_pd": 7.0,
+    "container_pd": 5.0,
+    "tanker_dwt_pd": 340740.14285714284
+   },
+   "same_week_2025": {
+    "days": 7,
+    "total_pd": 34.57142857142857,
+    "tanker_pd": 10.857142857142858,
+    "container_pd": 6.142857142857143,
+    "tanker_dwt_pd": 630693.1428571428
+   },
+   "daily": [
+    {
+     "date": "2026-09-07",
+     "n_total": 34,
+     "n_tanker": 13,
+     "capacity_tanker": 420582
+    },
+    {
+     "date": "2026-09-08",
+     "n_total": 22,
+     "n_tanker": 7,
+     "capacity_tanker": 621823
+    },
+    {
+     "date": "2026-09-09",
+     "n_total": 35,
+     "n_tanker": 10,
+     "capacity_tanker": 328989
+    },
+    {
+     "date": "2026-09-10",
+     "n_total": 27,
+     "n_tanker": 7,
+     "capacity_tanker": 283986
+    },
+    {
+     "date": "2026-09-11",
+     "n_total": 22,
+     "n_tanker": 6,
+     "capacity_tanker": 619447
+    },
+    {
+     "date": "2026-09-12",
+     "n_total": 20,
+     "n_tanker": 5,
+     "capacity_tanker": 384607
+    },
+    {
+     "date": "2026-09-13",
+     "n_total": 31,
+     "n_tanker": 9,
+     "capacity_tanker": 408090
+    }
+   ]
+  },
+  "Suez Canal": {
+   "latest_day": {
+    "date": "2026-09-13",
+    "portname": "Suez Canal",
+    "n_total": 21,
+    "n_tanker": 7,
+    "n_container": 8,
+    "n_dry_bulk": 4,
+    "capacity_tanker": 402829
+   },
+   "week": {
+    "days": 7,
+    "total_pd": 37.857142857142854,
+    "tanker_pd": 15.857142857142858,
+    "container_pd": 10.142857142857142,
+    "tanker_dwt_pd": 687423.5714285715
+   },
+   "prior_week": {
+    "days": 7,
+    "total_pd": 41.57142857142857,
+    "tanker_pd": 15.285714285714286,
+    "container_pd": 11.0,
+    "tanker_dwt_pd": 680979.1428571428
+   },
+   "same_week_2025": {
+    "days": 7,
+    "total_pd": 45.0,
+    "tanker_pd": 17.428571428571427,
+    "container_pd": 10.571428571428571,
+    "tanker_dwt_pd": 840309.0
+   },
+   "daily": [
+    {
+     "date": "2026-09-07",
+     "n_total": 39,
+     "n_tanker": 20,
+     "capacity_tanker": 529806
+    },
+    {
+     "date": "2026-09-08",
+     "n_total": 43,
+     "n_tanker": 15,
+     "capacity_tanker": 862213
+    },
+    {
+     "date": "2026-09-09",
+     "n_total": 37,
+     "n_tanker": 18,
+     "capacity_tanker": 775553
+    },
+    {
+     "date": "2026-09-10",
+     "n_total": 37,
+     "n_tanker": 13,
+     "capacity_tanker": 797295
+    },
+    {
+     "date": "2026-09-11",
+     "n_total": 48,
+     "n_tanker": 23,
+     "capacity_tanker": 1008153
+    },
+    {
+     "date": "2026-09-12",
+     "n_total": 40,
+     "n_tanker": 15,
+     "capacity_tanker": 436116
+    },
+    {
+     "date": "2026-09-13",
+     "n_total": 21,
+     "n_tanker": 7,
+     "capacity_tanker": 402829
+    }
+   ]
+  }
+ },
+ "portwatch_ports": {
+  "Gulf loading (inside Hormuz)": {
+   "Ras Tanura (SA)": {
+    "week": {
+     "calls": 7,
+     "tanker_calls": 7,
+     "import_kt": 155.002,
+     "export_kt": 290.739,
+     "tanker_import_kt": 155.002,
+     "tanker_export_kt": 290.739
+    },
+    "prior_week": {
+     "calls": 6,
+     "tanker_calls": 6,
+     "import_kt": 103.005,
+     "export_kt": 142.79,
+     "tanker_import_kt": 103.005,
+     "tanker_export_kt": 142.79
+    },
+    "same_week_2025": {
+     "calls": 10,
+     "tanker_calls": 10,
+     "import_kt": 137.079,
+     "export_kt": 786.45,
+     "tanker_import_kt": 137.079,
+     "tanker_export_kt": 786.45
+    }
+   },
+   "Ras Laffan (QA)": {
+    "week": {
+     "calls": 17,
+     "tanker_calls": 11,
+     "import_kt": 1.299,
+     "export_kt": 437.984,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 382.073
+    },
+    "prior_week": {
+     "calls": 7,
+     "tanker_calls": 5,
+     "import_kt": 0.801,
+     "export_kt": 193.687,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 193.411
+    },
+    "same_week_2025": {
+     "calls": 38,
+     "tanker_calls": 36,
+     "import_kt": 0.0,
+     "export_kt": 1307.472,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 1307.472
+    }
+   },
+   "Jebel Ali (AE)": {
+    "week": {
+     "calls": 35,
+     "tanker_calls": 10,
+     "import_kt": 738.67,
+     "export_kt": 231.178,
+     "tanker_import_kt": 140.475,
+     "tanker_export_kt": 45.427
+    },
+    "prior_week": {
+     "calls": 27,
+     "tanker_calls": 3,
+     "import_kt": 531.771,
+     "export_kt": 186.467,
+     "tanker_import_kt": 154.516,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 180,
+     "tanker_calls": 33,
+     "import_kt": 3326.102,
+     "export_kt": 1528.89,
+     "tanker_import_kt": 701.444,
+     "tanker_export_kt": 167.899
+    }
+   },
+   "Kharg Island (IR)": {
+    "week": {
+     "calls": 2,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "prior_week": {
+     "calls": 2,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 0,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    }
+   }
+  },
+  "Bypass loading (outside Hormuz)": {
+   "Fujairah (AE)": {
+    "week": {
+     "calls": 46,
+     "tanker_calls": 31,
+     "import_kt": 457.681,
+     "export_kt": 842.16,
+     "tanker_import_kt": 354.794,
+     "tanker_export_kt": 611.291
+    },
+    "prior_week": {
+     "calls": 40,
+     "tanker_calls": 24,
+     "import_kt": 477.262,
+     "export_kt": 583.783,
+     "tanker_import_kt": 307.121,
+     "tanker_export_kt": 348.496
+    },
+    "same_week_2025": {
+     "calls": 83,
+     "tanker_calls": 76,
+     "import_kt": 776.89,
+     "export_kt": 935.5,
+     "tanker_import_kt": 750.637,
+     "tanker_export_kt": 610.149
+    }
+   },
+   "Yanbu King Fahd (SA)": {
+    "week": {
+     "calls": 2,
+     "tanker_calls": 1,
+     "import_kt": 15.044,
+     "export_kt": 36.849,
+     "tanker_import_kt": 1.002,
+     "tanker_export_kt": 10.553
+    },
+    "prior_week": {
+     "calls": 2,
+     "tanker_calls": 1,
+     "import_kt": 18.646,
+     "export_kt": 43.904,
+     "tanker_import_kt": 4.604,
+     "tanker_export_kt": 17.608
+    },
+    "same_week_2025": {
+     "calls": 21,
+     "tanker_calls": 20,
+     "import_kt": 250.402,
+     "export_kt": 793.942,
+     "tanker_import_kt": 236.359,
+     "tanker_export_kt": 767.645
+    }
+   }
+  },
+  "Iran Gulf ports": {
+   "Abadan (IR)": {
+    "week": {
+     "calls": 1,
+     "tanker_calls": 0,
+     "import_kt": 0.109,
+     "export_kt": 0.116,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "prior_week": {
+     "calls": 0,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 0,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    }
+   },
+   "Bahregan (IR)": {
+    "week": {
+     "calls": 0,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "prior_week": {
+     "calls": 0,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 0,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    }
+   },
+   "Bandar Abbas (IR)": {
+    "week": {
+     "calls": 3,
+     "tanker_calls": 2,
+     "import_kt": 0.355,
+     "export_kt": 0.345,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "prior_week": {
+     "calls": 3,
+     "tanker_calls": 2,
+     "import_kt": 0.587,
+     "export_kt": 0.477,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 6,
+     "tanker_calls": 2,
+     "import_kt": 4.651,
+     "export_kt": 1.096,
+     "tanker_import_kt": 0.126,
+     "tanker_export_kt": 0.253
+    }
+   },
+   "Bandar Khomeini (IR)": {
+    "week": {
+     "calls": 2,
+     "tanker_calls": 0,
+     "import_kt": 95.169,
+     "export_kt": 7.697,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "prior_week": {
+     "calls": 5,
+     "tanker_calls": 1,
+     "import_kt": 123.841,
+     "export_kt": 34.316,
+     "tanker_import_kt": 2.438,
+     "tanker_export_kt": 26.281
+    },
+    "same_week_2025": {
+     "calls": 8,
+     "tanker_calls": 0,
+     "import_kt": 287.209,
+     "export_kt": 24.285,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    }
+   },
+   "Bandar Shahid Rajaee (IR)": {
+    "week": {
+     "calls": 9,
+     "tanker_calls": 5,
+     "import_kt": 31.953,
+     "export_kt": 44.263,
+     "tanker_import_kt": 11.867,
+     "tanker_export_kt": 4.399
+    },
+    "prior_week": {
+     "calls": 3,
+     "tanker_calls": 0,
+     "import_kt": 8.365,
+     "export_kt": 5.999,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 19,
+     "tanker_calls": 1,
+     "import_kt": 29.67,
+     "export_kt": 141.154,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    }
+   },
+   "Bandar-E Pars Terminal (IR)": {
+    "week": {
+     "calls": 3,
+     "tanker_calls": 0,
+     "import_kt": 12.524,
+     "export_kt": 25.472,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "prior_week": {
+     "calls": 5,
+     "tanker_calls": 0,
+     "import_kt": 2.387,
+     "export_kt": 7.738,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 5,
+     "tanker_calls": 1,
+     "import_kt": 1.009,
+     "export_kt": 3.314,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    }
+   },
+   "Bushehr (IR)": {
+    "week": {
+     "calls": 2,
+     "tanker_calls": 0,
+     "import_kt": 0.595,
+     "export_kt": 1.081,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "prior_week": {
+     "calls": 4,
+     "tanker_calls": 0,
+     "import_kt": 0.595,
+     "export_kt": 1.081,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 3,
+     "tanker_calls": 1,
+     "import_kt": 17.354,
+     "export_kt": 0.44,
+     "tanker_import_kt": 14.523,
+     "tanker_export_kt": 0.44
+    }
+   },
+   "Chabahar (IR)": {
+    "week": {
+     "calls": 1,
+     "tanker_calls": 0,
+     "import_kt": 43.844,
+     "export_kt": 6.213,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "prior_week": {
+     "calls": 0,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 1,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.223,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    }
+   },
+   "Jask (IR)": {
+    "week": {
+     "calls": 1,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "prior_week": {
+     "calls": 2,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 0,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    }
+   },
+   "Khorramshahr (IR)": {
+    "week": {
+     "calls": 0,
+     "tanker_calls": 0,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "prior_week": {
+     "calls": 4,
+     "tanker_calls": 0,
+     "import_kt": 1.651,
+     "export_kt": 0.138,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 3,
+     "tanker_calls": 0,
+     "import_kt": 1.253,
+     "export_kt": 0.181,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    }
+   },
+   "Lavan (IR)": {
+    "week": {
+     "calls": 1,
+     "tanker_calls": 1,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "prior_week": {
+     "calls": 1,
+     "tanker_calls": 1,
+     "import_kt": 0.0,
+     "export_kt": 0.0,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 1,
+     "tanker_calls": 1,
+     "import_kt": 0.0,
+     "export_kt": 30.411,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 30.411
+    }
+   }
+  },
+  "Iran Caspian ports": {
+   "Amirabad Port (IR)": {
+    "week": {
+     "calls": 19,
+     "tanker_calls": 2,
+     "import_kt": 19.35,
+     "export_kt": 4.117,
+     "tanker_import_kt": 6.448,
+     "tanker_export_kt": 0.227
+    },
+    "prior_week": {
+     "calls": 13,
+     "tanker_calls": 0,
+     "import_kt": 10.731,
+     "export_kt": 2.262,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 10,
+     "tanker_calls": 0,
+     "import_kt": 8.588,
+     "export_kt": 1.02,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    }
+   },
+   "Bandar-e Anzali (IR)": {
+    "week": {
+     "calls": 18,
+     "tanker_calls": 2,
+     "import_kt": 14.154,
+     "export_kt": 2.462,
+     "tanker_import_kt": 5.245,
+     "tanker_export_kt": 0.299
+    },
+    "prior_week": {
+     "calls": 15,
+     "tanker_calls": 2,
+     "import_kt": 11.378,
+     "export_kt": 3.066,
+     "tanker_import_kt": 5.245,
+     "tanker_export_kt": 0.299
+    },
+    "same_week_2025": {
+     "calls": 4,
+     "tanker_calls": 0,
+     "import_kt": 0.921,
+     "export_kt": 0.483,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    }
+   },
+   "Nowshahr Port (IR)": {
+    "week": {
+     "calls": 14,
+     "tanker_calls": 2,
+     "import_kt": 12.783,
+     "export_kt": 2.659,
+     "tanker_import_kt": 4.522,
+     "tanker_export_kt": 1.888
+    },
+    "prior_week": {
+     "calls": 9,
+     "tanker_calls": 0,
+     "import_kt": 6.46,
+     "export_kt": 2.313,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 0.0
+    },
+    "same_week_2025": {
+     "calls": 8,
+     "tanker_calls": 1,
+     "import_kt": 6.162,
+     "export_kt": 6.544,
+     "tanker_import_kt": 0.0,
+     "tanker_export_kt": 5.643
+    }
+   }
+  },
+  "Destination refineries": {
+   "Sikka/Jamnagar (IN)": {
+    "week": {
+     "calls": 15,
+     "tanker_calls": 15,
+     "import_kt": 103.667,
+     "export_kt": 467.068,
+     "tanker_import_kt": 103.667,
+     "tanker_export_kt": 467.068
+    },
+    "prior_week": {
+     "calls": 19,
+     "tanker_calls": 19,
+     "import_kt": 19.936,
+     "export_kt": 648.375,
+     "tanker_import_kt": 19.936,
+     "tanker_export_kt": 648.375
+    },
+    "same_week_2025": {
+     "calls": 10,
+     "tanker_calls": 10,
+     "import_kt": 25.785,
+     "export_kt": 401.031,
+     "tanker_import_kt": 25.785,
+     "tanker_export_kt": 401.031
+    }
+   },
+   "Ningbo (CN)": {
+    "week": {
+     "calls": 340,
+     "tanker_calls": 80,
+     "import_kt": 5144.499,
+     "export_kt": 5711.484,
+     "tanker_import_kt": 1106.435,
+     "tanker_export_kt": 159.354
+    },
+    "prior_week": {
+     "calls": 382,
+     "tanker_calls": 104,
+     "import_kt": 6630.605,
+     "export_kt": 5225.181,
+     "tanker_import_kt": 1923.681,
+     "tanker_export_kt": 159.492
+    },
+    "same_week_2025": {
+     "calls": 418,
+     "tanker_calls": 103,
+     "import_kt": 8496.068,
+     "export_kt": 7031.143,
+     "tanker_import_kt": 1565.156,
+     "tanker_export_kt": 231.758
+    }
+   },
+   "Ulsan (KR)": {
+    "week": {
+     "calls": 228,
+     "tanker_calls": 170,
+     "import_kt": 2075.597,
+     "export_kt": 738.816,
+     "tanker_import_kt": 1896.209,
+     "tanker_export_kt": 657.711
+    },
+    "prior_week": {
+     "calls": 200,
+     "tanker_calls": 146,
+     "import_kt": 1491.033,
+     "export_kt": 1018.008,
+     "tanker_import_kt": 1395.49,
+     "tanker_export_kt": 926.035
+    },
+    "same_week_2025": {
+     "calls": 190,
+     "tanker_calls": 139,
+     "import_kt": 1521.13,
+     "export_kt": 964.064,
+     "tanker_import_kt": 1339.971,
+     "tanker_export_kt": 858.699
+    }
+   }
+  },
+  "iran_split": {
+   "caspian": 51,
+   "gulf": 23,
+   "caspian_2025": 22,
+   "gulf_2025": 46
+  }
+ },
+ "tgju": {
+  "price_dollar_rl": {
+   "label": "USD/IRR open market",
+   "price": 2302750.0,
+   "day_change": "0",
+   "dp": 0,
+   "updated": "2026-09-19 00:00:00"
+  },
+  "price_eur": {
+   "label": "EUR/IRR open market",
+   "price": 2647100.0,
+   "day_change": "0",
+   "dp": 0,
+   "updated": "2026-09-19 00:00:00"
+  },
+  "crypto-tether-irr": {
+   "label": "Tether (USDT)/IRR",
+   "price": 2286470.0,
+   "day_change": "1,610",
+   "dp": 0.07,
+   "updated": "2026-09-20 08:25:30"
+  },
+  "geram18": {
+   "label": "Gold 18k, per gram (IRR)",
+   "price": 238781000.0,
+   "day_change": "0",
+   "dp": 0,
+   "updated": "2026-09-19 00:00:00"
+  },
+  "sekee": {
+   "label": "Emami gold coin (IRR)",
+   "price": 2374800000.0,
+   "day_change": "0",
+   "dp": 0,
+   "updated": "2026-09-19 00:00:00"
+  }
+ },
+ "ioda": {
+  "bgp": {
+   "last": 41681,
+   "min_24h": 41641,
+   "mean_24h": 41678.79861111111,
+   "mean_prior_6d": 41667.475201845446
+  },
+  "ping-slash24": {
+   "last": 10980,
+   "min_24h": 10659.666666666666,
+   "mean_24h": 11196.256944444445,
+   "mean_prior_6d": 11127.0092272203
+  }
+ },
+ "israel_alerts": {
+  "days": {
+   "2026-09-19": {
+    "alerts": {
+     "infiltration": 1
+    },
+    "localities": 1
+   },
+   "2026-09-17": {
+    "alerts": {
+     "hostile aircraft/UAV": 1,
+     "rockets/missiles": 1
+    },
+    "localities": 2
+   }
+  },
+  "total_7d": 3,
+  "total_prior_7d": 4
+ },
+ "opensky": {
+  "Iran": 83,
+  "Gulf (KW/SA-east/QA/AE/OM)": 133,
+  "Israel/Lebanon": 13,
+  "Iraq": 5
+ },
+ "firms": {}
+}
