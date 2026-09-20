@@ -243,21 +243,45 @@ Requirements:
 Queries:"""
 
 
+def parse_queries(text: str) -> list:
+    """Accept numbered/bulleted/quoted lines, code fences, or ';'-separated lists."""
+    text = re.sub(r"```[a-z]*", "", text)
+    lines = []
+    for ln in text.splitlines():
+        ln = re.sub(r"^[\-\*\u2022\d\.\)\s]+", "", ln).strip().strip('"\u201c\u201d\'')
+        if not ln or ln.lower().startswith(("queries", "here are", "note")):
+            continue
+        parts = [p.strip() for p in ln.split(";")] if ln.count(";") >= 2 else [ln]
+        lines.extend(p for p in parts if 8 <= len(p) <= 220)
+    seen, out = set(), []
+    for q in lines:
+        k = q.lower()
+        if k not in seen:
+            seen.add(k)
+            out.append(q)
+    return out
+
+
 def plan_queries(client, questions, signals, yesterday) -> list:
-    try:
-        msg = client.messages.create(
-            model=PLANNER_MODEL, max_tokens=2000,
-            messages=[{"role": "user", "content": PLAN_PROMPT.format(
-                questions=questions, signals=signals, yesterday=yesterday[:6000])}],
-        )
-        text = "".join(b.text for b in msg.content if b.type == "text")
-        qs = [re.sub(r"^[\-\*\d\.\)\s]+", "", ln).strip().strip('"') for ln in text.splitlines()]
-        qs = [q for q in qs if 12 <= len(q) <= 160]
-        log(f"planner produced {len(qs)} queries")
-        return qs[:PLANNED_QUERIES + 4]
-    except Exception as e:
-        log(f"planner failed ({e}); using core queries only")
-        return []
+    prompt = PLAN_PROMPT.format(questions=questions, signals=signals, yesterday=yesterday[:6000])
+    for attempt in (1, 2):
+        try:
+            msg = client.messages.create(
+                model=PLANNER_MODEL, max_tokens=3000,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            text = "".join(b.text for b in msg.content if b.type == "text")
+            qs = parse_queries(text)
+            log(f"planner attempt {attempt}: {len(qs)} queries parsed from {len(text)} chars")
+            if len(qs) >= PLANNED_QUERIES // 2:
+                return qs[:PLANNED_QUERIES + 4]
+            log("planner raw output (first 1500 chars):\n" + text[:1500])
+            prompt += ("\n\nYour previous answer was not in the required format. Output ONLY the "
+                       f"{PLANNED_QUERIES} queries, one per line, plain text, nothing else.")
+        except Exception as e:
+            log(f"planner attempt {attempt} failed: {e}")
+    log("planner fell back to core queries only")
+    return []
 
 
 # --------------------------------------------------------------------------- #
