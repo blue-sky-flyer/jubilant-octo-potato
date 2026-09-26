@@ -1,43 +1,47 @@
 # Iran War Economic Impact Framework
-*Last updated by daily agent: 2026-09-25*
+*Last updated by daily agent: 2026-09-26*
 
 > **[Open questions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-questions.md) · [Standing sections](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md) · [Full reference](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)**
 
 ---
 
-## Daily Briefing - 2026-09-25
+## Daily Briefing - 2026-09-26
 
-**Day 210 / Week 30.** Kpler has published the first hard weekly crude tonnage for Hormuz of this phase — 49.2 million barrels, or 7.0 mb/d — and it is rising, because Yanbu still has not loaded a single cargo since the pipeline restarted. The strait is absorbing Saudi Arabia's displaced Red Sea barrels, and the market spent Thursday and Friday trading Iranian nuclear rhetoric instead.
+**Day 211 / Week 31.** Trump has rejected Iran's seven-day Hormuz plan and told aides he expects to resume bombing after the November midterms, moving the war's decisive date from the negotiating table to Nov 3. Brent closed Friday at $104.32 — before that report ran.
 
 ### The calls — where the read moved
 
-**Q1 · Hormuz flow — Kpler's weekly print is 7.0 mb/d and accelerating; the AIS series is now formally unusable.**
-49.2 mb crude exited Hormuz in the full week to Sep 19 → **49.2 ÷ 7 = 7.03 mb/d**, ~8% above Kpler's 6.5 mb/d September average and comfortably inside the IEA's 7.6 mb/d total-oil bracket. The week from Sep 20 is at 33.7 mb and "roughly on track," carried by **19 tankers of which 17 VLCCs = 1.77 mb per hull** ([MarineLink/Kpler, Sep 25](https://www.marinelink.com/news/hormuz-crude-oil-flows-reach-million-543258)). PortWatch saw 0.6 tankers/day and 1k DWT/day over the overlapping week — the AIS record is catching single-digit percentages of hulls, not a floor worth quoting. A US official puts Wednesday at ~60 transits and the highest daily crude volume since early July; Thursday fell to 9 from 14, against a 10-day average of 18. Bessent's 10–17 mb/d stays discarded. Confidence high. Changes on a Kpler week below ~28 mb.
+**Q9 · Diplomacy — the channel is now a clock, not a process, and the clock runs to Nov 3.**
+The WSJ, carried by three independent outlets, reports Trump turned the offer down; US officials told Tehran and the Qatari mediators there is no plan to lift the blockade, betting economic strain forces Iran onto Washington's terms ([Anadolu, Sep 26](https://www.aa.com.tr/en/us-israel-iran-war/trump-doubts-iran-deal-plans-renewed-strikes-after-midterms-wsj/4069828); [Al Jazeera, Sep 26](https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next); [Reuters, Sep 26](https://www.reuters.com/world/middle-east/iran-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan-2026-09-26) — Reuters could not confirm it). The rejection was structurally predictable: Araghchi's own sequencing puts US steps on days four-five, the strait opening on day six ([Iran International liveblog, Sep 26](https://www.iranintl.com/en/liveblog/202609269384)) — the US moves first, which it has refused since Doha. Both flanks hardened: the IRGC wants the June accord back; a senior Iranian official told Reuters Tehran concedes nothing on enrichment or HEU export *even if* the plan is accepted, repudiating Pezeshkian's Thursday flexibility line inside 24 hours. Confidence medium-high. Changes on a confirmed Oman round — WSJ says mediators are pressing for one next week.
 
-**Q7 · Houthi front — correction: Yanbu is still not exporting, and that is why Hormuz volumes are up.**
-Reuters reports Saudi Arabia is raising pumping volumes through the East-West line "although crude tanker loadings **have yet to resume**, according to industry sources, satellite imagery and shipping data" ([Reuters, Sep 25](https://www.reuters.com/business/energy/oil-prices-fall-markets-look-iran-truce-remain-wary-attacks-oil-facilities-2026-09-25)); Dryad flagged stronger partial flow only around Sep 26 and full volumes "several more weeks" ([Dryad, Sep 23](https://channel16.dryadglobal.com/saudi-east-west-pipeline-restart-what-it-means-for-yanbu-exports?hs_amp=true)). The Sep 23 read that the Red Sea outlet is tradeable again is withdrawn: pipe pumping ≠ port loading. **Inference (medium-high):** Yanbu at zero against a 938 kt 2025 weekly baseline forces the full ~4 mb/d bypass programme back through the strait — the arithmetic source of Q1's +8%. Houthis fired dozens of missiles Friday; six ballistic intercepted; alerts at Mecca, Jeddah and Yanbu ([CNBC, Sep 25](https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html)). Confidence high. Changes on a confirmed Yanbu departure.
+**Q1 · Hormuz — the binding constraint has moved out of the strait into the Gulf of Oman, and freight is the tell.**
+VLCC rates hit a record **$1.27m/day "as Oman transfer capacity maxes out"** ([OilPrice, Sep 25](https://oilprice.com/Latest-Energy-News/World-News/VLCC-Rates-Hit-Record-127-Million-a-Day-as-Oman-Transfer-Capacity-Maxes-Out.amp.html)) — +27% on the $1m print of Sep 21, in a week crude fell ~2%. Arithmetic: $1.27m/day over a ~40-day MEG–Asia round trip on a 2m-bbl hull is **~$25/bbl, a quarter of Brent**. Kpler now puts Saudi September exports at ~6 mb/d, back to the 2025 average ([CNBC via ua.news, Sep 25](https://ua.news/en/energetika/eksport-nafti-saudivskoyi-araviyi-zris-do-maksimumu-za-chas-viini-z-iranom-cnbc)) — but the same house's August base moved 2.4 → 3.4 mb/d, a 42% revision, so this is **not** comparable to the 4.0 mb/d month-to-date print of Sep 21 and I do not read a late-September surge into it. Confidence high on freight, medium on volume.
 
-**Q9 · Diplomacy — the offer is on the record from the foreign minister, and Tehran has now publicly manufactured an authorisation chain.**
-Araghchi laid the seven-day plan out at a UNGA press briefing — cease hostilities, Hormuz open at the end of day seven, then comprehensive nuclear talks; ready on US agreement; "it would be better" before the midterms; a US official calls the mediated channel constructive but says Washington will not rush ([NYT, Sep 24](https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html)). Then Pezeshkian said he met Khamenei **face to face**, that the Supreme Leader is healthy and "the consultations and the directions come from there" ([JPost live, Sep 25](https://www.jpost.com/middle-east/iran-news/2026-09-25/live-updates-909655)) — an Iranian claim, uncorroborated, and the first claimed proof-of-life since Feb 28. **Inference (medium):** arriving three days after MPs said Araghchi lacked authorisation, this is cover being built, and states build cover when they intend to sign. Against it: "It's America that must choose" (CNBC, above). Confidence medium. Changes on independent verification — or refutation — of that meeting.
+**Q7 · Red Sea — Yanbu's blockage is now priced, and the price says the constraint is not economic.**
+War-risk on Saudi-linked tankers calling Yanbu has **tripled to ~3% of hull value** from under 1% in early July, with loadings still not resumed ([Reuters via MarineLink, Sep 24](https://www.marinelink.com/news/oil-tanker-insurance-triples-amidst-543249)). **Inference (medium):** 3% of a ~$120m VLCC is ~$3.6m, ~$1.80/bbl laden — roughly a fifteenth of the $25–30/bbl it costs to move the same barrel through Hormuz. On cost alone Yanbu should dominate by an order of magnitude; that it is empty means the constraint is pipeline volume and owner willingness, not premium. And the route's defence is European: Greek-crewed Patriots downed a ballistic missile and a drone near Yanbu on Thursday ([Al Jazeera/Reuters, Sep 24](https://www.aljazeera.com/news/2026/9/24/saudi-led-coalition-says-shot-down-6-ballistic-missiles-launched-by-houthis)).
 
-**Not moved today:** Q2 inside Iran, Q3 capital flows (today's tape confirms it — see readings), Q4 view from space, Q5 US posture, Q6 Israel, Q8 Mecca Pact — reads unchanged since 2026-09-23.
+**Not moved today:** Q2 inside Iran, Q4 view from space, Q5 US posture, Q6 Israel, Q8 Mecca Pact — reads unchanged since 2026-09-23/24.
 
 **Headlines the wires already have:**
-- Saudi Arabia, Turkey and Pakistan to convene an urgent chiefs-of-staff meeting under the Mecca agreement ([CNBC, Sep 25](https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html))
-- France to send military to protect Saudi Arabia on the Red Sea oil route, Macron says ([JPost, Sep 25](https://www.jpost.com/middle-east/iran-news/2026-09-25/live-updates-909655))
-- US Senate narrowly rejects the Iran war-powers resolution ([FM Bharat, Sep 25](https://www.fmbharat.com/en/world/us-senate-rejects-iran-war-powers-bid))
-- Israeli officials say renewed strikes on Iran are "only a matter of time" ([Times of Israel, Sep 24](https://www.timesofisrael.com/report-israeli-official-claims-renewed-strikes-on-iran-only-a-matter-of-time))
+- Saudi, Turkish and Pakistani chiefs of staff meet in the kingdom; ISPR says commitments will be "immediately" translated into military cooperation ([Dawn, Sep 26](https://www.dawn.com/news/2032784))
+- US appears set to seize ~6m bbl of Iranian crude, ~$600m, from three tankers crossing the Atlantic ([Maritime Executive, Sep 25](https://maritime-executive.com/article/us-appears-set-to-seize-600m-in-iranian-crude-oil-from-three-tankers))
+- UAE bars Iranian airlines; Iraqi airports halt Iranian flights ([Al Jazeera, Sep 25](https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions))
+- Trump weighs options to cut diesel costs short of a full export ban ([Seeking Alpha, Sep 25](https://seekingalpha.com/news/4647366-trump-said-to-weigh-range-of-options-for-lowering-diesel-costs-without-full-export-ban))
 
-**Corrections:** The Sep 23 standing line "Yanbu is loading again at a low rate" is wrong and withdrawn — the pipeline restarted, the port has not exported (Reuters, Sep 25). → Corrected.
+**Corrections:** Yesterday's briefing put Brent below $98 intraday on Friday Sep 25, single-sourced. Wrong. Brent closed Friday at **$104.32** ([Anadolu, Sep 26](https://www.aa.com.tr/en/energy/oil/us-oil-rig-count-up-for-week-ending-sept-25/59875)) after opening ~$105.85; the sub-$98 print belongs to **Sep 22**, when Brent touched $97.36, its lowest since Sep 8 ([Kitco/Reuters, Sep 23](https://www.kitco.com/news/off-the-wire/2026-09-23/oil-holds-near-two-week-lows-while-diesel-cracks-hit-record-peak)). The derived claim that "diplomacy beta exceeds Houthi beta by more than 2x" is **withdrawn**: Thursday's +3.4% kinetic rally gave back ~2%, not 8%.
 
-**Market and flow readings (2026-09-25):**
-- **Brent settled $106.60 Sep 24, +3.4% (+$3.52)**, highest close since Sep 15, on the Taif/Yanbu missile salvo; WTI $94.61, +2.7%, ending a six-session 13% slide ([Nation Thailand/Reuters, Sep 25](https://www.nationthailand.com/news/world/40071450)). Friday opened $105.85 (−0.69%) then broke **below $98 ($97.95) intraday** after Pezeshkian said Iran "absolutely does not" want nuclear weapons and offered lower enrichment plus inspections ([BigGo, Sep 25](https://finance.biggo.com/news/f73558ff-93b6-4d98-a467-73a65d33a13e) — single-sourced; its "−2%" label is inconsistent with the level, use the level). **Read: a 3.4% kinetic rally erased by ~8% on one sentence about enrichment. Diplomacy beta now exceeds Houthi beta by more than 2x.**
-- **Rial 2,346,150/USD**, a fourth consecutive run low, +3% weaker than Sep 18. **Tether 2,327,920 = −0.78%, back to a discount** from Thursday's par — the exit bid that briefly appeared has gone. Emami coin unchanged in rial at 2,400M = $1,022.9 against ~$1,007.7 intrinsic at $4,281.98 gold → **premium ~1.5%, from 1.65%**: the hard-asset bid stalled (tgju, agent arithmetic).
-- **Israel Home Front: 2 alert events in 7 days versus 2 prior** — halved from 4/4 last week, the quietest reading of the series. Iranian civil ADS-B 70 aircraft, −24% w/w; IODA 11,072 /24s, 1.4% under the six-day mean, no shutdown signature.
+**Market and flow readings (2026-09-26):**
+- **Brent $104.32, WTI $92.44** at Friday's close; US oil rigs 455, +3 w/w, +31 y/y (Anadolu, above). The level predates the WSJ rejection — Monday opens with the settlement branch publicly closed and unpriced.
+- **PortWatch published no new week.** The Sep 14–20 chokepoint series and Sep 12–18 port series both carry forward unchanged; no fresh AIS-vs-arrivals divergence to read this run.
+- **Rial 2,340,000**, 0.26% *stronger* than Friday — first up session in five. Tether 2,336,620, discount narrows to **0.14%** from 0.78% (tgju).
+- **Gold coin, new basis:** pricing the Emami coin against Tehran's own 18k gram strips out the exchange rate. 238.7M ÷ 0.75 = 318.3M/g fine; ×7.32g = 2,329.7M intrinsic vs a 2,385M coin = **2.4% premium**, from 2.0% Friday and 2.5% Sep 23. Flat, and an order of magnitude below the 20–40% of past Iranian monetary panics.
+- IODA 11,159 /24s, 0.6% under the six-day mean. Iranian ADS-B **77 aircraft, +10% d/d, −16% w/w** — rising on the day the UAE and Iraq shut to Iranian carriers; I read domestic redeployment (inference, low confidence).
 
-**Scenario update:** S1 1% / S2 14% / S3 68% / S4 12% / S5 5% — S2 +4, S3 −2, S4 −2. A publicly tabled, sequenced, midterm-clocked Iranian offer plus Beijing attaching itself to the outcome raises the settlement branch; Pezeshkian's on-record enrichment-and-inspections language is the first nuclear flexibility signal since May and pulls S4 down. The Friday salvo and the Mecca alerts keep S3 dominant.
+**Scenario update:** S1 1% / S2 8% / S3 73% / S4 13% / S5 5% — S2 −6, S3 +5, S4 +1. A publicly rejected, sequenced offer plus a reported intent to bomb after Nov 3 collapses the near-term settlement branch; the anonymous Iranian repudiation of enrichment flexibility reverses Thursday's S4 relief.
 
 **Standing sections updated today:** [Gulf States Adaptation](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#gulf-states-adaptation) · [Red Sea / Bab el-Mandeb](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#red-sea--bab-el-mandeb--baseline) · [Iranian State Disintegration Tracker](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#iranian-state-disintegration-tracker--irans-endurance-ceiling) · [US Military Posture & Munitions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#us-military-posture--munitions)
+
+---
 
 ---
 
@@ -45,26 +49,38 @@ Araghchi laid the seven-day plan out at a UNGA press briefing — cease hostilit
 *Each model below read the same signals and evidence pack and Claude's briefing, then noted where its conclusions differ. Challengers are a cross-check, not the published analysis.*
 
 ### Gemini
-I largely agree with the Hormuz flow reassessment and Yanbu export correction, but differ on four points:
+I largely agree with the overall assessment, but differ on three specific points:
 
-* **S2 Over-Optimism:** Bumping S2 to 14% (+4) ignores poison pills in Araghchi’s framework: Tehran demands lifting the blockade on Houthi-held Yemen and an immediate $24bn asset release (Middle East Eye). With Washington refusing to rush (NYT) and Israel stating strikes are "only a matter of time" (ToI), S2 belongs at ≤10%.
-* **Missed Succession Contradiction:** Claude missed that Al Jazeera (Sep 23) explicitly references *Mojtaba Khamenei* as Supreme Leader, clashing directly with Pezeshkian’s UNGA claims that the elder Khamenei is healthy and directing policy (JPost).
-* **Synthetic Oil Print:** Claude bases a major thesis ("8% drop erased kinetic rally") on BigGo’s $97.95 figure, which carries an `ai_generated` URL tag and conflicts with actual market tape from Reuters (Brent $105.85) and CNBC. 
-* **Overland Chokepoint Ignored:** Claude omitted AP reporting of severe bottlenecks at Gurbulak/Bazargan (7-km queues, >5-day dwell times), key evidence that Iran’s overland import lifeline is failing to absorb the naval blockade.
+* **Scenario 2 underweighted / premature closure of Q9:** Slashing S2 to 8% over-indexes on a single leak. Reuters explicitly could not confirm the WSJ report and notes Tehran still awaits an official response (Reuters, Sep 26), while Polymarket maintains a 61% probability of a senior US-Iran meeting by Sept 30. S2 should remain at 12–14%.
+* **Unsupported ADS-B metric (OpenSky):** Claude asserts Iranian ADS-B traffic was "+10% d/d" to support an inference of domestic flight redeployment. The structured signal provides only the current snapshot (77) and the weekly baseline (92) (OpenSky); no daily baseline exists in the data to justify a day-over-day claim.
+* **Q8 Mecca Pact under-called:** Classifying Q8 as "not moved" contradicts fresh evidence: the Chiefs of Staff physically convened in Riyadh, with ISPR formally pledging to "immediately translate" pact commitments into operational military cooperation (Dawn, Sep 26). This marks a transition from diplomatic alignment to trilateral military execution.
 
 ### DeepSeek-V3
-_Cross-check via deepseek/deepseek-chat unavailable this run (429 Client Error: Too Many Requests for url: https://openrouter.ai/api/v1/chat/completions)._
+- **Strait of Hormuz tanker traffic analysis:** Claude's briefing emphasizes a return to pre-war traffic levels is impossible, citing IEA figures (PortWatch). However, the CENTCOM claim of "six-month high" flows (MarineLink) and Kpler's Saudi export rebound signal at least partial recovery. The data doesn't support a binary "closed vs. open" framing—more a degraded but functional chokepoint.  
+
+- **Houthi-Saudi escalation misread:** Claude underweights the Greek Patriot intercepts near Yanbu (Al Jazeera), which suggest European air defenses are actively mitigating Houthi threats to Red Sea shipping. This contradicts the "priced-in blockage" narrative—the constraint appears military (pipeline damage) rather than purely economic.  
+
+- **Iranian currency stability contradiction:** The rial strengthened to 2,340,000 IRR/USD (tgju) despite Trump's rejection of the Hormuz deal, opposite the expected panic. Claude's protest-focused read overlooks this, missing possible state intervention or suppressed demand. The tether discount narrowing to 0.14% suggests managed stability, not collapse.  
+
+- **Gold coin premium stability:** The 2.4% premium on Emami coins (PortWatch) is flat week-on-week—contradicting Claude's implied monetary crisis. This aligns with the rial's resilience, suggesting internal controls are holding better than expected.  
+
+- **Diplomatic sequencing oversight:** Araghchi's day-6 Hormuz opening pledge (Iran International) hinges on US concessions by day 4—a structural nonstarter given Trump's refusal to move first. Claude's "clock runs to Nov 3" framing misses that the sequencing itself precluded acceptance, not just timing.  
+
+**Agree:** Saudi export rebound, Yanbu's non-economic constraints, and S3/S4 probability shifts are well-argued. The VLCC rate surge confirms Oman's bottleneck.  
+
+(179 words)
 
 ### Qwen
-I disagree with Claude’s S3 (68%) probability — it overweights the Houthi salvo while underweighting the structural shift in Iranian posture. The data shows a clear pivot: Araghchi’s public, sequenced 7-day offer (NYT), Pezeshkian’s face-to-face Khamenei claim (JPost), *and* the explicit offer to cap enrichment + accept inspections (BigGo) form a coherent, high-signature diplomatic signal. This isn’t rhetoric — it’s an authorization chain being built. The 8% oil price plunge on that single sentence (BigGo) confirms markets now price a >30% chance of de-escalation. S3 should be 55% (down 13 pts); S4 (diplomatic breakthrough) should rise to 25% (up 13 pts). The Houthi attacks are tactical noise — the Iranian leadership is signaling a strategic exit. PortWatch’s near-zero Kharg Island activity (0 tankers) and Caspian-Gulf port-call inversion (47:17) confirm Iran’s export pivot is already operational — it doesn’t need Hormuz open to survive. The war’s economic pressure is working.
+I disagree with Claude’s read on Q9: the data does not support concluding Trump “rejected” the offer as a final dead end. The WSJ report says Trump *turned it down*, but multiple sources (Reuters, Al Jazeera, Iran International) confirm Iran’s proposal was transmitted via Qatari mediators and *awaiting formal US response* — and Trump himself said talks were “very productive” and another meeting is “very near future” (Times of Israel, Sep 23). The IRGC’s rejection of flexibility on enrichment (per Rezaei) is a *negotiating posture*, not proof the offer was dead. The sequencing (US acts first) remains a hurdle, but the signal is diplomatic *testing*, not termination. I set S2 at 15% (not 8%) — the window for a pre-election deal remains open if Washington signals willingness to lift the blockade, even conditionally.
 
 ### Llama 3.3
-I largely agree with Claude's briefing. However, I have a few differences and questions:
+My reading differs in the following areas:
 
-* I think the read on Q2 inside Iran is too simplistic. The economic data suggests a 10% contraction, which is severe, and protests are spreading. I would like to see more analysis on the potential for regime change or instability.
-* I'm not convinced by the inference in Q9 about Tehran's authorisation chain. While Araghchi's meeting with Khamenei is a positive development, it's unclear if it's a genuine sign of progress or just a PR stunt. I would like to see more evidence of concrete progress in the negotiations.
-* I think the market and flow readings section could be more detailed. For example, the 3.4% kinetic rally in Brent prices is significant, but what are the underlying drivers? Is it purely driven by the Houthi attacks, or are there other factors at play?
-* I'm interested in exploring the implications of the Mecca Pact further. How might it impact the conflict, and what are the potential risks and benefits for the parties involved?
+* I disagree with Claude's assessment of the likelihood of a near-term diplomatic resolution, given the rejection of Iran's seven-day Hormuz plan and Trump's reported intention to resume bombing after the November midterms.
+* I believe the Red Sea constraint is not economic, but rather a result of pipeline volume and owner willingness, as evidenced by the tripling of war-risk premiums on Saudi-linked tankers calling at Yanbu.
+* I think the market and flow readings suggest a continued tightening of the oil market, with Brent prices holding above $104 and US oil rigs increasing by 3 week-over-week.
+
+Overall, my analysis suggests that the conflict is likely to continue, with a heightened risk of escalation in the coming weeks.
 
 
 *[Open questions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-questions.md) · [Standing sections](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md) · [Full reference](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)*
