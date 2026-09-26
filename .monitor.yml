@@ -1,0 +1,10 @@
+# Monitoring declaration for pp_ops_monitor. See pp_ops_monitor/MONITORING.md.
+# Runs on GitHub Actions, triggered daily by a cron-job.org POST to workflow_dispatch
+# at 11:50 UTC (no GitHub `schedule` trigger). Update this when the cadence changes.
+ignore: false
+jobs:
+  - id: daily-briefing
+    name: Daily Iran-War Briefing   # must match the workflow's name:
+    cadence: daily
+    runtime: github-actions
+    critical: true
