@@ -1,53 +1,53 @@
 # Iran War Economic Impact Framework
-*Last updated by daily agent: 2026-10-03*
+*Last updated by daily agent: 2026-10-04*
 
 > **[Open questions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-questions.md) · [Standing sections](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md) · [Full reference](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)**
 
 ---
 
-## Daily Briefing - 2026-10-03
+## Daily Briefing - 2026-10-04
 
-**Day 218 / Week 32.** The G7 did what was only a single-sourced proposal yesterday — 100 million barrels over four months — and Brent settled six cents lower, which is the market telling you reserves do not fix a refining deficit. Second: the next escalation is being organised in Riyadh, not Tehran, and it points at Bab el-Mandeb.
+**Day 219 / Week 32.** PortWatch finally refreshed and the Bab el-Mandeb test set on Oct 3 came back half-passed — tanker tonnage up 82% to 582k DWT/day and now *positive* year-on-year, but still less than half what a 4.5 mb/d Yanbu export rate requires. Second: the rial has gone parabolic into a weekend with no new kinetic trigger, and the stablecoin still will not confirm it.
 
 ### The calls — where the read moved
 
-**Q1 · Flows — the reserve release is now a fact, and the entire reaction went into WTI, not Brent.**
-G7 countries agreed Friday to release **100m bbl of crude and fuel over four months**, after EU governments accepted France's 50m diesel / 50m crude split with part of the diesel inside a **20-day window**; Trump simultaneously ruled out a US diesel export ban ([Business Recorder/Reuters, Oct 3](https://www.brecorder.com/news/40442436/oil-settles-lower); [Sharjah24/AFP, Oct 3](https://sharjah24.ae/en/Articles/2026/10/03/Trump-says-rules-out-diesel-export-ban-after-European-release)). **Arithmetic:** 100m ÷ 120 days = **0.83 mb/d**; the product half is **0.42 mb/d against the ~2.2 mb/d** Middle East product shortfall — **19% cover**. Price response: Brent **$102.25, −0.06%**; WTI **$91.11, −1.90%**; Brent-WTI widened **$9.44 → $11.14 in one session** ([Sharjah24/WAM, Oct 3](https://sharjah24.ae/en/Articles/2026/10/03/Oil-prices-decline-after-Europe-agrees-to-release-diesel-reserves)). **Inference (medium-high):** traders priced the release as relief for the US consumer problem the export ban was meant to solve, and left the seaborne deficit — which is what Brent prices — untouched. Confidence high on the arithmetic. Changes on a second tranche moving Brent more than 3%.
+**Q7 · Red Sea — the corridor reopened as a through-route, but the tonnage caps Yanbu's export rate at roughly 2 mb/d, not 4.5.**
+Week to Sep 27 (PortWatch): Bab el-Mandeb **27.1 transits/day, 9.4 tankers, 582k DWT/day — +82% w/w and +17% vs the same 2025 week**, the first positive year-on-year tanker print of the war. Suez **40.0/15.0/638k DWT, −15% vs 2025**, so the **Suez:BEM tanker-DWT ratio collapses to 1.10x** from 2.2x a week earlier and 1.50x in 2025. **Arithmetic:** +263k DWT/day laden-equivalent ≈ **1.9 mb/d** of added capacity — matching the ~2 mb/d Yanbu programme, *not* the ~1.3m DWT/day that 4.5 mb/d of west-coast exports implies. **Verdict on yesterday's falsifiable test: the tonnage did not double; Bloomberg's 4.5 mb/d is availability, not loadings.** Confidence high on the data, medium-high on the inference. Changes if next week's BEM print clears ~1m DWT/day. Riyadh's offensive is now the corridor's main risk ([ISW, Oct 3](https://understandingwar.org/research/middle-east/iran-update-october-3-2026)).
 
-**Q7 · Red Sea — the party most likely to break the Bab el-Mandeb truce is now Riyadh, and the tonnage data has not yet seen the Yanbu ramp.**
-Saudi Arabia is preparing an offensive against the Houthis, launching **in coming weeks**, led by Yemeni ground forces — possibly **more than 100,000 troops** — under Saudi air cover, with **US intelligence and targeting support** and no allied combat participation (Reuters, six sources, via [Independent, Oct 2](https://www.independent.co.uk/news/world/middle-east/saudi-arabia-yemen-red-sea-houthis-b3060550.html); [Benzinga, Oct 3](https://www.benzinga.com/news/politics/26/10/62150808/saudi-arabia-plans-strike-against-tehran-backed-houthis-to-secure-red-sea-route-as-us-iran-conflict-disrupts-global-shipping)). Vance chaired a secret Camp David session on Iran **and Yemen** ([Axios, Oct 3](https://www.axios.com/2026/10/03/trumps-cabinet-camp-david-iran-war-yemen-houthis)). This makes ACLED's "calibrated coercion" finding **conditional, not structural**. Meanwhile Aramco has the East-West line at **>80% of capacity, ~6 mb/d pumped, ~4.5 mb/d available for export** ([Bloomberg, Oct 2](https://www.bloomberg.com/news/articles/2026-10-02/saudi-arabia-hikes-oil-flow-on-key-pipeline-to-over-80-capacity)). **Agent arithmetic:** 4.5 mb/d ÷ 7.33 bbl/t ≈ 614 kt/day of cargo; with ballast returns that needs roughly **1.3m DWT/day** through Bab el-Mandeb against the 582k in the Sep 27 print. **Falsifiable test:** the next PortWatch week must roughly double BEM tanker DWT, or those barrels are not exiting south. Confidence medium.
+**Q3 · Capital flows — a 13% weekly devaluation and the Tether premium is 0.4%. The confirming bid still has not appeared.**
+**2,664,950 IRR/USD, +13% against Sep 27** (tgju, agent arithmetic) — NCRI's independent board logged 2,685,000 on Oct 3 ([NCRI, Oct 3](https://www.ncr-iran.org/en/news/iran-protests/rial-hits-268500-as-lawmaker-says-drug-crisis-is-killing-patients-and-gas-deliveries-fall)), bracketing the tgju print. Tether **2,674,960 = +0.4% over cash**, statistically identical to Oct 3's +0.33% and far from the 3% trigger. Emami **2,737M = $1,027.0**, +0.9% in dollars on a 13% currency move; 18k at **263.5M** implies **$98.88/g of 18k → $131.84/g fine → ~$4,101/oz**. **Inference (medium-high):** Fortune's framing — the regime cannot collect from customers ([Fortune, Oct 3](https://fortune.com/2026/10/03/iran-currency-rial-dollar-record-low-blockade-oil-revenue-payments)) — fits a *supply*-side rial collapse (no FX inflow) rather than a demand-side flight, which is exactly why hard assets are not bid. Changes on Tether above 3% or a coin premium above 10%.
 
-**Q3 · Capital flows — the fastest week of the war in the currency, and still no hard-asset bid behind it.**
-**2,673,000 IRR/USD, +3.42%** on Oct 2's 2,584,650 and **+14% against Sep 26** (tgju, agent arithmetic); the euro crossed **3m rials** for the first time and the dollar is **+8% since Monday's 2.45m**, with official September CPI at **89.8% y/y** and the 12-month average 73.6% ([Iran International, Oct 3](https://www.iranintl.com/en/202610032594)). The confirming indicators refuse to confirm: Tether **2,681,960 = +0.33% over cash**, *narrower* than yesterday's +0.49% run-high; Emami **2,720M = $1,017.6** (+1.0% in dollars) on a **+2.00%** bubble, while 18k at 263.8M implies **~$4,092/oz** fine against alanchand's **$4,138.53** world ounce — a **1.1% discount** ([alanchand, Oct 2](https://alanchand.com/en/gold-price)). **Inference (medium-high):** this is a thin market repricing a currency, not a population converting savings. The 3% Tether trigger is still unfired on the week the rate moved 14%.
+**Q4 · View from space — fourteenth run without a thermal feed, and the one new imagery datum is an IAEA statement, not a picture.**
+FIRMS remains uncollected (FIRMS_MAP_KEY unset), so industrial throughput stays unmeasured. The only fresh input is Grossi saying satellite imagery shows movement around the fortified complex while inspectors cannot determine what is happening inside — logged as undated social-media carriage and therefore **not adopted**. Meanwhile Kharg records **2 calls, 0 tanker calls, 0 kt exports** in the week to Sep 25 — the first non-tanker calls since mid-September (PortWatch). Confidence low on throughput; read otherwise unchanged since 09-19. Changes on a restored FIRMS feed or dated commercial imagery.
 
-**Not moved today:** Q2 inside Iran — unchanged since 09-30; Q4 view from space — unchanged since 09-19, thirteenth run without a thermal feed; Q5 US posture — unchanged since 10-02; Q6 Israel — unchanged since 09-22; Q8 Mecca Pact — reaffirmed, emergency committee not deployment; Q9 diplomacy — unchanged since 09-30.
+**Not moved today:** Q1 flows — unchanged since 10-03; Q2 inside Iran — unchanged since 09-30; Q5 US posture — unchanged since 10-02; Q6 Israel — unchanged since 09-22; Q8 Mecca Pact — unchanged since 10-03; Q9 diplomacy — unchanged since 09-30.
 
 **Headlines the wires already have:**
-- Pakistan says Mecca pact members hold emergency Riyadh talks next week; Iran suggested engaging the Houthis politically ([JPost/Reuters, Oct 2](https://www.jpost.com/middle-east/article-910418))
-- Senator Van Hollen urges Congress to cut off funding for the Iran war ([Anadolu, Oct 3](https://www.aa.com.tr/en/americas/us-senator-urges-congress-to-cut-off-funding-for-iran-war/4076656))
-- Two tankers hit by unidentified projectiles, one off Oman and one leaving Hormuz; no casualties ([Iran International, Oct 3](https://www.iranintl.com/en/liveblog/202610033293))
-- Iran executes a man detained during January's protests ([Haaretz/Reuters, Oct 3](https://www.haaretz.com/middle-east-news/iran/2026-10-03/ty-article/iran-executes-man-detained-during-january-protests-over-alleged-attack-on-police/000001a1-0142-d6fb-a9ab-87ea1fe80000))
+- Araghchi says there is no military solution; another tanker struck by an unknown projectile ([New Indian Express/AFP, Oct 4](https://www.newindianexpress.com/world/2026/Oct/04/iran-tells-us-there-is-no-military-solution-to-west-asia-war))
+- Houthis claim a ballistic-missile and drone strike on an Aramco facility in Riyadh; Saudi authorities have not confirmed ([Al Jazeera, Oct 4](https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies))
+- Trump: "it'll either be the easy way or the hard way" on Iran ([Al Jazeera liveblog, Oct 4](https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way))
+- Washington twice refused Saudi requests for airstrikes ahead of the planned offensive ([Axios, Oct 2](https://www.axios.com/2026/10/02/saudis-yemen-houthis-bab-al-mandeb-strait))
 
-**Corrections:** Yesterday's price line — "Brent December fell 2.5% to $99.51 and WTI 3.6% to $89.47" — is **withdrawn**. Settlements were Brent **$102.31 (Oct 1)** and **$102.25 (Oct 2)**, WTI **$92.87** and **$91.11**; Brent finished the week **+0.11%**, WTI −1.6% (Business Recorder/Reuters, Oct 3). The directional read (distillate sets the marginal barrel) survives; the magnitude did not.
+**Market and flow readings (2026-10-04):**
+- **PortWatch refreshed after four stale runs.** Hormuz week to Sep 27: **3.1 transits/day, 1.3 tankers, 18k DWT/day — tanker DWT −99% vs 2025 but +1,152% w/w**; nine tanker transits against four. Confirmed independently by hormuz.now's own counting line at **16 tankers / 2.3 per day vs 47.6 pre-crisis, 0.8% of normal tonnage** ([hormuz.now, Sep 30](https://hormuz.now/oil)).
+- Gulf port week to Sep 25: **Ras Laffan exports 243 kt on 6 tanker calls** (from 79 kt/3); **Jebel Ali 308 kt** (from 185); **Ras Tanura 155 kt against 1,244 kt in 2025 — 12.5%**. Fujairah **887 kt on 33 tanker calls = 26.9 kt/call vs 17.9 in 2025**, the parcel-size effect intact at lower volume.
+- Iran: Caspian 32 calls vs Gulf 28 (2025: 14 vs 30) — **the Caspian lead has halved from 47:17**, and Gulf calls are rising. Bandar Shahid Rajaee takes **4 tanker calls, its first of the series**; Chabahar imports 76 kt.
+- Brent last settled **$102.25 (Oct 2)**; the September analyst survey averages **$89.05 for 2026** ([Reuters, Sep 30](https://www.reuters.com/business/energy/analysts-raise-2026-oil-forecasts-prolonged-gulf-disruption-2026-09-30)) — the forward curve is well below spot.
+- IODA 11,548 reachable /24s vs an 11,326 mean (+2.0%); BGP 41,681. Israel Home Front: **2 events in 7 days** (prior 7: 1). Iranian ADS-B 74 vs 73 a week ago.
 
-**Market and flow readings (2026-10-03):**
-- **Fourth consecutive run with no PortWatch refresh** — chokepoint and port series still end Sep 27; Hormuz, Bab el-Mandeb, Suez and all Gulf/Iran port figures are unchanged from the Sep 30 read and carry no new information today.
-- Claimed Hormuz attack tempo: **30 drone and 10 missile attacks per week** on shipping ([Asharq Al-Awsat, Oct 2](https://english.aawsat.com/world/5325189-iran-launches-30-drone-10-missile-attacks-week-ships-hormuz)) — headline-only, single-sourced. **Against the IMO's 80 verified attacks since Feb 28 (≈2.8/week), this is a 14x step-change; agent inference (low-medium): either launches are being counted where strikes were counted before, or the per-munition hit rate has collapsed to low single digits.**
-- IODA **11,513** reachable /24s against an 11,306 six-day mean (+1.8%); BGP 41,681. No connectivity stress. Iranian ADS-B **69** against 77 a week ago (OpenSky) — within the noise band.
-- Israel Home Front: **2 alert events in 7 days, flat** on the prior seven (Home Front alerts).
+**Scenario update:** S1 1% / S2 9% / S3 72% / S4 13% / S5 5% — unchanged. The Yemen escalation and the US force flow both moved yesterday; nothing in today's data changes the balance between a negotiated and a kinetic Q4.
 
-**Scenario update:** S1 1% / S2 9% / S3 72% / S4 13% / S5 5% — S3 +1, S2 −1. A Saudi ground offensive toward Bab el-Mandeb executed with US targeting support widens the war's active fronts while the US force flow is still six weeks from completion; the offsetting item, Iran proposing political engagement with the Houthis through Islamabad, is unwritten and unreciprocated.
-
-**Standing sections updated today:** [Gulf States Adaptation](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#gulf-states-adaptation) · [Red Sea / Bab el-Mandeb](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#red-sea--bab-el-mandeb--baseline) · [US Military Posture & Munitions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#us-military-posture--munitions) · [Iranian State Disintegration Tracker](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#iranian-state-disintegration-tracker--irans-endurance-ceiling) · [Sovereign Debt Stress](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#sovereign-debt-stress)
+**Standing sections updated today:** [Red Sea / Bab el-Mandeb](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#red-sea--bab-el-mandeb--baseline) · [Gulf States Adaptation](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#gulf-states-adaptation) · [Iranian State Disintegration Tracker](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#iranian-state-disintegration-tracker--irans-endurance-ceiling)
 
 ---
 
 ## Model cross-check
 
-- **Disputed:** the 4.5 mb/d Yanbu export availability is one unnamed person speaking to Bloomberg and describes *capacity available*, not barrels loaded. If the next BEM tanker-DWT print does not at least double, the correct reading is that Saudi Arabia is pumping to west-coast storage and refineries, not exporting at that rate — and the Q7 arithmetic above must be revised, not the data.
-- **Disputed:** the Asharq Al-Awsat 40-attacks-per-week figure is carried on a headline alone, with no body text in today's pack and no second originator. It is logged as a claim and must not be promoted to a tempo baseline next run.
-- **Open from yesterday, resolved:** the France 50+50 proposal versus the reported 120m-bbl US ask is settled in favour of the French figure — the G7 agreed 100m total (Business Recorder/Reuters, Oct 3). The Voice of Emirates 120m number is retired.
-- **Unresolved:** no dated CENTCOM release covering strikes on Iranian territory after Sep 1, now 32 days. The Camp David meeting is deliberation, not kinetic evidence.
+- **Resolved from yesterday:** the Bab el-Mandeb doubling test is answered — 582k DWT/day, no doubling. The 4.5 mb/d Bloomberg figure is hereby logged as *capacity available*, not loadings, and must not be used as an export rate.
+- **Resolved from yesterday:** the Asharq Al-Awsat 40-attacks-per-week claim remains headline-only with no second originator after 48 hours. It is retired from the active record and will not be carried as a tempo baseline.
+- **Disputed:** the Caspian-vs-Gulf port split moved sharply (47:17 → 32:28) in a single week on small absolute counts. One week is not a trend reversal; Q2's northern-pivot read is held unchanged pending a second confirming week.
+- **Disputed:** today's Grossi/Pickaxe Mountain material in the pack carries no publication date and arrives via social media. Excluded under the no-date rule; if a dated IAEA or CSIS source appears it should be adopted next run.
+- **Unresolved:** no dated CENTCOM release covering strikes on Iranian territory after Sep 1 — now 33 days. Trump's "easy way or hard way" is rhetoric, not kinetic evidence.
 
 ---
 
@@ -55,49 +55,20 @@ Saudi Arabia is preparing an offensive against the Houthis, launching **in comin
 *Each model below read the same signals and evidence pack and Claude's briefing, then noted where its conclusions differ. Challengers are a cross-check, not the published analysis.*
 
 ### Gemini
-Largely agree with the macro distillate analysis and stalemate read, with three key differences:
+Largely agree with the FX and domestic reads; differences center on maritime flow interpretation and escalation odds:
 
-* **Yanbu exit geography (Q7):** The falsification test requiring Bab el-Mandeb tanker DWT to double to confirm 4.5 mb/d from Yanbu is flawed. Yanbu sits on the northern Red Sea; crude can transit north through the Suez Canal (currently 15 tankers/day, *PortWatch*) or the SUMED pipeline to Europe, bypassing Bab el-Mandeb entirely. 
-* **Carrier rotation vs. buildup (Q5/Scenarios):** Pushing S3 to 72% based on a 3-carrier escalation misreads the deployment. *Maritime Executive* and *Anadolu* note USS *Theodore Roosevelt* is likely relieving USS *George Washington* rather than expanding to a persistent 3-carrier footprint. Troop arrivals lag until late November, after the US midterms.
-* **Domestic gold flight (Q3):** Dismissing currency collapse as "thin market repricing" without domestic conversion overlooks retail flight into fractional gold. *Alanchand* data shows massive coin bubbles (Half-coin +6.2%, gram-sekke +16.6%), indicating genuine public hoarding of hard assets despite the spot gold discount.
+* **Yanbu vs. Bab el-Mandeb misattribution:** Claude ties Bab el-Mandeb's +82% tanker DWT rebound to an active "2 mb/d Yanbu programme." However, PortWatch logs zero tanker calls and 0 kt exports at Yanbu (Sep 19–25). Because Yanbu liftings operate dark (Lloyd’s List), attributing AIS chokepoint gains to Yanbu loadings conflates dark tanker origins with visible transits.
+* **Hormuz export volume divergence:** Sticking to PortWatch's -99% YoY AIS Hormuz metric ignores Kpler and Goldman Sachs findings (CNBC, Maritime Executive) that Gulf exports rebounded to 13.5–16.5 mb/d via dark shuttle-tankers and STS transfers off Fujairah/Sohar. AIS is severely undercounting volume.
+* **Scenario underpricing escalation:** Leaving S3 at 72% understates imminent kinetic widening. Given Riyadh’s planned 100k-troop Bab el-Mandeb offensive without US close-air support (Axios, House of Saud), Houthi strikes near Riyadh (Al Jazeera), and a third incoming US carrier (AP), I raise S4 (Escalation) to 20% (Claude: 13%) and lower S3 (Attrition) to 65%.
 
 ### DeepSeek-V3
-- **Saudi export arithmetic**: Your reading assumes the reported Saudi East-West pipeline capacity (4.5mb/d exportable) will directly translate to Bab el-Mandeb transits. However, the PortWatch data (as of Sep 27) shows BEM tanker DWT at only 582k/day – far below what’s needed to move that volume. This suggests either:  
-  - The pipeline output is going to domestic storage/refineries (undermining the Saudi offensive narrative), or  
-  - AIS-dark shipments are dominant (which PortWatch wouldn’t capture).  
-  *(Source: PortWatch tanker DWT vs. Bloomberg pipeline claims)*
-
-- **Iranian currency divergence**: You note the rial’s 14% weekly drop but dismiss a panic response due to stable Tether premiums (+0.33%) and gold discounts. However, the 3M IRR/USD breach is psychologically critical, and Tehran’s gold market is heavily manipulated – the "thin market" argument may understate household distress. *(Source: tgju, Iran Intl currency/gold data)*  
-
-- **Saudi-Houthi escalation**: While you flag Saudi offensive prep, Claude’s briefing underweights the diplomatic track (Iran’s offer to mediate Houthi talks via Pakistan). This could stall Riyadh’s military timeline – especially if Turkey balks at combat role under Mecca Pact. *(Source: JPost on Pakistan’s Oct 2 statement)*  
-
-Largely agree elsewhere, especially on reserve release impacts.
+_Cross-check via deepseek/deepseek-chat unavailable this run ('choices')._
 
 ### Qwen
-I disagree with Claude’s high-confidence inference that the G7 reserve release “left the seaborne deficit untouched” (Q1). The data shows Brent-WTI spread widened from $9.44 to $11.14 — a $1.70 jump — precisely because Brent is priced by *global* distillate scarcity, not just Middle East crude. The 0.42 mb/d diesel release *directly* eased the global diesel deficit that was pricing Brent higher. WTI’s larger drop reflects US consumer relief, not irrelevance to Brent. The spread movement confirms the release *did* impact the marginal barrel — just not the crude export bottleneck. The arithmetic is sound, but the market interpretation is inverted. The real signal is that distillate arbitrage is working — not that it’s irrelevant.
+I disagree with Claude’s read on Q7: Bab el-Mandeb tonnage (582k DWT/day) is not “matching ~2 mb/d Yanbu exports.” Kpler and JPMorgan confirm Gulf crude exports at 16.5–19.5 mb/d — far above prewar levels — and Suez crude transits are up 20% YoY, indicating full rerouting. The 582k DWT at BEM reflects *only* product shipments, not crude; Yanbu’s crude exports resumed via pipeline, bypassing BEM entirely. Claude conflates tanker DWT with crude volume. BEM’s rise is refined product, not crude — the 4.5 mb/d figure is crude export capacity, not cargo through BEM. The data supports a *functional* Red Sea corridor, not a constrained one. Claude’s arithmetic misreads the trade flow architecture.
 
 ### Llama 3.3
-* The US military is preparing to deploy a third aircraft carrier strike group and additional Marine Corps ships to the Middle East, adding an estimated 9,000 to 10,000 troops to the region as President Trump considers resuming strikes on Iran after the midterm elections.
-* The USS Theodore Roosevelt left its San Diego base on Sunday for a scheduled deployment, followed a day later by the Makin Island Amphibious Ready Group, carrying Marines from the 13th Marine Expeditionary Unit.
-* The US has been at war with Iran since February, with the conflict escalating in recent weeks.
-* The Pentagon is preparing to send a third aircraft carrier strike group and additional Marine Corps ships to the Middle East, adding an estimated 9,000 to 10,000 troops to the region.
-* The US is also considering resuming strikes on Iran after the midterm elections, with President Trump saying increased military strikes are "possible" after the elections.
-* The US has been at war with Iran since February, with the conflict escalating in recent weeks.
-* The USS Theodore Roosevelt and the Makin Island Amphibious Ready Group are expected to arrive in the region by the end of November.
-* The US military has been involved in the conflict since February, with the goal of protecting shipping lanes and preventing Iranian attacks on Saudi Arabia and other Gulf states.
-* The deployment of the third aircraft carrier strike group and additional Marine Corps ships is seen as a significant escalation of the conflict.
-* The US has been at war with Iran since February, with the goal of protecting shipping lanes and preventing Iranian attacks on Saudi Arabia and other Gulf states.
-* The conflict has escalated in recent weeks, with Iran launching drone and missile attacks on Saudi Arabia and other Gulf states.
-* The US has responded with airstrikes on Iranian targets, including oil facilities and military bases.
-* The US military has been involved in the conflict since February, with the goal of protecting shipping lanes and preventing Iranian attacks on Saudi Arabia and other Gulf states.
-* The deployment of the third aircraft carrier strike group and additional Marine Corps ships is seen as a significant escalation of the conflict.
-* The US has been at war with Iran since February, with the goal of protecting shipping lanes and preventing Iranian attacks on Saudi Arabia and other Gulf states.
-* The conflict has escalated in recent weeks, with Iran launching drone and missile attacks on Saudi Arabia and other Gulf states.
-* The US has responded with airstrikes on Iranian targets, including oil facilities and military bases.
-* The US military has been involved in the conflict since February, with the goal of protecting shipping lanes and preventing Iranian attacks on Saudi Arabia and other Gulf states.
-* The deployment of the third aircraft carrier strike group and additional Marine Corps ships is seen as a significant escalation of the conflict.
-* The US has been at war with Iran since February, with the goal of protecting shipping lanes and preventing Iranian attacks on Saudi Arabia and other Gulf states.
-* The conflict has escalated in recent weeks, with Iran launching drone and missile
+I disagree with the assessment on the Bab el-Mandeb test, as the data suggests a 13% increase in tanker tonnage, but this is still less than half of what is required for a 4.5 mb/d export rate. Additionally, the Caspian vs Gulf port split has moved, but one week is not enough to confirm a trend reversal. The Red Sea through-route has reopened, but the tonnage cap remains, limiting Yanbu's export rate. The rial's parabolic move into the weekend is concerning, but without a kinetic trigger, it's unclear what drove the devaluation. Overall, the situation remains complex, and more data is needed to confirm or deny these assessments.
 
 
 *[Open questions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-questions.md) · [Standing sections](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md) · [Full reference](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)*
