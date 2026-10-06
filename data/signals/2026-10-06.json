@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-06",
+ "generated_at": "2026-10-06T11:50:51.564707+00:00",
+ "portwatch_chokepoints": {
+  "error": "{'code': 429, 'message': 'Unable to perform query. Too many requests.', 'details': ['API calls quota exceeded (6062 request units)! maximum allowed request units (6000) per Minute. Retry after 60 sec.']}"
+ },
+ "portwatch_ports": {
+  "error": "{'code': 429, 'message': 'Unable to perform query. Too many requests.', 'details': ['API calls quota exceeded (6067 request units)! maximum allowed request units (6000) per Minute. Retry after 60 sec.']}"
+ },
+ "tgju": {
+  "price_dollar_rl": {
+   "label": "USD/IRR open market",
+   "price": 2684100.0,
+   "day_change": "2,900",
+   "dp": 0.11,
+   "updated": "2026-10-06 14:41:25"
+  },
+  "price_eur": {
+   "label": "EUR/IRR open market",
+   "price": 3023500.0,
+   "day_change": "6,700",
+   "dp": 0.22,
+   "updated": "2026-10-06 14:41:23"
+  },
+  "crypto-tether-irr": {
+   "label": "Tether (USDT)/IRR",
+   "price": 2684600.0,
+   "day_change": "4,710",
+   "dp": 0.18,
+   "updated": "2026-10-06 14:41:24"
+  },
+  "geram18": {
+   "label": "Gold 18k, per gram (IRR)",
+   "price": 266490000.0,
+   "day_change": "1,018,000",
+   "dp": 0.38,
+   "updated": "2026-10-06 14:41:22"
+  },
+  "sekee": {
+   "label": "Emami gold coin (IRR)",
+   "price": 2726700000.0,
+   "day_change": "17,400,000",
+   "dp": 0.64,
+   "updated": "2026-10-06 14:41:25"
+  }
+ },
+ "ioda": {
+  "bgp": {
+   "last": 41696,
+   "min_24h": 41227,
+   "mean_24h": 41580.354166666664,
+   "mean_prior_6d": 41677.9094579008
+  },
+  "ping-slash24": {
+   "last": 11605,
+   "min_24h": 11019.666666666666,
+   "mean_24h": 11430.243055555555,
+   "mean_prior_6d": 11431.863898500576
+  }
+ },
+ "israel_alerts": {
+  "days": {
+   "2026-09-29": {
+    "alerts": {
+     "rockets/missiles": 1,
+     "infiltration": 1
+    },
+    "localities": 2
+   }
+  },
+  "total_7d": 2,
+  "total_prior_7d": 0
+ },
+ "opensky": {
+  "Iran": 60,
+  "Gulf (KW/SA-east/QA/AE/OM)": 107,
+  "Israel/Lebanon": 14,
+  "Iraq": 10
+ },
+ "firms": {}
+}
