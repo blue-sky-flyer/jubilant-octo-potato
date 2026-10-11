@@ -1,54 +1,57 @@
 # Iran War Economic Impact Framework
-*Last updated by daily agent: 2026-10-10*
+*Last updated by daily agent: 2026-10-11*
 
 > **[Open questions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-questions.md) · [Standing sections](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md) · [Full reference](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)**
 
 ---
 
-## Daily Briefing - 2026-10-10
+## Daily Briefing - 2026-10-11
 
-**Day 225 / Week 33.** Hormuz throughput has now printed down three weeks running — 16.5 → 10.1 → 8.5 mb/d — and today's port data show the bypass terminals falling with it, which means the Gulf has stopped rerouting barrels and started losing them. Inside Iran the same week's port calls dropped by a third, with the Caspian — the entire northern-pivot thesis — down 41%.
+**Day 226 / Week 33.** Twelve dead at Riyadh's main airport has done what seven months of tanker attacks did not — put a US offensive against the Houthis on the table in the president's own words. Separately, re-basing the Gulf port data on 2025 rather than on last week inverts yesterday's conclusion: the bypass is working, and I was measuring the wrong thing.
 
 ### The calls — where the read moved
 
-**Q1 · Flows — this is no longer a rerouting story; loadings are falling at the bypass terminals too.**
-Exports through Hormuz ran **8.5 mb/d for the week ended Oct 7, ~40% below normal**, against 11 tankers attacked in the week to Oct 4 (IMO's highest of the war), five more since, and nine seafarer deaths since July ([CNBC, Oct 9](https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html)). PortWatch corroborates from an independent dataset: inside-Hormuz loadings (Ras Tanura + Ras Laffan + Jebel Ali) **596 kt vs 671 kt, −11% w/w**; **Fujairah 766 vs 840 kt, −9%**; Yanbu still zero in the monitored series. **Agent arithmetic:** combined 1,362 kt vs 1,511 kt, **−9.9% w/w and 20% of the same 2025 week**. **Inference (medium-high): had regional exports held near 16.5 mb/d, Hormuz falling from Standard Chartered's September 9.9 mb/d to 8.5 would show as bypass *gains*. It shows the opposite — total Gulf export volume is contracting.** Changes if Fujairah tanker calls recover above 35.
+**Q1 · Flows — the bypass is not collapsing; yesterday's week-on-week frame used the wrong denominator.**
+Against the same 2025 week rather than the prior week, the monitored terminals split cleanly: Ras Tanura, Ras Laffan and Jebel Ali exported **596 kt against 4,749 kt — 12.5%** — while **Fujairah exported 766 kt against 728 kt, +5% year-on-year**, on 30 tanker calls versus 73. **Agent arithmetic: 25.5 kt per tanker call at Fujairah versus 10.0 kt in 2025** — consolidation onto bigger hulls, not attrition. Yanbu's second consecutive zero is more likely a dead feed than a dead port: the EIA says Saudi Arabia has **resumed East-West Pipeline shipments** and that September regional shut-in was the lowest since hostilities began ([Egypt Oil & Gas/Reuters, Oct 7](https://egyptoil-gas.com/news/eia-raises-oil-price-forecasts-as-iran-war-tightens-global-markets)). Confidence medium-high on the bypass, low on Yanbu. Changes if Fujairah prints below 2025 tonnage.
 
-**Q2 · Inside Iran — the northern pivot is contracting, and Amirabad is almost all of it.**
-Week to Oct 2: **Caspian 19 calls vs Gulf 21** — the Gulf ahead for the first time in this series, but only because the Caspian fell **32→19 (−41%)** while the Gulf fell 28→21. **Total Iranian port calls 60→40, −33% w/w** (PortWatch). Amirabad has gone **22→14→4** in three weeks and is now *below* its 2025 level of 8 after running 2.75x; Anzali is flat at 12, so Amirabad is 10 of the 13-call Caspian drop. Bandar Shahid Rajaee's four tanker calls of the prior week went to **zero**, and Chabahar imports 76 kt → 0. **Inference (medium): the contraction is at the Russia-facing node specifically, not the Caspian generally; seasonal weather or Russian-side sequencing are the candidates — there is no dated reporting of Caspian interdiction.** Small absolute counts. Read changes if Amirabad clears 10 calls again.
+**Q7 · Houthi front — Riyadh has bought US entry into the Yemen war at the price of 12 dead.**
+Saturday's strike on King Khalid International killed 12 and injured over 300, the deadliest attack in any Gulf Arab state of this war; the dead include four Saudis, an American and six other nationalities ([NPR/AP, Oct 10](https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say)). Trump said the same day he is weighing **offensive US strikes on the Houthis** ([ISW, Oct 10](https://understandingwar.org/research/middle-east/iran-update-october-10-2026)) — the third approach after two refusals, and the first carrying mass civilian casualties. ISW's sequencing fires the Oct 7 inference: Houthi strikes on Saudi civil airports expanded *after* the Oct 4 coastal counteroffensive. Territorial recovery at Bab el-Mandeb raises Saudi-side risk. Riyadh is hosting the World Petroleum Congress regardless, Italy by videolink ([Al Jazeera, Oct 11](https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts)). Confidence medium-high; changes if Trump declines a third time.
 
-**Q9 · Diplomacy — a second mediator appears and Iran's price does not move.**
-Putin has offered to help end the war, having met Pezeshkian at Turkmenbashi on Oct 8; Al-Monitor's own read is that Moscow's influence may be hard to convert into results ([Al-Monitor, Oct 10](https://www.al-monitor.com/originals/2026/10/putin-offers-help-end-iran-war-can-russia-deliver)). Against it: both Trump and Tehran insist the US election calendar is not driving them, and Iranian officials still say there is no deal until the blockade is lifted and sanctions relieved — **the identical precondition they held before the Oct 8 no-strike pledge** ([AP/US News, Oct 10](https://www.usnews.com/news/politics/articles/2026-10-10/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions-on-the-war)). **Inference (medium): the Russia channel is financial before it is diplomatic — Fars says the central bank moved $1.5bn of oil revenue through Russia's banking system, and the IRGC is shifting oil-sales settlement from the UAE to Russia ([Iran International, Oct 6](https://www.iranintl.com/en/202610060772)).** Changes on a named venue and date.
+**Q2 · Inside Iran — the land-border constraint finally has a price, and it is 5.3x.**
+Freight from Turkish ports to Iran has gone from ~$1,500 to ~$8,000 in under two months; **about 8,000 trucks are stranded at Bazargan** at ~$175/day each; Mirjaveh is closed and drivers at the substitute Rimdan crossing with Pakistan wait 20–25 days ([Iran International/Fars/Mehr, Oct 11](https://www.iranintl.com/en/202610114328)). **Agent arithmetic:** the Bazargan queue alone burns ~$1.4m/day; on the Iran Chamber of Commerce's 2,500-trucks-per-shipload benchmark, 8,000 immobilised trucks equal ~3.2 shiploads of frozen import capacity, and the trucking bill for one shipload has risen from ~$3.75m to ~$20m. This is the capacity ceiling made quantitative — the first hard border datum of the series, and it names the mechanism (truck shortage from dwell time, not road capacity). Confidence high. Changes on a Mirjaveh reopening.
 
-**Not moved today:** Q3 capital flows — unchanged since 10-09; Q4 view from space — unchanged since 09-19; Q5 US posture — unchanged since 10-09; Q6 Israel — unchanged since 09-22; Q7 Red Sea — unchanged since 10-07; Q8 Mecca Pact — unchanged since 10-06.
+**Not moved today:** Q3 capital flows — unchanged since 10-04; Q4 view from space — unchanged since 09-19; Q5 US posture — unchanged since 10-10; Q6 Israel — unchanged since 09-22; Q8 Mecca Pact — unchanged since 10-03; Q9 diplomacy — unchanged since 10-10.
 
 **Headlines the wires already have:**
-- Pentagon has developed a plan for a three-day campaign against Iran; final decision on timing expected within 7–10 days ([JPost, Oct 9](https://www.jpost.com/middle-east/iran-news/article-911125))
-- Sanctions tranche reconciled: 22 vessels, 27 companies, 6 individuals across Treasury and State ([Marine Insight, Oct 9](https://www.marineinsight.com/u-s-sanctions-22-vessels-and-27-companies-tied-to-irans-shadow-fleet-and-oil-sales))
-- Houthi attacks on Saudi airports kill three as the Yemen war escalates ([TIME, Oct 8](https://time.com/article/2026/10/08/saudi-arabia-yemen-houthi-rebels-airport-attacks-war))
-- Khamenei adviser: Hormuz will not reopen until outstanding issues are resolved ([Newsquawk/Al Jazeera, Oct 8](https://www.newsquawk.com/headlines/iranian-supreme-leaders-adviser-says-the-strait-of-hormuz-will-not-reopen-until-outstanding-issues-are-resolved-al-jazeera-reports))
+- US fighter disables Panama-flagged bulk carrier *Ocean Molica* in the Gulf of Oman for running the blockade ([Al Jazeera, Oct 11](https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman))
+- IRGC claims an oil tanker exploded after striking a naval mine in Hormuz; no name, no flag ([JPost/Reuters, Oct 10](https://www.jpost.com/middle-east/iran-news/article-911241))
+- Putin told Trump Iran's position on a peace deal ([Asharq Al-Awsat, Oct 10](https://english.aawsat.com/world/5328080-putin-told-trump-about-irans-position-peace-deal))
+- IDF officers warn a pre-election Iran strike would look politically motivated; they assess Iran has replenished much of its ballistic-missile stockpile ([Haaretz, Oct 10](https://www.haaretz.com/israel-news/israel-security/2026-10-10/ty-article/.premium/idf-officials-warn-pre-election-iran-strike-could-seem-politically-motivated/000001a1-2711-d5af-a3b7-2fb18fe70000))
 
-**Market and flow readings (2026-10-10):**
-- **WTI near $92** ([TradingKey, Oct 10](https://www.tradingkey.com/analysis/commodities/oil/262209599-crude-oil-price-forecast-wti-hormuz-crisis-tradingkey)); no settlement print past Thursday's $103.45 December Brent, implying the ~$11–12 spread is intact (inference, medium).
-- Rial **2,659,900, −0.1% d/d** — a fifth session inside a 1.9% band (2,634,100–2,684,100) since Oct 6. **Tether 2,659,980 = +0.0% over cash; the premium has gone entirely** (tgju).
-- Emami **2,697M = $1,013.9, +0.4% in dollars**; 18k at 265.8M implies **~$4,144/oz fine**, about **0.5% above** the last dated world spot ($4,122, Kitco Oct 8) — **the first local gold premium of this run after five sessions of discount.** One session against a two-day-old spot; watch item, not a turn.
-- Iranian ADS-B **74** aircraft vs 69 a week ago; IODA 11,552 reachable /24s vs an 11,474 six-day mean (+0.7%) — no shutdown signature.
-- PortWatch's chokepoint week has not advanced past Oct 4, so Hormuz, Bab el-Mandeb and Suez carry yesterday's values; Israel Home Front alerts zero for a third consecutive weekly reading.
+**Corrections:** Yesterday's Q1 inference — "total Gulf export volume is contracting" (medium-high) — is downgraded to low. It rested on a 9% week-on-week fall in bypass loadings and on Yanbu printing zero; the 2025 comparison and the EIA's Oct 6 pipeline statement both cut against it.
 
-**Scenario update:** S1 1% / S2 11% / S3 69% / S4 13% / S5 6% — S3 +1, S2 −1. Attack tempo at a wartime high and throughput down a third in a fortnight, while a new mediator's arrival produced no movement in Iran's stated price.
+**Market and flow readings (2026-10-11):**
+- Last dated crude print remains **Brent $102.96 / WTI $90.39**, intraday Oct 9 ([Gulf News, Oct 9](https://gulfnews.com/uae/usiran-standoff-what-uae-residents-need-to-know-today-oct-9-2026-1.500703686)). The EIA's **Q4 Brent forecast of ~$105 (+$14)** therefore sits ~2% *above* the last spot; 2027 raised to $84; US retail diesel seen above **$6/gal** this month (Egypt Oil & Gas/Reuters, Oct 7).
+- Hormuz daily series, week to Oct 4: all six visible tanker transits fell on **Sep 28–30**; **Oct 1, 2, 3 and 4 printed zero tankers** — four consecutive blank days on the AIS floor (PortWatch).
+- Rial **2,651,800**, −0.3% on the session and a seventh straight session inside the managed band; **Tether 2,647,250 = −0.2% against cash**, back to a discount after yesterday's zero (tgju).
+- Tehran gold reverses: 18k at **263.2M** implies **~$4,116/oz fine** against world spot **$4,169.32** ([CNBC, Oct 9](https://www.cnbc.com/amp/2026/10/09/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus.html)) — a **1.3% discount**. Emami 2,683M = $1,011.8.
+- Israel Home Front **1 alert event** in seven days (one UAV, Oct 10); IODA 11,523 reachable /24s against an 11,463 six-day mean; Iranian ADS-B 80 against 74 a week ago.
 
-**Standing sections updated today:** [Gulf States Adaptation](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#gulf-states-adaptation) · [US Military Posture & Munitions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#us-military-posture--munitions) · [Iranian State Disintegration Tracker](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#iranian-state-disintegration-tracker--irans-endurance-ceiling)
+**Scenario update:** S1 1% / S2 11% / S3 70% / S4 13% / S5 5% — S3 +1 on the Riyadh mass-casualty strike and a stated US willingness to enter against the Houthis; S5 −1 because the Russia relationship is now running through transactional channels (a diesel supply deal and message-passing) rather than confrontation.
+
+**Standing sections updated today:** [Red Sea / Bab el-Mandeb](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#red-sea--bab-el-mandeb--baseline) · [US Military Posture & Munitions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#us-military-posture--munitions) · [Iranian State Disintegration Tracker](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#iranian-state-disintegration-tracker--irans-endurance-ceiling)
 
 ---
 
 ## Model cross-check
 
-- **Resolved from yesterday — the 17 vs 22 vessel count.** Treasury designated 17 tankers and State a further five, alongside 27 companies and six individuals, all under Operation Economic Outcast. Both prior figures were right and measured different things; use **22 vessels** as the consolidated total ([Marine Insight Oct 9](https://www.marineinsight.com/u-s-sanctions-22-vessels-and-27-companies-tied-to-irans-shadow-fleet-and-oil-sales); [Ritz Herald Oct 9](https://ritzherald.com/treasury-sanctions-17-tankers-in-iran-shadow-fleet-crackdown)).
-- **Resolved from yesterday — Trump's "22 million barrels" Hormuz claim.** CENTCOM told shippers on Oct 7 that 20m bbl had transited the strait, rejecting Iran's closure claim (CNBC Oct 9). At the measured 8.5 mb/d, 20m bbl is **2.4 days of flow**. The presidential figure is therefore a multi-day cumulative presented as a single day — roughly 2.6x the measured daily rate. Not adopted as a throughput number; adopted as evidence that CENTCOM and Kpler are reconcilable and the White House framing is not.
-- **Resolved from yesterday — the rial band.** It survived the full week. The $2bn facility and the rationed $10,000 window have bought roughly **a month, not a fortnight**; the near-term FX-break risk recedes and the Q1–Q2 2027 tipping-point baseline is unchanged, not accelerated.
-- **Disputed, carried:** IRIB's sea-mine explanation for the Oct 8 Hormuz explosions still has no UKMTO or CENTCOM confirmation in today's pack. Remains the single highest-impact unverified claim in the file — escorts cannot clear a minefield.
-- **Unresolved:** no dated CENTCOM release covering strikes on Iranian territory after Sep 1 — **day 39**. Today's CENTCOM activity is maritime enforcement and shipper briefings only.
-- **Watch for contradiction next run:** (1) whether the Tehran gold premium persists for a second session — if it does, the fourteen-session "no hard-asset bid" finding that underpins the supply-side FX thesis is in trouble; (2) whether Amirabad rebounds, which separates a Russia-link failure from a one-week AIS artefact; (3) whether the next PortWatch chokepoint week shows Hormuz tanker DWT rising while CNBC's trade series keeps falling — the two have moved together for two weeks and an inversion would demote one of them.
+- **Resolved from yesterday — the Tehran gold premium.** It did not persist. One session of +0.5% became −1.3% against a fresher, dated world spot. The "no hard-asset bid" leg of the supply-side FX thesis survives; fourteen-plus sessions, one outlier. Not a turn.
+- **Resolved from yesterday — the bypass-contraction call.** Corrected above. The methodological lesson is logged: with a series this suppressed, week-on-week deltas on sub-50-call ports are noise, and the 2025 column is the only stable denominator. Future Q1 arithmetic leads with the year-on-year ratio.
+- **Disputed, carried and now compounded:** the IRGC has made a **second** naval-mine claim in three days (Oct 8 IRIB, Oct 10 Reuters via JPost), still with no UKMTO or CENTCOM corroboration and no vessel named either time. Two unverified claims is a narrative, not evidence — but it is the single highest-impact unresolved item in the file, because escorts cannot clear a minefield and the war-risk market would reprice on confirmation.
+- **Unresolved:** no dated CENTCOM release covers strikes on Iranian territory after Sep 1 — **day 40**. Today's dated CENTCOM action is the *Ocean Molica* disablement, maritime enforcement in the Gulf of Oman.
+- **Flagged, not adopted:** a paid Substack (polemology.net, Oct 6) relays a Kpler-derived X post claiming Middle East exports ex-Iran topped the 18 mb/d pre-war average on several days in early October, and puts ~116 hulls in the Hormuz shuttle trade with 23 Saudi *Bahri* hulls. Directionally consistent with the EIA and with the Fujairah tonnage, but it is a third-hand relay of a screenshot. Needs a Kpler or Reuters original before it displaces CNBC's 8.5 mb/d Hormuz series.
+- **Internal inconsistency in the Russia diesel reporting:** AP (Oct 10) describes 300,000 t now, 500,000 t in November, then **4 million more tons**; Diplomacy and Law (Oct 9) describes the third tranche as **one million tons**. Arithmetic on the agreed core: 800,000 t ≈ 5.96m bbl ≈ **12% of the G7's 50m-bbl EU diesel tranche** and under three days of the 2.2 mb/d distillate gap. Do not use the headline tonnage as a supply fix.
+- **Watch for contradiction next run:** (1) whether the next PortWatch week shows Yanbu returning from zero — if it stays at zero while Saudi pipeline shipments are independently confirmed, that feed is formally retired from the bypass calculation; (2) whether Fujairah's kt-per-call ratio holds above 20, which is the cleanest single proxy for shuttle-fleet efficiency; (3) whether Bazargan truck counts appear a second time from a non-Fars originator.
 
 ---
 
@@ -56,37 +59,26 @@ Putin has offered to help end the war, having met Pezeshkian at Turkmenbashi on 
 *Each model below read the same signals and evidence pack and Claude's briefing, then noted where its conclusions differ. Challengers are a cross-check, not the published analysis.*
 
 ### Gemini
-_Gemini cross-check unavailable this run (503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=AQ.Ab8RN6KdSCgiNh7b3yz971lUzav4bY9gZdbaoWkP98OmUONUFw)._
+_Gemini cross-check unavailable this run (401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=AQ.Ab8RN6KdSCgiNh7b3yz971lUzav4bY9gZdbaoWkP98OmUONUFw)._
 
 ### DeepSeek-V3
-_Cross-check via deepseek/deepseek-chat unavailable this run ('choices')._
+Here are the key differences in my reading of the data:
+
+- **Bypass port efficiency**: While Claude notes Fujairah's 25.5kt/tanker vs 10kt in 2025 as consolidation, I see PortWatch's 30 tanker calls (vs 73 in 2025) handling 766kt exports (+5% YoY) as evidence of *enhanced STS transfers* rather than simple consolidation. The tonnage-per-call metric may reflect improved offshore loading rather than just larger hulls.
+
+- **Houthi risk escalation**: The Riyadh attack likely crossed a Saudi red line regardless of US politics (CENTCOM has pre-positioned assets since Oct 5 per Axios). The 12 fatalities include *multinational travelers* - a direct hit to Saudi's economic diversification narrative beyond energy impacts.
+
+- **Land border math**: The truck queue costs (~$1.4M/day) understate the crisis because (1) Iran's Caspian ports show 19 calls vs 21 in Gulf ports - suggesting northern redistribution is already happening, and (2) Chabahar's imports (76kt vs zero in 2025) indicate Pakistan routes are absorbing some diverted flow.
+
+- **Gold premium discrepancy**: The 1.3% discount to global prices aligns with tgju's stable rial (-0.3%) but contradicts the NCRI's Oct 7 report of 70% inflation. Either price controls are distorting the gold market or the inflation figure is overstated.
+
+One unresolved question: Why is Bandar-E Pars Terminal at 6 calls (2 tankers) vs 232 in 2025 while exporting 154kt (vs 8,119kt)? This outlier suggests either data corruption or a major dark-fleet operation unaccounted for in AIS.
 
 ### Qwen
-I disagree with Claude’s inference that “total Gulf export volume is contracting.” PortWatch shows Fujairah exports fell 9% w/w, but Yanbu’s *first* tanker calls since August (26) and 1.2M kt exports indicate a *new* bypass route is activating — not failing. This offsets Hormuz declines, making total exports stable, not contracting. Also, Claude misreads Amirabad’s drop as Russia-linked, but its 4 calls are still above 2025’s 8-call weekly baseline; the Caspian’s 19 calls are 38% above 2025’s 13 — not a collapse. Finally, the “Russia channel is financial before diplomatic” read ignores Putin’s offer coinciding with Iran’s *public* 7-day plan via Qatar — suggesting Moscow is leveraging diplomacy, not just finance.
+I disagree with Claude’s S3 probability (70%) — I’d set it at 80%. The data supports a higher likelihood of sustained escalation: Fujairah’s tanker calls (30 vs. 73 in 2025) and kt/call (25.5 vs. 10.0) confirm a robust, active bypass — not a fragile workaround. Combined with Riyadh’s airport strike (12 dead, 300+ injured) and Trump’s explicit willingness to strike Houthis (ISW, Oct 10), this isn’t just a tactical shift — it’s a strategic pivot toward broader regional war. The land-border cost surge (5.3x) and Iran’s zero Hormuz tanker transits for four consecutive days (PortWatch) show Tehran is *choosing* isolation, not merely suffering it. This isn’t containment — it’s escalation with intent. S3 already includes “US enters Yemen war,” and the evidence now strongly implies it’s not just being considered — it’s being prepared. The probability shift is real.
 
 ### Llama 3.3
-I agree with Claude's assessment of the current situation. I find the following points particularly noteworthy:
-
-* The Strait of Hormuz is a significant chokepoint, and any disruption can have far-reaching consequences.
-* The war between the US and Iran is complex and multifaceted, with various actors and interests involved.
-* The economic impact of the war is substantial, with rising energy prices and disruptions to global trade.
-* Diplomatic efforts are underway, with Qatar mediating between the US and Iran.
-* The US has developed a plan for a three-day campaign against Iran, but the timing and specifics are unclear.
-
-However, I do have some differing opinions on certain aspects:
-
-* The potential for a new mediator to facilitate negotiations is uncertain, and it remains to be seen whether this will lead to a breakthrough.
-* The impact of the Houthi attacks on Saudi Arabia is significant, and the conflict in Yemen is escalating.
-* The US military posture and munitions are being continually reassessed, and the situation remains fluid.
-* Iran's state disintegration is a concern, but the country's endurance ceiling is difficult to predict.
-
-In terms of model cross-checks, I resolve the following:
-
-* The Treasury and State designated a total of 22 vessels and 27 companies, along with six individuals, under Operation Economic Outcast.
-* Trump's claim of 22 million barrels transiting the Strait of Hormuz is a multi-day cumulative, not a single-day figure.
-* The rial's stability within a narrow band since October 6 is notable, but the risk of an FX break remains.
-* The lack of a dated CENTCOM release covering strikes on Iranian territory after September 1 is concerning.
-* The Amirabad activity and Tehran gold premium are worth watching for potential contradictions in the next run.
+_Cross-check via meta-llama/llama-3.3-70b-instruct unavailable this run (400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions)._
 
 
 *[Open questions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-questions.md) · [Standing sections](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md) · [Full reference](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)*
