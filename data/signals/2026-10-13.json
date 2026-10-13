@@ -1,0 +1,80 @@
+{
+ "date": "2026-10-13",
+ "generated_at": "2026-10-13T11:50:55.468046+00:00",
+ "portwatch_chokepoints": {
+  "error": "{'code': 429, 'message': 'Unable to perform query. Too many requests.', 'details': ['API calls quota exceeded (8763 request units)! maximum allowed request units (6000) per Minute. Retry after 60 sec.']}"
+ },
+ "portwatch_ports": {
+  "error": "{'code': 429, 'message': 'Unable to perform query. Too many requests.', 'details': ['API calls quota exceeded (8790 request units)! maximum allowed request units (6000) per Minute. Retry after 60 sec.']}"
+ },
+ "tgju": {
+  "price_dollar_rl": {
+   "label": "USD/IRR open market",
+   "price": 2589000.0,
+   "day_change": "37,000",
+   "dp": 1.43,
+   "updated": "2026-10-13 14:28:28"
+  },
+  "price_eur": {
+   "label": "EUR/IRR open market",
+   "price": 2895500.0,
+   "day_change": "35,600",
+   "dp": 1.23,
+   "updated": "2026-10-13 14:28:39"
+  },
+  "crypto-tether-irr": {
+   "label": "Tether (USDT)/IRR",
+   "price": 2566150.0,
+   "day_change": "33,170",
+   "dp": 1.29,
+   "updated": "2026-10-13 14:28:41"
+  },
+  "geram18": {
+   "label": "Gold 18k, per gram (IRR)",
+   "price": 257043000.0,
+   "day_change": "2,576,000",
+   "dp": 1,
+   "updated": "2026-10-13 14:28:39"
+  },
+  "sekee": {
+   "label": "Emami gold coin (IRR)",
+   "price": 2592100000.0,
+   "day_change": "43,650,000",
+   "dp": 1.68,
+   "updated": "2026-10-13 14:28:41"
+  }
+ },
+ "ioda": {
+  "bgp": {
+   "last": 41616,
+   "min_24h": 41603,
+   "mean_24h": 41612.152777777774,
+   "mean_prior_6d": 41640.28085351788
+  },
+  "ping-slash24": {
+   "last": 11573,
+   "min_24h": 11256,
+   "mean_24h": 11510.78472222222,
+   "mean_prior_6d": 11466.528258362168
+  }
+ },
+ "israel_alerts": {
+  "days": {
+   "2026-10-10": {
+    "alerts": {
+     "hostile aircraft/UAV": 1
+    },
+    "localities": 1
+   }
+  },
+  "total_7d": 1,
+  "total_prior_7d": 2
+ },
+ "opensky": {
+  "Iran": 67,
+  "Gulf (KW/SA-east/QA/AE/OM)": 107,
+  "Israel/Lebanon": 26,
+  "Iraq": 8
+ },
+ "firms": {}
+}
