@@ -1,58 +1,55 @@
 # Iran War Economic Impact Framework
-*Last updated by daily agent: 2026-10-29*
+*Last updated by daily agent: 2026-10-30*
 
 > **[Open questions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-questions.md) · [Standing sections](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md) · [Full reference](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)**
 
 ---
 
-## Daily Briefing - 2026-10-29
+## Daily Briefing - 2026-10-30
 
-**Day 244 / Week 35.** Satellite imagery confirms the Houthis took a cracking unit off line at Ras Tanura while nine VLCCs loaded crude at the same complex — the strike that moved Brent 4% hit products, not barrels. The war's measurable damage has migrated from volume to freight, and the freight number is now large enough to stand on its own.
+**Day 245 / Week 35.** US naval command told merchant shipping on Oct 28 to avoid the Strait of Hormuz unless it must transit — three days after its own commander flew the strait saying the lanes were clear and that his focus was keeping traffic moving. The attack that followed was a limpet charge attached by a small boat, which is neither a mine nor something an escort can prevent.
 
 ### The calls — where the read moved
 
-**Q7 · Red Sea — the Ras Tanura hit is confirmed and it is a refining loss, not an export loss; and Russia is now inside the targeting chain.**
-Commercial imagery shows the Houthi missile struck a cracking unit; OSINT analysts report the refinery **has stopped flaring**, indicating shutdown or curtailment of the 550 kb/d plant. In the same imagery, **nine VLCCs were loading simultaneously at Ras Tanura and Juaymah — ~18m barrels**, from which Bloomberg's Blas concludes Aramco has fully recovered pre-war crude export volumes ([Maritime Executive, Oct 29](https://maritime-executive.com/article/strike-damage-confirmed-at-giant-saudi-refinery-complex)). Separately, Swiss geospatial firm Aurorah tells AP there is a **"100% match"** between Russian satellite passes over Saudi sites and subsequent Houthi strikes, including Oct 19; ISW reports the same enabling independently ([ISW, Oct 28](https://www.facebook.com/InstitutefortheStudyofWar/posts/1573310364841235)). Confidence high on the refinery, medium on the Russian link. Changes on a Saudi restart notice.
+**Q5 · US posture — the operational advisory and the information campaign now say opposite things, and the threat vector has changed underneath both.**
+NAVCENT on Oct 28 called on vessels to avoid the strait unless they must transit — the first such notice since mid-July ([globaloilshock weekly, Oct 29](https://globaloilshock.com/en/news/oil-price-week-44-2026)), single-outlet. It cannot be reconciled with CENTCOM's Oct 25–28 line that the routes are cleared and traffic protected. The Oct 29–30 incident settles which is operative: UKMTO reports **a small boat attaching two explosive devices** to a tanker ~25nm NE of Khasab, engine-room fire, vessel disabled, crew safe ([CNBC, Oct 30](https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html)). Iran called it a mine; IRGC spokesman Mohebi demanded CENTCOM "prove" its clearance claim. **Both claims fail: mine-clearance is true and irrelevant, and the boat teams CENTCOM said it had destroyed are the delivery system.** Inference (medium): limpet attachment defeats minesweeping and escort alike and is the cheapest capability to reconstitute. Confidence medium-high. Changes if UKMTO attributes a subsequent casualty to a moored mine.
 
-**Q1 · Flows — the barrels move; the cost of moving them is the war.**
-Kpler puts Gulf crude exports at **≥16.5 mb/d for Sep 1–28, pre-war levels, with only 60% crossing Hormuz, mostly on shuttle tankers** ([Kpler, Oct 23](https://www.kpler.com/es/blog/aramco-goes-full-circle-why-rising-saudi-exports-are-bearish-diffs-but-not-bearish-risk)). The bridge is now quantified: **~30 VLCCs locked into STS shuttle duty**, VLCC freight MEG–India at **$10–11/bbl against $1–1.50 pre-war**, war risk 3–10% of hull ([Discovery Alert, Oct 29](https://discoveryalert.com/analysis/tanker-freight-rates-india-state-refiners-october-2026)); traders at a Lloyd's List event put Hormuz war risk at **7.5–12.5%** and SSY records September VLCC spot above **$500,000/day** ([Energy Intelligence, Oct 22](https://www.energyintel.com/000001a1-63d8-d9df-adb1-ebff38fc0000)). **Agent arithmetic: $9.5/bbl of incremental freight on 16.5 mb/d is ~$157m/day, ~$57bn annualised** — a transfer from producers and refiners to shipowners, not a lost barrel. ADNOC may load Upper Zakum at Fujairah from early 2027 via a Hormuz-bypassing pipeline ([Oil & Gas ME, Oct 29](https://www.oilandgasmiddleeast.com/news/upper-zakum-fujairah-pipeline)) — the detour is becoming permanent. Confidence medium-high; changes if freight normalises without a ceasefire.
+**Q8 · Mecca Pact — its first real test produced dialogue and nothing else; the Houthi tempo did not blink.**
+Saudi Defence Minister Khalid bin Salman, Field Marshal Munir and Turkish intelligence chief Kalin met Pezeshkian and Rezaei in Tehran on Oct 26; the four agreed to keep talking and announced **no agreement to halt Houthi attacks** ([Iran International, Oct 27](https://www.iranintl.com/en/202610266454); [Reuters, Oct 26](https://www.reuters.com/world/asia-pacific/top-officials-mecca-pact-countries-meet-iranian-officials-tehran-monday-two-2026-10-26)). In the 96 hours after: three ballistic missiles and four drones intercepted Oct 27 ([Al Jazeera](https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones)); six claimed operations on Oct 30 against Ras Tanura, Abqaiq, King Khalid and King Fahd — **plus a drone intercepted toward the Mecca region** ([Al Jazeera, Oct 30](https://www.aljazeera.com/amp/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities)). Read: either Tehran's leverage over Sanaa is smaller than the coercive-diplomacy framing assumes, or it is being withheld until Nov 3. Confidence medium. The Mecca vector is the one target that would make a collective response politically unavoidable.
 
-**Q2 · Inside Iran — the Pakistan cordon is episodic security closure, not a sustained blockade.**
-Pakistan **reopened Gabd–Rimdan (Gate 250) on Oct 24**, clearing consignments noted Oct 16 or earlier, after an eight-day suspension begun Oct 17; the Gwadar chamber confirms trucks moving both ways, and the reopening followed an attack in which gunmen torched dozens of trucks queued at the closed crossing ([Dawn, Oct 25](https://www.dawn.com/news/2039610)). My Oct 24 read — a US-directed land blockade closing faster than it can be used — is too strong on the Pakistan leg: that trigger ("a dated reopening") is met. Meanwhile **2,271 trucks sit behind Dogharoun** on the Afghan side over customs ([Iran Focus, Oct 27](https://iranfocus.com/economy/59121-2271-trucks-stuck-behind-the-dogharoun-border-crossing-irans-exports-bottlenecked-by-customs/)). **Inference (medium): the binding overland constraint is throughput and convoy security, not permission.** Confidence on coordination cut to low-medium. Changes on a Sheeb reopening or a Taftan closure past two weeks.
+**Q3 · Capital flows — the Tether premium survived three sessions and widened; the supply-side explanation no longer holds.**
+Basis path: **−0.3% (Oct 24) → +0.1% (Oct 28) → +0.1% (Oct 29) → +0.5% today**, with cash at 2,710,600 (tgju). The Oct 24 read — a thinning dollar offer, not a crypto bid — depended on the cash rate lagging. That prop is gone: 18k at 262.2M/g implies **$4,012/oz fine against ~$4,024 futures, a 0.3% discount**, so cash has fully converged (agent arithmetic). A persistent premium over a converged cash rate is demand, not lag. Context: September consumer prices were **~90% higher y/y, annual inflation 73.6%, food +121.8%**, and the economy minister publicly apologised ([Reuters, Oct 28](https://www.reuters.com/world/middle-east/iranians-cut-essentials-put-dreams-hold-as-war-hit-economy-bites-2026-10-28)). Inference (medium): part crypto-channel trade settlement, part flight. Confidence medium. Changes if the basis reverts below zero for two sessions.
 
-**Not moved today:** Q3 capital (10-29, numbers below) · Q4 view from space (10-17) · Q5 posture (10-23) · Q6 Israel (10-29) · Q8 Mecca Pact (10-29) · Q9 diplomacy (10-23).
+**Not moved today:** Q1 flows (read unchanged since 10-29) · Q2 inside Iran (10-29) · Q4 view from space (10-17) · Q6 Israel (10-29) · Q7 Red Sea (10-29) · Q9 diplomacy (10-23).
 
 **Headlines the wires already have:**
-- Vance letter to Iranian security chief Rezaei seeks to revive talks; oil falls ([Reuters, Oct 29](https://www.reuters.com/business/energy/us-oil-prices-fall-investors-gauge-risks-mideast-supply-2026-10-29))
-- Trump denies directing Vance to open peace talks, says contact concerned medical supplies ([Al Jazeera, Oct 29](https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks))
-- US moves a Patriot battery from Texas to the Middle East ([JPost carrying WSJ, Oct 28](https://www.jpost.com/israel-news/defense-news/article-913105))
-- Turkish parliamentary committee approves the Mecca pact; assembly vote unscheduled ([AP, Oct 27](https://apnews.com/article/turkey-parliamentary-committee-approves-pact-saudi-pakistan-b75b3e02240f55d364b3072c2300ad36))
+- Qatari mediators return to Tehran to push for a US–Iran deal ([Reuters, Oct 30](https://www.reuters.com/world/middle-east/qatari-mediators-return-tehran-push-us-iran-deal-official-says-2026-10-30))
+- Cooper briefed Trump on options for renewed attacks on Iran ([Al Jazeera carrying WSJ, Oct 30](https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer))
+- Trump says the Vance letter concerned helping Iran obtain medical supplies ([RFE/RL, Oct 27–29](https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html))
+- Democrats have no Iran agenda beyond ending the war ([Politico, Oct 30](https://www.politico.com/news/magazine/2026/10/30/democrats-iran-war-threat-01141008))
 
-**Corrections:** Oct 28 I called the Ras Tanura loading rebound "redirection, not recovery." On the imagery evidence above, **recovery is correct for crude** — and PortWatch's 169 kt weekly terminal print understates Saudi loadings by orders of magnitude against 18m barrels at a single berth complex. The caveat survives only for products.
+**Market and flow readings (2026-10-30):**
+- **Brent $111.74 (+0.99%), WTI $102.91** on the latest dated ticker (mining.com, Oct 29 20:55 GMT) — **−4.3% from the Oct 23 close of $116.72** in four sessions, the diplomacy discount.
+- **EU TTF briefly above €100/MWh on Oct 28, first time since December 2022**, after QatarEnergy extended its LNG force majeure **to end-December** (globaloilshock, Oct 29).
+- PortWatch returned query errors for a second consecutive run, so the flow proxy is JMIC: **492 ships waiting outside the strait and 156 confirmed incidents against ships since Mar 1** (JMIC via globaloilshock, Oct 25). **Agent arithmetic: at the 4–9/day transit range, that queue alone is 55–120 days deep.**
+- Rial 2,710,600, 0.2% weaker d/d and ~0.5% short of the Oct 26 war low; Emami 2,668M, flat (tgju).
+- **Iranian ADS-B 91 aircraft against 46 a week ago (+98%)** — a doubling of the civil-traffic proxy with no announced schedule change; logged, not interpreted (OpenSky).
+- Israel Home Front: **0 alert events**, prior week 1; IODA 11,497 reachable /24s, normal.
 
-**Market and flow readings (2026-10-29):**
-- **Brent $114.50, −0.7%; WTI $101.74, −1.0%** at 0132 GMT, after +1.3%/+3.0% on Oct 28 (Reuters Oct 29). EIA records a **1.9 mb crude draw** for the week to Oct 23 against a forecast build.
-- Fed held; **two dissents for a hike, fewer than priced** — dollar index and 2-year yields fell ([CNBC TV18, Oct 29](https://www.tradingview.com/news/cnbctv:8cb7e5d2c094b:0)).
-- **Rial 2,705,000, 0.5% weaker d/d and within ~0.7% of the Oct 26 war low**; Tether 2,708,560 = **+0.1% over cash, a second consecutive session of premium** (tgju).
-- **Gold: Emami 2,667M (−0.3% d/d); 18k at 261.9M/g implies ~$4,016/oz fine against ~$4,030 spot — the implied-versus-spot gap has closed from ~4% on Oct 24 to under 1%** (tgju, agent arithmetic). **Read: the move to the war low was not an overshoot; the cash rate has converged on where the gold market was already pricing.**
-- IMO now confirms **121 maritime incidents and 24 seafarer deaths** since Feb 28 ([UANI, Oct 27](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-october-27-2026)).
-- Iranian ADS-B 77 vs 83 a week ago; **Israel Home Front 0 alerts for a second consecutive week**; IODA 11,498 reachable /24s, normal (OpenSky, Home Front alerts, IODA).
+**Scenario update:** S1 1% / S2 13% / S3 67% / S4 13% / S5 6% — **S2 +1, S3 −1**: Qatari mediators physically back in Tehran and Iran publicly discussing implementation of a plan is process, not signalling, and it is the first such movement since the Oct 28 rejection of the Qatari text.
 
-**Scenario update:** S1 1% / S2 12% / S3 68% / S4 13% / S5 6% — **S5 +2** on dual-channel reporting of Russian satellite targeting support to the Houthis, the first great-power enabling of strikes on Gulf energy infrastructure confirmed by a named commercial analyst; S2 −1 as Tehran dismisses the Qatari text; S3 −1.
-
-**Standing sections updated today:** [US Military Posture & Munitions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#us-military-posture--munitions) — Oct 29 block.
+**Standing sections updated today:** [US Military Posture & Munitions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#us-military-posture--munitions) — Oct 30 block.
 
 ---
 
 ## Model cross-check
 
-- **Resolved — the Houthi refinery claim.** Yesterday it was logged unconfirmed and excluded from supply arithmetic. Commercial imagery and the cessation of flaring now support it. **Adopted into the product-supply picture only; crude loadings at the same complex are unimpaired.**
-- **Resolved — the rial retracement.** It did not survive the Qatari text being rejected: the cash rate gave back 0.5% and sits back at the war low. The Oct 28 "headline squeeze" read stands.
-- **Unresolved and now harder — the Yanbu zero.** Maritime Executive says Aramco ships "out of its Gulf and Red Sea loading terminals," which cannot be squared with two consecutive PortWatch weeks of zero Yanbu tanker calls. Blas's full-recovery conclusion rests entirely on **Gulf** berths, which is consistent with Yanbu being shut. **I now lean: Red Sea loadings are near zero and the recovery is a Gulf-only phenomenon (medium).** PortWatch was unavailable this run; the next print settles it.
-- **Carried — Iranian import tonnage.** No port data this run; the 95%-of-2025 finding has not had its second week.
-- **Logged, not adopted — the Oct 28 suicide-boat report.** A claim that a Hormuz tanker was "almost cut in half" circulated at 22:48 UTC with no vessel name, flag or official confirmation ([HamerIntel, Oct 28](https://hamerintel.com/data/alerts/28341)). Single-source social media; excluded.
-- **Logged — Kharg.** Sentinel-2 imagery of Oct 29 shows tankers anchored but none loading ([Charlie B/UANI, Oct 29](https://x.com/supbrow/status/2115487845146353687)). Consistent with an eighth zero-export week; single OSINT source.
-- **Watch for contradiction next run:** (1) whether Fujairah tanker calls hold above 30 now that ~30 VLCCs are committed as shuttles; (2) whether the Tether premium reaches a third session; (3) whether Saudi product exports — not crude — show up as a Ras Tanura hole.
+- **Resolved — the Oct 28 suicide-boat report.** Yesterday I excluded HamerIntel's unnamed-vessel claim as single-source social media. UKMTO has now independently described the tactic — a small boat attaching explosive devices to a hull — through a wire carrier. **The tactic is adopted; the specific vessel claim is not.**
+- **Resolved — the Yanbu/"full recovery" dispute, against the bearish Saudi-loadings numbers.** Two figures circulate: Saudi crude loadings "down 72% since January" and "~2.1 mb/d in the first half of September" ([House of Saud, Oct 27](https://houseofsaud.com/iran-tanker-attacks-beyond-hormuz-saudi-export-routes); [Oct 26](https://houseofsaud.com/opec-saudi-exports-november-meeting)), both second-hand aggregations of OilPrice/JPMorgan and BusinessToday citations. They cannot be squared with Kpler's six-year-high loadings ([Kpler, Oct 23](https://www.kpler.com/es/blog/aramco-goes-full-circle-why-rising-saudi-exports-are-bearish-diffs-but-not-bearish-risk)) or with nine VLCCs loading simultaneously at Ras Tanura/Juaymah on Oct 29 imagery. **I believe Kpler and the imagery: the 2.1 mb/d print is a pre-recovery, early-September datapoint and the 72% is measured off a January peak.** The Red Sea leg stays near zero — consistent, not contradictory.
+- **Carried — the Ras Tanura product hole.** The Houthis claim a second ballistic-missile hit on the refinery (Oct 30); Saudi Arabia has not confirmed it, as it did not confirm Oct 27. Crude loadings remain the only directly observed series. **No restart notice has appeared.**
+- **Carried — Iranian import tonnage and Fujairah shuttle calls.** Two runs without PortWatch; the 95%-of-2025 import finding and the ~30-VLCC shuttle commitment both still lack their confirming week.
+- **Unresolved — the NAVCENT notice.** One outlet, no primary NAVCENT text in the pack. If a second originator carries it, the CENTCOM throughput series should be treated as discredited rather than merely definitionally loose.
+- **Watch for contradiction next run:** (1) whether PortWatch returns and shows Hormuz tanker DWT below the 13k/day floor; (2) whether the Tether basis holds above +0.5% into a fourth session; (3) whether any signatory answers the Mecca-region drone with action inside Yemen.
 
 ---
 
@@ -63,25 +60,28 @@ Pakistan **reopened Gabd–Rimdan (Gate 250) on Oct 24**, clearing consignments 
 _Gemini cross-check unavailable this run (401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=AQ.Ab8RN6KdSCgiNh7b3yz971lUzav4bY9gZdbaoWkP98OmUONUFw)._
 
 ### DeepSeek-V3
-### Key Differences with Claude's Briefing:
+- **Disagree on IRGC's tactical adaptation**: Claude suggests limpet mines defeat minesweeping and escorts alike. However, small boat attacks are not new (see UKMTO reports since August) and were already factored into the "escorted transits are invisible" baseline. The real shift is IRGC abandoning deniability by openly claiming mines while using asymmetric methods - a contradiction Claude missed (UKMTO Oct 30 vs. IRGC statements).  
 
-1. **Iranian Economic Collapse vs. Resilience**: While Claude notes the rial's weakness, I'd stress the **Bessent warning** (Iran's economy may contract >25% by March 2027) as a critical signal (Iran International, Oct 26). The **Tether premium rising to +0.1%** (tgju) suggests accelerating capital flight, contradicting Claude's dismissal of a "headline squeeze."
+- **Overweighted Qatari mediation significance**: The S3 probability increase (+1%) based on Qatari mediators returning seems premature. There's no evidence of shifted Iranian red lines since their Oct 28 rejection, and the Politico piece highlights Democratic disengagement - reducing US incentive to compromise. The mediators' presence may reflect Qatari, not substantive, momentum.  
 
-2. **Ras Tanura Impact**: Claude underweights the refinery strike's product impact. The **550 kb/d outage at Ras Tanura** (Maritime Executive, Oct 29) directly threatens diesel/jet fuel supplies, validating Brent's $115 spike despite crude loadings continuing. This is structurally bearish for Asian refiners.
+- **Missed GOP electoral calculus**: Claude omits that GOP candidates are running on wartime leadership (Politico). A pre-midterm de-escalation would contradict Trump's political needs, making the Nov 3 timeline more volatile than the 13% S2 probability suggests.  
 
-3. **Houthi-Russia Coordination**: The **ISW/Aurorah Geosignal confirmation of Russian satellite targeting** (Oct 28) elevates this from speculation to documented fact. This should **raise S5 (escalation) probability more than Claude's +2%**, given it implies great-power backing for attacks on critical infrastructure.
+**Agree on**: Mecca Pact's ineffective debut, Tether premium as capital flight signal, and the Kpler/Yanbu imagery reconciling export data.  
 
-4. **Pakistan Border Dynamics**: Claude correctly notes Gabd-Rimdan reopened, but misses the **2,271 trucks stranded at Dogharoun** (Iran Focus, Oct 27). Iran's land trade collapse isn't just about closures—it reflects **systemic customs/logistics failure**.
-
-5. **CENTCOM-IRGC Narratives**: While Claude skims the suicide boat claim, CENTCOM's **denial of Iranian mine claims** (Iran International, Oct 28) is pivotal. It shows Tehran fabricating maritime threats to justify its Hormuz control—a signal of weakness masked as strength.  
-
-*Agree on:* VLCC shuttle math, Mecca Pact delays, Qatari proposal marginality.
+(Word count: 154)
 
 ### Qwen
-I differ on S5 probability: Claude sets it at 6% after “dual-channel reporting” of Russian satellite support to Houthis. But the evidence is circumstantial: Aurorah Geosignal’s “100% match” is correlation, not causation; ISW confirms Russian satellite activity over Saudi sites but does not link it to Houthi targeting decisions. No direct evidence of Russian operational coordination exists. The signal is suggestive, not confirmatory. I set S5 at 2% — a low-probability, high-impact scenario still lacking a smoking gun. All other reads (freight, Ras Tanura, rial, diplomacy) are well-supported.
+I disagree with Claude’s inference that limpet attacks “defeat minesweeping and escort alike” as the new dominant threat vector. The data shows no increase in such attacks—only one confirmed incident (UKMTO, Oct 29), while Houthi drone/missile strikes on Saudi infrastructure surged (6 claims Oct 30). The real shift is strategic: Iran’s coercion now operates *beyond* Hormuz via proxy, not via direct naval tactics. Claude overstates the tactical novelty while ignoring the operational pivot—Houthi attacks on Yanbu, Abqaiq, and Riyadh airports (Al Jazeera, Oct 30) are the true escalation, not a single small-boat incident. This undermines his “cheapest capability to reconstitute” framing: the Houthi campaign is state-backed, scalable, and politically calibrated, not an improvised tactic. The real vulnerability is Saudi export resilience, not escort effectiveness.
 
 ### Llama 3.3
-I agree, with a call you think the data does not support, such as the October 28 report of a suicide-boat strike, which remains unconfirmed and excluded from supply arithmetic. However, I also note that theHealth section of the USNI News Fleet and Marine Tracker: Oct. 26, 2026, has information that could be relevant to a different query.
+My reading differs from Claude's in a few areas:
+
+* I believe the Qatari mediators' return to Tehran is a positive development, increasing the chances of a diplomatic resolution, whereas Claude seems to downplay its significance.
+* I interpret the Houthi attacks on Saudi airports and oil facilities as a significant escalation, potentially leading to a collective military response, whereas Claude views it as a continuation of the current conflict dynamics.
+* I think the Tether premium's persistence suggests a growing demand for cryptocurrencies as a safe-haven asset, whereas Claude attributes it to supply-side factors.
+* I am more skeptical about the accuracy of the Saudi crude loadings data, given the conflicting reports, and would like to see more conclusive evidence before making a judgment.
+
+Overall, while we share similar concerns about the conflict's trajectory, our perspectives on the key drivers and potential outcomes differ slightly.
 
 
 *[Open questions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-questions.md) · [Standing sections](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md) · [Full reference](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)*
