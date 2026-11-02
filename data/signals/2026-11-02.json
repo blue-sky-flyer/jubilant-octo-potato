@@ -1,0 +1,73 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T11:50:52.153940+00:00",
+ "portwatch_chokepoints": {
+  "error": "{'code': 400, 'message': 'Cannot perform query. Invalid query parameters.', 'details': ['Unable to perform query. Please check your parameters.']}"
+ },
+ "portwatch_ports": {
+  "error": "{'code': 400, 'message': 'Cannot perform query. Invalid query parameters.', 'details': ['Unable to perform query. Please check your parameters.']}"
+ },
+ "tgju": {
+  "price_dollar_rl": {
+   "label": "USD/IRR open market",
+   "price": 2727050.0,
+   "day_change": "12,050",
+   "dp": 0.44,
+   "updated": "2026-11-02 15:20:55"
+  },
+  "price_eur": {
+   "label": "EUR/IRR open market",
+   "price": 3067100.0,
+   "day_change": "31,800",
+   "dp": 1.05,
+   "updated": "2026-11-02 15:20:53"
+  },
+  "crypto-tether-irr": {
+   "label": "Tether (USDT)/IRR",
+   "price": 2693920.0,
+   "day_change": "90",
+   "dp": 0,
+   "updated": "2026-11-02 15:20:55"
+  },
+  "geram18": {
+   "label": "Gold 18k, per gram (IRR)",
+   "price": 257703000.0,
+   "day_change": "1,911,000",
+   "dp": 0.75,
+   "updated": "2026-11-02 15:20:53"
+  },
+  "sekee": {
+   "label": "Emami gold coin (IRR)",
+   "price": 2630750000.0,
+   "day_change": "16,550,000",
+   "dp": 0.63,
+   "updated": "2026-11-02 15:20:55"
+  }
+ },
+ "ioda": {
+  "bgp": {
+   "last": 41741,
+   "min_24h": 41724,
+   "mean_24h": 41731.677083333336,
+   "mean_prior_6d": 41659.453863898496
+  },
+  "ping-slash24": {
+   "last": 11594,
+   "min_24h": 11227.333333333334,
+   "mean_24h": 11529.90277777778,
+   "mean_prior_6d": 11433.603427895981
+  }
+ },
+ "israel_alerts": {
+  "days": {},
+  "total_7d": 0,
+  "total_prior_7d": 1
+ },
+ "opensky": {
+  "Iran": 84,
+  "Gulf (KW/SA-east/QA/AE/OM)": 122,
+  "Israel/Lebanon": 28,
+  "Iraq": 6
+ },
+ "firms": {}
+}
