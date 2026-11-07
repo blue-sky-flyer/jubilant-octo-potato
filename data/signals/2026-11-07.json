@@ -1,0 +1,300 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T11:50:53.285006+00:00",
+ "portwatch_chokepoints": {
+  "Strait of Hormuz": {
+   "latest_day": {
+    "date": "2026-10-25",
+    "portname": "Strait of Hormuz",
+    "n_total": 2,
+    "n_tanker": 1,
+    "n_container": 0,
+    "n_dry_bulk": 0,
+    "capacity_tanker": 0
+   },
+   "week": {
+    "days": 7,
+    "total_pd": 3.2857142857142856,
+    "tanker_pd": 0.8571428571428571,
+    "container_pd": 0.14285714285714285,
+    "tanker_dwt_pd": 6153.714285714285
+   },
+   "prior_week": {
+    "days": 7,
+    "total_pd": 3.7142857142857144,
+    "tanker_pd": 0.5714285714285714,
+    "container_pd": 0.2857142857142857,
+    "tanker_dwt_pd": 12526.142857142857
+   },
+   "same_week_2025": {
+    "days": 7,
+    "total_pd": 99.57142857142857,
+    "tanker_pd": 56.42857142857143,
+    "container_pd": 18.571428571428573,
+    "tanker_dwt_pd": 2661501.1428571427
+   },
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "n_total": 4,
+     "n_tanker": 1,
+     "capacity_tanker": 0
+    },
+    {
+     "date": "2026-10-20",
+     "n_total": 3,
+     "n_tanker": 1,
+     "capacity_tanker": 5341
+    },
+    {
+     "date": "2026-10-21",
+     "n_total": 3,
+     "n_tanker": 0,
+     "capacity_tanker": 0
+    },
+    {
+     "date": "2026-10-22",
+     "n_total": 4,
+     "n_tanker": 1,
+     "capacity_tanker": 0
+    },
+    {
+     "date": "2026-10-23",
+     "n_total": 5,
+     "n_tanker": 1,
+     "capacity_tanker": 0
+    },
+    {
+     "date": "2026-10-24",
+     "n_total": 2,
+     "n_tanker": 1,
+     "capacity_tanker": 37735
+    },
+    {
+     "date": "2026-10-25",
+     "n_total": 2,
+     "n_tanker": 1,
+     "capacity_tanker": 0
+    }
+   ]
+  },
+  "Bab el-Mandeb Strait": {
+   "latest_day": {
+    "date": "2026-10-25",
+    "portname": "Bab el-Mandeb Strait",
+    "n_total": 36,
+    "n_tanker": 13,
+    "n_container": 9,
+    "n_dry_bulk": 7,
+    "capacity_tanker": 494335
+   },
+   "week": {
+    "days": 7,
+    "total_pd": 28.857142857142858,
+    "tanker_pd": 9.571428571428571,
+    "container_pd": 7.285714285714286,
+    "tanker_dwt_pd": 371574.85714285716
+   },
+   "prior_week": {
+    "days": 7,
+    "total_pd": 26.428571428571427,
+    "tanker_pd": 10.0,
+    "container_pd": 4.714285714285714,
+    "tanker_dwt_pd": 554427.8571428572
+   },
+   "same_week_2025": {
+    "days": 7,
+    "total_pd": 39.0,
+    "tanker_pd": 12.714285714285714,
+    "container_pd": 7.428571428571429,
+    "tanker_dwt_pd": 722972.0
+   },
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "n_total": 36,
+     "n_tanker": 9,
+     "capacity_tanker": 216742
+    },
+    {
+     "date": "2026-10-20",
+     "n_total": 33,
+     "n_tanker": 10,
+     "capacity_tanker": 410362
+    },
+    {
+     "date": "2026-10-21",
+     "n_total": 21,
+     "n_tanker": 6,
+     "capacity_tanker": 280617
+    },
+    {
+     "date": "2026-10-22",
+     "n_total": 23,
+     "n_tanker": 7,
+     "capacity_tanker": 314995
+    },
+    {
+     "date": "2026-10-23",
+     "n_total": 32,
+     "n_tanker": 11,
+     "capacity_tanker": 454425
+    },
+    {
+     "date": "2026-10-24",
+     "n_total": 21,
+     "n_tanker": 11,
+     "capacity_tanker": 429548
+    },
+    {
+     "date": "2026-10-25",
+     "n_total": 36,
+     "n_tanker": 13,
+     "capacity_tanker": 494335
+    }
+   ]
+  },
+  "Suez Canal": {
+   "latest_day": {
+    "date": "2026-10-25",
+    "portname": "Suez Canal",
+    "n_total": 46,
+    "n_tanker": 14,
+    "n_container": 19,
+    "n_dry_bulk": 8,
+    "capacity_tanker": 362258
+   },
+   "week": {
+    "days": 7,
+    "total_pd": 41.285714285714285,
+    "tanker_pd": 16.285714285714285,
+    "container_pd": 13.857142857142858,
+    "tanker_dwt_pd": 659629.0
+   },
+   "prior_week": {
+    "days": 7,
+    "total_pd": 44.285714285714285,
+    "tanker_pd": 15.857142857142858,
+    "container_pd": 13.428571428571429,
+    "tanker_dwt_pd": 841229.1428571428
+   },
+   "same_week_2025": {
+    "days": 7,
+    "total_pd": 42.857142857142854,
+    "tanker_pd": 16.0,
+    "container_pd": 10.714285714285714,
+    "tanker_dwt_pd": 821429.7142857143
+   },
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "n_total": 36,
+     "n_tanker": 16,
+     "capacity_tanker": 610955
+    },
+    {
+     "date": "2026-10-20",
+     "n_total": 39,
+     "n_tanker": 13,
+     "capacity_tanker": 711603
+    },
+    {
+     "date": "2026-10-21",
+     "n_total": 40,
+     "n_tanker": 16,
+     "capacity_tanker": 737072
+    },
+    {
+     "date": "2026-10-22",
+     "n_total": 43,
+     "n_tanker": 16,
+     "capacity_tanker": 627189
+    },
+    {
+     "date": "2026-10-23",
+     "n_total": 44,
+     "n_tanker": 21,
+     "capacity_tanker": 821044
+    },
+    {
+     "date": "2026-10-24",
+     "n_total": 41,
+     "n_tanker": 18,
+     "capacity_tanker": 747282
+    },
+    {
+     "date": "2026-10-25",
+     "n_total": 46,
+     "n_tanker": 14,
+     "capacity_tanker": 362258
+    }
+   ]
+  }
+ },
+ "portwatch_ports": {
+  "error": "{'code': 429, 'message': 'Unable to perform query. Too many requests.', 'details': ['API calls quota exceeded (6010 request units)! maximum allowed request units (6000) per Minute. Retry after 60 sec.']}"
+ },
+ "tgju": {
+  "price_dollar_rl": {
+   "label": "USD/IRR open market",
+   "price": 2666950.0,
+   "day_change": "2,050",
+   "dp": 0.08,
+   "updated": "2026-11-07 15:20:32"
+  },
+  "price_eur": {
+   "label": "EUR/IRR open market",
+   "price": 2977300.0,
+   "day_change": "23,300",
+   "dp": 0.78,
+   "updated": "2026-11-07 15:20:33"
+  },
+  "crypto-tether-irr": {
+   "label": "Tether (USDT)/IRR",
+   "price": 2679800.0,
+   "day_change": "8,020",
+   "dp": 0.3,
+   "updated": "2026-11-07 15:20:30"
+  },
+  "geram18": {
+   "label": "Gold 18k, per gram (IRR)",
+   "price": 257625000.0,
+   "day_change": "4,040,000",
+   "dp": 1.57,
+   "updated": "2026-11-07 15:20:33"
+  },
+  "sekee": {
+   "label": "Emami gold coin (IRR)",
+   "price": 2604100000.0,
+   "day_change": "57,800,000",
+   "dp": 2.22,
+   "updated": "2026-11-07 15:20:31"
+  }
+ },
+ "ioda": {
+  "bgp": {
+   "last": 41761,
+   "min_24h": 41752,
+   "mean_24h": 41757.197916666664,
+   "mean_prior_6d": 41726.35351787774
+  },
+  "ping-slash24": {
+   "last": 11591,
+   "min_24h": 11312.333333333334,
+   "mean_24h": 11462.819444444445,
+   "mean_prior_6d": 11414.378091872792
+  }
+ },
+ "israel_alerts": {
+  "days": {},
+  "total_7d": 0,
+  "total_prior_7d": 0
+ },
+ "opensky": {
+  "Iran": 83,
+  "Gulf (KW/SA-east/QA/AE/OM)": 118,
+  "Israel/Lebanon": 10,
+  "Iraq": 6
+ },
+ "firms": {}
+}
