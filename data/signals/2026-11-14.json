@@ -1,0 +1,93 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T11:51:00.526187+00:00",
+ "portwatch_chokepoints": {
+  "error": "{'code': 429, 'message': 'Unable to perform query. Too many requests.', 'details': ['API calls quota exceeded (6033 request units)! maximum allowed request units (6000) per Minute. Retry after 60 sec.']}"
+ },
+ "portwatch_ports": {
+  "error": "{'code': 429, 'message': 'Unable to perform query. Too many requests.', 'details': ['API calls quota exceeded (6033 request units)! maximum allowed request units (6000) per Minute. Retry after 60 sec.']}"
+ },
+ "tgju": {
+  "price_dollar_rl": {
+   "label": "USD/IRR open market",
+   "price": 2709000.0,
+   "day_change": "40,000",
+   "dp": 1.5,
+   "updated": "2026-11-14 15:20:16"
+  },
+  "price_eur": {
+   "label": "EUR/IRR open market",
+   "price": 2991400.0,
+   "day_change": "22,100",
+   "dp": 0.74,
+   "updated": "2026-11-14 15:20:26"
+  },
+  "crypto-tether-irr": {
+   "label": "Tether (USDT)/IRR",
+   "price": 2715500.0,
+   "day_change": "23,180",
+   "dp": 0.86,
+   "updated": "2026-11-14 15:20:28"
+  },
+  "geram18": {
+   "label": "Gold 18k, per gram (IRR)",
+   "price": 249640000.0,
+   "day_change": "748,000",
+   "dp": 0.3,
+   "updated": "2026-11-14 15:20:26"
+  },
+  "sekee": {
+   "label": "Emami gold coin (IRR)",
+   "price": 2537850000.0,
+   "day_change": "1,800,000",
+   "dp": 0.07,
+   "updated": "2026-11-14 15:20:30"
+  }
+ },
+ "ioda": {
+  "bgp": {
+   "last": 41759.5,
+   "min_24h": 41731,
+   "mean_24h": 41739.288194444445,
+   "mean_prior_6d": 41743.178713450296
+  },
+  "ping-slash24": {
+   "last": 11611,
+   "min_24h": 11350.333333333334,
+   "mean_24h": 11476.520833333334,
+   "mean_prior_6d": 11544.54094579008
+  }
+ },
+ "israel_alerts": {
+  "days": {
+   "2026-11-13": {
+    "alerts": {
+     "rockets/missiles": 1
+    },
+    "localities": 1
+   },
+   "2026-11-11": {
+    "alerts": {
+     "earthquake": 2
+    },
+    "localities": 6
+   },
+   "2026-11-08": {
+    "alerts": {
+     "rockets/missiles": 1,
+     "hostile aircraft/UAV": 2
+    },
+    "localities": 3
+   }
+  },
+  "total_7d": 6,
+  "total_prior_7d": 0
+ },
+ "opensky": {
+  "Iran": 91,
+  "Gulf (KW/SA-east/QA/AE/OM)": 119,
+  "Israel/Lebanon": 12,
+  "Iraq": 11
+ },
+ "firms": {}
+}
