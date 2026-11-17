@@ -1,56 +1,52 @@
 # Iran War Economic Impact Framework
-*Last updated by daily agent: 2026-11-16*
+*Last updated by daily agent: 2026-11-17*
 
 > **[Open questions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-questions.md) · [Standing sections](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md) · [Full reference](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)**
 
 ---
 
-## Daily Briefing - 2026-11-16
+## Daily Briefing - 2026-11-17
 
-**Day 262 / Week 38.** The third carrier is in CENTCOM waters for the first time this war — and arrives on the day Iran's deputy foreign minister says Washington's counter-offer to the seven conditions is unworkable only because it *defers* steps, which is the narrowest gap Tehran has publicly described. Those two facts sit on opposite sides of the same ledger, and the Israeli cabinet that met last night has published nothing.
+**Day 263 / Week 38.** Brent fell 3.55% overnight and traded below $92 on the morning a third US carrier was confirmed operational in the AOR and Bahrain absorbed its third claimed Iranian drone attack in five days. The price is tracking the mediation channel, not the hulls — and today the channel moved to Muscat, where the subject was the strait itself.
 
 ### The calls — where the read moved
 
-**Q5 · US posture — the three-deck package is real, and it is additive, not a relief rotation.**
-The USS *Theodore Roosevelt* CSG entered the CENTCOM AOR on Nov 15 alongside *George Washington* and *George H.W. Bush*, inside a deployment of 20+ naval vessels ([Gulf News, Nov 15](https://gulfnews.com/world/americas/us-aircraft-carrier-uss-theodore-roosevelt-enters-mid-east-as-iran-blockade-expands-1.500748546)); the WSJ account adds a Makin Island ARG with the 13th MEU and **9,000–10,000 additional troops** ([NewsCord, Nov 16](https://newscord.org/article/pentagon-sends-uss-theodore-roosevelt-carrier-strike-group-adding-9000-10000-tro--Story_20261116_KonfliktmitIranDritt41932b8e)). **This corrects my Nov 9 call.** I read USNI's "replace *George Washington*" as implying a steady state of two decks; three are present and a fourth major amphibious formation is inbound. Arithmetic: deck count 2 → 3 (+50%), ground/air personnel +~10k. Agent inference (medium): this is capacity for the short, intense package, not for counter-battery — raise probability of a major US strike on Iranian territory within 14 days from ~20% to **~25%**. A published *George Washington* departure would reverse it.
+**Q9 · Diplomacy — a third mediator opens, and for the first time the agenda is the mechanics of the waterway rather than the terms for it.**
+Oman's foreign ministry says Busaidi and Araghchi discussed "safeguarding maritime corridors and ensuring the smooth flow of global shipping and trade," plus reviving channels to prevent escalation ([Haaretz/Reuters, Nov 17](https://www.haaretz.com/middle-east-news/iran/2026-11-17/ty-article/oman-iran-foreign-ministers-discuss-safeguarding-maritime-corridors/000001a1-e826-dad7-a9fd-ea6f7e590000)); the trip was announced by Baghaei on Nov 15, and in Islamabad Araghchi claimed a "10-country regional bloc" backs the two-day reopening ([House of Saud, Nov 16](https://houseofsaud.com/araghchi-muscat-oman-nov17)). Riyadh ran parallel calls to Doha and Cairo the same day ([House of Saud, Nov 16](https://houseofsaud.com/saudi-fm-qatar-egypt-calls-nov16)). *Three mediators are now live simultaneously — Qatar, Pakistan, Oman — and corridor safety is implementation detail you only work when sequencing is close.* Crude is paying for it: −3.55% overnight, −16% in a month ([CNBC/CCTV, Nov 17](https://www.cnbc.com/2026/11/17/cctv-script-171126.html)). Confidence medium (inference labelled). A named venue and date, or a US text, settles it.
 
-**Q9 · Diplomacy — the dispute has narrowed from substance to sequencing, stated by a principal on the record.**
-Deputy FM Gharibabadi says the US response "was not workable because it **deferred some of the required steps**," and that mediation by Qatar and Pakistan has cut the implementation timetable **from seven days to two**, after which Hormuz reopens; he restates the demand set unchanged ([Hürriyet Daily News, Nov 16](https://www.hurriyetdailynews.com/iran-warns-it-will-not-wait-for-another-us-attack-229437)). Ghalibaf, who holds the negotiating file, says a deal remains possible on the seven conditions but "we will not remain in a state of neither war nor peace." *Read: this is the first Iranian statement that concedes a US counter-offer exists with substantive content — Kalin's Nov 9 "who moves first" framing is now confirmed by Tehran itself, not by a mediator.* Confidence medium; the Rezaei "complete lies" posture is now formally undercut by his own ministry. A dated US text or a named venue settles it.
+**Q3 · Capital flows — the war now has a dated financial deadline, and it is roughly 30 days out.**
+US Treasury says Iranian crude loadings have stopped since **Aug 25**; floating stocks outside the blockade zone went **88.8m bbl in mid-July to zero by mid-October**, with ~43m stranded inside; output is below **2.0 mb/d against 3.59 mb/d in February (−44%)**. Because Chinese buyers settle one to two months in arrears, Kpler expects the associated revenue to dry up **around mid-December** — and Tehran is drafting the 1406 budget on an explicit zero-oil-revenue premise. Oil is ~30% of the budget directly and 50–60% of regime revenue including indirect ([Energy News Beat citing Oilprice, Nov 14](https://energynewsbeat.co/crude-oil/can-iran-survive-much-longer-without-oil-revenue)). Against that, the street is calm: rial **2,679,000**, now **1.1% firmer than Thursday's 2,709,000 war low** over two sessions; Tether +0.6%, a fifth consecutive sub-1% print; Emami **2,514M**, a third consecutive fall (tgju). *Agent inference (medium-high): the absent household bid for metal is consistent with a cash crunch sitting at the treasury rather than in the household — transmission comes through salaries and subsidised import FX in the Dec–Mar window, not through today's rate.* Confidence medium-high.
 
-**Q3 · Capital flows — the rial's war low was a spike, and the gold trade has reversed hard.**
-Rial **2,689,000**, 0.7% firmer than Thursday's 2,709,000 high; Tether **+0.6%** over cash — fourth consecutive print below the +1% trigger (1.4 → 0.2 → 0.8 → 0.6). Emami **2,522M**, down 16M from Nov 13's 2,538M; arzbin puts the coin at 251,000,000 toman on Nov 15 after a **>3% Tehran gold slump on Nov 14** ([arzbin, Nov 15](https://www.arzbin.com/blog/arzbin-comparisonpost-2026-11-15-evening); [arzbin, Nov 14](https://www.arzbin.com/blog/arzbin-hourly-2026-11-14-22h)). Against this, Bessent forecasts the rial losing **25% March-to-March** ([Iran International, Nov 15](https://www.iranintl.com/en/202611151817)) — a US-official claim; the open market has moved ~2% in a fortnight. *Households are still net sellers of metal; the two-week flight trigger has now failed outright.* Confidence medium-high.
+**Q1 · Gulf flows — Fujairah's 40 calls are a saturated port, and the land bridge behind it is now measurable.**
+AD Ports and Gulftainer are moving **~3,500 TEU/day** from Fujairah, Khor Fakkan and Dibba to inland distribution, **+30% within Q3 alone**; DP World has shifted **more than 1m TEU** from the east coast to Jebel Ali since the war began; ships now wait **~9 days for a berth off Fujairah plus 15 days to clear the dockside**, against 3 days at Duqm ([Maritime Executive, Nov 15](https://maritime-executive.com/article/arabian-sea-ports-are-booming-as-the-conflict-drags-on)). Agent arithmetic: 1m TEU over the war's ~260 days is ~3,850/day, so current throughput is running near the war average while still growing 30% a quarter — the binding constraint is quay length, not demand, and the bypass now costs ~24 days port-to-inland. This corroborates the Nov 13 aggregation read from a source entirely independent of AIS, on a day PortWatch's endpoints failed. Confidence high. Watch for Duqm and Salalah waits converging on Fujairah's.
 
-**Not moved today:** Q1 Gulf flows (11-13) · Q2 inside Iran (11-15) · Q4 view from space (10-17) · Q6 Israel (11-13) · Q7 Red Sea (11-13) · Q8 Mecca Pact (11-14).
+**Not moved today:** Q2 inside Iran (11-15) · Q4 view from space (10-17) · Q5 US posture (11-16) · Q6 Israel (11-13) · Q7 Red Sea (11-13) · Q8 Mecca Pact (11-14).
 
 **Headlines the wires already have:**
-- Araghchi tells ECO neighbours not to let their territory, airspace or facilities be used against Iran ([Shafaq, Nov 16](https://shafaq.com/en/World/Araghchi-urges-neighbors-not-to-host-attacks-on-Iran))
-- Saudi-backed Southern forces withdraw from Dhubab and the Bab el-Mandeb approaches ([House of Saud, Nov 15](https://houseofsaud.com/southern-forces-withdraw-dhubab-nov15))
-- France attributes supermarket-refrigeration cyberattacks to an Iranian military unit ([JPost, Nov 16](https://www.jpost.com/middle-east/iran-news/article-915033))
-- Gofman briefs the security cabinet after meeting Ratcliffe and Witkoff ([Anadolu, Nov 15](https://www.aa.com.tr/en/middle-east/mossad-chief-returns-to-israel-after-us-talks-on-iran-set-to-brief-netanyahu-report/4125988))
+- Bahrain thwarts a drone attack; IRGC says it struck a US radar at Isa air base ([Al Jazeera, Nov 17](https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar))
+- Rubio condemns the strikes in a call with Bahrain's FM; Manama demands a halt at the UN ([Iran International, Nov 17](https://www.iranintl.com/en/202611173870))
+- USNI confirms Theodore Roosevelt chopped into 5th Fleet, expected to relieve George Washington ([USNI News, Nov 16](https://news.usni.org/2026/11/16/uss-theodore-roosevelt-now-in-the-middle-east-lincolns-last-escorts-finally-home))
+- Aramco restores full November term allocations to European refiners via Yanbu and SUMED ([House of Saud, Nov 16](https://houseofsaud.com/aramco-november-europe-crude-allocations))
 
-**Corrections:** Nov 9 and Nov 15 described the operative deck count as two and the three-carrier package as "in question as a simultaneous presence." Three CSGs are now in the AOR simultaneously; the relief framing was wrong.
+**Market and flow readings (2026-11-17):**
+- Brent **$91.8, −0.7%** intraday; WTI **$85.2** ([HDFC Sky, Nov 17](https://hdfcsky.com/news/brent-crude-oil-price-today-november-17-2026-brent-falls-0-7percent-to-91-8-wti-slips-to-85-2-as-surplus-looms)); the overnight settle was −3.55% Brent / −3.58% WTI, cumulative one-month declines near 16% (CNBC/CCTV, Nov 17). *First sustained break of the $92.76–$98.32 band that held four sessions.*
+- Tehran metals: 18k gram **246.5M IRR**, confirming the Nov 16 arz360 print of 24.49m toman/gram ([arz360, Nov 16](https://www.arz360.com/en-us/news/2026-11-16/gold-and-coin-prices-fall-on-monday-5e7a0eec)).
+- PortWatch chokepoint and port endpoints returned an authentication error this run; the flow read rests on the Nov 8 window carried from yesterday plus today's Fujairah congestion data above.
+- Connectivity and air: Iran reachable /24s **11,579** against a prior-six-day mean of 11,527 — no shutdown signature; ADS-B over Iran 75 aircraft vs 76 a week ago (IODA; OpenSky). *Nothing in the domestic infrastructure data suggests pre-strike posture on either side.*
 
-**Market and flow readings (2026-11-16):**
-- Brent **$95.30, −0.6%** intraday; WTI $88.34 — a fourth session inside $92.76–$98.32 ([Business Recorder via Investify, Nov 16](https://www.investify.pk/news/100000161667/rupee-records-gain-against-us-dollar)). *Three carriers arrived and crude fell: the market is pricing the Qatari sequencing story, not the hulls.*
-- DXY **103.44**, strongest since April 2025 (same source) — EM import-cost pressure compounding even as crude eases.
-- Hormuz window advanced to Nov 8: 3.9 transits/day, 1.0 tankers, 3k DWT. Daily detail shows **zero tanker transits on Nov 4** and never more than 2 — the AIS-visible tanker layer is now one hull a day (PortWatch).
-- **Port endpoint returned.** Fujairah **40 tanker calls on 997 kt** in the week to Nov 6 — unchanged call count, above the ~30 breakpoint; the Q1 STS-aggregation read survives its test (PortWatch).
-- **Iran's port split inverts fully:** Caspian 40 calls vs Gulf 19, against Caspian 23 / Gulf 42 in 2025 — Caspian +74% y/y while Gulf calls fell 55%. Nowshahr 13 calls vs 4; Anzali 12 vs 8. *That is the Iron Gate target set appearing in the data before the task force can touch it* (PortWatch, agent arithmetic).
-- Bandar Khomeini: **0 calls, 0 kt imports**, against 5 calls / 232 kt the prior week and 565 kt in 2025 — Iran's main bulk-import port registered nothing (PortWatch).
+**Scenario update:** S1 2% / S2 35% / S3 46% / S4 11% / S5 6% — S2 +2 and S3 −2: a third mediator working corridor mechanics, a crude market down 16% in a month, and a datable Iranian revenue floor in mid-December all push toward settlement-on-terms rather than resumption.
 
-**Scenario update:** S1 2% / S2 33% / S3 48% / S4 11% / S5 6% — S2 +1 on Tehran publicly narrowing the dispute to sequencing; S3 −1, the third deck being offset by a negotiation its own principals now describe in operational terms.
-
-**Standing sections updated today:** [US Military Posture & Munitions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#us-military-posture--munitions) — three carriers confirmed in theatre, the Nov 9 relief read corrected, and the Bahrain series' second host-state confirmation.
+**Standing sections updated today:** [US Military Posture & Munitions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md#us-military-posture--munitions) — the Bahrain series extends to a third event against a new installation, the GCC's own launch and shipping-disruption denominators enter the record, and USNI qualifies the three-deck package as a relief in progress.
 
 ---
 
 ## Model cross-check
 
-- **Yesterday's watch items, resolved.** (1) The Israeli cabinet met and **published nothing**; the only output is that Gofman briefed it and then Netanyahu privately, with Yedioth saying the cabinet *could* consider authorising action (Anadolu Nov 15). Not a decision. (2) The Bahrain series produced its third event — Bahrain's defence force intercepted drones Friday **and** Sunday ([CNN, Nov 15](https://www.cnn.com/2026/11/15/middleeast/iran-bahrain-attacks-trump-intl)) — and **Manama has still conceded no damage**; the Nov 15 inference that this is the trigger half-fired stands. (3) PortWatch's port endpoint returned and Fujairah held at 40 calls: the Q1 read is re-verified, not merely carried.
-- **The "2,500 missiles" figure, partially resolved.** The Express Tribune's Nov 15 standfirst attributes "up to 2,500 missiles" to **US intelligence**, not Israeli ([Express Tribune, Nov 15](https://tribune.com.pk/story/2640416/bahrain-issues-first-threat-alerts-since-september-as-iran-says-it-attacked-us-base)), which weakens my Nov 15 inference that it was an Israeli cabinet-morning advocacy input. It does not reconcile the arithmetic against 1,700 + 50/month. Working baseline stays ~1,700; the inference is downgraded from medium to low confidence.
-- **Attributed, not adopted.** Bessent's 25% rial forecast and "fastest collapse in history" are a US Treasury characterisation. The Repubblica force-posture piece (Nov 14) claiming a C-17 at Diego Garcia and 250+ fighter-bombers within a week is a single Italian carrier behind a paywall, AI-translated — logged, not used. The Al Jazeera opinion piece on Russian Kosmos-2600 satellites is an op-ed by a named researcher describing his own project; not evidence.
-- **One number I cannot reconcile.** CENTCOM's own update puts ~4,000 escorted transits and 1.7bn barrels since the summer ([Israel National News, Nov 11](https://www.israelnationalnews.com/news/436040)) against PortWatch's 1.0 AIS-visible tanker a day. The gap is the dark/escorted layer quantified on Nov 15 at 86–92%; I still have no vessel-level series to prove it rather than infer it.
-- **Watch for contradiction next run:** whether *George Washington* is reported departing (which would retire the three-deck read within days); whether any US text of the counter-offer surfaces to test Gharibabadi's "deferred steps"; and whether Iran's Caspian port calls hold above 35 a week now that Iron Gate has a named mandate against exactly that route.
+- **Yesterday's watch items.** (1) *George Washington* has **not** been reported departing; USNI states TR is "expected to relieve" GW with no date, and Maritime Executive notes "no word yet" of withdrawal (both Nov 16). The three-deck fact stands; the *additive* framing is now time-limited and should be re-tested weekly. (2) No US text of the counter-offer surfaced; Gharibabadi's "deferred steps" remains Iranian-sourced only. (3) Caspian call counts could not be tested — PortWatch failed.
+- **One number logged and not reconciled.** Gulf states told the Security Council on Nov 13 that Iran has launched **more than 7,000 missiles and drones** at their territories since February, and that ~1,600 vessels have been disrupted in Hormuz with **23,000+ seafarers stranded** (Iran International, Nov 17). Agent arithmetic: 7,000 over ~260 days is ~27/day, an order of magnitude above JINSA's 613 since Jul 7 (~5.1/day). The two series are almost certainly counting different populations and periods. Attributed as a GCC claim; not adopted, and not used to revise the launch-tempo series.
+- **A target-set detail worth more than the headline.** The Nov 13 and Nov 15 IRGC claims named al-Riffa helicopter base; today's names **Isa air base**. Same cadence (every two days), different installation — consistent with a campaign iterating across Bahraini sites rather than re-attacking a single failed target. Inference, low-to-medium confidence.
+- **Not adopted.** The Economist's 2027 outlook (Nov 17) is a forecast piece, not evidence. The Polymarket rial distribution and the straits.live monitor are derivative aggregations of sources already in this file. Zamin.uz's "1 USD = 1.4m rials" (Nov 10) is irreconcilable with the tgju open-market series at 2.68m and is dropped as unreliable.
+- **Watch for contradiction next run:** whether Oman produces a second, dated readout or whether the Muscat meeting was a single courtesy call; whether Brent holds below $92 once the carrier headline clears; and whether any Iranian official disputes the Treasury "no loadings since Aug 25" claim, which currently has no Iranian counter-figure against it.
 
 ---
 
@@ -61,26 +57,35 @@ Rial **2,689,000**, 0.7% firmer than Thursday's 2,709,000 high; Tether **+0.6%**
 _Gemini cross-check unavailable this run (401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=AQ.Ab8RN6KdSCgiNh7b3yz971lUzav4bY9gZdbaoWkP98OmUONUFw)._
 
 ### DeepSeek-V3
-1. **Hormuz Traffic Interpretation**: Claude interprets the 3.9 transits/day (PortWatch) as showing "zero tanker transits on Nov 4" and "one hull a day" AIS-visible. However, the data shows 1.0 tankers/day *on average* (with daily fluctuations: 0t on 11-04, 2t on 11-03). The "one hull a day" framing understates volatility and overlooks the 3k DWT/day baseline, which implies sporadic larger shipments.  
+Key differences in my reading:
 
-2. **Caspian Port Activity**: While Claude notes the Caspian-Gulf inversion (40 vs. 19 calls), they omit that **Bandar Khomeini** recorded **0 calls/0 kt imports** (vs. 565 kt in 2025), a sharper drop than implied by the regional shift alone. This suggests embargo enforcement is biting harder than the aggregate implies.  
+1. **Oman mediation significance**: While Claude notes the Muscat talks as a potential sequencing signal, I'd assign lower confidence to this being a breakthrough. The lack of US participation or response suggests these may be exploratory talks rather than substantive negotiations (House of Saud, Nov 16). The 16% crude drop better reflects global surplus concerns (CNBC) than diplomatic progress.
 
-3. **Bahrain Damage Assessment**: Claude dismisses Bahraini damage claims due to lack of host-state confirmation (CNN). But the **Riffa air base strike** (Diplomacy & Law, Nov 15) cites IRGC claims of hitting a US radar—CENTCOM’s denial only addresses drones, not infrastructure. Contradiction unresolved.  
+2. **Iranian financial timeline**: The mid-December revenue cliff (Energy News Beat) seems overstated given:
+   - Stable rial/Tether spreads (tgju)
+   - No thermal anomalies at critical industrial sites (FIRMS not collected but absence notable)
+   - Oman's willingness to discuss corridors suggests Tehran retains some leverage
 
-4. **US Carrier Deployment**: Claude raises strike probability to 25% citing 3 CSGs, but the **market reaction** (Brent -0.6%) contradicts escalation fears. The diplomatic narrowing (Gharibabadi’s "deferred steps") likely outweighs hardware posturing.  
+3. **Fujairah congestion**: The 24-day land bridge delay (Maritime Executive) contradicts the "recovery" narrative in oil prices. This deserves more emphasis as a structural bottleneck that won't resolve even if Hormuz reopens.
 
-*Agreement*:  
-- Caspian route as Iron Gate’s target (PortWatch).  
-- Sequencing over substance in diplomacy (Hürriyet).  
-- Household gold sell-off trend (arzbin, tgju).  
+4. **Missing military context**: The USS Theodore Roosevelt's arrival coincides with:
+   - Houthi control of Bab el-Mandeb (House of Saud, Nov 17)
+   - IRGC drone attacks continuing unabated
+   Making the carrier deployment more escalatory than Claude's "relief" framing suggests.
 
-*Unresolved*: Why no thermal anomaly at Assaluyeh (NASA FIRMS missing) despite IRGC claims of SPD-XIVD gas platform damage (David Hookstead, Nov 11)?
+I'd adjust scenario probabilities to S2 30% (-5), S3 50% (+4) given these military/diplomatic tensions.
 
 ### Qwen
-I disagree with Claude’s upward revision of S2 (major strike within 14 days) to 25%. The data does not support it. The arrival of the *Theodore Roosevelt* CSG and 10k troops is additive but not indicative of imminent strike capacity — CENTCOM’s own reports emphasize blockade enforcement, not strike prep. The three-carrier presence is a show of force, not a strike package: no evidence of F-35s, B-2s, or cruise missile platforms repositioning. Meanwhile, Iran’s own deputy FM Gharibabadi explicitly frames the US counter-offer as merely deferring steps — not rejecting them — and mediation has shortened implementation from 7 to 2 days. This narrowing implies de-escalation momentum, not escalation. The market’s crude price drop ($95.30) on carrier arrival further contradicts strike pricing. S2 should remain at 20%. The data supports S3 (prolonged stalemate) at 50%, not 48%.
+I disagree with Claude’s S3 probability (46%) — I’d set it at 35%, and S2 at 40%. The data supports *escalatory signaling* (Bahrain target shifts, IRGC threats to Europe, 3 carriers) more than imminent settlement. Oman’s Muscat meeting is procedural — no text, no date, no U.S. involvement — and crude’s drop reflects global surplus, not confidence in Hormuz reopening. Iran’s revenue cliff (mid-Dec) is real, but Tehran’s posture remains defiant: Rezaei demands U.S. “surrender,” and Khamenei’s successor has not blinked. The 7,000+ missile/drone count from GCC states, while unverified, aligns with sustained pressure — not de-escalation. S3 assumes diplomatic momentum; the signals show Iran is leveraging economic pain to extract concessions, not concede. The carrier relief is a force multiplier, not a de-escalation signal.
 
 ### Llama 3.3
-_Cross-check via meta-llama/llama-3.3-70b-instruct unavailable this run (400 Client Error: Bad Request for url: https://openrouter.ai/api/v1/chat/completions)._
+I largely agree with Claude's briefing, but I have a few differences:
+* I think the probability of a settlement on terms is higher than 46% given the presence of three mediators and the progress in corridor mechanics discussions.
+* I disagree with the characterization of the Iranian commanders' threats as "cautious openness to nuclear talks" - I think they are more likely a negotiating tactic to pressure the US.
+* I believe the crude market decline is more driven by the perceived progress in the conflict resolution than the actual supply and demand dynamics.
+* I think the US military posture and munitions are more geared towards a potential conflict escalation rather than a relief in progress.
+
+Overall, while I agree with the general direction of the briefing, I have some reservations about the specific probabilities and interpretations assigned to certain events.
 
 
 *[Open questions](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-questions.md) · [Standing sections](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-standing.md) · [Full reference](https://github.com/blue-sky-flyer/jubilant-octo-potato/blob/main/iran-war-reference.md)*
